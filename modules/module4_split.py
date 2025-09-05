@@ -39,7 +39,8 @@ def split_channels():
     # 读取频道字典
     channel_dict = {}
     # --- 假设 othernames.txt 在 config 目录下 ---
-    othernames_path = 'config/othernames.txt' 
+    # othernames_path = 'config/othernames.txt' 
+    othernames_path = os.path.join("config", "othernames.txt")
     if os.path.exists(othernames_path):
         with open(othernames_path, 'r', encoding='utf-8') as f:
             for line in f:
@@ -60,7 +61,8 @@ def split_channels():
         return # 如果文件不存在，直接返回
 
     # 检查 allsource.txt 是否存在
-    allsource_path = 'output/allsourcecleaned.txt'
+    #allsource_path = 'output/allsourcecleaned.txt'
+    allsource_path = os.path.join("output", "allsourcecleaned.txt")
     if not os.path.exists(allsource_path):
         print(f"警告: 文件 {allsource_path} 未找到。无法进行频道拆分。")
         return
@@ -76,8 +78,8 @@ def split_channels():
         return
 
     # 创建输出目录
-    os.makedirs('output/channels', exist_ok=True)
-
+    #os.makedirs('output/channels', exist_ok=True)
+    os.makedirs(os.path.join("output", "channels"), exist_ok=True)
     # --- 核心修改部分：使用 .loc 避免 SettingWithCopyWarning ---
     # 创建一个空的列表来存储所有需要保存的子 DataFrame
     results_to_save = []
@@ -105,7 +107,8 @@ def split_channels():
 
     # 循环结束后，统一保存所有结果
     for channel, sub_df_to_save in results_to_save:
-        output_file_path = f'output/channels/{channel}.txt'
+        #output_file_path = f'output/channels/{channel}.txt'
+        output_file_path = os.path.join("output", f"channels\\{channel}")
         try:
             # 保存到文件，不包含索引和列头
             sub_df_to_save.drop(columns=['extra'], inplace=True)  # 如果不需要 extra 列，可以删除
@@ -118,4 +121,5 @@ def split_channels():
     print("频道拆分完成。")
 
 if __name__ == '__main__':
+
     split_channels()
