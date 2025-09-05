@@ -108,7 +108,7 @@ def split_channels():
     # 循环结束后，统一保存所有结果
     for channel, sub_df_to_save in results_to_save:
         #output_file_path = f'output/channels/{channel}.txt'
-        output_file_path = os.path.join("output", f"channels\\{channel}")
+        output_file_path = os.path.join(os.path.join("output","channels"), f"{channel}.txt")
         try:
             # 保存到文件，不包含索引和列头
             sub_df_to_save.drop(columns=['extra'], inplace=True)  # 如果不需要 extra 列，可以删除
@@ -123,3 +123,4 @@ def split_channels():
 if __name__ == '__main__':
 
     split_channels()
+
