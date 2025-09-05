@@ -5,6 +5,10 @@ import requests
 import os
 from urllib.parse import urlparse
 
+# --- 配置日志 ---
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+
 def read_sources(file_path):
     data = []
     if not os.path.exists(file_path):
@@ -26,6 +30,7 @@ def read_sources(file_path):
 def read_subscribe_sources(subscribe_path):
     data = []
     with open(subscribe_path, 'r', encoding='utf-8') as f:
+        
         for line in f:
             line = line.strip()
             if not line or line.startswith('#'):
@@ -69,7 +74,8 @@ def read_subscribe_sources(subscribe_path):
                                     url, extra = url.split('$', 1)
                                 data.append([name.strip(), url.strip(), extra.strip()])
             except Exception as e:
-                print(f"订阅源读取失败: {line} - {e}")
+                logger.error(f"订阅源读取失败: {line} - {e}")
+        logger.info(f"len(f)个订阅源已处理完毕")
     return data
 
 def deduplicate(data):
@@ -81,6 +87,7 @@ def save_df(df, path):
     df.to_csv(path, index=False, header=False, encoding='utf-8')
 
 def combine_sources():
+    logger.info("开始执行模块2：读取订阅源")
     # 读取本地源
     #result_data = read_sources(r'.\config\user_result.txt')
     result_data = read_sources(os.path.join("config", "user_result.txt"))
@@ -107,6 +114,8 @@ def combine_sources():
     all_df.drop(columns=['extra'], inplace=True)
     #save_df(all_df, r'.\output\allsource.txt')
     save_df(all_df, os.path.join("output", "allsource.txt"))
+    logger.info("模块2执行完毕")
 if __name__ == '__main__':
 
     combine_sources()
+
