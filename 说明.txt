@@ -1,0 +1,16 @@
+config\blacklist.txt  黑名单，清理output\allsource使用，有#注释功能
+config\whitelist.txt  白名单，摘取output\channels使用，有#注释功能
+config\channels.txt  频道清单，搜源和拆源用，有#注释功能
+config\localsource.txt 本地源清单，有#注释功能
+config\othernames.txt 频道别名列表, 格式[channel]:xxx,xxx;有#注释功能
+config\subscribe.txt 订阅源列表，有#注释功能
+---
+output\allsource.txt 整理全源列表，allsourcecleaned.txt为根据黑名单处理列表
+output\ownsource.txt 抓取源列表
+output\netsource.txt 订阅源集合列表
+output\channels\xxx.tvt 根据频道清单清理列表
+---
+modules\modules1   抓源
+modules\modules2   合成源
+modules\modules3  清理源
+modules\modules4  拆分源
