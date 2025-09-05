@@ -579,7 +579,7 @@ def deduplicate_and_save(results, output_file):
         logger.error(f"写入文件 {output_file} 时出错: {e}")
 
 
-def main(input_file, output_file):
+def main(input_file, output_file, exflag=False):
     """主函数"""
     all_results = []
     
@@ -611,13 +611,14 @@ def main(input_file, output_file):
         
         # --- 处理每个搜索词 (iptv-search.com) ---
         # 注意：此网站可能需要翻墙或不稳定，可根据需要启用/禁用
-        for i, term in enumerate(search_terms, 1):
-            logger.info(f"\n[Playwright] 处理第 {i}/{len(search_terms)} 个: {term}")
-            results2 = get_decrypted_links(term)
-            if  len(results2) > 0:
-                all_results.extend(results2[0])
-            if i < len(search_terms):
-                time.sleep(2) # Playwright 请求间隔可稍长
+        if exflag:
+            for i, term in enumerate(search_terms, 1):
+                logger.info(f"\n[Playwright] 处理第 {i}/{len(search_terms)} 个: {term}")
+                results2 = get_decrypted_links(term)
+                if  len(results2) > 0:
+                    all_results.extend(results2[0])
+                if i < len(search_terms):
+                    time.sleep(2) # Playwright 请求间隔可稍长
 
         # 去重并保存结果
         deduplicate_and_save(all_results, output_file)
@@ -637,3 +638,4 @@ if __name__ == "__main__":
     input_file = os.path.join("config", "channels.txt")
     output_file = os.path.join("output", "ownsource.txt")
     main(input_file, output_file)
+
