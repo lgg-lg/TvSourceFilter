@@ -82,15 +82,21 @@ def save_df(df, path):
 
 def combine_sources():
     # 读取本地源
-    result_data = read_sources(r'.\config\user_result.txt')
-    local_data = read_sources(r'.\config\localsource.txt')
-    own_data = read_sources(r'.\output\ownsource.txt')
-
+    #result_data = read_sources(r'.\config\user_result.txt')
+    result_data = read_sources(os.path.join("config", "user_result.txt"))
+    #local_data = read_sources(r'.\config\localsource.txt')
+    local_data = read_sources(os.path.join("config", "localsource.txt"))
+    #own_data = read_sources(r'.\output\ownsource.txt')
+    own_data = read_sources(os.path.join("output", "ownsource.txt"))
+    
     # 读取在线源
-    net_data = read_subscribe_sources(r'.\config\subscribe.txt')
+    #net_data = read_subscribe_sources(r'.\config\subscribe.txt')
+    net_data = read_subscribe_sources(os.path.join("config", "subscribe.txt"))
     net_df = deduplicate(net_data)
-    save_df(net_df, r'.\output\netsource.txt')
+    #save_df(net_df, r'.\output\netsource.txt')
+    save_df(net_df, os.path.join("output", "netsource.txt"))
 
+    
     # 合并所有源
     all_data = result_data + local_data + own_data + net_data
     all_df = deduplicate(all_data)
@@ -99,7 +105,8 @@ def combine_sources():
     # axis=1
     # )
     all_df.drop(columns=['extra'], inplace=True)
-    save_df(all_df, r'.\output\allsource.txt')
-
+    #save_df(all_df, r'.\output\allsource.txt')
+    save_df(all_df, os.path.join("output", "allsource.txt"))
 if __name__ == '__main__':
+
     combine_sources()
