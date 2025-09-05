@@ -88,7 +88,7 @@ def load_channels_list(channels_path):
             for line in f:
                 line = line.strip()
                 # 跳过空行和注释行
-                if line and not line.startswith('#'):
+                if line and ((not line.startswith('#')) or (',#genre#' in line)) :
                     channels.append(line)
         logger.info(f"已从 {channels_path} 加载 {len(channels)} 个频道。")
     except Exception as e:
@@ -98,7 +98,8 @@ def load_channels_list(channels_path):
 def main():
     """模块5的入口函数"""
     whitelist_file = os.path.join("config", "whitelist.txt")
-    channels_list_file = os.path.join("config", "channels.txt")
+    #channels_list_file = os.path.join("config", "channels.txt")
+    channels_list_file = os.path.join("config", "user_demo.txt")
     channels_output_dir = os.path.join("output", "channels")
 
     logger.info("开始执行模块5：优选频道信号源")
@@ -122,4 +123,5 @@ def main():
 
 # 如果直接运行此脚本，则执行 main 函数
 if __name__ == "__main__":
+
     main()
