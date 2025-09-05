@@ -397,10 +397,10 @@
 广西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226130/index.m3u8
 广西卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=3
 广西卫视,http://api.kkitv.itv888.cn:8080/hls/yvz4ndj9dqb/index.m3u8
+广西卫视,http://182.138.228.78:4022/udp/239.93.1.203:5140
 广西卫视,http://39.134.136.198:6410/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive
 广西卫视,http://115.58.122.81:8852/live1420.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 广西卫视,http://39.134.136.198:6410/000000001000/5000000011000031118/index.m3u8?channel-id=bestzb
-广西卫视,http://106.42.108.170:2001/rtp/239.16.20.84:10840
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
 广西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gxws
 广西卫视,https://mursor.ottiptv.cc/mcp/guangxi.m3u8
@@ -482,7 +482,6 @@
 广西卫视,http://live2.rxip.sc96655.com/live/gxws_4000.m3u8?E=&U=&A=&K=&P=&S=
 广西卫视,http://223.109.75.19:8000/973044/index.m3u8
 广西卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000034/index.m3u8
-广西卫视,http://112.123.243.37:50085/tsfile/live/0137_1.m3u8
 广西卫视,http://tpc.x3322.net:9901/tsfile/live/0119_1.m3u8
 广西卫视,http://153.0.171.163:9901/tsfile/live/0113_1.m3u8
 广西卫视,http://go.bkpcp.top/mg/gxws

@@ -422,8 +422,8 @@
 四川卫视,http://112.67.40.22:8686/rtp/239.253.64.36:5140
 四川卫视,http://api.kkitv.itv888.cn:8080/hls/p2npnppn96p/index.m3u8
 四川卫视,http://39.134.136.198:6410/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive
-四川卫视,http://115.58.122.81:8847/live1370.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 四川卫视,http://39.134.136.198:6410/000000001000/5000000004000006119/index.m3u8?channel-id=bestzb
+四川卫视,http://115.58.122.81:8847/live1370.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 四川卫视,http://60.174.40.117:85/tsfile/live/0123_1.m3u8?key=txiptv
 四川卫视,https://www.sctv.com/tv-web/js/tv/sctv/live.html?tag=1
 四川卫视,http://t.061899.xyz/tl/dq.php?id=scws
@@ -510,7 +510,6 @@
 四川卫视,http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 四川卫视,http://223.109.75.19:8000/940076/index.m3u8
 四川卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000025/index.m3u8
-四川卫视,http://112.123.243.37:50085/tsfile/live/0139_1.m3u8
 四川卫视,http://tpc.x3322.net:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://153.0.171.163:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://go.bkpcp.top/mg/scws

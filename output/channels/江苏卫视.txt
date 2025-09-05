@@ -511,12 +511,12 @@
 江苏卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000010000018509/index.m3u8?channel-id=bestzb&Contentid=5000000010000018509&livemode=1&stbId=3
 江苏卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000004684/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=3
 江苏卫视,http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
-江苏卫视,http://39.134.136.198:6410/000000001000/5000000010000018509/index.m3u8?channel-id=bestzb
+江苏卫视,http://39.134.136.198:6410/000000001000/4796340999304424198/index.m3u8?channel-id=ystenlive
+江苏卫视,http://39.134.136.198:6410/000000001000/5000000011000265009/index.m3u8?channel-id=bestzb
 江苏卫视,http://39.134.136.198:6410/000000001000/1000000001000004684/index.m3u8?channel-id=ystenlive
 江苏卫视,http://39.134.136.198:6410/000000001000/5000000004000019351/index.m3u8?channel-id=bestzb
-江苏卫视,http://39.134.136.198:6410/000000001000/5000000011000265009/index.m3u8?channel-id=bestzb
+江苏卫视,http://39.134.136.198:6410/000000001000/5000000010000018509/index.m3u8?channel-id=bestzb
 江苏卫视,http://39.134.136.198:6410/000000001000/1000000001000001828/index.m3u8?channel-id=ystenlive
-江苏卫视,http://39.134.136.198:6410/000000001000/4796340999304424198/index.m3u8?channel-id=ystenlive
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
 江苏卫视,http://dmggg.tyzb.fun:26355/migu/623899368.m3u8?migutoken=85c7d5288a93404f97362c95daf62a6f0e86cf5d6baf4852a2de501c860691391a86fd614c6f2257918cb57fc504b0fe2794ea3fef107e74ae484eb3b1be19a1c481b161df448185f85bd4983f
 江苏卫视,https://migu.188766.xyz/?migutoken=dce5a2d2796d0c2d738cb209a16167f9&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
@@ -524,7 +524,7 @@
 江苏卫视,https://live.jstv.com/?tag=江苏卫视
 江苏卫视,https://www.yangshipin.cn/tv/home?pid=600002521
 江苏卫视,http://t.061899.xyz/tl/dq.php?id=jsws
-江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1757067963&key=b380fadc3780230de46340cad1ba70a5
+江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1757076567&key=999665ca4a724b99cfeb1d70f5a56066
 江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=20250905090036d0f2da872b394f1582894279c7e1ce23&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20250905090036&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.89&SecurityKey=20250905090036&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=563c4758e7e0fd227a616441e14f9c1f&ddCalcu=f516vc3a9cbf4a4715e81e474e601f6da272&sv=10004&ct=android
 江苏卫视,https://mursor.ottiptv.cc/mcp/jiangsu.m3u8
 江苏卫视,https://migu.188766.xyz/?migutoken=2f99139f4e3614c0a5d546bfd8d4c43c&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
@@ -638,7 +638,6 @@
 江苏卫视,http://live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 江苏卫视,http://223.109.75.19:8000/207246/index.m3u8
 江苏卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000524/index.m3u8
-江苏卫视,http://112.123.243.37:50085/tsfile/live/0017_1.m3u8
 江苏卫视,http://www.hkyc.site:1991/udp/239.253.64.202:5140
 江苏卫视,http://tpc.x3322.net:9901/tsfile/live/0127_1.m3u8
 江苏卫视,http://go.bkpcp.top/mg/jsws

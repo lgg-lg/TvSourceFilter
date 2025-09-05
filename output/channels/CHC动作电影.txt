@@ -138,7 +138,7 @@ CHC动作电影,rtsp://115.153.254.81/PLTV/88888888/224/3221226992/86128817.smil
 CHC动作电影,rtsp://118.212.169.134/PLTV/88888888/224/3221227214/10000100000000060000000000680177_0.smil
 CHC动作电影,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://219.140.5.23:8888/rtp/239.69.1.242:11094
-CHC动作电影,http://183.190.71.25:4022/rtp/226.0.2.94:8012
+CHC动作电影,http://125.44.208.130:7000/rtp/225.1.4.208:1261
 CHC动作电影,http://eastscreen.tv/ooooo.php
 CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CHC动作电影,http://58.19.252.68:1111/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0

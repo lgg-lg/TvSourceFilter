@@ -253,9 +253,9 @@
 西藏卫视,http://221.219.183.89:4022/rtp/239.3.1.47:8164
 西藏卫视,http://60.169.119.164:8309/rtp/238.1.78.101:6680
 西藏卫视,http://api.kkitv.itv888.cn:8080/hls/j9loqozn2m/index.m3u8
-西藏卫视,http://115.58.122.81:8870/live1604.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-西藏卫视,http://183.190.71.25:4022/rtp/226.0.2.66:8440
 西藏卫视,http://39.134.136.198:6410/000000001000/6603041244077933770/index.m3u8?channel-id=ystenlive
+西藏卫视,http://115.58.122.81:8870/live1604.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+西藏卫视,http://110.191.253.155:8188/udp/239.93.1.213:5140
 西藏卫视,http://219.146.95.58:59902/tsfile/live/0111_1.m3u8
 西藏卫视,https://my5353.com/oabgW
 西藏卫视,http://113.26.202.52:1299/tsfile/live/0111_1.m3u8
@@ -265,7 +265,7 @@
 西藏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xzws
 西藏卫视,http://t.061899.xyz/tl/dq.php?id=xzws
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-西藏卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226012/1.m3u8
+西藏卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225767/1.m3u8
 西藏卫视,https://mursor.ottiptv.cc/mcp/xizang.m3u8
 西藏卫视,https://migu.188766.xyz/?migutoken=2785e4578a1991084e72f1662f45fff2&id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&pp=1
 西藏卫视,https://live.sxrtv.com/iptv/xzws.flv
@@ -319,14 +319,12 @@
 西藏卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2735&tk=a0c4f6cfaba3
 西藏卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6727&tk=e640d0a1bf70
 西藏卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1847&tk=2aca1ad9a849
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=972b4c75203653b23576570e9d6b08f0&time=68bab607
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=c6a4a6129a2d67833f41b042abba6e08&time=68badfa1
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws#http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,http://218.27.55.132:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8?E=&U=&A=&K=&P=&S=
 西藏卫视,http://223.109.75.19:8000/425518/index.m3u8
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=038372b096e4db63382473c50090209b&time=68ba0d47
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=4a2dbffb2c7caaf4981b8ac3891a63be&time=68b91e59
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=afa6fbb9cc7add965ab98221ae0d8596&time=681691e7
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=972b4c75203653b23576570e9d6b08f0&time=68bab607
 西藏卫视,http://tpc.x3322.net:9901/tsfile/live/0111_1.m3u8
 西藏卫视,http://tpc.x3322.net:9901/tsfile/live/1040_1.m3u8
 西藏卫视,http://dl.zhoujie218.top/migu/migu.php?id=xzws

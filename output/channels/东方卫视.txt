@@ -478,15 +478,14 @@
 东方卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000010000032246/index.m3u8?channel-id=bestzb&Contentid=5000000010000032246&livemode=1&stbId=3
 东方卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3
 东方卫视,http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8
-东方卫视,http://39.134.136.198:6410/000000001000/1000000001000030202/index.m3u8?channel-id=ystenlive
+东方卫视,http://39.134.136.198:6410/000000001000/5000000011000265007/index.m3u8?channel-id=bestzb
 东方卫视,http://39.134.136.198:6410/000000001000/6081477947334326291/index.m3u8?channel-id=ystenlive
 东方卫视,http://39.134.136.198:6410/000000001000/1000000005000265018/index.m3u8?channel-id=ystenlive
 东方卫视,http://115.58.122.81:8841/live1310.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 东方卫视,http://39.134.136.198:6410/000000001000/5000000010000032246/index.m3u8?channel-id=bestzb
 东方卫视,http://39.134.136.198:6410/000000001000/5000000004000014098/index.m3u8?channel-id=bestzb
 东方卫视,http://39.134.136.198:6410/000000001000/1000000001000005866/index.m3u8?channel-id=ystenlive
-东方卫视,http://39.134.136.198:6410/000000001000/5000000011000265007/index.m3u8?channel-id=bestzb
-东方卫视,http://116.16.170.32:4022/udp/239.77.1.218:5146
+东方卫视,http://39.134.136.198:6410/000000001000/1000000001000030202/index.m3u8?channel-id=ystenlive
 东方卫视,http://dmggg.tyzb.fun:26355/migu/651632648.m3u8?migutoken=8e88861cd5dc2121c53ef4ec4269633367e1d0bb38b29c00d65bfbc3eaa2c5ff4ebfbf75792dd01238389bae149ea41c5ddf5522e1a46bcd0b5f9005ad7742207d212664fd65c82456846426ed
 东方卫视,https://migu.188766.xyz/?migutoken=fbe012d26536e0d8ba0f6e3effdb0bc6&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&pp=1
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226050/index.m3u8
@@ -496,7 +495,7 @@
 东方卫视,https://www.yangshipin.cn/tv/home?pid=600002483
 东方卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfws
 东方卫视,http://t.061899.xyz/tl/dq.php?id=dfws
-东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1757067963&key=92ed9ac5ecf1dc67804fb8165bcbba43
+东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1757076567&key=b1434220d4869a3002367cf70f3c994c
 东方卫视,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/600/index.m3u8?msisdn=202509050900360f899588a8b64374a3c4793c2f15454e&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20250905090036&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.89&SecurityKey=20250905090036&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a99c573db77ed96c319caa013c00aaea&ddCalcu=aae9va9aacw05a07c33d1b07a7aecd99163c&sv=10004&ct=android
 东方卫视,https://mursor.ottiptv.cc/mcp/dongfang.m3u8
 东方卫视,https://migu.188766.xyz/?migutoken=570627aa6853194274f6fa175d0c1a37&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&pp=1

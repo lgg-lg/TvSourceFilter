@@ -447,11 +447,11 @@
 辽宁卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000004000011671/index.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
 辽宁卫视,http://124.112.84.95:4000/rtp/238.1.78.21:6096
 辽宁卫视,http://api.kkitv.itv888.cn:8080/hls/iibq0absdjr/index.m3u8
-辽宁卫视,http://115.58.122.81:8865/live1554.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-辽宁卫视,http://39.134.136.198:6410/000000001000/5000000004000011671/index.m3u8?channel-id=bestzb
-辽宁卫视,http://39.134.136.198:6410/000000001000/1000000005000265022/index.m3u8?channel-id=ystenlive
 辽宁卫视,http://39.134.136.198:6410/000000001000/1000000001000001945/index.m3u8?channel-id=ystenlive
 辽宁卫视,http://39.134.136.198:6410/000000001000/1000000002000024033/index.m3u8?channel-id=ystenlive
+辽宁卫视,http://39.134.136.198:6410/000000001000/5000000004000011671/index.m3u8?channel-id=bestzb
+辽宁卫视,http://39.134.136.198:6410/000000001000/1000000005000265022/index.m3u8?channel-id=ystenlive
+辽宁卫视,http://115.58.122.81:8865/live1554.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 辽宁卫视,http://58.19.252.68:1111/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=lnws
 辽宁卫视,https://mursor.ottiptv.cc/mcp/liaoning.m3u8
@@ -537,8 +537,6 @@
 辽宁卫视,http://223.109.75.19:8000/734558/index.m3u8
 辽宁卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000526/index.m3u8
 辽宁卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226689/1.m3u8
-辽宁卫视,http://112.123.243.37:50085/tsfile/live/0126_1.m3u8
-辽宁卫视,http://222.169.85.8:9901/tsfile/live/0121_1.m3u8
 辽宁卫视,http://www.hkyc.site:1991/udp/239.253.64.150:5140
 辽宁卫视,http://tpc.x3322.net:9901/tsfile/live/0121_1.m3u8
 辽宁卫视,http://153.0.171.163:9901/tsfile/live/0121_1.m3u8

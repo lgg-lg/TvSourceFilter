@@ -48,7 +48,7 @@
 上海新闻综合,https://migu.188766.xyz/?migutoken=ab52e6b62ed5785f357e5b5f07f64dda&id=xwzh&type=sz
 上海新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shxwzh
 上海新闻综合,http://t.061899.xyz/tl/dq.php?id=shxwzh
-上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1757067963&key=52a39b794359aad35c4c195ce7deb636
+上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1757076567&key=d7019f7ebb1a91a0e7e3d64ac0ac3c78
 上海新闻综合,http://[2409:8087:1e01:20::3]/000000001000/5000000011000031110/index.m3u8
 上海新闻综合,http://nctv.top/IDOEPpiryt/migu.php?id=shxw
 上海新闻综合,

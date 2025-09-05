@@ -85,9 +85,8 @@
 第一财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/index.m3u8
 第一财经,https://cdn3.163189.xyz/163189/dycj
 第一财经,http://39.134.136.198:6410/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb
-第一财经,http://115.207.173.120:8881/udp/233.50.200.125:5140
 第一财经,http://116.226.38.242:4022/udp/239.45.3.211:5140$上海电信组播
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1757067963&key=6a983100657ed2978b6a902edfab566d
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1757076567&key=433e5d99aceea4d8837219bbe8dbd2f4
 第一财经,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dycj
 第一财经,https://migu.188766.xyz/?migutoken=dd23cd76ab46fd8e8e5260036a2c7b1e&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&type=yy
 第一财经,https://mursor.ottiptv.cc/migu/608780988.m3u8?migutoken=c82d39f36b4ae947c2a3418e53c24870ed53dd464d1352c3c0edd7f0df3ca1b17dff6b4dde2b1729e565ca64de609f4a747000af05a8699ce41d23953dbb321e875259db4d0e51c596493617fd

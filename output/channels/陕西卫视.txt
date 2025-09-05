@@ -212,10 +212,10 @@
 陕西卫视,http://122.189.103.17:8888/udp/228.0.0.56:6108
 陕西卫视,http://api.kkitv.itv888.cn:8080/hls/hyy3w1xyoaw/index.m3u8
 陕西卫视,http://115.58.122.81:8856/live1461.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-陕西卫视,http://183.128.97.247:8000/udp/233.50.201.59:5140
-陕西卫视,http://39.134.136.198:6410/000000001000/5000000006000040017/index.m3u8?channel-id=bestzb
 陕西卫视,http://39.134.136.198:6410/000000001000/1000000002000007495/index.m3u8?channel-id=ystenlive
+陕西卫视,http://39.134.136.198:6410/000000001000/5000000006000040017/index.m3u8?channel-id=bestzb
 陕西卫视,http://123.52.16.128:85/tsfile/live/0136_1.m3u8?key=txiptv
+陕西卫视,http://110.191.253.155:8188/udp/239.93.1.205:5140
 陕西卫视,http://stream.snrtv.com/sxbc-star-tBRUZ8.m3u8
 陕西卫视,http://dmggg.tyzb.fun:26355/migu/738910838.m3u8?migutoken=0e2dfa2f9df352907ed97b8f7689b398455aa7e3d8e06bed1b81f137e3c8a169b4cbcdc80a0a2076f1345e11d441e9e2cab6603ccd1e045b7e882d56f44cfa03221dc79c19599b6e2296f62e0a
 陕西卫视,http://113.26.202.52:1299/tsfile/live/0136_1.m3u8

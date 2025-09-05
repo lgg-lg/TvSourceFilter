@@ -437,10 +437,9 @@
 黑龙江卫视,http://183.61.247.138/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061003.m3u8
 黑龙江卫视,http://115.58.122.81:8866/live1564.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 黑龙江卫视,http://39.134.136.198:6410/000000001000/5000000004000025203/index.m3u8?channel-id=bestzb
+黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive
 黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive
 黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000005000265029/index.m3u8?channel-id=ystenlive
-黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive
-黑龙江卫视,http://116.16.170.32:4022/udp/239.77.0.93:5146
 黑龙江卫视,http://221.2.148.205:8154/tsfile/live/0143_1.m3u8
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
 黑龙江卫视,https://www.hljtv.com/live/folder418/
