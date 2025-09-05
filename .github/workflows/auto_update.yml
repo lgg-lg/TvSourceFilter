@@ -2,6 +2,11 @@
 
 name: 自动更新信号源
 
+# --- 添加或修改 permissions 部分 ---
+permissions:
+  contents: write # 授予写入仓库内容的权限
+# --- 结束添加 ---
+
 on:
   schedule:
     - cron: '0 0 * * *'  # 北京时间 8:00（UTC 0）
@@ -13,17 +18,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 代码
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # 建议使用最新版 v4
+        # --- 可选：如果你需要特定的 fetch-depth ---
+        # with:
+        #   fetch-depth: 0 # 获取所有历史记录，如果需要的话
 
       - name: 设置 Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v4 # 建议使用最新版 v4
         with:
-          python-version: '3.10'
+          python-version: '3.10' # 或者你项目使用的其他版本
 
       - name: 安装依赖
         run: |
           pip install -r requirements.txt
-          playwright install chromium
+          # 确保 Playwright 的浏览器已安装
+          playwright install-deps # 安装系统依赖（如果需要）
+          playwright install chromium # 安装 Chromium 浏览器
 
       - name: 运行主程序
         run: python main.py
@@ -32,6 +42,14 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
-          git commit -m "✅ 自动更新信号源"
-          git push
+          
+          # 检查是否有文件被修改
+          git diff --quiet && git diff --staged --quiet || (
+            echo "检测到文件变更，准备提交..."
+            git add .
+            git commit -m "✅ 自动更新信号源"
+            git push
+            echo "✅ 变更已推送到仓库。"
+          ) || (
+            echo "ℹ️ 没有检测到文件变更，无需提交。"
+          )
