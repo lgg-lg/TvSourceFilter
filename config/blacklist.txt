@@ -1,4 +1,13 @@
 #清理allsource使用
+#失效
+106.53.99.30/tv/20250717.php
+#migu.188766.xyz/?
+3501776.xyz:35455/bptv
+#收费
+www.freetv.top/migu/608807420.m3u8
+free.cnlive.club/channel/47cdbb52
+113.101.119.50:808/hls
+113.101.119.50:8090/hls
 #特殊源
 tvbus://
 #电台台
@@ -174,4 +183,5 @@ us-xpc11.xpccdn.com
 #其他
 em.21dtv.com
 hitmusic.hu
+
 
