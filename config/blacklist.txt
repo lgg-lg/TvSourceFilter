@@ -1,4 +1,6 @@
 #清理allsource使用
+#特殊源
+tvbus://
 #电台台
 .audio
 /audio/
@@ -172,3 +174,4 @@ us-xpc11.xpccdn.com
 #其他
 em.21dtv.com
 hitmusic.hu
+
