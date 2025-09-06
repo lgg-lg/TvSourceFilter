@@ -1,4 +1,6 @@
 #清理allsource使用
+#影视仓无法使用
+#http://[2
 #失效
 106.53.99.30/tv/20250717.php
 #migu.188766.xyz/?
@@ -183,5 +185,6 @@ us-xpc11.xpccdn.com
 #其他
 em.21dtv.com
 hitmusic.hu
+
 
 
