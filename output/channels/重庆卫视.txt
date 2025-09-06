@@ -444,10 +444,11 @@
 重庆卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=3
 重庆卫视,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
 重庆卫视,http://api.kkitv.itv888.cn:8080/hls/ogh3s6tbw6/index.m3u8
+重庆卫视,http://171.213.153.185:10000/udp/239.93.0.233:5140
 重庆卫视,http://39.134.136.198:6410/000000001000/1000000001000001096/index.m3u8?channel-id=ystenlive
+重庆卫视,http://39.134.136.198:6410/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive
 重庆卫视,http://39.134.136.198:6410/000000001000/5000000004000025797/index.m3u8?channel-id=bestzb
 重庆卫视,http://115.58.122.81:8853/live1430.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-重庆卫视,http://39.134.136.198:6410/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive
 重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
 重庆卫视,http://113.26.202.52:1299/tsfile/live/0142_1.m3u8
 重庆卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cqws
@@ -534,8 +535,8 @@
 重庆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0714&tk=a0c4f6cfaba3
 重庆卫视,http://101.66.198.193:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://huijie5421.cn:8800/rtp/239.49.8.57:9830?
-重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509052013/app_2/_definst_/ls_2.stream/chunklist.m3u8
-重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8#http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
+重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509060705/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8#http://222.169.85.8:9901/tsfile/live/0142_1.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226409/index.m3u8
 重庆卫视,http://218.27.55.132:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://221.205.171.203:9003/hls/22/index.m3u8
 重庆卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236292/index.m3u8?IAS
@@ -543,7 +544,7 @@
 重庆卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236292/index.m3u8
 重庆卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232642/index.m3u8?fmt=ts2hls
 重庆卫视,http://live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
-重庆卫视,http://223.109.75.19:8000/645035/index.m3u8
+重庆卫视,http://[2409:8087:1a15:10d1::24]/wh7f454c46tw915785211_1637533785/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?icpid=88888888&RTS=1756444971&from=23&hms_devid=1244&online=1756444971&vqe=3
 重庆卫视,http://115.48.160.227:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://www.hkyc.site:1991/udp/239.253.64.55:5140
 重庆卫视,http://153.0.171.163:9901/tsfile/live/0142_1.m3u8
@@ -663,7 +664,6 @@
 重庆卫视,http://wuwenxidong.work:2333/udp/225.1.8.172:8162
 重庆卫视,http://wuwenxidong.work:2333/udp/225.1.8.148:8296
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-重庆卫视,http://1.195.131.39:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://8.138.7.223/tv/iptv3.php?id=cqws
 重庆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8?
 重庆卫视,http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8

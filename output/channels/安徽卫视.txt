@@ -467,15 +467,15 @@
 安徽卫视,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
 安徽卫视,http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
 安徽卫视,http://182.117.227.216:7000/rtp/225.1.4.20:1049
-安徽卫视,http://39.134.136.198:6410/000000001000/5000000004000023002/index.m3u8?channel-id=bestzb
+安徽卫视,http://171.213.153.185:10000/udp/239.93.1.166:5140
 安徽卫视,http://39.134.136.198:6410/000000001000/1000000001000030159/index.m3u8?channel-id=ystenlive
-安徽卫视,http://39.134.136.198:6410/000000001000/1000000005000265025/index.m3u8?channel-id=ystenlive
-安徽卫视,http://171.119.205.21:6000/rtp/226.0.2.145:9072
 安徽卫视,http://115.58.122.81:8845/live1350.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 安徽卫视,http://39.134.136.198:6410/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive
+安徽卫视,http://39.134.136.198:6410/000000001000/5000000004000023002/index.m3u8?channel-id=bestzb
+安徽卫视,http://39.134.136.198:6410/000000001000/1000000005000265025/index.m3u8?channel-id=ystenlive
 安徽卫视,http://111.227.196.164:9901/tsfile/live/0130_1.m3u8
 安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
-安徽卫视,https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1757076567&key=0c2e0ecde84aae35908c724a50510c00
+安徽卫视,https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1757114504&key=ac8092caf27400bf0c26cd81cc9bde91
 安徽卫视,https://mursor.ottiptv.cc/mcp/anhui.m3u8
 安徽卫视,http://3501776.xyz:35455/bptv/10000100000000050000000003873469.m3u8
 安徽卫视,http://36.105.100.208:35455/bptv/10000100000000050000000003873469.m3u8
@@ -551,7 +551,7 @@
 安徽卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1704&tk=f6cc1e0a0e1a
 安徽卫视,http://t8622699o8.vicp.fun:60024/itv/1000000001000030159.m3u8?cdn=ystenlive
 安徽卫视,http://huijie5421.cn:8800/rtp/239.49.8.80:8000?
-安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8#http://222.169.85.8:9901/tsfile/live/0130_1.m3u8
+安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8#http://222.169.85.8:9901/tsfile/live/0130_1.m3u8#http://111.227.196.164:9901/tsfile/live/0130_1.m3u8#http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 安徽卫视,http://218.27.55.132:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://221.205.171.203:9003/hls/21/index.m3u8
 安徽卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/index.m3u8?IAS
@@ -560,7 +560,7 @@
 安徽卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/index.m3u8
 安徽卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228332/index.m3u8?fmt=ts2hls
 安徽卫视,http://live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
-安徽卫视,http://223.109.75.19:8000/761325/index.m3u8
+安徽卫视,http://[2409:8087:1a15:10d1::39]/wh7f454c46tw1205344094_-90416250/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8?icpid=88888888&RTS=1756466735&from=23&hms_devid=1250&online=1756466735&vqe=3
 安徽卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000514/index.m3u8
 安徽卫视,http://www.hkyc.site:1991/udp/239.253.64.129:5140
 安徽卫视,http://tpc.x3322.net:9901/tsfile/live/0130_1.m3u8

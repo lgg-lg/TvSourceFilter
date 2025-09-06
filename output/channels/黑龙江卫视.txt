@@ -436,10 +436,10 @@
 黑龙江卫视,http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
 黑龙江卫视,http://183.61.247.138/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061003.m3u8
 黑龙江卫视,http://115.58.122.81:8866/live1564.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-黑龙江卫视,http://39.134.136.198:6410/000000001000/5000000004000025203/index.m3u8?channel-id=bestzb
-黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive
-黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive
 黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000005000265029/index.m3u8?channel-id=ystenlive
+黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive
+黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive
+黑龙江卫视,http://39.134.136.198:6410/000000001000/5000000004000025203/index.m3u8?channel-id=bestzb
 黑龙江卫视,http://221.2.148.205:8154/tsfile/live/0143_1.m3u8
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
 黑龙江卫视,https://www.hljtv.com/live/folder418/
@@ -521,7 +521,6 @@
 黑龙江卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6056&tk=e640d0a1bf70
 黑龙江卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5614&tk=e503191f8e20
 黑龙江卫视,http://huijie5421.cn:8800/rtp/239.49.8.14:9426?
-黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8#http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8
 黑龙江卫视,http://218.27.55.132:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://221.205.171.203:9003/hls/31/index.m3u8
 黑龙江卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236226/index.m3u8?IAS
@@ -530,7 +529,7 @@
 黑龙江卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236226/index.m3u8
 黑龙江卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228302/index.m3u8?fmt=ts2hls
 黑龙江卫视,http://live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
-黑龙江卫视,http://223.109.75.19:8000/159311/index.m3u8
+黑龙江卫视,http://[2409:8087:1a15:10d1::35]/wh7f454c46tw1338187426_-794019874/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8?icpid=88888888&RTS=1756466868&from=23&hms_devid=1241&online=1756466868&vqe=3
 黑龙江卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181356BESTVSMGSMG/index.m3u8
 黑龙江卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000521/index.m3u8
 黑龙江卫视,http://www.hkyc.site:1991/udp/239.253.64.205:5140

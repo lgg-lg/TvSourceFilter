@@ -337,7 +337,6 @@
 内蒙古卫视,http://60.223.224.176:8888/newlive/live/hls/45/live.m3u8?
 内蒙古卫视,http://218.27.55.132:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://live2.rxip.sc96655.com/live/nmgws_4000.m3u8?E=&U=&A=&K=&P=&S=
-内蒙古卫视,http://223.109.75.19:8000/498543/index.m3u8
 内蒙古卫视,https://hyf000.eu.org/80947108/NMGWS
 内蒙古卫视,http://tpc.x3322.net:9901/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://153.0.171.163:9901/tsfile/live/0109_1.m3u8
@@ -414,7 +413,6 @@
 内蒙古卫视,http://115.153.254.81/PLTV/88888888/224/3221225591/iptv7986.smil/index.m3u8?fmt=ts2hls$LR•IPV4『线路67』
 内蒙古卫视,http://iptv.huuc.edu.cn/hls/nmtv.m3u8
 内蒙古卫视,http://wuwenxidong.work:2333/udp/225.1.8.156:8176
-内蒙古卫视,http://1.195.131.39:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://8.138.7.223/tv/iptv3.php?id=nmws
 内蒙古卫视,http://39.134.67.108/PLTV/88888888/224/3221226017/1.m3u8
 内蒙古卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226389/index.m3u8?IASHttpSessionId=

@@ -506,15 +506,15 @@
 湖南卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/6954818217931477266/index.m3u8?channel-id=ystenlive&Contentid=6954818217931477266&livemode=1&stbId=3
 湖南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225726/index.m3u8
 湖南卫视,http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
-湖南卫视,http://39.134.136.198:6410/000000001000/1000000001000032695/index.m3u8?channel-id=ystenlive
 湖南卫视,http://115.58.122.81:8837/live1270.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-湖南卫视,http://39.134.136.198:6410/000000001000/1000000005000265024/index.m3u8?channel-id=ystenlive
 湖南卫视,http://39.134.136.198:6410/000000001000/5000000010000030452/index.m3u8?channel-id=bestzb
+湖南卫视,http://39.134.136.198:6410/000000001000/5000000004000006692/index.m3u8?channel-id=bestzb
 湖南卫视,http://39.134.136.198:6410/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive
+湖南卫视,http://39.134.136.198:6410/000000001000/1000000001000032695/index.m3u8?channel-id=ystenlive
 湖南卫视,http://39.134.136.198:6410/000000001000/6954818217931477266/index.m3u8?channel-id=ystenlive
 湖南卫视,http://39.134.136.198:6410/000000001000/5000000011000265010/index.m3u8?channel-id=bestzb
-湖南卫视,http://39.134.136.198:6410/000000001000/5000000004000006692/index.m3u8?channel-id=bestzb
-湖南卫视,http://116.138.242.58:9007/rtp/232.0.0.115:1234
+湖南卫视,http://171.213.222.121:8888/udp/239.93.1.46:5140
+湖南卫视,http://39.134.136.198:6410/000000001000/1000000005000265024/index.m3u8?channel-id=ystenlive
 湖南卫视,https://www.yangshipin.cn/tv/home?pid=600002475
 湖南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hunws
 湖南卫视,http://t.061899.xyz/tl/dq.php?id=hunws
@@ -606,7 +606,7 @@
 湖南卫视,rtsp://60.13.23.179/PLTV/88888910/224/3221225574/10000100000000060000000000107354_0.smil
 湖南卫视,rtsp://116.176.26.19/PLTV/88888910/224/3221225539/10000100000000060000000000107319_0.smil
 湖南卫视,http://huijie5421.cn:8800/rtp/239.49.8.12:9418?
-湖南卫视,http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/31/index.m3u8#http://222.169.85.8:9901/tsfile/live/0128_1.m3u8
+湖南卫视,http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/31/index.m3u8#http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,http://218.27.55.132:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://221.205.171.203:9003/hls/33/index.m3u8
 湖南卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236225/index.m3u8?IAS
@@ -617,8 +617,9 @@
 湖南卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235722/index.m3u8?fmt=ts2hls
 湖南卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235724/index.m3u8?fmt=ts2hls
 湖南卫视,http://live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
-湖南卫视,http://223.109.75.19:8000/153640/index.m3u8
+湖南卫视,http://[2409:8087:1a15:10d1::20]/wh7f454c46tw799704339_666965193/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8?icpid=88888888&RTS=1756466330&from=23&hms_devid=1247&online=1756466330&vqe=3
 湖南卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000523/index.m3u8
+湖南卫视,http://112.123.243.37:50085/tsfile/live/1002_1.m3u8
 湖南卫视,http://www.hkyc.site:1991/udp/239.253.64.114:5140
 湖南卫视,http://153.0.171.163:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://go.bkpcp.top/mg/hunws
@@ -754,7 +755,6 @@
 湖南卫视,http://wuwenxidong.work:2333/udp/225.1.8.41:8012
 湖南卫视,http://wuwenxidong.work:2333/udp/225.1.8.132:8064
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
-湖南卫视,http://1.195.131.39:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://8.138.7.223/tv/iptv3.php?id=hunws
 湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?
 湖南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hunws

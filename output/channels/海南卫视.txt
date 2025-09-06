@@ -327,9 +327,8 @@
 海南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226154/index.m3u8
 海南卫视,http://122.189.103.25:8011/udp/228.0.0.165:7165
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
-海南卫视,http://39.134.136.198:6410/000000001000/7899627377857656087/index.m3u8?channel-id=ystenlive
-海南卫视,http://110.191.253.155:8188/udp/239.93.0.80:5140
 海南卫视,http://39.134.136.198:6410/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb
+海南卫视,http://39.134.136.198:6410/000000001000/7899627377857656087/index.m3u8?channel-id=ystenlive
 海南卫视,http://115.58.122.81:8860/live1514.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 海南卫视,http://dmggg.tyzb.fun:26355/migu/947472502.m3u8?migutoken=8bc680aeb3d2692d3df0b8242fc0927e8c22ed23bfc9d3b6c26ed4d7e6796da4483b9cf044c496cdc3c23a0bfeb400cdd65eeddb3c6397bb6147ec473f4af3fab2c07035ad621b9db55e8c030b
 海南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hinws
@@ -401,7 +400,6 @@
 海南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0337&tk=f6cc1e0a0e1a
 海南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0390&tk=e503191f8e20
 海南卫视,http://huijie5421.cn:8800/rtp/239.49.8.83:8000?
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws#https://www.freetv.top/migu/947472502.m3u8?migutoken=b49395c0adad3f977a69d9555b7ec0e60a9f6076a9bd17687472774c39f5e60c68b55ab46fdf0d73b68a871b71b438163c9ae6604499693eb260ed04ebe98df3f12124410b199e0741f3429b11
 海南卫视,http://218.27.55.132:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://221.205.171.203:9003/hls/28/index.m3u8
 海南卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236232/index.m3u8?IAS
@@ -410,7 +408,6 @@
 海南卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235685/index.m3u8?fmt=ts2hls
 海南卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232687/index.m3u8?fmt=ts2hls
 海南卫视,http://live2.rxip.sc96655.com/live/hnws_4000.m3u8?E=&U=&A=&K=&P=&S=
-海南卫视,http://223.109.75.19:8000/892740/index.m3u8
 海南卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226679/1.m3u8
 海南卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000037/index.m3u8
 海南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226922/1.m3u8

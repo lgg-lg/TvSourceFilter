@@ -445,7 +445,7 @@
 贵州卫视,http://58.19.252.68:1111/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gzws
 贵州卫视,http://t.061899.xyz/tl/dq.php?id=gzws
-贵州卫视,https://live.lalifeier.eu.org/gzstv/gzws.m3u8?t=1757076567&key=b8d4a17efab9b5106d25fd88418f50a1
+贵州卫视,https://live.lalifeier.eu.org/gzstv/gzws.m3u8?t=1757114504&key=2373297b25fa6623895b1d2a5c072f37
 贵州卫视,https://mursor.ottiptv.cc/mcp/guizhou.m3u8
 贵州卫视,http://3501776.xyz:35455/bptv/10000100000000050000000003873471.m3u8
 贵州卫视,http://36.105.100.208:35455/bptv/10000100000000050000000003873471.m3u8
@@ -537,8 +537,9 @@
 贵州卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236236/index.m3u8
 贵州卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231267/index.m3u8?fmt=ts2hls
 贵州卫视,http://live2.rxip.sc96655.com/live/gzwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
-贵州卫视,http://223.109.75.19:8000/742800/index.m3u8
+贵州卫视,http://[2409:8087:1a15:10d1::25]/wh7f454c46tw1076827610_-1504833381/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8?icpid=88888888&RTS=1756466607&from=23&hms_devid=1244&online=1756466607&vqe=3
 贵州卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000036/index.m3u8
+贵州卫视,http://112.123.243.37:50085/tsfile/live/0130_2.m3u8
 贵州卫视,http://www.hkyc.site:1991/udp/239.253.64.197:5140
 贵州卫视,http://tpc.x3322.net:9901/tsfile/live/0120_1.m3u8
 贵州卫视,http://153.0.171.163:9901/tsfile/live/0120_1.m3u8
@@ -653,7 +654,6 @@
 贵州卫视,http://wuwenxidong.work:2333/udp/225.1.8.144:8120
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
-贵州卫视,http://1.195.131.39:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://8.138.7.223/tv/iptv3.php?id=gzws
 贵州卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8?
 贵州卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gzws

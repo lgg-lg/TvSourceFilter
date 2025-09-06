@@ -359,9 +359,9 @@
 青海卫视,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
 青海卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000006000040015/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
 青海卫视,http://api.kkitv.itv888.cn:8080/hls/ry7s3t5wmqa/index.m3u8
-青海卫视,http://39.134.136.198:6410/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive
-青海卫视,http://115.58.122.81:8859/live1491.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 青海卫视,http://39.134.136.198:6410/000000001000/5000000006000040015/index.m3u8?channel-id=bestzb
+青海卫视,http://115.58.122.81:8859/live1491.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+青海卫视,http://39.134.136.198:6410/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive
 青海卫视,http://dmggg.tyzb.fun:26355/migu/947472506.m3u8?migutoken=accb7abcc48753a60c319f2fcbb862a09fb13edda92f902ecea228f7887fe0c1e124bcad8a62b4eb9f6a109b0915d5feea535f1fc03070d9766f09839a9ba70ba0875937b85e39b4989bf22016
 青海卫视,http://113.25.252.226:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,https://www.yangshipin.cn/tv/home?pid=600190406
@@ -440,7 +440,7 @@
 青海卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8?IAS
 青海卫视,http://183.249.160.38:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8?IASHttpSessionId=RR500720241116022541478975&ispcode=2000146
 青海卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8
-青海卫视,http://223.109.75.19:8000/784090/index.m3u8
+青海卫视,http://[2409:8087:1a15:10d1::29]/wh7f454c46tw1601930220_-758100501/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8?icpid=88888888&RTS=1756467132&from=23&hms_devid=1245&online=1756467132&vqe=3
 青海卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000042/index.m3u8
 青海卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226916/1.m3u8
 青海卫视,http://tpc.x3322.net:9901/tsfile/live/0140_1.m3u8

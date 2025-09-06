@@ -496,9 +496,11 @@
 湖北卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000004000014954/index.m3u8?channel-id=bestzb&Contentid=5000000004000014954&livemode=1&stbId=3
 湖北卫视,http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8
 湖北卫视,http://39.134.136.198:6410/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive
-湖北卫视,http://39.134.136.198:6410/000000001000/1000000001000024621/index.m3u8?channel-id=ystenlive
 湖北卫视,http://115.58.122.81:8838/live1280.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+湖北卫视,http://113.120.46.184:8123/udp/239.21.1.163:5002
+湖北卫视,http://39.134.136.198:6410/000000001000/1000000001000024621/index.m3u8?channel-id=ystenlive
 湖北卫视,http://39.134.136.198:6410/000000001000/5000000004000014954/index.m3u8?channel-id=bestzb
+湖北卫视,http://yc.myds.me:35455/itv/6000000001000015436.m3u8?cdn=wasusyt
 湖北卫视,http://dmggg.tyzb.fun:26355/migu/947472496.m3u8?migutoken=98e87eaaf466138e42b808f8631eb553e550341433ede63b22d8bfe4f1a3a0650a0e8ae28154551b719847626d36b7958b793107e3ac554f1c9332262411d687673048ad7c5065dc540ba9c041
 湖北卫视,https://migu.188766.xyz/?migutoken=996a1c20d531877024cfc8a911fe6f96&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1
 湖北卫视,https://migu.188766.xyz/?migutoken=d70449beb60b2f2a4f8d9b1d971a08c8&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1
@@ -596,7 +598,7 @@
 湖北卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8479&tk=e503191f8e20
 湖北卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1214&tk=f6cc1e0a0e1a
 湖北卫视,http://huijie5421.cn:8800/rtp/239.49.8.8:9632?
-湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226477/index.m3u8
+湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8#http://dmggg.tyzb.fun:26355/migu/947472496.m3u8?migutoken=98e87eaaf466138e42b808f8631eb553e550341433ede63b22d8bfe4f1a3a0650a0e8ae28154551b719847626d36b7958b793107e3ac554f1c9332262411d687673048ad7c5065dc540ba9c041#http://iptv.huuc.edu.cn/hls/hbhd.m3u8
 湖北卫视,http://218.27.55.132:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://221.205.171.203:9003/hls/32/index.m3u8
 湖北卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236271/index.m3u8?IAS
@@ -605,8 +607,9 @@
 湖北卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236271/index.m3u8
 湖北卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228357/index.m3u8?fmt=ts2hls
 湖北卫视,http://live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
-湖北卫视,http://223.109.75.19:8000/778621/index.m3u8
+湖北卫视,http://[2409:8087:1a15:10d1::24]/wh7f454c46tw1272774141_1231382994/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8?icpid=88888888&RTS=1756466803&from=23&hms_devid=1244&online=1756466803&vqe=3
 湖北卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000522/index.m3u8
+湖北卫视,http://112.123.243.37:50085/tsfile/live/1001_1.m3u8
 湖北卫视,http://www.hkyc.site:1991/udp/239.253.64.207:5140
 湖北卫视,http://tpc.x3322.net:9901/tsfile/live/0132_1.m3u8
 湖北卫视,http://153.0.171.163:9901/tsfile/live/0132_1.m3u8
@@ -757,7 +760,6 @@
 湖北卫视,http://148.135.93.213/live.php?id=湖北卫视
 湖北卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExfU_RR0RQok0w_xd7h22CQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPVnDV2fEBphgm3TP7hAHBx%2CEND
 湖北卫视,http://yc.myds.me:35455/itv/1000000001000024621.m3u8?cdn=ystenlive
-湖北卫视,http://yc.myds.me:35455/itv/6000000001000015436.m3u8?cdn=wasusyt
 湖北卫视,http://yc.myds.me:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
 湖北卫视,http://ms.fxim.net:808/hls/30/index.m3u8
 湖北卫视,http://211.67.191.23/hls/hbhd/index.m3u8

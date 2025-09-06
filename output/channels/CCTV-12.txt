@@ -62,6 +62,6 @@ CCTV-12,http://58.19.252.68:1111/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&a
 CCTV-12,http://113.57.93.165:9900/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
 CCTV-12,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-12/1.m3u8
-CCTV-12,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-12,http://[2409:8087:1a15:10d1::2c]/wh7f454c46tw599273086_-1482902418/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8?icpid=88888888&RTS=1756444654&from=23&hms_devid=1243&online=1756444654&vqe=3
 CCTV-12,http://171.118.123.35:8085/rtp/226.0.2.164:9224
 CCTV-12,http://wuwenxidong.work:2333/udp/225.1.8.12:8124
