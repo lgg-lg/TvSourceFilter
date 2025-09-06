@@ -22,6 +22,7 @@
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-gao-qing-6.ctv
 东方卫视,http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8
 东方卫视,https://migu.188766.xyz/?migutoken=fbe012d26536e0d8ba0f6e3effdb0bc6&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&pp=1
+东方卫视,http://221.2.148.205:8154/tsfile/live/0107_1.m3u8
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226050/index.m3u8
 东方卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfws
 东方卫视,http://t.061899.xyz/tl/dq.php?id=dfws
@@ -29,7 +30,6 @@
 东方卫视,http://go.bkpcp.top/mg/dfws
 东方卫视,http://113.15.109.216:59901/tsfile/live/1009_1.m3u8
 东方卫视,http://dmggg.tyzb.fun:26355/migu/651632648.m3u8?migutoken=8e88861cd5dc2121c53ef4ec4269633367e1d0bb38b29c00d65bfbc3eaa2c5ff4ebfbf75792dd01238389bae149ea41c5ddf5522e1a46bcd0b5f9005ad7742207d212664fd65c82456846426ed
-东方卫视,http://221.2.148.205:8154/tsfile/live/0107_1.m3u8
 东方卫视,http://222.169.85.8:9901/tsfile/live/0018_1.m3u8#http://112.27.235.94:8000/hls/28/index.m3u8#http://dmggg.tyzb.fun:26355/migu/651632648.m3u8?migutoken=8e88861cd5dc2121c53ef4ec4269633367e1d0bb38b29c00d65bfbc3eaa2c5ff4ebfbf75792dd01238389bae149ea41c5ddf5522e1a46bcd0b5f9005ad7742207d212664fd65c82456846426ed
 东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
 东方卫视,http://www.hkyc.site:1991/udp/239.253.64.201:5140

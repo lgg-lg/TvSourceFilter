@@ -426,13 +426,12 @@
 东南卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000005000265033/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3
 东南卫视,http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
 东南卫视,http://58.63.65.92:8888/udp/239.77.1.1:5146
-东南卫视,http://39.134.136.198:6410/000000001000/5000000004000010584/index.m3u8?channel-id=bestzb
-东南卫视,http://39.134.136.198:6410/000000001000/1000000005000265033/index.m3u8?channel-id=ystenlive
-东南卫视,http://180.109.176.40:4022/rtp/239.49.1.45:6000
 东南卫视,http://39.134.136.198:6410/000000001000/1000000002000009263/index.m3u8?channel-id=ystenlive
+东南卫视,http://39.134.136.198:6410/000000001000/1000000005000265033/index.m3u8?channel-id=ystenlive
+东南卫视,http://39.134.136.198:6410/000000001000/5000000004000010584/index.m3u8?channel-id=bestzb
+东南卫视,http://180.127.55.104:8686/rtp/239.49.8.186:6000
 东南卫视,http://115.58.122.81:8850/live1400.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-东南卫视,http://113.15.109.216:59901/tsfile/live/0137_1.m3u8
 东南卫视,http://58.19.252.68:1111/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
 东南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dnws
@@ -459,6 +458,7 @@
 东南卫视,http://114.226.205.65:4022/rtp/239.49.1.45:6000
 东南卫视,http://180.105.218.230:4022/rtp/239.49.1.45:6000
 东南卫视,http://113.26.202.52:1299/tsfile/live/0137_1.m3u8
+东南卫视,http://113.15.109.216:59901/tsfile/live/0137_1.m3u8
 东南卫视,https://fenghuang.tv12.xyz/50.m3u8
 东南卫视,https://cc05.tv12.xyz/40.m3u8
 东南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227195/index.m3u8
@@ -531,6 +531,7 @@
 东南卫视,http://live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 东南卫视,http://[2409:8087:1a15:10d1::2b]/wh7f454c46tw978500856_-834673067/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8?icpid=88888888&RTS=1756466508&from=23&hms_devid=1249&online=1756466508&vqe=3
 东南卫视,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000519/index.m3u8
+东南卫视,http://58.19.252.68:1111/tsfile/live/1028_1.m3u8
 东南卫视,http://www.hkyc.site:1991/udp/239.253.64.66:5140
 东南卫视,http://tpc.x3322.net:9901/tsfile/live/0137_1.m3u8
 东南卫视,http://153.0.171.163:9901/tsfile/live/0137_1.m3u8

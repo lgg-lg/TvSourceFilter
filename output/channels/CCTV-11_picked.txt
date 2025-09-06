@@ -26,14 +26,14 @@ CCTV-11,http://k.061899.xyz/m.php?id=cctv11
 CCTV-11,http://api.kkitv.itv888.cn:8080/hls/og4kq4cnqm/index.m3u8
 CCTV-11,http://hbhyjq.ufyct.com:1088/hls/19/index.m3u8
 CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
-CCTV-11,http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://dmggg.tyzb.fun:26355/migu/667987558.m3u8?migutoken=22d29ee28adfece1ca0af1ef21ad55ff2f2d184276ff094691af949ea5c58f29e9c04676de2701e3d0a1f8cd87e31dab6346a861995b2a6b2c47efce5e81abb21107b5599733a991a173282700
 CCTV-11,http://58.19.252.68:1111/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://t.061899.xyz/tl/dq.php?id=cctv11
+CCTV-11,http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?msisdn=202509060900313f6909292ada44dab05105d43d93994a&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20250906090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.83&SecurityKey=20250906090031&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=69dba78b668cd7dfafa7021b7f0c9c83&ddCalcu=3689vcda9bzcaa07f87bb616280c7da7fdaf&sv=10004&ct=android
 CCTV-11,http://go.bkpcp.top/mg/cctv11
 CCTV-11,http://112.27.235.94:8000/hls/12/index.m3u8#https://migu.188766.xyz/?migutoken=7161126eb697caf582490927b3d3abde&id=CCTV11&pp=1#http://dmggg.tyzb.fun:26355/migu/667987558.m3u8?migutoken=22d29ee28adfece1ca0af1ef21ad55ff2f2d184276ff094691af949ea5c58f29e9c04676de2701e3d0a1f8cd87e31dab6346a861995b2a6b2c47efce5e81abb21107b5599733a991a173282700
-CCTV-11,http://112.123.243.37:50085/tsfile/live/0012_1.m3u8
+CCTV-11,http://58.19.252.68:1111/tsfile/live/1010_1.m3u8
 CCTV-11,http://www.hkyc.site:1991/udp/239.253.64.70:5140
 CCTV-11,http://tpc.x3322.net:9901/tsfile/live/0011_1.m3u8
 CCTV-11,http://dl.zhoujie218.top/migu/migu.php?id=cctv11

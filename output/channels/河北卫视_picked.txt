@@ -11,11 +11,10 @@
 河北卫视,http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
 河北卫视,https://stream1.freetv.fun/a995bf588414dfdd5597e1458b574468be6201181b6323fd280473e314d4f397.ctv
 河北卫视,http://api.kkitv.itv888.cn:8080/hls/nd41hwdr82i/index.m3u8
-河北卫视,http://113.15.109.216:59901/tsfile/live/0117_1.m3u8
 河北卫视,http://t.061899.xyz/tl/dq.php?id=hbws
 河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://113.15.109.216:59901/tsfile/live/0117_1.m3u8
 河北卫视,http://106.53.99.30/tv/api.php?id=hebws
-河北卫视,http://112.123.243.37:50085/tsfile/live/0018_1.m3u8
 河北卫视,http://www.hkyc.site:1991/udp/239.253.64.210:5140
 河北卫视,http://tpc.x3322.net:9901/tsfile/live/0117_1.m3u8
 河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8

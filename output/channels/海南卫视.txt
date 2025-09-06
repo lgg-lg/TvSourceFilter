@@ -325,16 +325,16 @@
 海南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226154/index.m3u8
 海南卫视,http://122.189.103.25:8011/udp/228.0.0.165:7165
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
-海南卫视,http://39.134.136.198:6410/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb
 海南卫视,http://115.58.122.81:8860/live1514.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+海南卫视,http://180.127.55.104:8686/rtp/239.49.1.41:6000
 海南卫视,http://39.134.136.198:6410/000000001000/7899627377857656087/index.m3u8?channel-id=ystenlive
+海南卫视,http://39.134.136.198:6410/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb
+海南卫视,http://61.184.46.85:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://dmggg.tyzb.fun:26355/migu/947472502.m3u8?migutoken=8bc680aeb3d2692d3df0b8242fc0927e8c22ed23bfc9d3b6c26ed4d7e6796da4483b9cf044c496cdc3c23a0bfeb400cdd65eeddb3c6397bb6147ec473f4af3fab2c07035ad621b9db55e8c030b
-海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 海南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hinws
 海南卫视,http://t.061899.xyz/tl/dq.php?id=hinws
 海南卫视,http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20250906090032aa7a776f1d3b4615969744ac9ebe58b4&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20250906090032&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.83&SecurityKey=20250906090032&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=298076b01fc9b7fd191a85f6565bd620&ddCalcu=0229v68ad0zb7a566b5061ff5c89ab179f1d&sv=10004&ct=android
 海南卫视,https://mursor.ottiptv.cc/mcp/hainan.m3u8
-海南卫视,http://61.184.46.85:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://go.bkpcp.top/mg/hinws
 海南卫视,http://36.105.100.208:35455/bptv/10000100000000050000000004796877.m3u8
 海南卫视,http://223.166.74.79:10030/bptv/10000100000000050000000004796877.m3u8
@@ -365,6 +365,7 @@
 海南卫视,https://hls-gateway.vpstv.net/streams/708822.m3u8
 海南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226151/1.m3u8
 海南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225816/1.m3u8
+海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 海南卫视,http://119.32.12.32:2901/udp/224.1.100.16:11111
 海南卫视,http://119.32.12.32:2901/udp/224.1.100.15:11111
 海南卫视,http://api3.52tb.xyz/info?id=38&token=20221127jxwhhemby

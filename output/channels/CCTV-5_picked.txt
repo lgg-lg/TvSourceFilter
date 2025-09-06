@@ -34,7 +34,6 @@ CCTV-5,https://stream1.freetv.fun/1f4d35fa573d2d14b6c677080cf70be7d3809ee7710fbb
 CCTV-5,https://stream1.freetv.fun/aef924f5e17baa8455cc0f629e857cb6ea97ca8329b653998f2e00bfd5fc0018.ctv
 CCTV-5,http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
 CCTV-5,http://hbhyjq.ufyct.com:1088/hls/13/index.m3u8
-CCTV-5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://dmggg.tyzb.fun:26355/migu/641886683.m3u8?migutoken=938502f770db61997c8f1f3b970d4b4179cc00d4fe71e38058bbb8d3263fa6fdee4596c7468604e6dcb844ea53509e56efedc2a5bc73119be9ea2524c97006e11121b099b93a420e0a4dc41e1d
 CCTV-5,http://58.19.252.68:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -43,9 +42,10 @@ CCTV-5,http://t.061899.xyz/tl/dq.php?id=cctv5
 CCTV-5,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=2025090609003151bb3f7f9be342dba83b5027e2d0346d&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20250906090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.83&SecurityKey=20250906090031&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e8839963266c631ba80c231195bcc9fb&ddCalcu=bef8v98ac3wc9ab956931216362cc60381ab&sv=10004&ct=android
 CCTV-5,http://go.bkpcp.top/mg/cctv5
 CCTV-5,https://stream1.freetv.fun/cctv5-71.ctv
+CCTV-5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,https://migu.188766.xyz/?migutoken=5bee22cdc4417142983b6456e3d3948b&id=CCTV5&pp=1#http://dmggg.tyzb.fun:26355/migu/641886683.m3u8?migutoken=938502f770db61997c8f1f3b970d4b4179cc00d4fe71e38058bbb8d3263fa6fdee4596c7468604e6dcb844ea53509e56efedc2a5bc73119be9ea2524c97006e11121b099b93a420e0a4dc41e1d#http://221.2.148.205:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://106.53.99.30/tv/api.php?id=cctv5
-CCTV-5,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8
+CCTV-5,http://58.19.252.68:1111/tsfile/live/1004_1.m3u8
 CCTV-5,http://www.hkyc.site:1991/udp/239.253.64.245:5140
 CCTV-5,http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
 CCTV-5,http://dl.zhoujie218.top/migu/migu.php?id=cctv5

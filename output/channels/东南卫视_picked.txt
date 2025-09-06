@@ -11,13 +11,14 @@
 东南卫视,http://hbhyjq.ufyct.com:1088/hls/36/index.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-gao-qing-4.ctv
 东南卫视,http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
-东南卫视,http://113.15.109.216:59901/tsfile/live/0137_1.m3u8
 东南卫视,http://58.19.252.68:1111/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
 东南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dnws
 东南卫视,http://t.061899.xyz/tl/dq.php?id=dnws
 东南卫视,http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://113.15.109.216:59901/tsfile/live/0137_1.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-gao-qing-1.ctv
+东南卫视,http://58.19.252.68:1111/tsfile/live/1028_1.m3u8
 东南卫视,http://www.hkyc.site:1991/udp/239.253.64.66:5140
 东南卫视,http://tpc.x3322.net:9901/tsfile/live/0137_1.m3u8
 东南卫视,http://153.0.171.163:9901/tsfile/live/0137_1.m3u8

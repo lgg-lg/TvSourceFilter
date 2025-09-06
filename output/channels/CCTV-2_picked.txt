@@ -28,7 +28,6 @@ CCTV-2,http://8.138.7.223/tv/migu.php?id=cctv2
 CCTV-2,http://k.061899.xyz/m.php?id=cctv2
 CCTV-2,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
 CCTV-2,http://hbhyjq.ufyct.com:1088/hls/10/index.m3u8
-CCTV-2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://dmggg.tyzb.fun:26355/migu/631780532.m3u8?migutoken=e052014537368e466051aa135716f8ddbe4fcd5ed205bd91b68b6191a60f2011c949014008b5257844928d95e5ab90cba7225ec70622cfe6aaa6c17c49097ce1bfaec2110b6dadca2b54bbea35
 CCTV-2,http://58.19.252.68:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://106.52.196.79:80/TV/mui.php?id=cctv2
@@ -37,9 +36,9 @@ CCTV-2,http://t.061899.xyz/tl/dq.php?id=cctv2
 CCTV-2,http://112.132.10.54:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/600/index.m3u8?msisdn=20250906090031be5b0b0587734ac287bdc9da1be266e9&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20250906090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=106.13.250.83&SecurityKey=20250906090031&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=624226a3fa280ea6fe5446374a446447&ddCalcu=7642v44a62z42a46aa437f3a6248405eeaf6&sv=10004&ct=android
 CCTV-2,http://go.bkpcp.top/mg/cctv2
+CCTV-2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://180.76.145.203:656/zb.php?id=cctv2
 CCTV-2,http://106.53.99.30/tv/api.php?id=cctv2
-CCTV-2,http://112.123.243.37:50085/tsfile/live/0002_1.m3u8
 CCTV-2,http://www.hkyc.site:1991/udp/239.253.64.195:5140
 CCTV-2,http://tpc.x3322.net:9901/tsfile/live/0002_1.m3u8
 CCTV-2,http://dl.zhoujie218.top/migu/migu.php?id=cctv2

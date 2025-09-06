@@ -30,7 +30,6 @@ CCTV-5+,http://dmggg.tyzb.fun:26355/migu/641886773.m3u8?migutoken=d64d30da427d72
 CCTV-5+,http://221.2.148.205:8154/tsfile/live/0016_1.m3u8
 CCTV-5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8#http://112.27.235.94:8000/hls/6/index.m3u8#http://dmggg.tyzb.fun:26355/migu/641886773.m3u8?migutoken=d64d30da427d72bce1fdd2e3a96da5fa8f95c2e5627b5528005a76d5390cb8bad37e6e94c2f4113e33dc630528903a95a7bee37c6b039f1ed53f34a4a51f7e263eca59a63c381ec4110adb9e89#https://migu.188766.xyz/?migutoken=28a852d7ffcb5f5b43b1d944afd198eb&id=CCTV5p&pp=1
 CCTV-5+,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+,http://112.123.243.37:50085/tsfile/live/0006_1.m3u8
 CCTV-5+,http://www.hkyc.site:1991/udp/239.253.64.100:5140
 CCTV-5+,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 CCTV-5+,http://dl.zhoujie218.top/migu/migu.php?id=cctv5p
