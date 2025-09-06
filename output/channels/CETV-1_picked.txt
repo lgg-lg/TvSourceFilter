@@ -1,0 +1,2 @@
+CETV-1,http://gfr.x3322.net:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV-1,http://hbhyjq.ufyct.com:1088/hls/3/index.m3u8

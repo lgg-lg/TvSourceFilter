@@ -91,8 +91,6 @@
 东南卫视,http://112.6.165.112:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://113.101.119.27:808/hls/102/index.m3u8
 东南卫视,http://113.101.119.27:8090/hls/102/index.m3u8
-东南卫视,http://113.101.119.50:808/hls/102/index.m3u8
-东南卫视,http://113.101.119.50:8090/hls/102/index.m3u8
 东南卫视,http://113.218.229.47:8081/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://113.240.177.80:8082/hls/30/index.m3u8
 东南卫视,http://113.25.252.226:9901/tsfile/live/0137_1.m3u8
@@ -428,18 +426,20 @@
 东南卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000005000265033/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3
 东南卫视,http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
 东南卫视,http://58.63.65.92:8888/udp/239.77.1.1:5146
-东南卫视,http://39.134.136.198:6410/000000001000/1000000005000265033/index.m3u8?channel-id=ystenlive
-东南卫视,http://39.134.136.198:6410/000000001000/5000000004000010584/index.m3u8?channel-id=bestzb
 东南卫视,http://115.58.122.81:8850/live1400.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+东南卫视,http://39.134.136.198:6410/000000001000/1000000005000265033/index.m3u8?channel-id=ystenlive
 东南卫视,http://39.134.136.198:6410/000000001000/1000000002000009263/index.m3u8?channel-id=ystenlive
+东南卫视,http://39.134.136.198:6410/000000001000/5000000004000010584/index.m3u8?channel-id=bestzb
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+东南卫视,http://113.15.109.216:59901/tsfile/live/0137_1.m3u8
 东南卫视,http://58.19.252.68:1111/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
 东南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dnws
 东南卫视,http://t.061899.xyz/tl/dq.php?id=dnws
 东南卫视,http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,https://mursor.ottiptv.cc/mcp/dongnan.m3u8
+东南卫视,http://61.184.46.85:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,https://live.sxrtv.com/iptv/dnws.flv
-东南卫视,http://3501776.xyz:35455/bptv/10000100000000050000000003873473.m3u8
 东南卫视,http://36.105.100.208:35455/bptv/10000100000000050000000003873473.m3u8
 东南卫视,http://119.8.184.75:35455/bptv/10000100000000050000000003873473.m3u8
 东南卫视,http://223.166.74.79:10030/bptv/10000100000000050000000003873473.m3u8
@@ -458,7 +458,6 @@
 东南卫视,http://114.226.205.65:4022/rtp/239.49.1.45:6000
 东南卫视,http://180.105.218.230:4022/rtp/239.49.1.45:6000
 东南卫视,http://113.26.202.52:1299/tsfile/live/0137_1.m3u8
-东南卫视,http://113.15.109.216:59901/tsfile/live/0137_1.m3u8
 东南卫视,https://fenghuang.tv12.xyz/50.m3u8
 东南卫视,https://cc05.tv12.xyz/40.m3u8
 东南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227195/index.m3u8
@@ -470,6 +469,7 @@
 东南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225712/1.m3u8
 东南卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225951/1.m3u8
 东南卫视,http://www.hiliu.myds.me:8088/rtp/239.69.1.108:10286
+东南卫视,https://www.yangshipin.cn/tv/home?pid=600002484
 东南卫视,http://219.157.60.114:7001/rtp/225.1.4.228:1274
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-gao-qing-1.ctv
 东南卫视,http://119.32.12.32:2901/udp/224.1.100.56:11111
@@ -521,7 +521,6 @@
 东南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1242&tk=b53028476470
 东南卫视,rtsp://115.85.232.19/PLTV/88888910/224/3221225853/376430608.smil
 东南卫视,http://huijie5421.cn:8800/rtp/239.49.8.112:8000?
-东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=47b98a0c1757126866
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://112.27.235.94:8000/hls/38/index.m3u8#http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 东南卫视,http://218.27.55.132:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236151/index.m3u8?IAS

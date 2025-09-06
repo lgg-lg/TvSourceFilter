@@ -1,0 +1,5 @@
+CCTV-12,http://61.156.228.12:8154/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://k.061899.xyz/m.php?id=cctv12
+CCTV-12,http://58.19.252.68:1111/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://221.2.148.205:8154/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
