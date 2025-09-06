@@ -432,13 +432,13 @@
 黑龙江卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000004000025203/index.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3
 黑龙江卫视,http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
+黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive
+黑龙江卫视,http://180.109.176.40:4022/rtp/239.49.8.144:6000
 黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive
 黑龙江卫视,http://115.58.122.81:8866/live1564.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive
-黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000005000265029/index.m3u8?channel-id=ystenlive
 黑龙江卫视,http://39.134.136.198:6410/000000001000/5000000004000025203/index.m3u8?channel-id=bestzb
+黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000005000265029/index.m3u8?channel-id=ystenlive
 黑龙江卫视,http://183.61.247.138/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061003.m3u8
-黑龙江卫视,http://60.161.188.20:5555/udp/239.200.200.42:8236
 黑龙江卫视,https://www.hljtv.com/live/folder418/
 黑龙江卫视,http://t.061899.xyz/tl/dq.php?id=hljws
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8

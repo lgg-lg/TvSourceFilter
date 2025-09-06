@@ -493,11 +493,11 @@
 湖北卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=3
 湖北卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000004000014954/index.m3u8?channel-id=bestzb&Contentid=5000000004000014954&livemode=1&stbId=3
 湖北卫视,http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8
-湖北卫视,http://115.58.122.81:8838/live1280.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-湖北卫视,http://39.134.136.198:6410/000000001000/5000000004000014954/index.m3u8?channel-id=bestzb
-湖北卫视,http://113.109.251.65:9999/udp/239.77.0.95:5146
-湖北卫视,http://39.134.136.198:6410/000000001000/1000000001000024621/index.m3u8?channel-id=ystenlive
 湖北卫视,http://39.134.136.198:6410/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive
+湖北卫视,http://39.134.136.198:6410/000000001000/5000000004000014954/index.m3u8?channel-id=bestzb
+湖北卫视,http://115.58.122.81:8838/live1280.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+湖北卫视,http://123.53.244.122:8585/rtp/239.16.20.87:10870
+湖北卫视,http://39.134.136.198:6410/000000001000/1000000001000024621/index.m3u8?channel-id=ystenlive
 湖北卫视,http://yc.myds.me:35455/itv/6000000001000015436.m3u8?cdn=wasusyt
 湖北卫视,https://migu.188766.xyz/?migutoken=4208a392a1a08e758a0ebfff45fd1785&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1
 湖北卫视,https://my5353.com/ARXLL

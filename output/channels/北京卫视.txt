@@ -508,12 +508,12 @@
 北京卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000021288/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=3
 北京卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000004000031556/index.m3u8?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=3
 北京卫视,http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
-北京卫视,http://115.58.122.81:8840/live1300.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-北京卫视,http://39.134.136.198:6410/000000001000/1000000001000021288/index.m3u8?channel-id=ystenlive
-北京卫视,http://39.134.136.198:6410/000000001000/5000000004000031556/index.m3u8?channel-id=bestzb
-北京卫视,http://223.8.182.161:8083/udp/239.1.1.41:8041
 北京卫视,http://39.134.136.198:6410/000000001000/8186688740528366039/index.m3u8?channel-id=ystenlive
 北京卫视,http://39.134.136.198:6410/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive
+北京卫视,http://39.134.136.198:6410/000000001000/5000000004000031556/index.m3u8?channel-id=bestzb
+北京卫视,http://39.134.136.198:6410/000000001000/1000000001000021288/index.m3u8?channel-id=ystenlive
+北京卫视,http://115.58.122.81:8840/live1300.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+北京卫视,http://183.188.159.207:6000/rtp/226.0.2.39:8224
 北京卫视,https://www.btime.com/btv/btvsy_index?tag=0
 北京卫视,http://t.061899.xyz/tl/dq.php?id=bjws
 北京卫视,https://mursor.ottiptv.cc/mcp/beijing.m3u8

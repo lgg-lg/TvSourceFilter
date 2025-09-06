@@ -321,9 +321,10 @@
 宁夏卫视,http://116.179.97.186:8085/rtp/226.0.2.64:8424
 宁夏卫视,http://182.117.227.216:7000/rtp/225.1.4.43:1072
 宁夏卫视,http://api.kkitv.itv888.cn:8080/hls/5aqjww52bju/index.m3u8
+宁夏卫视,http://39.134.136.198:6410/000000001000/5000000006000040022/index.m3u8?channel-id=bestzb
+宁夏卫视,http://223.8.182.161:8083/udp/239.1.1.56:8056
 宁夏卫视,http://115.58.122.81:8858/live1481.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 宁夏卫视,http://39.134.136.198:6410/000000001000/1000000002000031451/index.m3u8?channel-id=ystenlive
-宁夏卫视,http://39.134.136.198:6410/000000001000/5000000006000040022/index.m3u8?channel-id=bestzb
 宁夏卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 宁夏卫视,http://113.26.202.52:1299/tsfile/live/0112_1.m3u8
 宁夏卫视,http://113.15.109.216:59901/tsfile/live/0112_1.m3u8
