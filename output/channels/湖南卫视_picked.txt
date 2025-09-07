@@ -19,11 +19,12 @@
 湖南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hunws
 湖南卫视,http://t.061899.xyz/tl/dq.php?id=hunws
 湖南卫视,http://go.bkpcp.top/mg/hunws
+湖南卫视,http://221.205.204.69:9003/hls/33/index.m3u8
 湖南卫视,http://221.2.148.205:8154/tsfile/live/0128_1.m3u8
 湖南卫视,http://www.hkyc.site:1991/udp/239.253.64.114:5140
 湖南卫视,http://153.0.171.163:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://dl.zhoujie218.top/migu/migu.php?id=hunws
-湖南卫视,http://218.3.138.25:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路48』
+湖南卫视,http://218.3.138.25:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路52』
 湖南卫视,http://8.138.7.223/tv/iptv3.php?id=hunws
 湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
 湖南卫视,http://112.123.243.37:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0

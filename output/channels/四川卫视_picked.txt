@@ -19,7 +19,7 @@
 四川卫视,http://tpc.x3322.net:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://153.0.171.163:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://go.bkpcp.top/mg/scws
-四川卫视,https://stream1.freetv.fun/4d012cc6d0cf9ec1b6101aa7351bb3b038d5a231ef437f62ea6908ff02667ffb.ctv$LR•IPV4『线路79』
+四川卫视,https://stream1.freetv.fun/4d012cc6d0cf9ec1b6101aa7351bb3b038d5a231ef437f62ea6908ff02667ffb.ctv$LR•IPV4『线路81』
 四川卫视,http://8.138.7.223/tv/iptv3.php?id=scws
 四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
 四川卫视,https://6663.luyazo.com/livetv/hlnt/h3FzQG3IRz/h3FzQG3IRz_live.m3u8
