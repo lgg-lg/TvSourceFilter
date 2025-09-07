@@ -67,7 +67,7 @@
 上海都市,http://39.134.136.198:6410/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb
 上海都市,https://migu.188766.xyz/?migutoken=25fca555af4be46a9744edda1dbd024d&id=ds&type=sz
 上海都市,http://222.64.56.17:6666/udp/239.45.3.236:5140$上海电信组播
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1757240554&key=7b90e158004a6e0c3503c39c390bc895
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1757280019&key=6cb98d67dcd07880b42a4dff0aeef95a
 上海都市,https://migu.188766.xyz/?migutoken=4ead67713757caca01a77ed73f260a7c&id=ds&type=sz
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-7.ctv
 上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8?

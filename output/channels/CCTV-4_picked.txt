@@ -29,8 +29,8 @@ CCTV-4,http://8.138.7.223/tv/migu8.php?id=66e1470c453536359985b7b9b8222742
 CCTV-4,http://k.061899.xyz/m.php?id=cctv4
 CCTV-4,http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
 CCTV-4,http://hbhyjq.ufyct.com:1088/hls/12/index.m3u8
-CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
 CCTV-4,http://dmggg.tyzb.fun:26355/migu/631780421.m3u8?migutoken=567c5e5b902b6f80a6ff515fd0da4be186e38bc7b5256dfda3c05e85f7364e55805fdfe8819f9e475757e757a5d4c6c98a01ad7ee33ccd72f16dbdd951e73d943106ab81224f1ea9a465ca721f
+CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
 CCTV-4,http://t.061899.xyz/tl/dq.php?id=cctv4
 CCTV-4,http://112.132.10.54:9901/tsfile/live/0004_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-4,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/600/index.m3u8?msisdn=20250907090026d100d5465f464b479350d4d1e8c75135&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20250907090026&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=106.13.250.90&SecurityKey=20250907090026&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ad56307c78f31c8f93106a055fe02914&ddCalcu=4a1dv95a26y03ae0f75c5708af63011c389f&sv=10004&ct=android
@@ -49,7 +49,6 @@ CCTV-4,https://stream1.freetv.fun/cctv4k-2.ctv
 CCTV-4,http://dmggg.tyzb.fun:26355/migu/631780421.m3u8?migutoken=567c5e5b902b6f80a6ff515fd0da4be186e38bc7b5256dfda3c05e85f7364e55805fdfe8819f9e475757e757a5d4c6c98a01ad7ee33ccd72f16dbdd951e73d943106ab81224f1ea9a465ca721f#http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8#https://migu.188766.xyz/?migutoken=7576d69cbcc5e47c6efaf28122545bad&id=CCTV4&pp=1#https://migu.188766.xyz/?migutoken=9d4a8446811c504a8773e2cc99d544cc&id=CCTV4&pp=1#https://migu.188766.xyz/?migutoken=11904ee7aac0b0299d4b25d2239ec69c&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy#https://migu.188766.xyz/?migutoken=05ee6a53a10feba744844076dfe14217&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy#https://my5353.com/551na
 CCTV-4,http://180.76.145.203:656/zb.php?id=cctv4
 CCTV-4,http://106.53.99.30/tv/api.php?id=cctv4
-CCTV-4,http://58.19.252.68:1111/tsfile/live/1003_1.m3u8
 CCTV-4,http://www.hkyc.site:1991/udp/239.253.64.196:5140
 CCTV-4,http://tpc.x3322.net:9901/tsfile/live/0004_1.m3u8
 CCTV-4,http://dl.zhoujie218.top/migu/migu.php?id=cctv4

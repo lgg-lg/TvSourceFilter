@@ -21,7 +21,6 @@
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
 贵州卫视,http://221.2.148.205:8154/tsfile/live/0120_1.m3u8
 贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8#http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/46/index.m3u8
-贵州卫视,http://112.123.243.37:50085/tsfile/live/0130_2.m3u8
 贵州卫视,http://www.hkyc.site:1991/udp/239.253.64.197:5140
 贵州卫视,http://tpc.x3322.net:9901/tsfile/live/0120_1.m3u8
 贵州卫视,http://153.0.171.163:9901/tsfile/live/0120_1.m3u8

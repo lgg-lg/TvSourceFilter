@@ -480,7 +480,7 @@
 广西卫视,http://live2.rxip.sc96655.com/live/gxws_4000.m3u8?E=&U=&A=&K=&P=&S=
 广西卫视,http://[2409:8087:1a15:10d1::1e]/wh7f454c46tw1039041273_261509614/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8?icpid=88888888&RTS=1756466569&from=23&hms_devid=1233&online=1756466569&vqe=3
 广西卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000034/index.m3u8
-广西卫视,http://111.227.196.164:9901/tsfile/live/0113_1.m3u8
+广西卫视,https://smart.pendy.dpdns.org/Smart.php
 广西卫视,http://tpc.x3322.net:9901/tsfile/live/0119_1.m3u8
 广西卫视,http://153.0.171.163:9901/tsfile/live/0113_1.m3u8
 广西卫视,http://go.bkpcp.top/mg/gxws

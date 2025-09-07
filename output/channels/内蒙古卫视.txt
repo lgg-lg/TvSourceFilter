@@ -269,6 +269,7 @@
 内蒙古卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226011/index.m3u8
 内蒙古卫视,http://api.kkitv.itv888.cn:8080/hls/t4wf5047i/index.m3u8
 内蒙古卫视,http://124.112.84.95:4000/rtp/238.1.78.103:6696
+内蒙古卫视,http://182.136.175.148:4022/udp/239.93.0.8:5140
 内蒙古卫视,http://39.134.136.198:6410/000000001000/1000000002000014080/index.m3u8?channel-id=ystenlive
 内蒙古卫视,http://115.58.122.81:8862/live1534.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 内蒙古卫视,https://www.nmtv.cn/liveTv?tag=内蒙古卫视
@@ -276,7 +277,7 @@
 内蒙古卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=nmws
 内蒙古卫视,http://t.061899.xyz/tl/dq.php?id=nmgws
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
-内蒙古卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226011/1.m3u8
+内蒙古卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 内蒙古卫视,https://mursor.ottiptv.cc/mcp/neimenggu.m3u8
 内蒙古卫视,http://36.105.100.208:35455/bptv/10000100000000050000000003887427.m3u8
 内蒙古卫视,http://119.8.184.75:35455/bptv/10000100000000050000000003887427.m3u8

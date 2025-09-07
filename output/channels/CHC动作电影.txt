@@ -138,10 +138,9 @@ CHC动作电影,rtsp://115.153.254.81/PLTV/88888888/224/3221226992/86128817.smil
 CHC动作电影,rtsp://118.212.169.134/PLTV/88888888/224/3221227214/10000100000000060000000000680177_0.smil
 CHC动作电影,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://219.140.5.23:8888/rtp/239.69.1.242:11094
-CHC动作电影,http://218.68.55.111:4022/udp/225.1.1.215:5002
 CHC动作电影,http://eastscreen.tv/ooooo.php
-CHC动作电影,http://111.43.126.240:9003/hls/75/index.m3u8
 CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CHC动作电影,http://111.43.126.240:9003/hls/75/index.m3u8
 CHC动作电影,http://dmggg.tyzb.fun:26355/migu/644368714.m3u8?migutoken=806117e66a8750c2936c00e84391e5f232ba9e0abbeaefc76eb2b04e3b464b9ea937d49e106c41f72d498e727227d9a80a8a9e7137018dd037b66abc395e4bf0be7479ccd3569a5b4df694c3e8
 CHC动作电影,https://migu.188766.xyz/?migutoken=f1a9789216f5cd686e7e8568e70f607a&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
 CHC动作电影,https://migu.188766.xyz/?migutoken=8d6a6789447be288f1e28c3561c0af76&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
@@ -176,7 +175,6 @@ CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1268&tk=b53028476470
 CHC动作电影,http://218.27.55.132:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 CHC动作电影,http://z.b.bkpcp.top/m.php
-CHC动作电影,https://migu.188766.xyz/?migutoken=ac49feba0e54d452e18f2baa36c7f915&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
 CHC动作电影,http://115.58.216.5:4000/rtp/225.1.4.208:1261#http://ndnas.top:3300/udp/225.1.4.208:1261
 CHC动作电影,
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8$LR•IPV6『线路1』

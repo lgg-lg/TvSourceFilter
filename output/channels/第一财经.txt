@@ -86,7 +86,7 @@
 第一财经,https://cdn3.163189.xyz/163189/dycj
 第一财经,http://39.134.136.198:6410/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb
 第一财经,http://116.226.38.242:4022/udp/239.45.3.211:5140$上海电信组播
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1757240554&key=8afec4af848d413b031dc0ac005d48fd
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1757280019&key=6e7485bb249df497313d0fd000abf6de
 第一财经,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dycj
 第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=202509070900276248acc4fb1c4ba7904d8b7113cbad46&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250907090027&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.90&SecurityKey=20250907090027&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a9b8b9d195f857faf2d458180564ac16&ddCalcu=6a19vcbaa8l4ba695d0189158f5845d72ffa&sv=10004&ct=android
 第一财经,https://migu.188766.xyz/?migutoken=df01c367df091fe017aefaa57dd75289&id=dycj&type=sz

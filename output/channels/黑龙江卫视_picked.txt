@@ -17,7 +17,6 @@
 黑龙江卫视,http://221.205.204.69:9003/hls/31/index.m3u8
 黑龙江卫视,http://221.2.148.205:8154/tsfile/live/0143_1.m3u8
 黑龙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
-黑龙江卫视,http://112.123.243.37:50085/tsfile/live/0142_1.m3u8
 黑龙江卫视,http://www.hkyc.site:1991/udp/239.253.64.205:5140
 黑龙江卫视,http://tpc.x3322.net:9901/tsfile/live/0143_1.m3u8
 黑龙江卫视,http://153.0.171.163:9901/tsfile/live/0143_1.m3u8

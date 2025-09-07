@@ -454,13 +454,14 @@
 山东卫视,http://116.179.97.186:8085/rtp/226.0.2.149:9104
 山东卫视,http://58.63.65.92:8888/udp/239.77.1.142:5146
 山东卫视,http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
+山东卫视,http://39.134.136.198:6410/000000001000/7347081113971056899/index.m3u8?channel-id=ystenlive
 山东卫视,http://39.134.136.198:6410/000000001000/1000000001000016568/index.m3u8?channel-id=ystenlive
+山东卫视,http://39.134.136.198:6410/000000001000/7744799445271696577/index.m3u8?channel-id=ystenlive
 山东卫视,http://115.58.122.81:8844/live1340.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-山东卫视,http://39.134.136.198:6410/000000001000/5000000004000020424/index.m3u8?channel-id=bestzb
+山东卫视,http://183.0.203.103:9999/udp/239.77.0.132:5146
 山东卫视,http://39.134.136.198:6410/000000001000/1000000005000265019/index.m3u8?channel-id=ystenlive
 山东卫视,http://39.134.136.198:6410/000000001000/1000000001000012807/index.m3u8?channel-id=ystenlive
-山东卫视,http://39.134.136.198:6410/000000001000/7744799445271696577/index.m3u8?channel-id=ystenlive
-山东卫视,http://39.134.136.198:6410/000000001000/7347081113971056899/index.m3u8?channel-id=ystenlive
+山东卫视,http://39.134.136.198:6410/000000001000/5000000004000020424/index.m3u8?channel-id=bestzb
 山东卫视,https://v.iqilu.com/live/sdtv/index.html
 山东卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sdws
 山东卫视,http://t.061899.xyz/tl/dq.php?id=sdws
@@ -567,8 +568,6 @@
 山东卫视,http://[2409:8087:1a15:10d1::2b]/wh7f454c46tw1245738096_-1352436049/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8?icpid=88888888&RTS=1756466776&from=23&hms_devid=1249&online=1756466776&vqe=3
 山东卫视,http://101.66.199.198:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000527/index.m3u8
-山东卫视,http://111.227.196.164:9901/tsfile/live/0131_1.m3u8
-山东卫视,http://112.123.243.37:50085/tsfile/live/0122_1.m3u8
 山东卫视,http://www.hkyc.site:1991/udp/239.253.64.208:5140
 山东卫视,http://tpc.x3322.net:9901/tsfile/live/0131_1.m3u8
 山东卫视,http://153.0.171.163:9901/tsfile/live/0131_1.m3u8

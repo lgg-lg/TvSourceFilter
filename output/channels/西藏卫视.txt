@@ -253,11 +253,12 @@
 西藏卫视,http://api.kkitv.itv888.cn:8080/hls/j9loqozn2m/index.m3u8
 西藏卫视,http://115.58.122.81:8870/live1604.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 西藏卫视,http://39.134.136.198:6410/000000001000/6603041244077933770/index.m3u8?channel-id=ystenlive
+西藏卫视,http://171.213.214.160:8800/udp/239.93.1.213:5140
 西藏卫视,https://www.yangshipin.cn/tv/home?pid=600190403
 西藏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xzws
 西藏卫视,http://t.061899.xyz/tl/dq.php?id=xzws
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-西藏卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225767/1.m3u8
+西藏卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226012/1.m3u8
 西藏卫视,https://mursor.ottiptv.cc/mcp/xizang.m3u8
 西藏卫视,https://migu.188766.xyz/?migutoken=9dc372064d76a161ac285f1e50fad921&id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&pp=1
 西藏卫视,https://live.sxrtv.com/iptv/xzws.flv
@@ -317,8 +318,6 @@
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws#http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,http://218.27.55.132:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8?E=&U=&A=&K=&P=&S=
-西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221226012/index.m3u8
-西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221225767/index.m3u8
 西藏卫视,http://tpc.x3322.net:9901/tsfile/live/0111_1.m3u8
 西藏卫视,http://tpc.x3322.net:9901/tsfile/live/1040_1.m3u8
 西藏卫视,http://dl.zhoujie218.top/migu/migu.php?id=xzws

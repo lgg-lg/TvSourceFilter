@@ -207,12 +207,13 @@
 山西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/index.m3u8
 山西卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000006000040023/index.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=3
 山西卫视,http://api.kkitv.itv888.cn:8080/hls/8c66y3d5kp8/index.m3u8
+山西卫视,http://39.134.136.198:6410/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive
+山西卫视,http://60.223.72.142:8002/rtp/226.0.2.152:9128
 山西卫视,http://115.58.122.81:8854/live1451.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 山西卫视,http://39.134.136.198:6410/000000001000/5000000006000040023/index.m3u8?channel-id=bestzb
-山西卫视,http://39.134.136.198:6410/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 山西卫视,http://t.061899.xyz/tl/dq.php?id=sxiws
-山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1757240554&key=5bb45a0e5381177bdb30dc9effb64952
+山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1757280019&key=2e0ac4c67412f0673bb4957cadc2e966
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
 山西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/1.m3u8
 山西卫视,http://36.105.100.208:35455/bptv/10000100000000050000000003887413.m3u8

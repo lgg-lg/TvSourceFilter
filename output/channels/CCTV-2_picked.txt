@@ -40,8 +40,6 @@ CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
 CCTV-2,http://58.19.252.68:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://180.76.145.203:656/zb.php?id=cctv2
 CCTV-2,http://106.53.99.30/tv/api.php?id=cctv2
-CCTV-2,http://112.123.243.37:50085/tsfile/live/0002_1.m3u8
-CCTV-2,http://58.19.252.68:1111/tsfile/live/1001_1.m3u8
 CCTV-2,http://www.hkyc.site:1991/udp/239.253.64.195:5140
 CCTV-2,http://tpc.x3322.net:9901/tsfile/live/0002_1.m3u8
 CCTV-2,http://dl.zhoujie218.top/migu/migu.php?id=cctv2

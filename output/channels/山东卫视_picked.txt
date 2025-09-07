@@ -24,7 +24,6 @@
 山东卫视,http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://go.bkpcp.top/mg/sdws
 山东卫视,http://113.15.109.216:59901/tsfile/live/0131_1.m3u8
-山东卫视,http://112.123.243.37:50085/tsfile/live/0122_1.m3u8
 山东卫视,http://www.hkyc.site:1991/udp/239.253.64.208:5140
 山东卫视,http://tpc.x3322.net:9901/tsfile/live/0131_1.m3u8
 山东卫视,http://153.0.171.163:9901/tsfile/live/0131_1.m3u8

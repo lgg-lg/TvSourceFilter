@@ -15,7 +15,6 @@
 吉林卫视,http://113.15.109.216:59901/tsfile/live/0116_1.m3u8
 吉林卫视,http://221.205.204.69:9003/hls/34/index.m3u8
 吉林卫视,http://221.2.148.205:8154/tsfile/live/0116_1.m3u8
-吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
 吉林卫视,http://www.hkyc.site:1991/udp/239.253.64.57:5140
 吉林卫视,http://tpc.x3322.net:9901/tsfile/live/0116_1.m3u8
 吉林卫视,http://153.0.171.163:9901/tsfile/live/0116_1.m3u8

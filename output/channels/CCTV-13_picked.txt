@@ -30,8 +30,8 @@ CCTV-13,https://stream1.freetv.fun/3de70449cde3176a3ee598bc26020f02bd97aa698aaf1
 CCTV-13,https://stream1.freetv.fun/5e0c514e6ba3d091c01c511c50880499f6584b993ae7c5de863424917928ece8.ctv
 CCTV-13,http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
 CCTV-13,http://hbhyjq.ufyct.com:1088/hls/21/index.m3u8
-CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
 CCTV-13,http://dmggg.tyzb.fun:26355/migu/608807423.m3u8?migutoken=d7b6cc3eac046465fe236c2965e3946243ace92809ec4ffa835acbf19f85a23758cc09035119e8dbb5866d0b84d66ffcb757e160fc002572802f546bad72ac31d4554c3c0e5167b0817a685258
+CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
 CCTV-13,http://t.061899.xyz/tl/dq.php?id=cctv13
 CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=20250907090026727b9446bd3a415a84531bf6f0ea4a1e&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20250907090026&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.90&SecurityKey=20250907090026&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=446cbb37a04aa298f473caa90dff16e1&ddCalcu=14e4v66a1cyfbafbd3079aa0a4ca3a7249f8&sv=10004&ct=android
 CCTV-13,http://go.bkpcp.top/mg/cctv13

@@ -493,11 +493,10 @@
 湖北卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=3
 湖北卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000004000014954/index.m3u8?channel-id=bestzb&Contentid=5000000004000014954&livemode=1&stbId=3
 湖北卫视,http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8
-湖北卫视,http://115.229.22.115:3521/udp/233.50.201.43:5140
-湖北卫视,http://39.134.136.198:6410/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive
-湖北卫视,http://39.134.136.198:6410/000000001000/5000000004000014954/index.m3u8?channel-id=bestzb
-湖北卫视,http://39.134.136.198:6410/000000001000/1000000001000024621/index.m3u8?channel-id=ystenlive
 湖北卫视,http://115.58.122.81:8838/live1280.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+湖北卫视,http://39.134.136.198:6410/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive
+湖北卫视,http://39.134.136.198:6410/000000001000/1000000001000024621/index.m3u8?channel-id=ystenlive
+湖北卫视,http://39.134.136.198:6410/000000001000/5000000004000014954/index.m3u8?channel-id=bestzb
 湖北卫视,http://dmggg.tyzb.fun:26355/migu/947472496.m3u8?migutoken=98e87eaaf466138e42b808f8631eb553e550341433ede63b22d8bfe4f1a3a0650a0e8ae28154551b719847626d36b7958b793107e3ac554f1c9332262411d687673048ad7c5065dc540ba9c041
 湖北卫视,https://migu.188766.xyz/?migutoken=22fe12de566941bd12ee64e56d400d58&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1
 湖北卫视,https://migu.188766.xyz/?migutoken=4208a392a1a08e758a0ebfff45fd1785&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1
@@ -611,7 +610,6 @@
 湖北卫视,http://live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 湖北卫视,http://[2409:8087:1a15:10d1::24]/wh7f454c46tw1272774141_1231382994/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8?icpid=88888888&RTS=1756466803&from=23&hms_devid=1244&online=1756466803&vqe=3
 湖北卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000522/index.m3u8
-湖北卫视,http://111.227.196.164:9901/tsfile/live/0132_1.m3u8
 湖北卫视,http://www.hkyc.site:1991/udp/239.253.64.207:5140
 湖北卫视,http://tpc.x3322.net:9901/tsfile/live/0132_1.m3u8
 湖北卫视,http://153.0.171.163:9901/tsfile/live/0132_1.m3u8

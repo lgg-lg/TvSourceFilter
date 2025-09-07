@@ -49,7 +49,7 @@
 上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=3d07ca6dd63fe88d489828ac56bd02581e576f20c460c32bec943a86a2d159b51a177f4186aa91045ee1c3b1b14ede5accc85b0c58c01a8201e6e8277e222da8b0cd553a74a01b9b3bb56893f8
 上海新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shxwzh
 上海新闻综合,http://t.061899.xyz/tl/dq.php?id=shxwzh
-上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1757240554&key=db0411a0fe688f93aaf6cb267cd009d0
+上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1757280019&key=e8ef54b17a743ac358bacc9ec92022c7
 上海新闻综合,http://[2409:8087:1e01:20::3]/000000001000/5000000011000031110/index.m3u8
 上海新闻综合,http://nctv.top/IDOEPpiryt/migu.php?id=shxw
 上海新闻综合,

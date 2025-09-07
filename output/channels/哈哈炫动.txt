@@ -101,14 +101,14 @@
 哈哈炫动,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226175/index.m3u8
 哈哈炫动,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000002000000172/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=3
 哈哈炫动,http://60.168.245.143:8888/rtp/238.1.78.82:6528
+哈哈炫动,http://115.229.22.115:3521/udp/233.50.201.74:5140
 哈哈炫动,http://39.134.136.198:6410/000000001000/1000000002000000172/index.m3u8?channel-id=ystenlive
-哈哈炫动,http://218.68.55.111:4022/udp/225.1.1.62:5002
 哈哈炫动,http://39.134.136.198:6410/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb
 哈哈炫动,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010117/1.m3u8
 哈哈炫动,#http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227335/index.m3u8
-哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1757240554&key=f4dddf10ac59dd6ba3330debfdf3b8ab
+哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1757280019&key=40b26f10849616000ac00549803acbf9
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-哈哈炫动,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225657/.m3u8
+哈哈炫动,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/1.m3u8
 哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-25.m3u8
 哈哈炫动,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6495&tk=a0c4f6cfaba3
 哈哈炫动,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-24.m3u8

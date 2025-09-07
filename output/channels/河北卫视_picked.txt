@@ -16,7 +16,6 @@
 河北卫视,http://113.15.109.216:59901/tsfile/live/0117_1.m3u8
 河北卫视,http://221.205.204.69:9003/hls/29/index.m3u8
 河北卫视,http://106.53.99.30/tv/api.php?id=hebws
-河北卫视,http://112.123.243.37:50085/tsfile/live/0018_1.m3u8
 河北卫视,http://www.hkyc.site:1991/udp/239.253.64.210:5140
 河北卫视,http://tpc.x3322.net:9901/tsfile/live/0117_1.m3u8
 河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8

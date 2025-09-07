@@ -45,8 +45,6 @@ CCTV-5,http://58.19.252.68:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&au
 CCTV-5,http://dmggg.tyzb.fun:26355/migu/641886683.m3u8?migutoken=938502f770db61997c8f1f3b970d4b4179cc00d4fe71e38058bbb8d3263fa6fdee4596c7468604e6dcb844ea53509e56efedc2a5bc73119be9ea2524c97006e11121b099b93a420e0a4dc41e1d
 CCTV-5,http://dmggg.tyzb.fun:26355/migu/641886683.m3u8?migutoken=938502f770db61997c8f1f3b970d4b4179cc00d4fe71e38058bbb8d3263fa6fdee4596c7468604e6dcb844ea53509e56efedc2a5bc73119be9ea2524c97006e11121b099b93a420e0a4dc41e1d#http://221.2.148.205:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://106.53.99.30/tv/api.php?id=cctv5
-CCTV-5,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8
-CCTV-5,http://58.19.252.68:1111/tsfile/live/1004_1.m3u8
 CCTV-5,http://www.hkyc.site:1991/udp/239.253.64.245:5140
 CCTV-5,http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
 CCTV-5,http://dl.zhoujie218.top/migu/migu.php?id=cctv5

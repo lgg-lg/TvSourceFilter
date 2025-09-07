@@ -523,13 +523,13 @@
 广东卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5616881981321254555/index.m3u8?channel-id=ystenlive&Contentid=5616881981321254555&livemode=1&stbId=3
 广东卫视,http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
 广东卫视,http://39.134.136.198:6410/000000001000/5616881981321254555/index.m3u8?channel-id=ystenlive
-广东卫视,http://39.134.136.198:6410/000000001000/1000000001000014176/index.m3u8?channel-id=ystenlive
 广东卫视,http://39.134.136.198:6410/000000001000/1000000005000265034/index.m3u8?channel-id=ystenlive
+广东卫视,http://39.134.136.198:6410/000000001000/1000000001000014176/index.m3u8?channel-id=ystenlive
 广东卫视,http://183.61.247.138/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060903.m3u8
+广东卫视,http://183.0.203.103:9999/udp/239.77.0.27:5146
 广东卫视,http://39.134.136.198:6410/000000001000/5000000004000014694/index.m3u8?channel-id=bestzb
-广东卫视,http://114.243.97.16:8686/rtp/239.3.1.142:8048
-广东卫视,http://39.134.136.198:6410/000000001000/1000000001000028357/index.m3u8?channel-id=ystenlive
 广东卫视,http://115.58.122.81:8851/live1410.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+广东卫视,http://39.134.136.198:6410/000000001000/1000000001000028357/index.m3u8?channel-id=ystenlive
 广东卫视,https://migu.188766.xyz/?migutoken=9d9425fd2b2a1a9f2370caa558731e89&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
 广东卫视,https://www.gdtv.cn/tvChannelDetail/43
 广东卫视,https://www.yangshipin.cn/tv/home?pid=600002485
