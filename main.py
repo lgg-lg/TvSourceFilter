@@ -6,7 +6,7 @@ if __name__ == '__main__':
     print("开始执行模块1：捕获信号源")
     input_file = os.path.join("config", "channels.txt")
     output_file = os.path.join("output", "ownsource.txt")
-    module1_capture.main(input_file, output_file, True)
+    module1_capture.main(input_file, output_file)
 
     print("开始执行模块2：组合信号源")
     module2_combine.combine_sources()
@@ -25,4 +25,5 @@ if __name__ == '__main__':
     module6_result.main() # <<< 新增 >>>
 
     print("✅ 所有模块执行完成")
+
 
