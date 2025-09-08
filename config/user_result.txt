@@ -347,6 +347,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,https://yvxymm.tv12.xyz/175.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,https://stream.iptv-search.com/main.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1757043017&token=7634c12638daf93444081c97d803fbda
+浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8?key=txiptv&playlive=1&authid=0
@@ -795,6 +796,7 @@ CCTV15,http://111.43.126.240:9003/hls/28/index.m3u8?key=txiptv&playlive=1&authid
 CCTV15,http://111.227.196.164:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://218.89.240.144:59901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 风云音乐,http://sh.lnott.top:880/dx73.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
