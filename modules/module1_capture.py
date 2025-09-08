@@ -580,55 +580,67 @@ def deduplicate_and_save(results, output_file):
 
 
 def main(input_file, output_file, exflag=False):
-    """主函数"""
-    all_results = []
+    # 获取当前东八区时间
+    beijing_time = datetime.now(timezone(timedelta(hours=8)))
     
-    # 确保 output 目录存在
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    search_terms = []
-    try:
-        # 读取搜索词文件
-        with open(input_file, 'r', encoding='utf-8') as f:
-            #search_terms = [line.strip() for line in f if line.strip()]
-            for line in f:
-                line = line.strip()
-                # 跳过空行和注释行
-                if line and not line.startswith('#'):
-                    search_terms.append(line)
-        logger.info(f"共读取到 {len(search_terms)} 个搜索词")
+    # 获取星期几并判断是否为单数
+    weekday = beijing_time.weekday()
+    is_single_day = weekday in [0, 2, 4, 6]  # 周一、周三、周五、周日
+    
+    # 判断当前时间是否小于12:00
+    is_before_noon = beijing_time.hour < 12
+    if is_single_day and is_before_noon :
+        """主函数"""
+        all_results = []
         
-        # --- 处理每个搜索词 (Tonkiang/foodieguide) ---
-        for i, term in enumerate(search_terms, 1):
-            logger.info(f"\n处理第 {i}/{len(search_terms)} 个: {term}")
+        # 确保 output 目录存在
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        search_terms = []
+        try:
+            # 读取搜索词文件
+            with open(input_file, 'r', encoding='utf-8') as f:
+                #search_terms = [line.strip() for line in f if line.strip()]
+                for line in f:
+                    line = line.strip()
+                    # 跳过空行和注释行
+                    if line and not line.startswith('#'):
+                        search_terms.append(line)
+            logger.info(f"共读取到 {len(search_terms)} 个搜索词")
             
-            # 搜索并提取内容 (Tonkiang)
-            results = new_search_and_extract(term, 1)
-            all_results.extend(results)
-            
-            # 添加延时避免请求过于频繁
-            if i < len(search_terms):
-                time.sleep(1)
-        
-        # --- 处理每个搜索词 (iptv-search.com) ---
-        # 注意：此网站可能需要翻墙或不稳定，可根据需要启用/禁用
-        if exflag:
+            # --- 处理每个搜索词 (Tonkiang/foodieguide) ---
             for i, term in enumerate(search_terms, 1):
-                logger.info(f"\n[Playwright] 处理第 {i}/{len(search_terms)} 个: {term}")
-                results2 = get_decrypted_links(term)
-                if  len(results2) > 0:
-                    all_results.extend(results2[0])
+                logger.info(f"\n处理第 {i}/{len(search_terms)} 个: {term}")
+                
+                # 搜索并提取内容 (Tonkiang)
+                results = new_search_and_extract(term, 1)
+                all_results.extend(results)
+                
+                # 添加延时避免请求过于频繁
                 if i < len(search_terms):
-                    time.sleep(2) # Playwright 请求间隔可稍长
-
-        # 去重并保存结果
-        deduplicate_and_save(all_results, output_file)
-        
-        logger.info(f"\n✅ 模块1处理完成！共尝试提取到 {len(all_results)} 条结果 (去重后保存)。")
-        
-    except FileNotFoundError:
-        logger.error(f"❌ 错误：找不到输入文件 {input_file}")
-    except Exception as e:
-        logger.error(f"❌ 程序执行出错: {e}")
+                    time.sleep(1)
+            
+            # --- 处理每个搜索词 (iptv-search.com) ---
+            # 注意：此网站可能需要翻墙或不稳定，可根据需要启用/禁用
+            if exflag:
+                for i, term in enumerate(search_terms, 1):
+                    logger.info(f"\n[Playwright] 处理第 {i}/{len(search_terms)} 个: {term}")
+                    results2 = get_decrypted_links(term)
+                    if  len(results2) > 0:
+                        all_results.extend(results2[0])
+                    if i < len(search_terms):
+                        time.sleep(2) # Playwright 请求间隔可稍长
+    
+            # 去重并保存结果
+            deduplicate_and_save(all_results, output_file)
+            
+            logger.info(f"\n✅ 模块1处理完成！共尝试提取到 {len(all_results)} 条结果 (去重后保存)。")
+            
+        except FileNotFoundError:
+            logger.error(f"❌ 错误：找不到输入文件 {input_file}")
+        except Exception as e:
+            logger.error(f"❌ 程序执行出错: {e}")
+    else:
+        logger.info(f"为降低爬取频率，改为2天一爬，本次将不爬取信号源")
 
 
 # 如果直接运行此脚本，则执行 main 函数
@@ -638,4 +650,5 @@ if __name__ == "__main__":
     input_file = os.path.join("config", "channels.txt")
     output_file = os.path.join("output", "ownsource.txt")
     main(input_file, output_file)
+
 
