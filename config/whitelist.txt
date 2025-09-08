@@ -29,6 +29,7 @@ gslbmgsplive.miguvideo.com
 k.061899.xyz/m.php
 mg.hmysapp.cn:177
 migu.188766.xyz/?migutoken=6598d13b64b01bf74fc04c13b92b9cb6
+stream.iptv-search.com
 t.061899.xyz/tl
 zby.130519.xyz/PLTV
 #cctv3
@@ -61,4 +62,5 @@ hbhyjq.ufyct.com:1088/hls
 migu.188766.xyz/?migutoken=fbe012d26536e0d8ba0f6e3effdb0bc6
 omnix.cn:4000
 www.hkyc.site:1991
+
 
