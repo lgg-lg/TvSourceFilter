@@ -10,6 +10,13 @@ www.freetv.top/migu/608807420.m3u8
 free.cnlive.club/channel/47cdbb52
 113.101.119.50:808/hls
 113.101.119.50:8090/hls
+#无效
+8.138.7.223/tv/migu.php
+8.138.7.223/tv/hljv6.php
+8.138.7.223/tv/ptbtv.php
+8.138.7.223/tv/migu3.php
+8.138.7.223/tv/iptv3.php
+8.138.7.223/tv/hhzt.php
 #特殊源
 tvbus://
 #电台台
@@ -185,6 +192,7 @@ us-xpc11.xpccdn.com
 #其他
 em.21dtv.com
 hitmusic.hu
+
 
 
 
