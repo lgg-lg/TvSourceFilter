@@ -11,12 +11,18 @@ free.cnlive.club/channel/47cdbb52
 113.101.119.50:808/hls
 113.101.119.50:8090/hls
 #无效
-8.138.7.223/tv/migu.php
+8.138.7.223/tv/migu
 8.138.7.223/tv/hljv6.php
 8.138.7.223/tv/ptbtv.php
-8.138.7.223/tv/migu3.php
 8.138.7.223/tv/iptv3.php
 8.138.7.223/tv/hhzt.php
+8.138.7.223/tv/dl/careryun.php
+8.138.7.223/tv/dl/douyincdn.php
+8.138.7.223/tv/dl/sh.php
+8.138.7.223/tv/fjtv.php
+8.138.7.223/tv/fjtv1.php
+8.138.7.223/tv/gdmzyd.php
+8.138.7.223/tv/mgitv.php
 #特殊源
 tvbus://
 #电台台
@@ -192,6 +198,9 @@ us-xpc11.xpccdn.com
 #其他
 em.21dtv.com
 hitmusic.hu
+#特殊字符
+公众号
+
 
 
 
