@@ -1,4 +1,6 @@
-更新时间,#genre#2025/09/08-12:12,http://8.138.7.223/tv/shtv.php?id=xwzh📺央视频道,#genre#
+更新时间,#genre#
+2025/09/08-12:22,http://8.138.7.223/tv/shtv.php?id=xwzh
+📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/main.php?id=CCTV1&t=1757043017&token=71579c630714233f22c78d48bf2abf08
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
 CCTV-1,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
