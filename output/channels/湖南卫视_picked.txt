@@ -1,3 +1,4 @@
+湖南卫视,https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757043017&token=05c3a3ae5c870a6937918df9294ce30e
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://222.169.85.8:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://221.226.51.220:50081/newlive/live/hls/29/live.m3u8?key=txiptv&playlive=1&authid=0

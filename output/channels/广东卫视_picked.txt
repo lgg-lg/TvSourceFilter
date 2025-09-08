@@ -1,3 +1,4 @@
+广东卫视,https://stream.iptv-search.com/main.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1757043017&token=b50144ff34e3c239159d1e173d63c85b
 广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://gfr.x3322.net:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0

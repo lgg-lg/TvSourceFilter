@@ -1,3 +1,4 @@
+深圳卫视,https://stream.iptv-search.com/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1757043017&token=adf2f0b2991ed8e5328727d501c374f4
 深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://221.226.51.220:50081/newlive/live/hls/32/live.m3u8?key=txiptv&playlive=1&authid=0

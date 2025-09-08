@@ -1,3 +1,4 @@
+第一财经,https://stream.iptv-search.com/main.php?id=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&t=1757043017&token=387eaf7d856f162021f4d2700f6d4eb0
 第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
 第一财经,https://epg.pw/stream/8f5f5b037e4f5be88499735028bbba80eb375ef3d92a994a328a821bf66a33ff.ctv
 第一财经,https://stream1.freetv.fun/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.ctv

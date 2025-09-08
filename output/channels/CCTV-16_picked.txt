@@ -1,3 +1,4 @@
+CCTV-16,https://stream.iptv-search.com/main.php?id=CCTV16&t=1757043017&token=ce99fe9417cd0b8cf8abad1c703c0c99
 CCTV-16,http://gfr.x3322.net:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://k.061899.xyz/m.php?id=cctv16
 CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8

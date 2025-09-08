@@ -1,3 +1,4 @@
+重庆卫视,https://stream.iptv-search.com/main.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&t=1757043017&token=2f078136c6a2e41fc8870fd9fb3c5603
 重庆卫视,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://61.156.228.12:8154/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://221.226.51.220:50081/newlive/live/hls/28/live.m3u8?key=txiptv&playlive=1&authid=0

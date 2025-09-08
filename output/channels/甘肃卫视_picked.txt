@@ -1,3 +1,4 @@
+甘肃卫视,https://stream.iptv-search.com/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&t=1757043017&token=440dbddefbed0122e9bfd056a54c7ae2
 甘肃卫视,http://gfr.x3322.net:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://k.061899.xyz/m.php?id=dfws&key=txiptv&playlive=1&authid=0
 甘肃卫视,http://221.2.148.205:8154/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0

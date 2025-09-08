@@ -1,3 +1,4 @@
+CCTV-5,https://stream.iptv-search.com/main.php?id=CCTV5&t=1757043017&token=d9b8e2b8cb1b5af7c290fead6a20723a
 CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://k.061899.xyz/m.php?id=cctv5&key=txiptv&playlive=1&authid=0

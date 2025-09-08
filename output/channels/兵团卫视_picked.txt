@@ -1,3 +1,4 @@
+兵团卫视,https://stream.iptv-search.com/main.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&t=1757043017&token=2db1ff7eee267808eac8dc8d09517649
 兵团卫视,http://8.138.7.223/tv/btws.m3u8
 兵团卫视,http://gfr.x3322.net:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://k.061899.xyz/m.php?id=btws&key=txiptv&playlive=1&authid=0
