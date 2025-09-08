@@ -76,7 +76,7 @@ def read_subscribe_sources(subscribe_path):
                                 data.append([name.strip(), url.strip(), extra.strip()])
             except Exception as e:
                 logger.error(f"订阅源读取失败: {line} - {e}")
-        logger.info(f"{len(f)}个订阅源已处理完毕")
+        logger.info(f"订阅源已处理完毕")
     return data
 
 def deduplicate(data):
@@ -119,6 +119,7 @@ def combine_sources():
 if __name__ == '__main__':
 
     combine_sources()
+
 
 
 
