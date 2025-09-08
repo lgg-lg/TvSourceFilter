@@ -1,4 +1,4 @@
-欢笑剧场,https://stream.iptv-search.com/main.php?id=%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA&t=1755401429&token=d84006394f4ff82da99487c99e1421f2
+欢笑剧场,https://stream.iptv-search.com/main.php?id=%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA&t=1757043017&token=980caf0f3692a1021587b6b70c05dc79
 欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
 欢笑剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
 欢笑剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=007
@@ -16,7 +16,6 @@
 欢笑剧场,http://116.226.38.242:4022/udp/239.45.3.196:5140
 欢笑剧场,http://117.161.12.124/live/program/live/hxjc8m/8000000/mnf.m3u8
 欢笑剧场,http://129.150.58.101:50001/TVOD/5000000002000009455/bestzb/index.m3u8?
-欢笑剧场,http://150.158.112.123/公众号~玉玉软件库/migu.php?id=hxjc
 欢笑剧场,http://156.226.171.32:50001/TVOD/2000000002000000016/hnbblive/index.m3u8
 欢笑剧场,http://159.75.85.63:36666/migu/790187880.m3u8?migutoken=96358c486a0fc4870f6fa910b15c8b90362412acd6dd942807373c68a27f00f9a49edd7022d88d095d27e09ae9a6b2da1fb05d220a54e2f66e5892a9b5ff6be84f79697b2749b62449c06def17
 欢笑剧场,http://171.208.14.218:9090/live/hxjchd/hls.m3u8
@@ -51,7 +50,6 @@
 欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001
 欢笑剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/index.m3u8
 欢笑剧场,http://183.128.144.71:8000/udp/233.50.201.189:5140
-欢笑剧场,http://118.249.21.255:8989/udp/239.76.246.130:1234
 欢笑剧场,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hxjc
 欢笑剧场,http://t.061899.xyz/tl/dq.php?id=hxjc
 欢笑剧场,http://116.226.38.242:4022/udp/239.45.3.196:5140$上海电信组播

@@ -1,4 +1,4 @@
-甘肃卫视,https://stream.iptv-search.com/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&t=1755401429&token=a0fa6da2abe857e76835d70a3900035c
+甘肃卫视,https://stream.iptv-search.com/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&t=1757043017&token=440dbddefbed0122e9bfd056a54c7ae2
 甘肃卫视,http://gfr.x3322.net:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://k.061899.xyz/m.php?id=dfws&key=txiptv&playlive=1&authid=0
 甘肃卫视,http://111.43.126.240:9003/hls/70/index.m3u8?key=txiptv&playlive=1&authid=0
@@ -110,7 +110,6 @@
 甘肃卫视,http://14.29.76.30:9901/tsfile/live/0141_1.m3u8?key=txiptv
 甘肃卫视,http://148.135.93.213/live.php?id=甘肃卫视
 甘肃卫视,http://148.135.93.213:81/live.php?id=甘肃卫视
-甘肃卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gsws
 甘肃卫视,http://156.226.171.32:50001/TVOD/1000000002000017827/ystenlive/index.m3u8
 甘肃卫视,http://171.117.59.236:8083/rtp/226.0.2.55:8352
 甘肃卫视,http://171.120.111.8:9003/hls/25/index.m3u8
@@ -186,8 +185,6 @@
 甘肃卫视,http://61.138.128.226:19901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://61.138.128.226:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://76.5432123.xyz/杂项代理/学习强国.php?id=gsws
-甘肃卫视,http://8.138.7.223/tv/dl/careryun.php?id=45
-甘肃卫视,http://8.138.7.223/tv/migu.php?id=gsws
 甘肃卫视,http://aiony.top:35455/bst/gswshd4m@4000000.m3u8
 甘肃卫视,http://aiony.top:35455/nptv/gansu.m3u8
 甘肃卫视,http://aiony.top:35455/yhyx/IP-GSWS-SD.m3u8
@@ -301,15 +298,20 @@
 甘肃卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=3
 甘肃卫视,http://api.kkitv.itv888.cn:8080/hls/lcceocfdwh/index.m3u8
 甘肃卫视,http://183.128.144.71:8000/udp/233.50.201.149:5140
-甘肃卫视,http://39.134.136.198:6410/000000001000/5000000011000031121/index.m3u8?channel-id=bestzb
-甘肃卫视,http://39.134.136.198:6410/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive
 甘肃卫视,http://115.58.122.81:8857/live1471.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+甘肃卫视,http://39.134.136.198:6410/000000001000/5000000011000031121/index.m3u8?channel-id=bestzb
+甘肃卫视,http://60.166.74.121:4022/rtp/238.1.79.36:4400
 甘肃卫视,http://171.116.147.32:9003/hls/25/index.m3u8
+甘肃卫视,http://39.134.136.198:6410/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive
 甘肃卫视,https://www.yangshipin.cn/tv/home?pid=600190408
 甘肃卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gsws
 甘肃卫视,http://t.061899.xyz/tl/dq.php?id=gsws
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
 甘肃卫视,https://mursor.ottiptv.cc/mcp/gansu.m3u8
+甘肃卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226090/1.m3u8
+甘肃卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+甘肃卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
+甘肃卫视,http://112.132.10.54:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://36.105.100.208:35455/bptv/10000100000000050000000003887450.m3u8
 甘肃卫视,http://119.8.184.75:35455/bptv/10000100000000050000000003887450.m3u8
 甘肃卫视,http://223.166.74.79:10030/bptv/10000100000000050000000003887450.m3u8
@@ -375,6 +377,7 @@
 甘肃卫视,http://[2409:8087:1a15:10d1::31]/wh7f454c46tw1404311442_-1340627544/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8?icpid=88888888&RTS=1756466934&from=23&hms_devid=1242&online=1756466934&vqe=3
 甘肃卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000023/index.m3u8
 甘肃卫视,http://[2409:8087:74f0:22::7]:6410/270000001111/1110000322/index.m3u8
+甘肃卫视,http://112.123.243.37:50085/tsfile/live/0123_1.m3u8
 甘肃卫视,http://tpc.x3322.net:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://go.bkpcp.top/mg/gsws
 甘肃卫视,http://dl.zhoujie218.top/migu/migu.php?id=gsws
@@ -457,7 +460,6 @@
 甘肃卫视,http://iptv.huuc.edu.cn/hls/gstv.m3u8
 甘肃卫视,http://171.118.123.35:8085/rtp/226.0.2.55:8352
 甘肃卫视,http://wuwenxidong.work:2333/udp/225.1.8.162:8188
-甘肃卫视,http://8.138.7.223/tv/iptv3.php?id=gsws
 甘肃卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gsws
 甘肃卫视,https://hlss.gstv.com.cn/49048r/6e1sy2.m3u8
 甘肃卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226522/index.m3u8?IASHttpSessionId=

@@ -1,4 +1,4 @@
-上海新闻综合,https://stream.iptv-search.com/main.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1755401429&token=be5b45955250aded8307dacb22da761e
+上海新闻综合,https://stream.iptv-search.com/main.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1757043017&token=4e38ae092a42d05ec1b97d1972a66e3c
 上海新闻综合,http://8.138.7.223/tv/shtv.php?id=xwzh
 上海新闻综合,http://k.061899.xyz/m.php?id=shxw&key=txiptv&playlive=1&authid=0
 上海新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
@@ -11,7 +11,6 @@
 上海新闻综合,http://139.155.142.13:9177/migu.php?id=shxwzh
 上海新闻综合,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 上海新闻综合,http://142.171.146.94:50001/TVOD/2000000002000000005/hnbblive/index.m3u8
-上海新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=shxwzh
 上海新闻综合,http://156.226.171.32:50001/TVOD/2000000002000000005/hnbblive/index.m3u8
 上海新闻综合,http://156.226.171.32:50001/TVOD/5000000011000031110/bestzb/index.m3u8
 上海新闻综合,http://159.75.85.63:36666/migu/651632657.m3u8?migutoken=1136e9a03d9bd992647a10e85a771f80265656e17a730c67313874714f6ac943ffedbb7fda81e4a99589e5f3c4d8b0611341c67d06b23dd223d28dd230164f58941788580b73ba32d7f5b8c4a5
@@ -41,6 +40,7 @@
 上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1755329060&key=fbaa79b73761902c0ee8bdf4a1ec861a
 上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1756034416&key=cca51a1b4c64fe8b51b21e71d3cb7f93
 上海新闻综合,https://stream.iptv-search.com/main.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1753977057&token=199c98e4bc910c885f018eba92f75393
+上海新闻综合,https://stream.iptv-search.com/main.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1755401429&token=be5b45955250aded8307dacb22da761e
 上海新闻综合,https://stream1.freetv.fun/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.m3u8
 上海新闻综合,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海新闻综合,http://39.134.136.198:6410/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb
@@ -49,7 +49,7 @@
 上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=3d07ca6dd63fe88d489828ac56bd02581e576f20c460c32bec943a86a2d159b51a177f4186aa91045ee1c3b1b14ede5accc85b0c58c01a8201e6e8277e222da8b0cd553a74a01b9b3bb56893f8
 上海新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shxwzh
 上海新闻综合,http://t.061899.xyz/tl/dq.php?id=shxwzh
-上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1757280019&key=e8ef54b17a743ac358bacc9ec92022c7
+上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1757301074&key=3fb079670a3d20a41cff51c8fc341af3
 上海新闻综合,http://[2409:8087:1e01:20::3]/000000001000/5000000011000031110/index.m3u8
 上海新闻综合,http://nctv.top/IDOEPpiryt/migu.php?id=shxw
 上海新闻综合,

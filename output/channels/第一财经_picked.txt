@@ -3,7 +3,7 @@
 第一财经,https://stream1.freetv.fun/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.ctv
 第一财经,https://stream1.freetv.fun/di-yi-cai-jing-6.ctv
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-1.ctv
-第一财经,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dycj
-第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=202509070900276248acc4fb1c4ba7904d8b7113cbad46&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250907090027&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.90&SecurityKey=20250907090027&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a9b8b9d195f857faf2d458180564ac16&ddCalcu=6a19vcbaa8l4ba695d0189158f5845d72ffa&sv=10004&ct=android
 第一财经,http://t.061899.xyz/tl/dq.php?id=dycj
+第一财经,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dycj
+第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=202509080900308416b23ba815405d84c051c14b741f38&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250908090030&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.83&SecurityKey=20250908090030&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6feae274ac2fd2771e5773162fc182bf&ddCalcu=f6bfv2ea8al1eac2f7246a1c327f7d52e717&sv=10004&ct=android
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8?

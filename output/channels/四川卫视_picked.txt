@@ -6,8 +6,6 @@
 四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0#rtsp://180.95.143.19/PLTV/88888910/224/3221225543/10000100000000060000000000107323_0.smil
 四川卫视,http://61.156.228.12:8154/tsfile/live/0123_1.m3u8
-四川卫视,http://8.138.7.223/tv/dl/careryun.php?id=35
-四川卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=27
 四川卫视,http://hbhyjq.ufyct.com:1088/hls/58/index.m3u8
 四川卫视,https://stream1.freetv.fun/4d012cc6d0cf9ec1b6101aa7351bb3b038d5a231ef437f62ea6908ff02667ffb.ctv
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-gao-qing-1.ctv
@@ -15,12 +13,12 @@
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-gao-qing-7.ctv
 四川卫视,http://api.kkitv.itv888.cn:8080/hls/p2npnppn96p/index.m3u8
 四川卫视,http://t.061899.xyz/tl/dq.php?id=scws
-四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8#http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.89.240.144:59901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8#http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.223.157.33:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://tpc.x3322.net:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://153.0.171.163:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://go.bkpcp.top/mg/scws
-四川卫视,https://stream1.freetv.fun/4d012cc6d0cf9ec1b6101aa7351bb3b038d5a231ef437f62ea6908ff02667ffb.ctv$LR•IPV4『线路81』
-四川卫视,http://8.138.7.223/tv/iptv3.php?id=scws
+四川卫视,http://61.156.228.12:8154/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路32』
+四川卫视,https://stream1.freetv.fun/4d012cc6d0cf9ec1b6101aa7351bb3b038d5a231ef437f62ea6908ff02667ffb.ctv$LR•IPV4『线路86』
 四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
 四川卫视,https://6663.luyazo.com/livetv/hlnt/h3FzQG3IRz/h3FzQG3IRz_live.m3u8
 四川卫视,http://171.15.18.199:8180/TV00000000000000000040@HHZT

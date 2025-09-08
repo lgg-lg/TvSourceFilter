@@ -1,4 +1,4 @@
-山西卫视,https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1755401429&token=c52b3fe1aae07c16592a061632abf318
+山西卫视,https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1757043017&token=4602a320309b21b478ff498b6e7e4399
 山西卫视,http://gfr.x3322.net:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://60.174.40.117:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8?key=txiptv&playlive=1&authid=0
@@ -207,15 +207,16 @@
 山西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/index.m3u8
 山西卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000006000040023/index.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=3
 山西卫视,http://api.kkitv.itv888.cn:8080/hls/8c66y3d5kp8/index.m3u8
-山西卫视,http://39.134.136.198:6410/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive
-山西卫视,http://60.223.72.142:8002/rtp/226.0.2.152:9128
 山西卫视,http://115.58.122.81:8854/live1451.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 山西卫视,http://39.134.136.198:6410/000000001000/5000000006000040023/index.m3u8?channel-id=bestzb
+山西卫视,http://39.134.136.198:6410/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 山西卫视,http://t.061899.xyz/tl/dq.php?id=sxiws
-山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1757280019&key=2e0ac4c67412f0673bb4957cadc2e966
+山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1757301074&key=da4de27c0fbc995e365665aa18b5b26e
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
 山西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/1.m3u8
+山西卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+山西卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
 山西卫视,http://36.105.100.208:35455/bptv/10000100000000050000000003887413.m3u8
 山西卫视,http://119.8.184.75:35455/bptv/10000100000000050000000003887413.m3u8
 山西卫视,http://223.166.74.79:10030/bptv/10000100000000050000000003887413.m3u8
@@ -315,7 +316,6 @@
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226150/index.m3u8
 山西卫视,http://iptv.huuc.edu.cn/hls/sxrtv.m3u8
 山西卫视,http://wuwenxidong.work:2333/udp/225.1.8.155:8172
-山西卫视,http://8.138.7.223/tv/iptv3.php?id=sxiws
 山西卫视,http://120.192.226.35:8009/hls/49/index.m3u8
 山西卫视,http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
 山西卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226392/index.m3u8?IASHttpSessionId=
