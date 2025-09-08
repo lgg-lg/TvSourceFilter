@@ -32,14 +32,14 @@ def replace_user_channels(user_demo_path, channels_dir, output_path):
 
     # 2. 处理每一行
     final_lines = []
-    final_lines.append("更新时间,#genre#")
+    final_lines.append("更新时间,#genre#\n")
     # 获取当前东八区时间
     utc_time = datetime.now(timezone.utc)
     beijing_time = utc_time.astimezone(timezone(timedelta(hours=8)))
 
     # 格式化输出
     formatted_time = beijing_time.strftime("%Y/%m/%d-%H:%M")
-    result = f"{formatted_time},http://8.138.7.223/tv/shtv.php?id=xwzh"
+    result = f"{formatted_time},http://8.138.7.223/tv/shtv.php?id=xwzh\n"
     final_lines.append(result)
     replacements_made = 0
     for i, line in enumerate(user_lines):
@@ -117,3 +117,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
