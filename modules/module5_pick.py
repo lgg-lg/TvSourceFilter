@@ -88,7 +88,7 @@ def load_channels_list(channels_path):
             for line in f:
                 line = line.strip()
                 # 跳过空行和注释行
-                if line and ((not line.startswith('#')) or (',#genre#' in line)) :
+                if line and (not line.startswith('#') and (not (',#genre#' in line)) :
                     channels.append(line)
         logger.info(f"已从 {channels_path} 加载 {len(channels)} 个频道。")
     except Exception as e:
@@ -125,3 +125,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
