@@ -35,3 +35,5 @@ ownsource：根据配置的channels文件自动抓取源网址总集
 new_result：根据user_demo自动从channels各picked文件来生成的自定义直播源
 
 channels文件夹：根据othernames处理的各频道源，_picked为白名单筛选
+
+生成源可配合fork的Guovin大佬的项目使用
