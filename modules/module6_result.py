@@ -3,6 +3,7 @@
 import os
 import shutil
 import logging
+from datetime import datetime, timezone, timedelta
 
 # --- 配置日志 ---
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -31,6 +32,15 @@ def replace_user_channels(user_demo_path, channels_dir, output_path):
 
     # 2. 处理每一行
     final_lines = []
+    final_lines.append("更新时间,#genre#")
+    # 获取当前东八区时间
+    utc_time = datetime.now(timezone.utc)
+    beijing_time = utc_time.astimezone(timezone(timedelta(hours=8)))
+
+    # 格式化输出
+    formatted_time = beijing_time.strftime("%Y/%m/%d-%H:%M")
+    result = f"{formatted_time},http://8.138.7.223/tv/shtv.php?id=xwzh"
+    final_lines.append(result)
     replacements_made = 0
     for i, line in enumerate(user_lines):
         original_line = line
@@ -105,4 +115,5 @@ def main():
 
 # 如果直接运行此脚本，则执行 main 函数
 if __name__ == "__main__":
+
     main()
