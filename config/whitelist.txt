@@ -2,6 +2,7 @@
 #cctv1自验结果
 .ctv
 8.138.7.223/tv
+#58.19.180.108:9981/stream
 58.19.252.68:1111/tsfile/live
 58.243.224.242:9999/tsfile/live
 60.29.124.66:6080/hls
@@ -15,6 +16,7 @@
 153.0.171.163:9901/tsfile/live
 171.15.18.199:8180
 171.118.76.58:9003/hls
+171.120.248.227:9003/hls
 180.76.145.203:656/zb.php
 218.17.33.178:53290/tsfile/live
 218.104.239.114:9901
@@ -44,7 +46,8 @@ migu.188766.xyz/?migutoken=8d7819d7cf8a8042766c02aac3080b90
 qjrhc.jydjd.top:2911/udp/224.1.100.63:11111
 tpc.x3322.net:9901/tsfile/live
 https://epg.pw/stream/7361b754ebaf0853cb863bc4a3af9233d23c74c0e46a0aa7190d44f0389e0822.m3u8
-
+#cetv
+cc06.tv12.xyz
 #上视新闻综合
 stream1.freetv.fun/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.m3u8
 #上海都市
@@ -62,5 +65,6 @@ hbhyjq.ufyct.com:1088/hls
 migu.188766.xyz/?migutoken=fbe012d26536e0d8ba0f6e3effdb0bc6
 omnix.cn:4000
 www.hkyc.site:1991
+
 
 
