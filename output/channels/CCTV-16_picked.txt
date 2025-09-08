@@ -6,6 +6,7 @@ CCTV-16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 CCTV-16,http://106.52.196.79:80/TV/mui.php?id=cctv16
 CCTV-16,http://t.061899.xyz/tl/dq.php?id=cctv16
 CCTV-16,http://go.bkpcp.top/mg/cctv16
+CCTV-16,http://171.120.248.227:9003/hls/17/index.m3u8
 CCTV-16,http://221.205.204.69:9003/hls/17/index.m3u8
 CCTV-16,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
 CCTV-16,http://www.hkyc.site:1991/udp/239.253.64.251:5140

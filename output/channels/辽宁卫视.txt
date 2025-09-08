@@ -540,7 +540,6 @@
 辽宁卫视,http://[2409:8087:1a15:10d1::21]/wh7f454c46tw1008316393_1649984150/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8?icpid=88888888&RTS=1756466538&from=23&hms_devid=1247&online=1756466538&vqe=3
 辽宁卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000526/index.m3u8
 辽宁卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226689/1.m3u8
-辽宁卫视,http://222.169.85.8:9901/tsfile/live/0121_1.m3u8
 辽宁卫视,http://www.hkyc.site:1991/udp/239.253.64.150:5140
 辽宁卫视,http://tpc.x3322.net:9901/tsfile/live/0121_1.m3u8
 辽宁卫视,http://153.0.171.163:9901/tsfile/live/0121_1.m3u8

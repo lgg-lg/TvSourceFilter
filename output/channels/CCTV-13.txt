@@ -519,10 +519,8 @@ CCTV-13,http://58.254.14.232:808/hls/13/index.m3u8
 CCTV-13,http://115.55.131.254:808/hls/13/index.m3u8
 CCTV-13,http://219.159.194.194:8181/tsfile/live/0013_1.m3u8
 CCTV-13,http://121.24.98.149:8090/hls/21/index.m3u8
-CCTV-13,https://migu.188766.xyz/?migutoken=c062fae3b4a0a3a18c8d8f24206b12e4&id=CCTV13&pp=1
-CCTV-13,https://migu.188766.xyz/?migutoken=73895d63bc00cf1c3d74a4f658f372fb&id=CCTV13&pp=1
-CCTV-13,https://migu.188766.xyz/?migutoken=74f55000466628055c06e1c45ebe8ef8&id=CCTV13&pp=1
-CCTV-13,https://tv.cctv.com/live/cctv13/
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://112.27.235.94:8000/hls/14/index.m3u8#http://222.169.85.8:9901/tsfile/live/0013_1.m3u8#http://dmggg.tyzb.fun:26355/migu/608807423.m3u8?migutoken=d7b6cc3eac046465fe236c2965e3946243ace92809ec4ffa835acbf19f85a23758cc09035119e8dbb5866d0b84d66ffcb757e160fc002572802f546bad72ac31d4554c3c0e5167b0817a685258
+CCTV-13,https://migu.188766.xyz/?migutoken=31ebb48bd432094e58cea22829157eeb&id=CCTV13&type=yy
 CCTV-13,https://migu.188766.xyz/?migutoken=1ee98da4a6c690d99fec9c342fc29fca&id=CCTV13&pp=1
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
 CCTV-13,http://t.061899.xyz/tl/dq.php?id=cctv13
@@ -531,6 +529,7 @@ CCTV-13,http://cdn3.101.qzz.io/163189/cctv13
 CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=202509080900293a371e12e3f8401f95f5b672c3abe272&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20250908090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.83&SecurityKey=20250908090029&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2d9e0c30dc01b7df85370fe8c89cc33a&ddCalcu=a23dv39aceyc0a9c83c08decf0017b375d8f&sv=10004&ct=android
 CCTV-13,http://150.138.77.132:10037/抖音直播.php?id=cctv.com
 CCTV-13,https://mgtv.ottiptv.cc/migu/608807423.m3u8?migutoken=fad7fa9fca1846294a7961085a5fbd9e677ea714e81cc36cca6add603513aed12c759c32a01953e2b7b19823e1feb7e8865cafc76efad15cc1d345f469f9790854422170b0e2ff08c498fcce61
+CCTV-13,https://migu.188766.xyz/?migutoken=c062fae3b4a0a3a18c8d8f24206b12e4&id=CCTV13&pp=1
 CCTV-13,http://61.184.46.85:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://go.bkpcp.top/mg/cctv13
 CCTV-13,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226128/1.m3u8
@@ -577,6 +576,9 @@ CCTV-13,https://stream1.freetv.fun/cctv13-81.m3u8
 CCTV-13,https://stream1.freetv.fun/cctv13-56.m3u8
 CCTV-13,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
 CCTV-13,https://stream1.freetv.fun/cctv13-22.m3u8
+CCTV-13,https://migu.188766.xyz/?migutoken=73895d63bc00cf1c3d74a4f658f372fb&id=CCTV13&pp=1
+CCTV-13,https://migu.188766.xyz/?migutoken=74f55000466628055c06e1c45ebe8ef8&id=CCTV13&pp=1
+CCTV-13,https://tv.cctv.com/live/cctv13/
 CCTV-13,https://tv.iill.top/x/cctv13
 CCTV-13,http://113.57.111.4:1111/tsfile/live/1012_1.m3u8
 CCTV-13,http://36.105.100.208:35455/gaoma/cctv13.m3u8
@@ -642,7 +644,6 @@ CCTV-13,http://101.66.198.193:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0
 CCTV-13,http://119.32.12.32:2901/udp/224.1.100.69:11111
 CCTV-13,http://121.11.160.7:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://huashetou.fun:35455/gaoma/cctv13.m3u8
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://112.27.235.94:8000/hls/14/index.m3u8#http://222.169.85.8:9901/tsfile/live/0013_1.m3u8#http://dmggg.tyzb.fun:26355/migu/608807423.m3u8?migutoken=d7b6cc3eac046465fe236c2965e3946243ace92809ec4ffa835acbf19f85a23758cc09035119e8dbb5866d0b84d66ffcb757e160fc002572802f546bad72ac31d4554c3c0e5167b0817a685258
 CCTV-13,http://218.27.55.132:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://221.205.171.203:9003/hls/14/index.m3u8
 CCTV-13,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8?IAS
@@ -660,7 +661,6 @@ CCTV-13,http://180.76.145.203:656/zb.php?id=cctv13
 CCTV-13,http://106.53.99.30/tv/api.php?id=cctv13
 CCTV-13,http://[2409:8087:1a15:10d1::2a]/wh7f454c46tw736258357_2010668203/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8?icpid=88888888&RTS=1756444791&from=23&hms_devid=1249&online=1756444791&vqe=3
 CCTV-13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8
-CCTV-13,http://112.123.243.37:50085/tsfile/live/0014_1.m3u8
 CCTV-13,http://www.hkyc.site:1991/udp/239.253.64.59:5140
 CCTV-13,http://222.218.122.23:8188/udp/239.81.0.206:4056
 CCTV-13,http://tpc.x3322.net:9901/tsfile/live/0013_1.m3u8

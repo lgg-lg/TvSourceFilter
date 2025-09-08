@@ -20,13 +20,14 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 CCTV-15,https://60.191.56.186:8888/hls/14/index.m3u8
 CCTV-15,http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
 CCTV-15,http://hbhyjq.ufyct.com:1088/hls/23/index.m3u8
-CCTV-15,http://dmggg.tyzb.fun:26355/migu/673168223.m3u8?migutoken=cb4bfbcc5677d19b02268ee486017cf57b8856a0659eef385d10e2af542e607f1963f672278ad5f22761105862b9123efefbce650013764f86ff15269649961511b622cb0e3f520d192380725a
 CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
 CCTV-15,http://t.061899.xyz/tl/dq.php?id=cctv15
 CCTV-15,http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-15,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/50/index.m3u8?msisdn=202509080900295b44e56820dc4f0cb6353948d5731e62&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20250908090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=106.13.250.83&SecurityKey=20250908090029&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=81651adf8c1065419db87bf1472a8a39&ddCalcu=9831va6a85aa1a2a7d4f18fcb17086b5d491&sv=10004&ct=android
 CCTV-15,http://go.bkpcp.top/mg/cctv15
 CCTV-15,http://113.15.109.216:59901/tsfile/live/0015_1.m3u8
+CCTV-15,https://cc06.tv12.xyz/16.m3u8
+CCTV-15,http://dmggg.tyzb.fun:26355/migu/673168223.m3u8?migutoken=cb4bfbcc5677d19b02268ee486017cf57b8856a0659eef385d10e2af542e607f1963f672278ad5f22761105862b9123efefbce650013764f86ff15269649961511b622cb0e3f520d192380725a
 CCTV-15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8#http://112.27.235.94:8000/hls/16/index.m3u8#http://dmggg.tyzb.fun:26355/migu/673168223.m3u8?migutoken=cb4bfbcc5677d19b02268ee486017cf57b8856a0659eef385d10e2af542e607f1963f672278ad5f22761105862b9123efefbce650013764f86ff15269649961511b622cb0e3f520d192380725a#https://my5353.com/ZB2qH#https://migu.188766.xyz/?migutoken=021ff42a771b2fbb7f33f81bfce74b65&id=CCTV15&pp=1#https://migu.188766.xyz/?migutoken=3f9f566d8b8f42bed9133d5bbf9f5efa&id=CCTV15&pp=1
 CCTV-15,http://180.76.145.203:656/zb.php?id=cctv15
 CCTV-15,http://106.53.99.30/tv/api.php?id=cctv15

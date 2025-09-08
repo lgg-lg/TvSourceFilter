@@ -21,7 +21,6 @@ CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
 CCTV-9,https://60.191.56.186:8888/hls/9/index.m3u8
 CCTV-9,http://api.kkitv.itv888.cn:8080/hls/bsmkmf3jrp4/index.m3u8
 CCTV-9,http://hbhyjq.ufyct.com:1088/hls/17/index.m3u8
-CCTV-9,http://dmggg.tyzb.fun:26355/migu/673168140.m3u8?migutoken=53ec1b76673b5ae0173b78ca2f09fa41891400edc9f7c1b7e2812c8234995f334f40605337c6eb28d368cb1d12d999ad2f31ba48540a7be8fc48feef37f35071f8ead6a57f20044893a47b1d13
 CCTV-9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
 CCTV-9,http://t.061899.xyz/tl/dq.php?id=cctv9
 CCTV-9,http://112.132.10.54:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -29,12 +28,13 @@ CCTV-9,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&a
 CCTV-9,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/index.m3u8?msisdn=2025090809002905ad6882b68f4a928d761ca95dcba85e&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20250908090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=106.13.250.83&SecurityKey=20250908090029&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=14256e7e9fbcab0440fb29e6708dc111&ddCalcu=1114v12ac5dd6a8e077e69ef9b2cbafb0044&sv=10004&ct=android
 CCTV-9,http://go.bkpcp.top/mg/cctv9
 CCTV-9,http://113.15.109.216:59901/tsfile/live/0009_1.m3u8
+CCTV-9,https://cc06.tv12.xyz/10.m3u8
 CCTV-9,http://221.205.204.69:9003/hls/10/index.m3u8
+CCTV-9,http://171.120.248.227:9003/hls/10/index.m3u8
+CCTV-9,http://dmggg.tyzb.fun:26355/migu/673168140.m3u8?migutoken=53ec1b76673b5ae0173b78ca2f09fa41891400edc9f7c1b7e2812c8234995f334f40605337c6eb28d368cb1d12d999ad2f31ba48540a7be8fc48feef37f35071f8ead6a57f20044893a47b1d13
 CCTV-9,http://112.27.235.94:8000/hls/10/index.m3u8#http://dmggg.tyzb.fun:26355/migu/673168140.m3u8?migutoken=53ec1b76673b5ae0173b78ca2f09fa41891400edc9f7c1b7e2812c8234995f334f40605337c6eb28d368cb1d12d999ad2f31ba48540a7be8fc48feef37f35071f8ead6a57f20044893a47b1d13
 CCTV-9,http://180.76.145.203:656/zb.php?id=cctv9
 CCTV-9,http://106.53.99.30/tv/api.php?id=cctv9
-CCTV-9,http://112.123.243.37:50085/tsfile/live/0010_1.m3u8
-CCTV-9,http://58.19.252.68:1111/tsfile/live/1008_1.m3u8
 CCTV-9,http://www.hkyc.site:1991/udp/239.253.64.76:5140
 CCTV-9,http://tpc.x3322.net:9901/tsfile/live/0009_1.m3u8
 CCTV-9,http://dl.zhoujie218.top/migu/migu.php?id=cctv9

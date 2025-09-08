@@ -533,7 +533,7 @@
 重庆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0714&tk=a0c4f6cfaba3
 重庆卫视,http://101.66.198.193:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://huijie5421.cn:8800/rtp/239.49.8.57:9830?
-重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509081205/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509090305/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8#http://222.169.85.8:9901/tsfile/live/0142_1.m3u8#http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://218.27.55.132:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://221.205.171.203:9003/hls/22/index.m3u8
@@ -544,7 +544,6 @@
 重庆卫视,http://live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 重庆卫视,http://[2409:8087:1a15:10d1::24]/wh7f454c46tw915785211_1637533785/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?icpid=88888888&RTS=1756444971&from=23&hms_devid=1244&online=1756444971&vqe=3
 重庆卫视,http://115.48.160.227:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://111.227.196.164:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://www.hkyc.site:1991/udp/239.253.64.55:5140
 重庆卫视,http://153.0.171.163:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://dl.zhoujie218.top/migu/migu.php?id=cqws

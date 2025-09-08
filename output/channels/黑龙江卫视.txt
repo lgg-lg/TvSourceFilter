@@ -437,7 +437,6 @@
 黑龙江卫视,http://183.61.247.138/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061003.m3u8
 黑龙江卫视,http://115.58.122.81:8866/live1564.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 黑龙江卫视,http://39.134.136.198:6410/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive
-黑龙江卫视,https://www.hljtv.com/live/folder418/
 黑龙江卫视,http://t.061899.xyz/tl/dq.php?id=hljws
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
 黑龙江卫视,https://mursor.ottiptv.cc/mcp/heilongjiang.m3u8
@@ -485,6 +484,7 @@
 黑龙江卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视,http://124.165.251.82:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://www.hiliu.myds.me:8088/rtp/239.254.96.138:8902
+黑龙江卫视,https://www.hljtv.com/live/folder418/
 黑龙江卫视,http://101.19.84.8:9901/tsfile/live/0125_1.m3u8
 黑龙江卫视,http://58.243.224.244:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://58.243.224.242:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -540,7 +540,6 @@
 黑龙江卫视,http://[2409:8087:1a15:10d1::35]/wh7f454c46tw1338187426_-794019874/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8?icpid=88888888&RTS=1756466868&from=23&hms_devid=1241&online=1756466868&vqe=3
 黑龙江卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181356BESTVSMGSMG/index.m3u8
 黑龙江卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000521/index.m3u8
-黑龙江卫视,http://111.227.196.164:9901/tsfile/live/0143_1.m3u8
 黑龙江卫视,http://www.hkyc.site:1991/udp/239.253.64.205:5140
 黑龙江卫视,http://tpc.x3322.net:9901/tsfile/live/0143_1.m3u8
 黑龙江卫视,http://153.0.171.163:9901/tsfile/live/0143_1.m3u8

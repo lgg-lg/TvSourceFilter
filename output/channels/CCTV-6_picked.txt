@@ -33,11 +33,12 @@ CCTV-6,http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&a
 CCTV-6,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?msisdn=202509080900296fbb8b8c86504ddc9f959170cd70d135&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20250908090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=106.13.250.83&SecurityKey=20250908090029&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d6365e2abd7bd044b53072627c8e8e5e&ddCalcu=ed56ve3a86be5a8ec27a2b6d277b0d3054b4&sv=10004&ct=android
 CCTV-6,http://go.bkpcp.top/mg/cctv6
 CCTV-6,http://113.15.109.216:59901/tsfile/live/0006_1.m3u8
+CCTV-6,https://cc06.tv12.xyz/7.m3u8
+CCTV-6,http://171.120.248.227:9003/hls/7/index.m3u8
 CCTV-6,http://221.205.204.69:9003/hls/7/index.m3u8
 CCTV-6,http://112.27.235.94:8000/hls/7/index.m3u8#https://migu.188766.xyz/?migutoken=bef07537cbc513ddb5257bd3b8d860d7&id=CCTV6&pp=1#http://61.156.228.12:8154/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://180.76.145.203:656/zb.php?id=cctv6
 CCTV-6,http://106.53.99.30/tv/api.php?id=cctv6
-CCTV-6,http://58.19.252.68:1111/tsfile/live/1005_1.m3u8
 CCTV-6,http://www.hkyc.site:1991/udp/239.253.64.246:5140
 CCTV-6,http://tpc.x3322.net:9901/tsfile/live/0006_1.m3u8
 CCTV-6,http://dl.zhoujie218.top/migu/migu.php?id=cctv6

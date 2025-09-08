@@ -586,7 +586,7 @@ CCTV-6,http://hbhyjq.ufyct.com:1088/hls/14/index.m3u8
 CCTV-6,http://129.150.58.101:50001/TVOD/1000000005000265006/ystenlive/index.m3u8?
 CCTV-6,http://live.wqwqwq.sbs/itv/1000000001000001737.m3u8?cdn=ystenlive
 CCTV-6,http://111.225.94.195:33333/hls/6/index.m3u8
-CCTV-6,https://tv.cctv.com/live/cctv6/
+CCTV-6,https://migu.188766.xyz/?migutoken=ed28b35479516f0f395830f2a82b249b&id=CCTV6&type=yy
 CCTV-6,https://migu.188766.xyz/?migutoken=a5c88255b66b3d21b916d44f61fcfef1&id=CCTV6&pp=1
 CCTV-6,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
 CCTV-6,http://t.061899.xyz/tl/dq.php?id=cctv6
@@ -641,6 +641,7 @@ CCTV-6,http://113.26.202.52:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&aut
 CCTV-6,http://221.205.206.222:9003/hls/7/index.m3u8
 CCTV-6,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-6,http://110.177.144.22:9003/hls/7/index.m3u8
+CCTV-6,https://tv.cctv.com/live/cctv6/
 CCTV-6,http://101.19.84.8:9901/tsfile/live/0006_1.m3u8
 CCTV-6,https://migu.188766.xyz/?migutoken=bef07537cbc513ddb5257bd3b8d860d7&id=CCTV6&pp=1
 CCTV-6,http://119.32.12.32:2901/udp/224.1.100.84:11111
@@ -681,7 +682,6 @@ CCTV-6,http://[2409:8087:1a15:10d1::26]/wh7f454c46tw224274478_-198610163/ottrrs.
 CCTV-6,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000307/index.m3u8
 CCTV-6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8
 CCTV-6,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226699/1.m3u8
-CCTV-6,http://58.19.252.68:1111/tsfile/live/1005_1.m3u8
 CCTV-6,http://www.hkyc.site:1991/udp/239.253.64.246:5140
 CCTV-6,http://222.218.122.23:8188/udp/239.81.0.233:4056
 CCTV-6,http://tpc.x3322.net:9901/tsfile/live/0006_1.m3u8

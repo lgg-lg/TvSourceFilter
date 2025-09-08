@@ -471,7 +471,7 @@
 安徽卫视,http://115.58.122.81:8845/live1350.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 安徽卫视,http://113.65.9.247:4013/udp/239.77.1.157:5146
 安徽卫视,http://111.227.196.164:9901/tsfile/live/0130_1.m3u8
-安徽卫视,https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1757301074&key=09da668ee5f1d96a845412657c2b862e
+安徽卫视,https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1757359206&key=a976c5edb22dcba2e585e02e5d4119b4
 安徽卫视,https://mursor.ottiptv.cc/mcp/anhui.m3u8
 安徽卫视,http://61.184.46.85:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225739/1.m3u8

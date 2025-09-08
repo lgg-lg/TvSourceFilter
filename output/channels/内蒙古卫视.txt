@@ -270,8 +270,6 @@
 内蒙古卫视,http://124.112.84.95:4000/rtp/238.1.78.103:6696
 内蒙古卫视,http://115.58.122.81:8862/live1534.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 内蒙古卫视,http://39.134.136.198:6410/000000001000/1000000002000014080/index.m3u8?channel-id=ystenlive
-内蒙古卫视,https://www.nmtv.cn/liveTv?tag=内蒙古卫视
-内蒙古卫视,https://www.yangshipin.cn/tv/home?pid=600190401
 内蒙古卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=nmws
 内蒙古卫视,http://t.061899.xyz/tl/dq.php?id=nmgws
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
@@ -301,6 +299,8 @@
 内蒙古卫视,http://101.19.84.8:9901/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://118.122.189.74:9901/tsfile/live/0109_1.m3u8
 内蒙古卫视,https://hls-gateway.vpstv.net/streams/708827.m3u8
+内蒙古卫视,https://www.nmtv.cn/liveTv?tag=内蒙古卫视
+内蒙古卫视,https://www.yangshipin.cn/tv/home?pid=600190401
 内蒙古卫视,http://101.19.84.8:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://api3.52tb.xyz/info?id=44&token=20230402fxrjwi
 内蒙古卫视,http://60.209.125.254:352/tsfile/live/0109_1.m3u8?ace

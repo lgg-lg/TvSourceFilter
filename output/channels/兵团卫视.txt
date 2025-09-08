@@ -162,11 +162,13 @@
 兵团卫视,http://39.134.136.198:6410/000000001000/1000000005000266005/index.m3u8?channel-id=ystenlive
 兵团卫视,http://39.134.136.198:6410/000000001000/5000000006000040020/index.m3u8?channel-id=bestzb
 兵团卫视,http://115.58.122.81:8874/live1665.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-兵团卫视,http://dmggg.tyzb.fun:26355/migu/956923145.m3u8?migutoken=e91cee20fa32f0a4a32a70e26e60b96ec1f40787bef72fb63594b6755e79088cf316b8b7c41f54d40f4959eac29a963cb006b35d32d21c5e49f22038bb77c0914cfb8d4ca10fac13cedf28caec
-兵团卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226111/1.m3u8
+兵团卫视,http://8.138.7.223/tv/btws.m3u8#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+兵团卫视,https://my5353.com/7Z1HP
+兵团卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226439/.m3u8
 兵团卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/btws/50/20250804/index.m3u8?msisdn=202509080900303931fb4616b7473e87809a50206dc3e1&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20250908090030&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=106.13.250.83&SecurityKey=20250908090030&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a7ac913e4ef929a4a59d4db260a46521&ddCalcu=1a27v5aa6cd49aa1036e24bedf49d2995aa4&sv=10004&ct=android
 兵团卫视,https://mursor.ottiptv.cc/mcp/bintuan.m3u8
 兵团卫视,http://go.bkpcp.top/mg/btws
+兵团卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226111/1.m3u8
 兵团卫视,http://m.061899.xyz/mg/btws
 兵团卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 兵团卫视,http://112.132.10.54:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -190,6 +192,7 @@
 兵团卫视,https://cc05.tv12.xyz/95.m3u8
 兵团卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227402/index.m3u8
 兵团卫视,https://cc06.tv12.xyz/30.m3u8
+兵团卫视,http://dmggg.tyzb.fun:26355/migu/956923145.m3u8?migutoken=e91cee20fa32f0a4a32a70e26e60b96ec1f40787bef72fb63594b6755e79088cf316b8b7c41f54d40f4959eac29a963cb006b35d32d21c5e49f22038bb77c0914cfb8d4ca10fac13cedf28caec
 兵团卫视,http://60.2.190.206:4000/udp/239.253.93.176:6344
 兵团卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0687&tk=e640d0a1bf70
 兵团卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1987&tk=f6cc1e0a0e1a
@@ -214,7 +217,6 @@
 兵团卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4917&tk=e640d0a1bf70
 兵团卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4904&tk=a0c4f6cfaba3
 兵团卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3641&tk=b53028476470
-兵团卫视,http://8.138.7.223/tv/btws.m3u8#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,http://218.27.55.132:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://live2.rxip.sc96655.com/live/btws_4000.m3u8?E=&U=&A=&K=&P=&S=
 兵团卫视,http://tpc.x3322.net:9901/tsfile/live/0115_1.m3u8

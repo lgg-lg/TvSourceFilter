@@ -26,12 +26,12 @@ CCTV-10,http://112.132.10.54:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&
 CCTV-10,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?msisdn=20250908090029d964d17b7e31425cb46f067af4e38db9&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20250908090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=106.13.250.83&SecurityKey=20250908090029&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6583cce14c09ba4170f1d37d3e58b763&ddCalcu=3665v78ab3y8ca5cee31d47c30d91bfa0471&sv=10004&ct=android
 CCTV-10,http://go.bkpcp.top/mg/cctv10
 CCTV-10,http://113.15.109.216:59901/tsfile/live/0010_1.m3u8
+CCTV-10,https://cc06.tv12.xyz/11.m3u8
 CCTV-10,http://221.205.204.69:9003/hls/11/index.m3u8
 CCTV-10,http://dmggg.tyzb.fun:26355/migu/624878405.m3u8?migutoken=a5b3fd8168ca2924099fab0543a2b86a3ab4a89e2dbf09b6df7c5ba6aa184b80091146290b1f98495148443ed384d73050b3bb0c3ef78b1a30334112201e5a56fdfde10963a9ed85efe11de6bc
 CCTV-10,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8#http://112.27.235.94:8000/hls/11/index.m3u8#http://dmggg.tyzb.fun:26355/migu/624878405.m3u8?migutoken=a5b3fd8168ca2924099fab0543a2b86a3ab4a89e2dbf09b6df7c5ba6aa184b80091146290b1f98495148443ed384d73050b3bb0c3ef78b1a30334112201e5a56fdfde10963a9ed85efe11de6bc#https://migu.188766.xyz/?migutoken=b00581e45a5c4b3ea7a6235947058e8c&id=CCTV10&pp=1#https://migu.188766.xyz/?migutoken=f1c893c9209df514eafc6dfc4a30645e&id=CCTV10&pp=1
 CCTV-10,http://180.76.145.203:656/zb.php?id=cctv10
 CCTV-10,http://106.53.99.30/tv/api.php?id=cctv10
-CCTV-10,http://112.123.243.37:50085/tsfile/live/0011_1.m3u8
 CCTV-10,http://www.hkyc.site:1991/udp/239.253.64.87:5140
 CCTV-10,http://tpc.x3322.net:9901/tsfile/live/0010_1.m3u8
 CCTV-10,http://dl.zhoujie218.top/migu/migu.php?id=cctv10

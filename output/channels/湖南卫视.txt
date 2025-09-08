@@ -510,7 +510,6 @@
 湖南卫视,http://39.134.136.198:6410/000000001000/5000000010000030452/index.m3u8?channel-id=bestzb
 湖南卫视,http://39.134.136.198:6410/000000001000/1000000001000032695/index.m3u8?channel-id=ystenlive
 湖南卫视,http://39.134.136.198:6410/000000001000/5000000011000265010/index.m3u8?channel-id=bestzb
-湖南卫视,https://www.yangshipin.cn/tv/home?pid=600002475
 湖南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hunws
 湖南卫视,http://t.061899.xyz/tl/dq.php?id=hunws
 湖南卫视,https://mursor.ottiptv.cc/mcp/hunan.m3u8
@@ -557,6 +556,7 @@
 湖南卫视,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 湖南卫视,http://124.165.251.82:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://www.hiliu.myds.me:8088/rtp/239.254.96.139:8908
+湖南卫视,https://www.yangshipin.cn/tv/home?pid=600002475
 湖南卫视,https://tv.iill.top/x/hnws
 湖南卫视,http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://58.243.224.244:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0

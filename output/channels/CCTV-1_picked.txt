@@ -36,11 +36,11 @@ CCTV-1,http://112.132.10.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&a
 CCTV-1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=2025090809002910a56790af094f9dac2f2d57f91eeb1b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20250908090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.83&SecurityKey=20250908090029&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=345678a8746bc4228c768223d8f3aa13&ddCalcu=3314va5aa6y37af88ad83724268b6c74c282&sv=10004&ct=android
 CCTV-1,http://go.bkpcp.top/mg/cctv1
 CCTV-1,http://113.15.109.216:59901/tsfile/live/0001_1.m3u8
+CCTV-1,https://cc06.tv12.xyz/1.m3u8
+CCTV-1,http://171.120.248.227:9003/hls/1/index.m3u8
 CCTV-1,http://dmggg.tyzb.fun:26355/migu/608807420.m3u8?migutoken=57bedec79dddf140a7d1aeaa0aa1e2f484b2914cd40734d13123ac1700be08ffe1ac3e4bc0e1f7781d9331321c2e5f4f1d18fe503d9066426b61b7124eab03571226905927f22cc4b94c28e10e
 CCTV-1,http://180.76.145.203:656/zb.php?id=cctv1
 CCTV-1,http://106.53.99.30/tv/api.php?id=cctv1
-CCTV-1,http://58.19.252.68:1111/tsfile/live/1000_1.m3u8
-CCTV-1,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8
 CCTV-1,http://www.hkyc.site:1991/udp/239.253.64.120:5140
 CCTV-1,http://tpc.x3322.net:9901/tsfile/live/0001_1.m3u8
 CCTV-1,http://dl.zhoujie218.top/migu/migu.php?id=cctv1

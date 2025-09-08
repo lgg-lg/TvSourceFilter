@@ -415,9 +415,8 @@
 河北卫视,http://39.134.136.198:6410/000000001000/5000000006000040016/index.m3u8?channel-id=bestzb
 河北卫视,http://39.134.136.198:6410/000000001000/1000000002000017118/index.m3u8?channel-id=ystenlive
 河北卫视,http://115.58.122.81:8855/live1441.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-河北卫视,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 河北卫视,http://t.061899.xyz/tl/dq.php?id=hbws
-河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1757301074&key=2462451f45820741fc5acf2df59c532b
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1757359206&key=94367d0f7541e558e8f02a044b406daa
 河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,https://mursor.ottiptv.cc/mcp/hebei.m3u8
 河北卫视,http://61.184.46.85:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -471,6 +470,7 @@
 河北卫视,http://221.205.206.222:9003/hls/29/index.m3u8
 河北卫视,http://www.hiliu.myds.me:8088/rtp/239.69.1.157:10578
 河北卫视,http://www.hiliu.myds.me:8088/rtp/239.254.96.113:9616
+河北卫视,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 河北卫视,http://119.32.12.32:2901/udp/224.1.100.19:11111
 河北卫视,http://119.32.12.32:2901/udp/224.1.100.20:11111
 河北卫视,http://119.32.12.17:2901/udp/224.1.100.19:11111

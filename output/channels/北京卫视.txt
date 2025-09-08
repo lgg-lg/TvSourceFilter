@@ -511,7 +511,6 @@
 北京卫视,http://39.134.136.198:6410/000000001000/5000000004000031556/index.m3u8?channel-id=bestzb
 北京卫视,http://115.58.122.81:8840/live1300.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 北京卫视,http://39.134.136.198:6410/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive
-北京卫视,https://www.btime.com/btv/btvsy_index?tag=0
 北京卫视,http://t.061899.xyz/tl/dq.php?id=bjws
 北京卫视,https://mursor.ottiptv.cc/mcp/beijing.m3u8
 北京卫视,https://migu.188766.xyz/?migutoken=1c026019f751bb8ff149188f2c4f7ea7&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
@@ -557,6 +556,7 @@
 北京卫视,http://110.177.144.22:9003/hls/20/index.m3u8
 北京卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 北京卫视,http://www.hiliu.myds.me:8088/rtp/239.254.96.141:8920
+北京卫视,https://www.btime.com/btv/btvsy_index?tag=0
 北京卫视,https://tv.iill.top/x/bjws
 北京卫视,http://58.243.224.244:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://119.32.12.32:2901/udp/224.1.100.100:11111
@@ -618,7 +618,6 @@
 北京卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/index.m3u8?fmt=ts2hls
 北京卫视,http://live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 北京卫视,http://[2409:8087:1a15:10d1::35]/wh7f454c46tw882903193_-781487364/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8?icpid=88888888&RTS=1756444938&from=23&hms_devid=1241&online=1756444938&vqe=3
-北京卫视,http://111.227.196.164:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://www.hkyc.site:1991/udp/239.253.64.204:5140
 北京卫视,http://tpc.x3322.net:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://153.0.171.163:9901/tsfile/live/0122_1.m3u8

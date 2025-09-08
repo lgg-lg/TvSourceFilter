@@ -528,14 +528,12 @@
 广东卫视,http://39.134.136.198:6410/000000001000/1000000005000265034/index.m3u8?channel-id=ystenlive
 广东卫视,http://113.65.9.247:4013/udp/239.77.1.152:5146
 广东卫视,http://39.134.136.198:6410/000000001000/5000000004000014694/index.m3u8?channel-id=bestzb
-广东卫视,https://migu.188766.xyz/?migutoken=ca7737784b0eafa0be5943f32e7f1e84&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
-广东卫视,https://migu.188766.xyz/?migutoken=2f70575b3a7942c6aabfaa9bef1e23f5&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
-广东卫视,https://www.gdtv.cn/tvChannelDetail/43
-广东卫视,https://www.yangshipin.cn/tv/home?pid=600002485
+广东卫视,https://migu.188766.xyz/?migutoken=cc63010387ecb3066f2674ef50326d61&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gdws
 广东卫视,http://t.061899.xyz/tl/dq.php?id=gdws
 广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20250908090030902a7037a5704314892b47d30dda7442&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20250908090030&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.83&SecurityKey=20250908090030&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0370845432db1b779f6bee63ff174375&ddCalcu=5073v37a40a78a14f5f43362edebb16bf797&sv=10004&ct=android
 广东卫视,https://mursor.ottiptv.cc/mcp/guangdong.m3u8
+广东卫视,https://migu.188766.xyz/?migutoken=ca7737784b0eafa0be5943f32e7f1e84&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
 广东卫视,http://61.184.46.85:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://go.bkpcp.top/mg/gdws
 广东卫视,http://119.123.179.116:8086/hls/44/index.m3u8
@@ -578,6 +576,9 @@
 广东卫视,http://221.205.204.69:9003/hls/26/index.m3u8
 广东卫视,http://124.165.251.82:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://www.hiliu.myds.me:8088/rtp/239.254.96.140:8914
+广东卫视,https://migu.188766.xyz/?migutoken=2f70575b3a7942c6aabfaa9bef1e23f5&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
+广东卫视,https://www.gdtv.cn/tvChannelDetail/43
+广东卫视,https://www.yangshipin.cn/tv/home?pid=600002485
 广东卫视,http://1b6467f415.iok.la:9931/tsfile/live/1010_1.m3u8
 广东卫视,https://tv.iill.top/x/gdws
 广东卫视,http://8.134.110.147:5300/?id=gdws
@@ -655,8 +656,6 @@
 广东卫视,http://live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 广东卫视,http://[2409:8087:1a15:10d1::24]/wh7f454c46tw1177612894_-666103562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8?icpid=88888888&RTS=1756466708&from=23&hms_devid=1244&online=1756466708&vqe=3
 广东卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000520/index.m3u8
-广东卫视,http://112.123.243.37:50085/tsfile/live/0135_1.m3u8
-广东卫视,https://migu.188766.xyz/?migutoken=9d9425fd2b2a1a9f2370caa558731e89&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
 广东卫视,http://www.hkyc.site:1991/udp/239.253.64.200:5140
 广东卫视,http://tpc.x3322.net:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://153.0.171.163:9901/tsfile/live/0125_1.m3u8

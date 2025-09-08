@@ -358,7 +358,6 @@
 青海卫视,http://39.134.136.198:6410/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive
 青海卫视,http://39.134.136.198:6410/000000001000/5000000006000040015/index.m3u8?channel-id=bestzb
 青海卫视,http://123.113.75.231:23456/rtp/239.3.1.44:8184
-青海卫视,https://www.yangshipin.cn/tv/home?pid=600190406
 青海卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=qhws
 青海卫视,http://t.061899.xyz/tl/dq.php?id=qhws
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
@@ -393,6 +392,7 @@
 青海卫视,http://zqh2333.top:2222/rtp/239.93.24.192:5140
 青海卫视,http://221.226.4.10:85/tsfile/live/0140_1.m3u8?key=txiptv
 青海卫视,https://hls-gateway.vpstv.net/streams/708825.m3u8
+青海卫视,https://www.yangshipin.cn/tv/home?pid=600190406
 青海卫视,http://61.157.139.15:9901/tsfile/live/2402_1.m3u8
 青海卫视,http://101.19.84.8:9901/tsfile/live/0140_2.m3u8
 青海卫视,http://101.19.84.8:9901/tsfile/live/0140_2.m3u8?key=txiptv&playlive=1&authid=0

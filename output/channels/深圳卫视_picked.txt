@@ -14,6 +14,8 @@
 深圳卫视,http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
 深圳卫视,http://t.061899.xyz/tl/dq.php?id=szws
 深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,https://cc06.tv12.xyz/108.m3u8
+深圳卫视,http://171.120.248.227:9003/hls/43/index.m3u8
 深圳卫视,http://www.hkyc.site:1991/udp/239.253.64.203:5140
 深圳卫视,http://tpc.x3322.net:9901/tsfile/live/0126_1.m3u88
 深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8

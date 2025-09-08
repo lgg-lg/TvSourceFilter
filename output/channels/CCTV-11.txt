@@ -505,10 +505,7 @@ CCTV-11,http://66.165.240.154:8080/live/jsydcctv11/hls.m3u8
 CCTV-11,http://180.165.132.50:5003/cctv11.m3u8?token=7375646f484b0da30cd3b1925793ddc32895d8c0&z=1f48
 CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
 CCTV-11,http://hbhyjq.ufyct.com:1088/hls/19/index.m3u8
-CCTV-11,https://migu.188766.xyz/?migutoken=5c9622b188af1f1f65e3111021df02ba&id=CCTV11&pp=1
-CCTV-11,https://migu.188766.xyz/?migutoken=ded08a75edc5f0b04acb2061d7097c8a&id=CCTV11&pp=1
-CCTV-11,https://migu.188766.xyz/?migutoken=5853d0338f6fc484bc5f7c69b082e893&id=CCTV11&pp=1
-CCTV-11,https://tv.cctv.com/live/cctv11/
+CCTV-11,https://migu.188766.xyz/?migutoken=2f832af83f0fb7a15f9017acc1bf908d&id=CCTV11&type=yy
 CCTV-11,https://migu.188766.xyz/?migutoken=7161126eb697caf582490927b3d3abde&id=CCTV11&pp=1
 CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
 CCTV-11,http://t.061899.xyz/tl/dq.php?id=cctv11
@@ -516,6 +513,7 @@ CCTV-11,#http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/8888888
 CCTV-11,http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?msisdn=20250908090029cb2c1c41e61f4bb3ac24cd9af2d1dfc2&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20250908090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.83&SecurityKey=20250908090029&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=59714a7e0400a2c7b11fe2a56da63e5f&ddCalcu=f559ve7a31z64aaad76e50a420e0fa121cb7&sv=10004&ct=android
 CCTV-11,https://mgtv.ottiptv.cc/migu/667987558.m3u8?migutoken=6d10ced8ca3a9bf707574ccb3d95e660b676815ff06a89b4ab050bb662cb88a95bb6906e57e9559cf7d72afb8c3d85522eb5ddc6ae42497493ddb5fd39f3c251c38469442c5d0a228876adac79
+CCTV-11,https://migu.188766.xyz/?migutoken=5c9622b188af1f1f65e3111021df02ba&id=CCTV11&pp=1
 CCTV-11,http://61.184.46.85:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://go.bkpcp.top/mg/cctv11
 CCTV-11,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226145/1.m3u8
@@ -552,6 +550,9 @@ CCTV-11,http://101.43.145.141:12002/itv/5000000011000031106.m3u8?cdn=bestzb
 CCTV-11,http://101.43.145.141:12002/itv/1000000005000265011.m3u8?cdn=ystenlive
 CCTV-11,https://hls-gateway.vpstv.net/streams/476897.m3u8
 CCTV-11,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-11,https://migu.188766.xyz/?migutoken=ded08a75edc5f0b04acb2061d7097c8a&id=CCTV11&pp=1
+CCTV-11,https://migu.188766.xyz/?migutoken=5853d0338f6fc484bc5f7c69b082e893&id=CCTV11&pp=1
+CCTV-11,https://tv.cctv.com/live/cctv11/
 CCTV-11,http://101.19.84.8:9901/tsfile/live/0011_1.m3u8
 CCTV-11,http://dmggg.tyzb.fun:26355/migu/667987558.m3u8?migutoken=22d29ee28adfece1ca0af1ef21ad55ff2f2d184276ff094691af949ea5c58f29e9c04676de2701e3d0a1f8cd87e31dab6346a861995b2a6b2c47efce5e81abb21107b5599733a991a173282700
 CCTV-11,http://119.32.12.32:2901/udp/224.1.100.44:11111
@@ -623,8 +624,7 @@ CCTV-11,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-11/1.m
 CCTV-11,http://[2409:8087:1a15:10d1::35]/wh7f454c46tw498547150_-868569556/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8?icpid=88888888&RTS=1756444554&from=23&hms_devid=1241&online=1756444554&vqe=3
 CCTV-11,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8
 CCTV-11,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226714/1.m3u8
-CCTV-11,http://112.123.243.37:50085/tsfile/live/0012_1.m3u8
-CCTV-11,http://58.19.252.68:1111/tsfile/live/1010_1.m3u8
+CCTV-11,https://smart.pendy.dpdns.org/Smart.php
 CCTV-11,http://www.hkyc.site:1991/udp/239.253.64.70:5140
 CCTV-11,http://222.218.122.23:8188/udp/239.81.0.229:4056
 CCTV-11,http://tpc.x3322.net:9901/tsfile/live/0011_1.m3u8

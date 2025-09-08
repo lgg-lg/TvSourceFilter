@@ -373,10 +373,9 @@
 云南卫视,http://39.134.136.198:6410/000000001000/5000000011000031120/index.m3u8?channel-id=bestzb
 云南卫视,http://39.134.136.198:6410/000000001000/1000000002000024694/index.m3u8?channel-id=ystenlive
 云南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8
-云南卫视,https://www.yangshipin.cn/tv/home?pid=600190402
 云南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=ynws
 云南卫视,http://t.061899.xyz/tl/dq.php?id=ynws
-云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1757301074&key=b6526b943cae31489cb4945d53e00364
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1757359206&key=76551f779da986e5951c27340446a83f
 云南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 云南卫视,https://mursor.ottiptv.cc/mcp/yunnan.m3u8
@@ -408,6 +407,7 @@
 云南卫视,https://cc06.tv12.xyz/114.m3u8
 云南卫视,http://zqh2333.top:2222/rtp/239.93.25.174:5140?key=txiptv
 云南卫视,https://hls-gateway.vpstv.net/streams/708863.m3u8
+云南卫视,https://www.yangshipin.cn/tv/home?pid=600190402
 云南卫视,http://101.19.84.8:9901/tsfile/live/0126_1.m3u8
 云南卫视,http://110.81.206.138:49231/tsfile/live/23054_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://58.243.224.242:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0

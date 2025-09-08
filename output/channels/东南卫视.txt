@@ -427,6 +427,7 @@
 东南卫视,http://39.134.136.198:6410/000000001000/1000000002000009263/index.m3u8?channel-id=ystenlive
 东南卫视,http://115.58.122.81:8850/live1400.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://112.27.235.94:8000/hls/38/index.m3u8
 东南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dnws
 东南卫视,http://t.061899.xyz/tl/dq.php?id=dnws
 东南卫视,http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -522,7 +523,6 @@
 东南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1242&tk=b53028476470
 东南卫视,rtsp://115.85.232.19/PLTV/88888910/224/3221225853/376430608.smil
 东南卫视,http://huijie5421.cn:8800/rtp/239.49.8.112:8000?
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://112.27.235.94:8000/hls/38/index.m3u8
 东南卫视,http://218.27.55.132:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236151/index.m3u8?IAS
 东南卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231261/index.m3u8?IAS

@@ -324,7 +324,6 @@
 宁夏卫视,http://39.134.136.198:6410/000000001000/5000000006000040022/index.m3u8?channel-id=bestzb
 宁夏卫视,http://115.58.122.81:8858/live1481.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 宁夏卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-宁夏卫视,https://www.yangshipin.cn/tv/home?pid=600190737
 宁夏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=nxws
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
 宁夏卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226454/index.m3u8
@@ -360,6 +359,7 @@
 宁夏卫视,http://171.120.248.227:9003/hls/39/index.m3u8
 宁夏卫视,http://221.205.204.69:9003/hls/39/index.m3u8
 宁夏卫视,http://221.205.206.222:9003/hls/39/index.m3u8
+宁夏卫视,https://www.yangshipin.cn/tv/home?pid=600190737
 宁夏卫视,http://101.19.84.8:9901/tsfile/live/0112_1.m3u8
 宁夏卫视,http://58.243.224.244:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 宁夏卫视,http://58.243.224.242:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0

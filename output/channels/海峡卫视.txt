@@ -46,7 +46,6 @@
 海峡卫视,p3p://167.114.175.6:55331/63ec47390001586de42ffc1a7e1856a6
 海峡卫视,p3p://173.208.176.178:31809/63ec47390001586de42ffc1a7e1856a6
 海峡卫视,http://120.40.61.59:1000/rtp/239.61.2.151:8894
-海峡卫视,http://dmggg.tyzb.fun:26355/migu/849119120.m3u8?migutoken=75b5cda4695a04f4f3abaa69a1e321b27ed4f956a6d5faeea71b37656cf7e06a835a83664722beac279ad519673202887f6275ebf038bc48f59e7ca44fbeb2a889cf2351ed99868c8dd716ba27
 海峡卫视,#http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227198/index.m3u8
 海峡卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hxws
 海峡卫视,http://t.061899.xyz/tl/dq.php?id=hxws

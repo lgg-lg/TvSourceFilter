@@ -12,6 +12,7 @@
 青海卫视,http://t.061899.xyz/tl/dq.php?id=qhws
 青海卫视,http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=20250908090030b3816f69bd384b009d647a43935de5dc&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20250908090030&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.83&SecurityKey=20250908090030&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=cb8a55b34b00a9c111c3e208d876fe85&ddCalcu=5c8bve8afaz65a758bd3840b20e03ac91c11&sv=10004&ct=android
 青海卫视,http://113.15.109.216:59901/tsfile/live/0140_1.m3u8
+青海卫视,https://cc06.tv12.xyz/97.m3u8
 青海卫视,http://221.2.148.205:8154/tsfile/live/0140_1.m3u8
 青海卫视,http://tpc.x3322.net:9901/tsfile/live/0140_1.m3u8
 青海卫视,http://153.0.171.163:9901/tsfile/live/0140_1.m3u8

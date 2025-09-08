@@ -571,10 +571,6 @@ CCTV-3,http://129.150.58.101:50001/TVOD/1000000005000265003/ystenlive/index.m3u8
 CCTV-3,http://58.254.14.139:808/hls/3/index.m3u8
 CCTV-3,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
 CCTV-3,http://61.52.159.58:808/hls/3/index.m3u8
-CCTV-3,https://migu.188766.xyz/?migutoken=01fc50adfde260ed53087cf07ff4fdb1&id=CCTV3&pp=1
-CCTV-3,http://dmggg.tyzb.fun:26355/migu/624878271.m3u8?migutoken=4af5bde5f3eafb5f506f6ba76ec67d6293ebafe5d3c135ad52deba4743987496a25828ba28d4c30e1c421aabe2834ebe0dfc31074b4cf99065bbf16c6633445ffb850d0f29eaa69e3e9b1f7fd9
-CCTV-3,https://migu.188766.xyz/?migutoken=8f518c43f70788019affb197c89e25b4&id=CCTV3&pp=1
-CCTV-3,https://tv.cctv.com/live/cctv3/
 CCTV-3,https://migu.188766.xyz/?migutoken=8d7819d7cf8a8042766c02aac3080b90&id=CCTV3&pp=1
 CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
 CCTV-3,http://t.061899.xyz/tl/dq.php?id=cctv3
@@ -582,6 +578,7 @@ CCTV-3,#http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-3,http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=20250908090029b5cd4b448c374ce5ba815b53e447e1d6&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20250908090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=106.13.250.83&SecurityKey=20250908090029&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4d86d2d011b594b7d7b412c80ad92555&ddCalcu=545dv58a26a9dad2ad0081c12b1549b47bd7&sv=10004&ct=android
 CCTV-3,https://mgtv.ottiptv.cc/migu/624878271.m3u8?migutoken=083279abb7b4544938a19a36704058b18691b6ed848693ad839df34327b0766a2dd705209ff61443de894aecc66851cf0fd9ce567170151ea9facb75afbb7b75add685cc74971762d1cfc98abb
+CCTV-3,https://migu.188766.xyz/?migutoken=01fc50adfde260ed53087cf07ff4fdb1&id=CCTV3&pp=1
 CCTV-3,http://61.184.46.85:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://go.bkpcp.top/mg/cctv3
 CCTV-3,http://yc.myds.me:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
@@ -625,6 +622,9 @@ CCTV-3,http://124.165.251.82:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&au
 CCTV-3,http://171.120.248.227:9003/hls/3/index.m3u8
 CCTV-3,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-3,http://221.205.206.222:9003/hls/3/index.m3u8
+CCTV-3,http://dmggg.tyzb.fun:26355/migu/624878271.m3u8?migutoken=4af5bde5f3eafb5f506f6ba76ec67d6293ebafe5d3c135ad52deba4743987496a25828ba28d4c30e1c421aabe2834ebe0dfc31074b4cf99065bbf16c6633445ffb850d0f29eaa69e3e9b1f7fd9
+CCTV-3,https://migu.188766.xyz/?migutoken=8f518c43f70788019affb197c89e25b4&id=CCTV3&pp=1
+CCTV-3,https://tv.cctv.com/live/cctv3/
 CCTV-3,http://202.168.187.208:9089/tsfile/live/0003_1.m3u8
 CCTV-3,http://101.19.84.8:9901/tsfile/live/0003_1.m3u8
 CCTV-3,http://119.32.12.32:2901/udp/224.1.100.64:11111
@@ -667,7 +667,7 @@ CCTV-3,http://106.53.99.30/tv/api.php?id=cctv3
 CCTV-3,http://[2409:8087:1a15:10d1::21]/wh7f454c46tw79653458_-935249767/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8?icpid=88888888&RTS=1756444135&from=23&hms_devid=1247&online=1756444135&vqe=3
 CCTV-3,http://110.181.237.202:9901/tsfile/live/0003_1.m3u8
 CCTV-3,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000303/index.m3u8
-CCTV-3,http://58.19.252.68:1111/tsfile/live/1002_1.m3u8
+CCTV-3,https://smart.pendy.dpdns.org/Smart.php
 CCTV-3,http://www.hkyc.site:1991/udp/239.253.64.244:5140
 CCTV-3,http://222.218.122.23:8188/udp/239.81.0.231:4056
 CCTV-3,http://tpc.x3322.net:9901/tsfile/live/0003_1.m3u8

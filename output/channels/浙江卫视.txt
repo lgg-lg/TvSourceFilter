@@ -534,7 +534,7 @@
 浙江卫视,http://39.134.136.198:6410/000000001000/7889730693553663314/index.m3u8?channel-id=ystenlive
 浙江卫视,http://39.134.136.198:6410/000000001000/1000000005000265031/index.m3u8?channel-id=ystenlive
 浙江卫视,http://60.166.74.121:4022/rtp/238.1.78.164:7184
-浙江卫视,https://www.cztv.com/liveTV/101
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8#http://8.138.7.223/tv/zjws.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://t.061899.xyz/tl/dq.php?id=zjws
 浙江卫视,http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,https://mursor.ottiptv.cc/mcp/zhejiang.m3u8
@@ -573,6 +573,7 @@
 浙江卫视,http://101.43.145.141:12002/itv/1000000005000265031.m3u8?cdn=ystenlive
 浙江卫视,https://hls-gateway.vpstv.net/streams/476909.m3u8
 浙江卫视,http://ygbh.site/php/bfgd.php?id=094
+浙江卫视,https://www.cztv.com/liveTV/101
 浙江卫视,https://tv.iill.top/x/zjws
 浙江卫视,http://119.32.12.32:2901/udp/224.1.100.52:11111
 浙江卫视,http://58.243.224.244:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -629,7 +630,6 @@
 浙江卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0428&tk=f6cc1e0a0e1a
 浙江卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0222&tk=e503191f8e20
 浙江卫视,http://huijie5421.cn:8800/rtp/239.49.8.20:9618?
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8#http://8.138.7.223/tv/zjws.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://218.27.55.132:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236638/index.m3u8?IAS
 浙江卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236638/index.m3u8?

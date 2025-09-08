@@ -598,9 +598,7 @@ CCTV-1,http://42.180.65.18:9002/hls/1/index.m3u8
 CCTV-1,http://114.66.63.135:23791/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV-1,http://123.149.238.49:9003/hls/1/index.m3u8
 CCTV-1,http://39.135.133.180:80/wh7f454c46tw3153047321_-389890599/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?
-CCTV-1,https://migu.188766.xyz/?migutoken=f30ad3230856c403d8a1d7cb1143ef65&id=CCTV1&pp=1
-CCTV-1,https://tv.cctv.com/live/cctv1/
-CCTV-1,https://www.yangshipin.cn/tv/home?pid=600001859
+CCTV-1,https://migu.188766.xyz/?migutoken=741e40cd30ca20ff5b10e49b08c79086&id=CCTV1&type=yy
 CCTV-1,https://migu.188766.xyz/?migutoken=6598d13b64b01bf74fc04c13b92b9cb6&id=CCTV1&pp=1
 CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 CCTV-1,http://t.061899.xyz/tl/dq.php?id=cctv1
@@ -610,6 +608,7 @@ CCTV-1,",http://113.101.119.27:8090/hls/113/index.m3u8"
 CCTV-1,http://112.132.10.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=2025090809002910a56790af094f9dac2f2d57f91eeb1b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20250908090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.83&SecurityKey=20250908090029&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=345678a8746bc4228c768223d8f3aa13&ddCalcu=3314va5aa6y37af88ad83724268b6c74c282&sv=10004&ct=android
 CCTV-1,https://mgtv.ottiptv.cc/migu/608807420.m3u8?migutoken=02a29ecf712cbe82a46785c3b03396ce9fb6d293d63839fa065915076aa7002c15422793bc912a0bd23facddd1aa77b7df9af62afdebbf47e8b2572787a2fd1ae2cd1097e07848392838cabb90
+CCTV-1,https://migu.188766.xyz/?migutoken=f30ad3230856c403d8a1d7cb1143ef65&id=CCTV1&pp=1
 CCTV-1,http://61.184.46.85:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://go.bkpcp.top/mg/cctv1
 CCTV-1,http://yc.myds.me:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
@@ -664,6 +663,8 @@ CCTV-1,http://ygbh.site/php/bfgd.php?id=484
 CCTV-1,http://ygbh.site/php/bfgd.php?id=489
 CCTV-1,http://sh.lnott.top:880/dx01.m3u8
 CCTV-1,https://live.tvfix.org/live/cctv1hd/index.m3u8
+CCTV-1,https://tv.cctv.com/live/cctv1/
+CCTV-1,https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV-1,https://tv.iill.top/x/cctv1
 CCTV-1,http://101.19.84.8:9901/tsfile/live/0001_1.m3u8
 CCTV-1,http://36.105.100.208:35455/gaoma/cctv1.m3u8
@@ -709,9 +710,7 @@ CCTV-1,http://[2409:8087:1a15:10d1::21]/wh7f454c46tw5193367_150047446/ottrrs.hl.
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-CCTV-1,http://58.19.252.68:1111/tsfile/live/1000_1.m3u8
-CCTV-1,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8
-CCTV-1,http://111.227.196.164:9901/tsfile/live/0001_1.m3u8
+CCTV-1,https://smart.pendy.dpdns.org/Smart.php
 CCTV-1,http://www.hkyc.site:1991/udp/239.253.64.120:5140
 CCTV-1,http://222.218.122.23:8188/udp/239.81.0.102:4056
 CCTV-1,http://tpc.x3322.net:9901/tsfile/live/0001_1.m3u8

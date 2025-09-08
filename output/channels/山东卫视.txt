@@ -458,7 +458,7 @@
 山东卫视,http://39.134.136.198:6410/000000001000/5000000004000020424/index.m3u8?channel-id=bestzb
 山东卫视,http://39.134.136.198:6410/000000001000/1000000005000265019/index.m3u8?channel-id=ystenlive
 山东卫视,http://39.134.136.198:6410/000000001000/7347081113971056899/index.m3u8?channel-id=ystenlive
-山东卫视,https://v.iqilu.com/live/sdtv/index.html
+山东卫视,http://live.dxhmt.cn:9081/tv/11521-1.m3u8#http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 山东卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sdws
 山东卫视,http://t.061899.xyz/tl/dq.php?id=sdws
 山东卫视,http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -502,6 +502,7 @@
 山东卫视,http://124.165.251.82:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://ygbh.site/php/bfgd.php?id=099
 山东卫视,http://www.hiliu.myds.me:8088/rtp/239.69.1.69:10054
+山东卫视,https://v.iqilu.com/live/sdtv/index.html
 山东卫视,http://101.19.84.8:9901/tsfile/live/0135_1.m3u8
 山东卫视,http://110.80.17.38:9901/tsfile/live/0131_1.m3u8
 山东卫视,http://58.243.224.244:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -554,7 +555,6 @@
 山东卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0092&tk=f6cc1e0a0e1a
 山东卫视,rtsp://115.85.232.19/PLTV/88888910/224/3221225526/10000100000000060000000000107306_0.smil
 山东卫视,http://huijie5421.cn:8800/rtp/239.49.8.7:9306?
-山东卫视,http://live.dxhmt.cn:9081/tv/11521-1.m3u8#http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 山东卫视,http://218.27.55.132:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236159/index.m3u8?IAS
 山东卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228308/index.m3u8?IAS

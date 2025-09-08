@@ -40,8 +40,6 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 CHC影迷电影,http://58.215.231.35/live3.ngaacdn.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
 CHC影迷电影,http://101.204.187.4:8035/hls.p2p.com/live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E&U&A&K&P&S
 CHC影迷电影,http://123.53.244.236:34567/mgtv/952383261.m3u8
-CHC影迷电影,http://dmggg.tyzb.fun:26355/migu/952383261.m3u8?migutoken=a0cdd7dad8de519129e8b29a61a119f7f6e6b6991a8506d3e2d42859c1f37c06a33e9752a12dcf313e773dada823e7af479cc6b088520f9b344112b13e436832a58f5a6c9609dc854e31a69c25
-CHC影迷电影,https://migu.188766.xyz/?migutoken=ec19e1ff5208643bef90c0bcf3af7c55&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=20250908090032cec1f505ecc245ec88c14b2a3ee6af2c&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20250908090032&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.83&SecurityKey=20250908090032&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0592cbeab8e63cba40e2cf4eca763a89&ddCalcu=9085va9a32a6ca7baecaeb48fec623ec0b4a&sv=10004&ct=android
 CHC影迷电影,https://mgtv.ottiptv.cc/migu/952383261.m3u8?migutoken=4d8097f6dbb23647eeb9158b8ccdb738bbc950d7544e72d1aa5192eadb6f8a42343caa158f0b38073e1437e1f930148daf493191fe4455faaa9223bb301480a4433fb5ba8364bbb97213605a43
 CHC影迷电影,https://migu.188766.xyz/?migutoken=5000b21ea0782b4f9bcff90fc1d2abb5&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
@@ -52,6 +50,8 @@ CHC影迷电影,http://m.061899.xyz/mg/ymdy
 CHC影迷电影,http://124.93.18.238:9002//hls/77/index.m3u8
 CHC影迷电影,https://guangdongcmcc.tv12.xyz/25.m3u8
 CHC影迷电影,http://58.17.48.228:808/hls/28/index.m3u8
+CHC影迷电影,http://dmggg.tyzb.fun:26355/migu/952383261.m3u8?migutoken=a0cdd7dad8de519129e8b29a61a119f7f6e6b6991a8506d3e2d42859c1f37c06a33e9752a12dcf313e773dada823e7af479cc6b088520f9b344112b13e436832a58f5a6c9609dc854e31a69c25
+CHC影迷电影,https://migu.188766.xyz/?migutoken=ec19e1ff5208643bef90c0bcf3af7c55&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-8.m3u8
 CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088
 CHC影迷电影,https://stream1.freetv.fun/ipv6-chcying-mi-dian-ying-10.m3u8

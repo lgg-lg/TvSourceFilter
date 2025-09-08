@@ -455,7 +455,7 @@
 深圳卫视,http://39.134.136.198:6410/000000001000/1000000001000009227/index.m3u8?channel-id=ystenlive
 深圳卫视,http://39.134.136.198:6410/000000001000/1000000001000011645/index.m3u8?channel-id=ystenlive
 深圳卫视,http://t.061899.xyz/tl/dq.php?id=szws
-深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1757301074&key=d67ba736abba5352f99a8304c5c63d1c
+深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1757359206&key=195375b597d22e16055efaa5c616a795
 深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,https://mursor.ottiptv.cc/mcp/shenzheng.m3u8
 深圳卫视,http://61.184.46.85:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0

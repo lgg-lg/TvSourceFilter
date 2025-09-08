@@ -369,9 +369,6 @@ CCTV-5+,http://live.wqwqwq.sbs/itv/1000000005000265016.m3u8?cdn=ystenlive
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV-5+,http://156.226.171.32:50001/TVOD/1000000001000018504/ystenlive/index.m3u8
 CCTV-5+,http://156.226.171.32:50001/TVOD/6000000001000015875/wasusyt/index.m3u8
-CCTV-5+,https://migu.188766.xyz/?migutoken=3dace13a2fee1e6a373674149ec2a4f9&id=CCTV5p&pp=1
-CCTV-5+,http://dmggg.tyzb.fun:26355/migu/641886773.m3u8?migutoken=d64d30da427d72bce1fdd2e3a96da5fa8f95c2e5627b5528005a76d5390cb8bad37e6e94c2f4113e33dc630528903a95a7bee37c6b039f1ed53f34a4a51f7e263eca59a63c381ec4110adb9e89
-CCTV-5+,https://tv.cctv.com/live/cctv5plus/
 CCTV-5+,https://migu.188766.xyz/?migutoken=28a852d7ffcb5f5b43b1d944afd198eb&id=CCTV5p&pp=1
 CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
 CCTV-5+,http://t.061899.xyz/tl/dq.php?id=cctv5p
@@ -404,6 +401,9 @@ CCTV-5+,http://101.43.145.141:12002/itv/1000000005000265016.m3u8?cdn=ystenlive
 CCTV-5+,http://api.mytv666.top/api/qwt.php?t=体育频道&id=CCTV5+
 CCTV-5+,https://hls-gateway.vpstv.net/streams/476888.m3u8
 CCTV-5+,http://cfss.cc/api/ysp/cctv5p.m3u8
+CCTV-5+,https://migu.188766.xyz/?migutoken=3dace13a2fee1e6a373674149ec2a4f9&id=CCTV5p&pp=1
+CCTV-5+,http://dmggg.tyzb.fun:26355/migu/641886773.m3u8?migutoken=d64d30da427d72bce1fdd2e3a96da5fa8f95c2e5627b5528005a76d5390cb8bad37e6e94c2f4113e33dc630528903a95a7bee37c6b039f1ed53f34a4a51f7e263eca59a63c381ec4110adb9e89
+CCTV-5+,https://tv.cctv.com/live/cctv5plus/
 CCTV-5+,https://tv.iill.top/x/cctv5+
 CCTV-5+,http://101.19.84.8:9901/tsfile/live/0016_1.m3u8
 CCTV-5+,http://3501776.xyz:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
@@ -441,9 +441,6 @@ CCTV-5+,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000306/index.m3u8
 CCTV-5+,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8
 CCTV-5+,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000507/index.m3u8
 CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8
-CCTV-5+,http://112.123.243.37:50085/tsfile/live/0006_1.m3u8
-CCTV-5+,http://58.19.252.68:1111/tsfile/live/1014_1.m3u8
-CCTV-5+,https://migu.188766.xyz/?migutoken=e169fa6b833aa01388bbd96d5b8e4582&id=CCTV5p&pp=1
 CCTV-5+,https://smart.pendy.dpdns.org/Smart.php
 CCTV-5+,http://www.hkyc.site:1991/udp/239.253.64.100:5140
 CCTV-5+,http://222.218.122.23:8188/udp/239.81.0.101:4056
