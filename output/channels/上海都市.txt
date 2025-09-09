@@ -67,11 +67,13 @@
 上海都市,http://39.134.136.198:6410/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb
 上海都市,https://migu.188766.xyz/?migutoken=2f874035df0c1212db90a024f4670dce&id=ds&type=sz
 上海都市,http://222.64.56.17:6666/udp/239.45.3.236:5140$上海电信组播
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1757359206&key=cdf52b5bbd2e5b12f3eae2e6e37c4a3a
-上海都市,https://migu.188766.xyz/?migutoken=25fca555af4be46a9744edda1dbd024d&id=ds&type=sz
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1757402764&key=fa12821f019f05f90fcb7826c1f3d44c
+上海都市,https://stream1.freetv.fun/shang-hai-du-shi-10.ctv
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-7.ctv
+上海都市,https://migu.188766.xyz/?migutoken=a905d33a5e205c776d2606965e3fe541&id=ds&type=sz
 上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8?
 上海都市,http://[2409:8087:1e01:20::3]/000000001000/5000000010000018926/index.m3u8
+上海都市,https://migu.188766.xyz/?migutoken=25fca555af4be46a9744edda1dbd024d&id=ds&type=sz
 上海都市,
 上海都市,http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
 上海都市,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989

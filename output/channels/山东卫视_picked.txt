@@ -28,9 +28,8 @@
 山东卫视,http://tpc.x3322.net:9901/tsfile/live/0131_1.m3u8
 山东卫视,http://153.0.171.163:9901/tsfile/live/0131_1.m3u8
 山东卫视,http://dl.zhoujie218.top/migu/migu.php?id=sdws
-山东卫视,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路36』
-山东卫视,https://stream1.freetv.fun/ac1c15dc01a08667160c68a85717a5fab47c32c3861d361c102d0f3e96be2672.ctv$LR•IPV4『线路77』
-山东卫视,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8$LR•IPV4『线路112』
+山东卫视,https://stream1.freetv.fun/ac1c15dc01a08667160c68a85717a5fab47c32c3861d361c102d0f3e96be2672.ctv$LR•IPV4『线路68』
+山东卫视,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8$LR•IPV4『线路104』
 山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
 山东卫视,ttps://6663.luyazo.com/livetv/hlnt/BCeRwG3Sg/BCeRwG3Sg_live.m3u8
 山东卫视,http://171.15.18.199:8180/TV00000000000000000024@HHZT

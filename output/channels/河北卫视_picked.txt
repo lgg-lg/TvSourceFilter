@@ -22,9 +22,8 @@
 河北卫视,http://tpc.x3322.net:9901/tsfile/live/0117_1.m3u8
 河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8
 河北卫视,http://go.bkpcp.top/mg/hbws
-河北卫视,http://61.156.228.12:8154/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路34』
-河北卫视,https://stream1.freetv.fun/a995bf588414dfdd5597e1458b574468be6201181b6323fd280473e314d4f397.ctv$LR•IPV4『线路87』
-河北卫视,http://61.156.228.12:8154/tsfile/live/0117_1.m3u8$LR•IPV4『线路123』
+河北卫视,https://stream1.freetv.fun/a995bf588414dfdd5597e1458b574468be6201181b6323fd280473e314d4f397.ctv$LR•IPV4『线路78』
+河北卫视,http://61.156.228.12:8154/tsfile/live/0117_1.m3u8$LR•IPV4『线路114』
 河北卫视,http://t.061899.xyz/tl/tl.php?id=hbws
 河北卫视,https://6663.luyazo.com/livetv/hldn/ppDB8GqIR/ppDB8GqIR_live.m3u8
 河北卫视,http://171.15.18.199:8180/TV00000000000000000035@HHZT

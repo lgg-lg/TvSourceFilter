@@ -23,7 +23,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#http://112.27.235.94:8000/hl
 CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
 CCTV-14,http://t.061899.xyz/tl/dq.php?id=cctv14
 CCTV-14,http://112.132.10.54:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-14,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?msisdn=20250908090029ea1abbdf1892420b9f2d8202758edf3c&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20250908090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=106.13.250.83&SecurityKey=20250908090029&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1f37da1ff97b24d82454f0483f590f96&ddCalcu=619fvf3a07y9da5af13f8f4907fb42544d28&sv=10004&ct=android
+CCTV-14,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?msisdn=202509090900278aa78c3a3cd94c96aea62dc627a1f6f2&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20250909090027&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=106.13.250.90&SecurityKey=20250909090027&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=69d71b2f35d0248de8920ab0584a4e90&ddCalcu=0699veda47ya1a4b825f03b5ad00229488ed&sv=10004&ct=android
 CCTV-14,http://go.bkpcp.top/mg/cctv14
 CCTV-14,https://cc06.tv12.xyz/15.m3u8
 CCTV-14,http://221.205.204.69:9003/hls/15/index.m3u8
@@ -37,7 +37,7 @@ CCTV-14,http://dl.zhoujie218.top/migu/migu.php?id=cctv14
 CCTV-14,http://58.243.224.242:9999/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-14,http://222.135.142.75:3283/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://218.104.239.114:9901//tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://61.156.228.12:8154/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路33』
+CCTV-14,http://60.29.124.66:6080/hls/25/index.m3u8$LR•IPV4『线路25』
 CCTV-14,http://221.226.51.220:50081/newlive/live/hls/14/live.m3u8
 CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8

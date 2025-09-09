@@ -15,13 +15,13 @@
 广西卫视,https://cc06.tv12.xyz/46.m3u8
 广西卫视,http://221.205.204.69:9003/hls/27/index.m3u8
 广西卫视,http://221.2.148.205:8154/tsfile/live/0113_1.m3u8
-广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8#http://221.2.148.205:8154/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0#http://221.2.148.205:8154/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8#http://221.2.148.205:8154/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.89.240.144:59901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://tpc.x3322.net:9901/tsfile/live/0119_1.m3u8
 广西卫视,http://153.0.171.163:9901/tsfile/live/0113_1.m3u8
 广西卫视,http://go.bkpcp.top/mg/gxws
 广西卫视,http://dl.zhoujie218.top/migu/migu.php?id=gxws
-广西卫视,https://stream1.freetv.fun/840f9576ae171a370f146ffea676f1a77801172f5c1e76e16f7bd004938346cf.ctv$LR•IPV4『线路55』
-广西卫视,https://stream1.freetv.fun/3e24cac8488e7b618c221e0622ca3fa5e151df84f558131b44690f3475ed6e45.ctv$LR•IPV4『线路58』
+广西卫视,https://stream1.freetv.fun/840f9576ae171a370f146ffea676f1a77801172f5c1e76e16f7bd004938346cf.ctv$LR•IPV4『线路50』
+广西卫视,https://stream1.freetv.fun/3e24cac8488e7b618c221e0622ca3fa5e151df84f558131b44690f3475ed6e45.ctv$LR•IPV4『线路53』
 广西卫视,http://hbhyjq.ufyct.com:1088/hls/90/index.m3u8
 广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
 广西卫视,http://221.226.51.220:50081/newlive/live/hls/25/live.m3u8

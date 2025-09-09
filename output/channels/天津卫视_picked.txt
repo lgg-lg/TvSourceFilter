@@ -26,7 +26,6 @@
 天津卫视,http://tpc.x3322.net:9901/tsfile/live/0135_1.m3u8
 天津卫视,http://153.0.171.163:9901/tsfile/live/0135_1.m3u8
 天津卫视,http://go.bkpcp.top/mg/tjws
-天津卫视,http://61.156.228.12:8154/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路32』
 天津卫视,http://t.061899.xyz/tl/tl.php?id=tjws
 天津卫视,http://221.226.51.220:50081/newlive/live/hls/26/live.m3u8
 天津卫视,https://6663.luyazo.com/livetv/hlnt/5f1zQM3SRz/5f1zQM3SRz_live.m3u8

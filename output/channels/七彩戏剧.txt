@@ -25,11 +25,11 @@
 七彩戏剧,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 七彩戏剧,http://mg.hmysapp.cn:177/ckmg/zb.php?id=qcxj
 七彩戏剧,http://t.061899.xyz/tl/dq.php?id=qcxj
+七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3074&tk=b53028476470
+七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9763&tk=e503191f8e20
 七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6494&tk=a0c4f6cfaba3
 七彩戏剧,http://nas.hssvm.com:8888/udp/225.1.1.86:5002
-七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3074&tk=b53028476470
 七彩戏剧,http://139.196.151.191:2051/rtp/239.45.3.61:5140
-七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9763&tk=e503191f8e20
 七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0866&tk=e640d0a1bf70
 七彩戏剧,http://nctv.top/IDOEPpiryt/migu.php?id=qcxj
 七彩戏剧,http://dl.zhoujie218.top/migu/migu.php?id=qcxj
