@@ -31,9 +31,10 @@ CCTV-2,http://go.bkpcp.top/mg/cctv2
 CCTV-2,https://cc06.tv12.xyz/2.m3u8
 CCTV-2,http://171.120.248.227:9003/hls/2/index.m3u8
 CCTV-2,http://221.205.204.69:9003/hls/2/index.m3u8
+CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
+CCTV-2,http://www.hkyc.site:1991/udp/239.253.64.195:5140
 CCTV-2,http://180.76.145.203:656/zb.php?id=cctv2
 CCTV-2,http://106.53.99.30/tv/api.php?id=cctv2
-CCTV-2,http://www.hkyc.site:1991/udp/239.253.64.195:5140
 CCTV-2,http://tpc.x3322.net:9901/tsfile/live/0002_1.m3u8
 CCTV-2,http://dl.zhoujie218.top/migu/migu.php?id=cctv2
 CCTV-2,http://58.243.224.242:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -41,7 +42,6 @@ CCTV-2,http://222.135.142.75:3283/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&
 CCTV-2,http://218.104.239.114:9901//tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://60.29.124.66:6080/hls/13/index.m3u8$LR•IPV4『线路22』
 CCTV-2,http://218.3.138.25:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路28』
-CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
 CCTV-2,http://106.53.99.30/tv/hot.php?id=cctv2
 CCTV-2,http://t.061899.xyz/tl/tl.php?id=cctv2
 CCTV-2,https://6663.luyazo.com/livetv/hlcc/K_CpRQ7HR/K_CpRQ7HR_live.m3u8

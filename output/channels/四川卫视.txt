@@ -420,6 +420,8 @@
 四川卫视,http://39.134.136.198:6410/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive
 四川卫视,http://39.134.136.198:6410/000000001000/5000000004000006119/index.m3u8?channel-id=bestzb
 四川卫视,http://115.58.122.81:8847/live1370.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8#http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.223.157.33:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,https://migu.188766.xyz/?migutoken=1a223ae57031281485bd1c1e73fd9dac&id=scws&type=sz
 四川卫视,http://t.061899.xyz/tl/dq.php?id=scws
 四川卫视,http://183.222.242.31:8088/hls/17/index.m3u8
 四川卫视,http://61.184.46.85:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -499,8 +501,6 @@
 四川卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4733&tk=e640d0a1bf70
 四川卫视,http://58.19.38.162:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://huijie5421.cn:8800/rtp/239.49.8.110:8000?
-四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8#http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.223.157.33:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://218.27.55.132:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236255/index.m3u8?IAS
 四川卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231298/index.m3u8?IAS
 四川卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236255/index.m3u8

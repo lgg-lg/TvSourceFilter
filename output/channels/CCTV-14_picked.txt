@@ -19,7 +19,6 @@ CCTV-14,http://61.156.228.12:8154/tsfile/live/0014_1.m3u8
 CCTV-14,http://k.061899.xyz/m.php?id=cctv14
 CCTV-14,http://api.kkitv.itv888.cn:8080/hls/dyfpqk8fpzi/index.m3u8
 CCTV-14,http://hbhyjq.ufyct.com:1088/hls/22/index.m3u8
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#http://112.27.235.94:8000/hls/15/index.m3u8#http://dmggg.tyzb.fun:26355/migu/624878440.m3u8?migutoken=44d919b039e3d372a460fba303a52295689bfe48526cd04c60ec0c576d0b5e500fd140959d1c355c309ef5ab64e4327bd9e0409881255ad83142e677f3db4d67b1ddf8b90d26c75d1b7214898a#https://migu.188766.xyz/?migutoken=c751c32eac2f3e4888b17f22cbc1d6fd&id=CCTV14&pp=1#https://migu.188766.xyz/?migutoken=3b8a6a5119c4219bcebcdca23ae82e30&id=CCTV14&pp=1
 CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
 CCTV-14,http://t.061899.xyz/tl/dq.php?id=cctv14
 CCTV-14,http://112.132.10.54:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -29,9 +28,11 @@ CCTV-14,https://cc06.tv12.xyz/15.m3u8
 CCTV-14,http://221.205.204.69:9003/hls/15/index.m3u8
 CCTV-14,http://171.120.248.227:9003/hls/15/index.m3u8
 CCTV-14,http://dmggg.tyzb.fun:26355/migu/624878440.m3u8?migutoken=44d919b039e3d372a460fba303a52295689bfe48526cd04c60ec0c576d0b5e500fd140959d1c355c309ef5ab64e4327bd9e0409881255ad83142e677f3db4d67b1ddf8b90d26c75d1b7214898a
+CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
+CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
+CCTV-14,http://www.hkyc.site:1991/udp/239.253.64.115:5140
 CCTV-14,http://180.76.145.203:656/zb.php?id=cctv14
 CCTV-14,http://106.53.99.30/tv/api.php?id=cctv14
-CCTV-14,http://www.hkyc.site:1991/udp/239.253.64.115:5140
 CCTV-14,http://tpc.x3322.net:9901/tsfile/live/0014_1.m3u8
 CCTV-14,http://dl.zhoujie218.top/migu/migu.php?id=cctv14
 CCTV-14,http://58.243.224.242:9999/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -39,8 +40,6 @@ CCTV-14,http://222.135.142.75:3283/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1
 CCTV-14,http://218.104.239.114:9901//tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://60.29.124.66:6080/hls/25/index.m3u8$LR•IPV4『线路25』
 CCTV-14,http://221.226.51.220:50081/newlive/live/hls/14/live.m3u8
-CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
-CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
 CCTV-14,http://106.53.99.30/tv/hot.php?id=cctv14
 CCTV-14,http://t.061899.xyz/tl/tl.php?id=cctv14
 CCTV-14,http://171.15.18.199:8180/TV00000000000000000014@HHZT

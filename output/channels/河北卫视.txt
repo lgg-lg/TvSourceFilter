@@ -412,11 +412,12 @@
 河北卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000006000040016/index.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
 河北卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000002000017118/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=3
 河北卫视,http://api.kkitv.itv888.cn:8080/hls/nd41hwdr82i/index.m3u8
-河北卫视,http://39.134.136.198:6410/000000001000/5000000006000040016/index.m3u8?channel-id=bestzb
 河北卫视,http://39.134.136.198:6410/000000001000/1000000002000017118/index.m3u8?channel-id=ystenlive
+河北卫视,http://39.134.136.198:6410/000000001000/5000000006000040016/index.m3u8?channel-id=bestzb
 河北卫视,http://115.58.122.81:8855/live1441.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+河北卫视,http://182.126.44.164:4021/rtp/225.1.4.34:1063
 河北卫视,http://t.061899.xyz/tl/dq.php?id=hbws
-河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1757402764&key=b1c44f05370f2d32e569a7c9cfb34566
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1757449606&key=2a0ea664356db21fcd740e8a6568a4d0
 河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,https://mursor.ottiptv.cc/mcp/hebei.m3u8?sign=a86e9ad9dceccd1d6586ffe508b67a31&tm=1757357234
 河北卫视,http://183.222.242.31:8088/hls/33/index.m3u8
@@ -510,8 +511,6 @@
 河北卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6917&tk=a0c4f6cfaba3
 河北卫视,rtsp://180.95.143.19/PLTV/88888910/224/3221225846/376430610.smil
 河北卫视,http://huijie5421.cn:8800/rtp/239.49.8.114:8000?
-河北卫视,http://218.27.55.132:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://221.205.171.203:9003/hls/29/index.m3u8
 河北卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236242/index.m3u8?IAS
 河北卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231270/index.m3u8?IAS
 河北卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236242/index.m3u8

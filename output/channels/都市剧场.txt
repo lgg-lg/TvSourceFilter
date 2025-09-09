@@ -65,10 +65,10 @@
 都市剧场,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225762/index.m3u8
 都市剧场,http://39.134.136.198:6410/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb
+都市剧场,http://118.77.106.235:8085/rtp/226.0.2.81:8560
 都市剧场,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&Ace
 都市剧场,http://116.226.38.242:4022/udp/239.45.3.136:5140$上海电信组播
 都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225762/1.m3u8
-都市剧场,http://218.27.55.132:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/index.m3u8?fmt=ts2hls
 都市剧场,http://live2.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8?

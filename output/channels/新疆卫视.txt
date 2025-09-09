@@ -293,7 +293,6 @@
 新疆卫视,http://39.134.136.198:6410/000000001000/1000000002000029441/index.m3u8?channel-id=ystenlive
 新疆卫视,http://39.134.136.198:6410/000000001000/5000000006000040018/index.m3u8?channel-id=bestzb
 新疆卫视,http://115.58.122.81:8867/live1574.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-新疆卫视,http://1.192.199.110:8055/rtp/239.16.10.27:2000
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 新疆卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xjws
 新疆卫视,http://t.061899.xyz/tl/dq.php?id=xjws
@@ -360,7 +359,6 @@
 新疆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5336&tk=e503191f8e20
 新疆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0418&tk=e640d0a1bf70
 新疆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0452&tk=a0c4f6cfaba3
-新疆卫视,http://218.27.55.132:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226923/1.m3u8
 新疆卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226700/1.m3u8
 新疆卫视,http://tpc.x3322.net:9901/tsfile/live/0110_1.m3u8

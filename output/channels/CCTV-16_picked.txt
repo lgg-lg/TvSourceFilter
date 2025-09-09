@@ -9,11 +9,11 @@ CCTV-16,http://go.bkpcp.top/mg/cctv16
 CCTV-16,http://171.120.248.227:9003/hls/17/index.m3u8
 CCTV-16,http://221.205.204.69:9003/hls/17/index.m3u8
 CCTV-16,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
+CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 CCTV-16,http://www.hkyc.site:1991/udp/239.253.64.251:5140
 CCTV-16,http://www.hkyc.site:1991/udp/239.253.64.126:5140
 CCTV-16,http://tpc.x3322.net:9901/tsfile/live/1061_1.m3u8
 CCTV-16,http://218.104.239.114:9901//tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 CCTV-16,http://106.53.99.30/tv/hot.php?id=cctv16
 CCTV-16,http://t.061899.xyz/tl/tl.php?id=cctv16
 CCTV-16,https://6663.luyazo.com/livetv/hlcc/McNJgw7Hg/McNJgw7Hg_live.m3u8

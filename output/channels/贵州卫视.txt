@@ -437,9 +437,10 @@
 贵州卫视,http://39.134.136.198:6410/000000001000/5000000004000025843/index.m3u8?channel-id=bestzb
 贵州卫视,http://115.58.122.81:8849/live1390.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 贵州卫视,http://39.134.136.198:6410/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive
+贵州卫视,https://migu.188766.xyz/?migutoken=905e8fd66a07b1a522bb6e3bee351de7&id=gzws&type=sz
 贵州卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gzws
 贵州卫视,http://t.061899.xyz/tl/dq.php?id=gzws
-贵州卫视,https://live.lalifeier.eu.org/gzstv/gzws.m3u8?t=1757402764&key=35852afb3103a18bbe2618eb833dfa4f
+贵州卫视,https://live.lalifeier.eu.org/gzstv/gzws.m3u8?t=1757449606&key=e6bab8d1e37d855a436bac7c8f576f50
 贵州卫视,https://mursor.ottiptv.cc/mcp/guizhou.m3u8?sign=3531147d833e76a6e3c35afd3e714df0&tm=1757357234
 贵州卫视,http://183.222.242.31:8088/hls/31/index.m3u8
 贵州卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226173/1.m3u8
@@ -527,7 +528,6 @@
 贵州卫视,rtsp://60.13.39.18/PLTV/88888910/224/3221225854/376430616.smil
 贵州卫视,http://huijie5421.cn:8800/rtp/239.49.8.49:8000?
 贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8#http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0#http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226474/index.m3u8
-贵州卫视,http://218.27.55.132:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236236/index.m3u8?IAS
 贵州卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231267/index.m3u8?IAS
 贵州卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236236/index.m3u8

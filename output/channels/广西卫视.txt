@@ -394,9 +394,13 @@
 广西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226130/index.m3u8
 广西卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=3
 广西卫视,http://api.kkitv.itv888.cn:8080/hls/yvz4ndj9dqb/index.m3u8
+广西卫视,http://218.4.34.133:888/rtp/239.49.1.40:6000
 广西卫视,http://39.134.136.198:6410/000000001000/5000000011000031118/index.m3u8?channel-id=bestzb
 广西卫视,http://39.134.136.198:6410/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive
 广西卫视,http://115.58.122.81:8852/live1420.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+广西卫视,https://migu.188766.xyz/?migutoken=5e65edb53f96d773711346d39eafc22e&id=gxws&type=sz
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
 广西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gxws
 广西卫视,https://mursor.ottiptv.cc/mcp/guangxi.m3u8?sign=d565ddd3f9b5a18b911837a97e3722fe&tm=1757357234
 广西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226130/1.m3u8
@@ -471,8 +475,6 @@
 广西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6743&tk=e640d0a1bf70
 广西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6651&tk=e640d0a1bf70
 广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8#http://221.2.148.205:8154/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.89.240.144:59901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://218.27.55.132:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://221.205.171.203:9003/hls/27/index.m3u8
 广西卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236263/index.m3u8?IAS
 广西卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231292/index.m3u8?IAS
 广西卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236263/index.m3u8
@@ -480,7 +482,6 @@
 广西卫视,http://live2.rxip.sc96655.com/live/gxws_4000.m3u8?E=&U=&A=&K=&P=&S=
 广西卫视,http://[2409:8087:1a15:10d1::1e]/wh7f454c46tw1039041273_261509614/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8?icpid=88888888&RTS=1756466569&from=23&hms_devid=1233&online=1756466569&vqe=3
 广西卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000034/index.m3u8
-广西卫视,https://smart.pendy.dpdns.org/Smart.php
 广西卫视,http://tpc.x3322.net:9901/tsfile/live/0119_1.m3u8
 广西卫视,http://153.0.171.163:9901/tsfile/live/0113_1.m3u8
 广西卫视,http://go.bkpcp.top/mg/gxws

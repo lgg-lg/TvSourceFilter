@@ -115,8 +115,8 @@
 三沙卫视,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227300/10000100000000060000000001945824_0.smil
 三沙卫视,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
 三沙卫视,http://36.5.87.2:8686/rtp/238.1.78.27:6144
-三沙卫视,http://115.58.122.81:8861/live1524.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 三沙卫视,http://101.18.26.67:808/tsfile/live/0150_1.m3u8?key=txiptv
+三沙卫视,http://115.58.122.81:8861/live1524.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 三沙卫视,http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8
 三沙卫视,http://106.14.47.12:9001/gptv/G_SANSHA-HQ.m3u8
 三沙卫视,http://36.105.100.208:35455/bptv/10000100000000050000000003887452.m3u8
@@ -140,7 +140,6 @@
 三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3104&tk=e640d0a1bf70
 三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8133&tk=b53028476470
 三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0304&tk=a0c4f6cfaba3
-三沙卫视,http://218.27.55.132:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://tpc.x3322.net:9901/tsfile/live/0142_1.m3u8
 三沙卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000070/index.m3u8?
 三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8$LR•IPV6『线路1』

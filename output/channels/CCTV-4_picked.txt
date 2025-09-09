@@ -33,10 +33,10 @@ CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4m
 CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4o
 CCTV-4,http://221.2.148.205:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,https://stream1.freetv.fun/cctv4k-2.ctv
+CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
+CCTV-4,http://www.hkyc.site:1991/udp/239.253.64.196:5140
 CCTV-4,http://180.76.145.203:656/zb.php?id=cctv4
 CCTV-4,http://106.53.99.30/tv/api.php?id=cctv4
-CCTV-4,http://112.123.243.37:50085/tsfile/live/0004_1.m3u8
-CCTV-4,http://www.hkyc.site:1991/udp/239.253.64.196:5140
 CCTV-4,http://tpc.x3322.net:9901/tsfile/live/0004_1.m3u8
 CCTV-4,http://dl.zhoujie218.top/migu/migu.php?id=cctv4
 CCTV-4,http://58.243.224.242:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -45,7 +45,6 @@ CCTV-4,http://218.104.239.114:9901//tsfile/live/0004_1.m3u8?key=txiptv&playlive=
 CCTV-4,http://60.29.124.66:6080/hls/15/index.m3u8$LR•IPV4『线路25』
 CCTV-4,http://dl.zhoujie218.top/migu/migu.php?id=cctv4a
 CCTV-4,http://dl.zhoujie218.top/migu/migu.php?id=cctv4o
-CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
 CCTV-4,http://106.53.99.30/tv/hot.php?id=cctv4
 CCTV-4,http://106.53.99.30/tv/hot.php?id=cctv4m
 CCTV-4,http://106.53.99.30/tv/hot.php?id=cctv4o

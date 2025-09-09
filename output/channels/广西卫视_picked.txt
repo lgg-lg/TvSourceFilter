@@ -10,6 +10,8 @@
 广西卫视,https://stream1.freetv.fun/3e24cac8488e7b618c221e0622ca3fa5e151df84f558131b44690f3475ed6e45.ctv
 广西卫视,https://stream1.freetv.fun/840f9576ae171a370f146ffea676f1a77801172f5c1e76e16f7bd004938346cf.ctv
 广西卫视,http://api.kkitv.itv888.cn:8080/hls/yvz4ndj9dqb/index.m3u8
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
 广西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gxws
 广西卫视,http://113.15.109.216:59901/tsfile/live/0113_1.m3u8
 广西卫视,https://cc06.tv12.xyz/46.m3u8

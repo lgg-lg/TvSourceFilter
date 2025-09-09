@@ -105,7 +105,7 @@
 哈哈炫动,http://39.134.136.198:6410/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb
 哈哈炫动,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010117/1.m3u8
 哈哈炫动,#http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227335/index.m3u8
-哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1757402764&key=2ca9ab1912cc38ff37dc79458132125c
+哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1757449606&key=2b316c23b2c0baf33d4df40b76a12c2a
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 哈哈炫动,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225657/.m3u8
 哈哈炫动,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5412&tk=e503191f8e20

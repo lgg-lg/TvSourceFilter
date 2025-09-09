@@ -22,7 +22,6 @@
 北京卫视,https://cc06.tv12.xyz/27.m3u8
 北京卫视,http://171.120.248.227:9003/hls/20/index.m3u8
 北京卫视,http://221.205.204.69:9003/hls/20/index.m3u8
-北京卫视,http://112.123.243.37:50085/tsfile/live/0127_1.m3u8
 北京卫视,http://www.hkyc.site:1991/udp/239.253.64.204:5140
 北京卫视,http://tpc.x3322.net:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://153.0.171.163:9901/tsfile/live/0122_1.m3u8

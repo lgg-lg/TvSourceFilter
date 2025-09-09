@@ -70,7 +70,6 @@
 东方影视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 东方影视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/index.m3u8
 东方影视,http://39.134.136.198:6410/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb
-东方影视,http://116.237.123.241:9088/udp/239.45.3.237:5140
 东方影视,https://migu.188766.xyz/?migutoken=6c5b70858d0091ce20ea7fe815cabafe&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
 东方影视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfys
 东方影视,http://t.061899.xyz/tl/dq.php?id=dfys

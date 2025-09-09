@@ -464,13 +464,14 @@
 安徽卫视,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
 安徽卫视,http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
 安徽卫视,http://182.117.227.216:7000/rtp/225.1.4.20:1049
+安徽卫视,http://115.58.122.81:8845/live1350.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 安徽卫视,http://39.134.136.198:6410/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive
+安徽卫视,http://39.134.136.198:6410/000000001000/5000000004000023002/index.m3u8?channel-id=bestzb
 安徽卫视,http://39.134.136.198:6410/000000001000/1000000001000030159/index.m3u8?channel-id=ystenlive
 安徽卫视,http://39.134.136.198:6410/000000001000/1000000005000265025/index.m3u8?channel-id=ystenlive
-安徽卫视,http://39.134.136.198:6410/000000001000/5000000004000023002/index.m3u8?channel-id=bestzb
-安徽卫视,http://115.58.122.81:8845/live1350.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-安徽卫视,http://113.65.9.247:4013/udp/239.77.1.157:5146
-安徽卫视,https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1757402764&key=bef70f84115de1baf93abd67d8ad3d67
+安徽卫视,http://111.227.196.164:9901/tsfile/live/0130_1.m3u8
+安徽卫视,https://migu.188766.xyz/?migutoken=2d130985b739536f4950900eddecb4ae&id=ahws&type=sz
+安徽卫视,https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1757449606&key=4301ea3c4ffe7a18f592a1428eb9e313
 安徽卫视,https://mursor.ottiptv.cc/mcp/anhui.m3u8?sign=b802692c2f777d5fa8795d76aacde618&tm=1757357234
 安徽卫视,http://183.222.242.31:8088/hls/32/index.m3u8
 安徽卫视,http://61.184.46.85:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -509,7 +510,6 @@
 安徽卫视,http://110.177.144.22:9003/hls/21/index.m3u8
 安徽卫视,http://221.205.206.222:9003/hls/21/index.m3u8
 安徽卫视,http://221.205.204.69:9003/hls/21/index.m3u8
-安徽卫视,http://111.227.196.164:9901/tsfile/live/0130_1.m3u8
 安徽卫视,http://www.hiliu.myds.me:8088/rtp/239.69.1.70:10060
 安徽卫视,http://58.243.224.242:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://58.243.224.244:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -555,8 +555,6 @@
 安徽卫视,http://t8622699o8.vicp.fun:60024/itv/1000000001000030159.m3u8?cdn=ystenlive
 安徽卫视,http://huijie5421.cn:8800/rtp/239.49.8.80:8000?
 安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8#http://111.227.196.164:9901/tsfile/live/0130_1.m3u8
-安徽卫视,http://218.27.55.132:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://221.205.171.203:9003/hls/21/index.m3u8
 安徽卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/index.m3u8?IAS
 安徽卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228332/index.m3u8?IAS
 安徽卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230707/index.m3u8?IAS

@@ -445,12 +445,14 @@
 辽宁卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000004000011671/index.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
 辽宁卫视,http://124.112.84.95:4000/rtp/238.1.78.21:6096
 辽宁卫视,http://api.kkitv.itv888.cn:8080/hls/iibq0absdjr/index.m3u8
-辽宁卫视,http://39.134.136.198:6410/000000001000/1000000005000265022/index.m3u8?channel-id=ystenlive
-辽宁卫视,http://39.134.136.198:6410/000000001000/1000000001000001945/index.m3u8?channel-id=ystenlive
-辽宁卫视,http://113.65.9.247:4013/udp/239.77.0.123:5146
 辽宁卫视,http://39.134.136.198:6410/000000001000/1000000002000024033/index.m3u8?channel-id=ystenlive
+辽宁卫视,http://39.134.136.198:6410/000000001000/1000000005000265022/index.m3u8?channel-id=ystenlive
 辽宁卫视,http://115.58.122.81:8865/live1554.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 辽宁卫视,http://39.134.136.198:6410/000000001000/5000000004000011671/index.m3u8?channel-id=bestzb
+辽宁卫视,http://39.134.136.198:6410/000000001000/1000000001000001945/index.m3u8?channel-id=ystenlive
+辽宁卫视,http://182.126.44.164:4021/rtp/225.1.4.167:1208
+辽宁卫视,https://migu.188766.xyz/?migutoken=7ec0287ed0d2b7dd6d0c9b7f371be295&id=lnws&type=sz
+辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
 辽宁卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=lnws
 辽宁卫视,https://mursor.ottiptv.cc/mcp/liaoning.m3u8?sign=588456ddb469cfda2dfdb8d951a7d7fe&tm=1757357234
 辽宁卫视,http://183.222.242.31:8088/hls/34/index.m3u8
@@ -532,8 +534,6 @@
 辽宁卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0180&tk=e503191f8e20
 辽宁卫视,rtsp://60.13.39.18/PLTV/88888910/224/3221225525/10000100000000060000000000107305_0.smil
 辽宁卫视,http://huijie5421.cn:8800/rtp/239.49.8.48:8000?
-辽宁卫视,http://218.27.55.132:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://221.205.171.203:9003/hls/37/index.m3u8
 辽宁卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236161/index.m3u8?IAS
 辽宁卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230692/index.m3u8?IAS
 辽宁卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236161/index.m3u8

@@ -459,9 +459,10 @@
 江西卫视,http://api.kkitv.itv888.cn:8080/hls/pv0np60bpin/index.m3u8
 江西卫视,http://39.134.136.198:6410/000000001000/5000000004000011210/index.m3u8?channel-id=bestzb
 江西卫视,http://39.134.136.198:6410/000000001000/1000000001000013731/index.m3u8?channel-id=ystenlive
+江西卫视,http://171.122.194.154:8085/rtp/226.0.2.198:9496
 江西卫视,http://39.134.136.198:6410/000000001000/1000000005000265032/index.m3u8?channel-id=ystenlive
-江西卫视,http://115.58.122.81:8846/live1360.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 江西卫视,http://39.134.136.198:6410/000000001000/1000000006000268001/index.m3u8?channel-id=ystenlive
+江西卫视,http://115.58.122.81:8846/live1360.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 江西卫视,https://migu.188766.xyz/?migutoken=9684a30271498b95a0d7d199cfe3beb7&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 江西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jxws
 江西卫视,http://t.061899.xyz/tl/dq.php?id=jxws
@@ -558,9 +559,6 @@
 江西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1303&tk=aa0698566417
 江西卫视,http://huijie5421.cn:8800/rtp/239.49.8.111:8000?
 江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0#http://222.169.85.8:9901/tsfile/live/0138_1.m3u8
-江西卫视,http://218.27.55.132:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://221.205.171.203:9003/hls/36/index.m3u8
-江西卫视,http://115.51.34.185:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236212/index.m3u8?IAS
 江西卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230667/index.m3u8?IAS
 江西卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236212/index.m3u8

@@ -354,10 +354,12 @@
 青海卫视,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
 青海卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000006000040015/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
 青海卫视,http://api.kkitv.itv888.cn:8080/hls/ry7s3t5wmqa/index.m3u8
-青海卫视,http://115.58.122.81:8859/live1491.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
-青海卫视,http://39.134.136.198:6410/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive
+青海卫视,http://218.4.34.133:888/rtp/239.49.1.53:6000
 青海卫视,http://39.134.136.198:6410/000000001000/5000000006000040015/index.m3u8?channel-id=bestzb
-青海卫视,http://123.113.75.231:23456/rtp/239.3.1.44:8184
+青海卫视,http://39.134.136.198:6410/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive
+青海卫视,http://115.58.122.81:8859/live1491.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+青海卫视,https://migu.188766.xyz/?migutoken=a1533cfa4ed9955e1d56ceb79d176a5c&id=qhws&type=sz
+青海卫视,http://222.218.122.23:8188/udp/239.81.0.53:4056
 青海卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=qhws
 青海卫视,http://t.061899.xyz/tl/dq.php?id=qhws
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
@@ -431,8 +433,6 @@
 青海卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4066&tk=a0c4f6cfaba3
 青海卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9970&tk=f6cc1e0a0e1a
 青海卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4973&tk=e503191f8e20
-青海卫视,http://218.27.55.132:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://221.205.171.203:9003/hls/40/index.m3u8
 青海卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8?IAS
 青海卫视,http://183.249.160.38:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8?IASHttpSessionId=RR500720241116022541478975&ispcode=2000146
 青海卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8

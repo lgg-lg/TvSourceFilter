@@ -36,9 +36,11 @@ CCTV-6,http://113.15.109.216:59901/tsfile/live/0006_1.m3u8
 CCTV-6,https://cc06.tv12.xyz/7.m3u8
 CCTV-6,http://171.120.248.227:9003/hls/7/index.m3u8
 CCTV-6,http://221.205.204.69:9003/hls/7/index.m3u8
+CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
+CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
+CCTV-6,http://www.hkyc.site:1991/udp/239.253.64.246:5140
 CCTV-6,http://180.76.145.203:656/zb.php?id=cctv6
 CCTV-6,http://106.53.99.30/tv/api.php?id=cctv6
-CCTV-6,http://www.hkyc.site:1991/udp/239.253.64.246:5140
 CCTV-6,http://tpc.x3322.net:9901/tsfile/live/0006_1.m3u8
 CCTV-6,http://dl.zhoujie218.top/migu/migu.php?id=cctv6
 CCTV-6,http://222.135.142.75:3283/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -46,8 +48,6 @@ CCTV-6,http://218.104.239.114:9901//tsfile/live/0006_1.m3u8?key=txiptv&playlive=
 CCTV-6,http://60.29.124.66:6080/hls/17/index.m3u8$LR•IPV4『线路20』
 CCTV-6,http://218.3.138.25:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路27』
 CCTV-6,https://stream1.freetv.fun/ddcd1023e7e15e10db88f6b0be83bb173849e91feb74fedb6972e4ba257c50d2.ctv$LR•IPV4『线路81』
-CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
-CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
 CCTV-6,http://106.53.99.30/tv/hot.php?id=cctv6
 CCTV-6,http://t.061899.xyz/tl/tl.php?id=cctv6
 CCTV-6,https://6663.luyazo.com/livetv/hlcc/v7q2gw7HR/v7q2gw7HR_live.m3u8

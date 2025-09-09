@@ -321,9 +321,10 @@
 海南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226154/index.m3u8
 海南卫视,http://122.189.103.25:8011/udp/228.0.0.165:7165
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
-海南卫视,http://39.134.136.198:6410/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb
 海南卫视,http://39.134.136.198:6410/000000001000/7899627377857656087/index.m3u8?channel-id=ystenlive
 海南卫视,http://115.58.122.81:8860/live1514.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
+海南卫视,http://118.77.106.235:8085/rtp/226.0.2.61:8400
+海南卫视,http://39.134.136.198:6410/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb
 海南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hinws
 海南卫视,http://t.061899.xyz/tl/dq.php?id=hinws
 海南卫视,http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20250909090029d512340732824b72a62c99266213b6da&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20250909090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.90&SecurityKey=20250909090029&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=abb70c527c313e175c6cf7b03c5dd388&ddCalcu=8a8bv3bad7zd0a5cc53207bc73f1c36ec157&sv=10004&ct=android
@@ -401,8 +402,6 @@
 海南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0337&tk=f6cc1e0a0e1a
 海南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0390&tk=e503191f8e20
 海南卫视,http://huijie5421.cn:8800/rtp/239.49.8.83:8000?
-海南卫视,http://218.27.55.132:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://221.205.171.203:9003/hls/28/index.m3u8
 海南卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236232/index.m3u8?IAS
 海南卫视,http://39.134.184.101:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232687/index.m3u8?IAS
 海南卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236232/index.m3u8

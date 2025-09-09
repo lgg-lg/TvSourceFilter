@@ -25,9 +25,8 @@ CCTV-5+,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8
 CCTV-5+,https://cc06.tv12.xyz/6.m3u8
 CCTV-5+,http://221.2.148.205:8154/tsfile/live/0016_1.m3u8
 CCTV-5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8#http://112.27.235.94:8000/hls/6/index.m3u8#http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
-CCTV-5+,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+,http://112.123.243.37:50085/tsfile/live/0006_1.m3u8
 CCTV-5+,http://www.hkyc.site:1991/udp/239.253.64.100:5140
+CCTV-5+,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 CCTV-5+,http://dl.zhoujie218.top/migu/migu.php?id=cctv5p
 CCTV-5+,https://stream1.freetv.fun/88ee08d5c5e75e963f46cba8142888798dde687981709eda707a0b192da8ad4d.ctv$LR•IPV4『线路41』
