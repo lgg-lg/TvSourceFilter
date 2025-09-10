@@ -4,6 +4,7 @@ import requests
 import os
 import logging
 from urllib.parse import urlparse
+import html
 
 # --- 配置日志 ---
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -43,7 +44,7 @@ def read_subscribe_sources(subscribe_path):
                     lines = response.text.splitlines()
                     i = 0
                     while i < len(lines):
-                        if lines[i].startswith('#EXTINF'):
+                        if lines[i].startswith('#EXTINF'):                           
                             info = lines[i]
                             url = lines[i+1]
                             name = info.split(',')[-1].strip()
@@ -86,8 +87,10 @@ def read_subscribe_sources(subscribe_path):
 def deduplicate(data):
     df = pd.DataFrame(data, columns=['name', 'url', 'extra'])
     df['url'] = df['url'].str.replace(r'[\r\n,;"\'\t]', '', regex=True)
+    df['url'] = df['url'].apply(lambda x: html.unescape(x) if isinstance(x, str) else x)
     df['name'] = df['name'].str.replace(r'[\r\n,;"\'\t]', '', regex=True)
     df['extra'] = df['extra'].str.replace(r'[\r\n,;"\'\t]', '', regex=True)
+    df['extra'] = df['extra'].apply(lambda x: html.unescape(x) if isinstance(x, str) else x)
     df.drop_duplicates(subset=['name', 'url'], keep='first', inplace=True)
     return df
 
@@ -258,6 +261,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
