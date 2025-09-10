@@ -118,9 +118,13 @@ def combine_sources():
         save_df(net_df, os.path.join("output", "netsource.txt"))
     except Exception as e: 
         logger.error(f"网络源写出失败:{e}")
+        errorflag=True
     
     # 合并所有源
-    all_data = result_data + local_data + own_data + net_data
+    if errorflag:
+        all_data = local_data + own_data + net_data
+    else:
+        all_data = result_data + local_data + own_data + net_data
     all_df = deduplicate(all_data)
     # all_df['combined'] = all_df.apply(
     # lambda row: f"{row['name']},{row['url']}${row['extra']}",
@@ -265,6 +269,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
