@@ -108,7 +108,7 @@ def combine_sources():
     local_data = read_sources(os.path.join("config", "localsource.txt"))
     #own_data = read_sources(r'.\output\ownsource.txt')
     own_data = read_sources(os.path.join("output", "ownsource.txt"))
-    
+    errorflag=False
     # 读取在线源
     #net_data = read_subscribe_sources(r'.\config\subscribe.txt')
     net_data = read_subscribe_sources(os.path.join("config", "subscribe.txt"))
@@ -125,9 +125,9 @@ def combine_sources():
     
     # 合并所有源
     if errorflag:
-        all_data = local_data + own_data + net_data
-    else:
         all_data = result_data + local_data + own_data + net_data
+    else:
+        all_data = local_data + own_data + net_data
     all_df = deduplicate(all_data)
     # all_df['combined'] = all_df.apply(
     # lambda row: f"{row['name']},{row['url']}${row['extra']}",
@@ -277,6 +277,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
