@@ -47,7 +47,9 @@ def read_subscribe_sources(subscribe_path):
                             info = lines[i]
                             url = lines[i+1]
                             name = info.split(',')[-1].strip()
-                            data.append([name, url.strip(), ''])
+                            url, extra = url.split('$', 1)
+                            extra=extra.split('#')[0].strip()
+                            data.append([name, url.strip(), extra])
                             i += 2
                         else:
                             i += 1
@@ -74,6 +76,7 @@ def read_subscribe_sources(subscribe_path):
                                 extra = ''
                                 if '$' in url:
                                     url, extra = url.split('$', 1)
+                                    extra=extra.split('#')[0].strip()
                                 data.append([name.strip(), url.strip(), extra.strip()])
             except Exception as e:
                 logger.error(f"订阅源读取失败: {line} - {e}")
@@ -82,9 +85,9 @@ def read_subscribe_sources(subscribe_path):
 
 def deduplicate(data):
     df = pd.DataFrame(data, columns=['name', 'url', 'extra'])
-    #df['url'] = df['url'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
-    #df['name'] = df['name'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
-    #df['extra'] = df['extra'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
+    df['url'] = df['url'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
+    df['name'] = df['name'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
+    df['extra'] = df['extra'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
     df.drop_duplicates(subset=['name', 'url'], keep='first', inplace=True)
     return df
 
@@ -255,6 +258,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
