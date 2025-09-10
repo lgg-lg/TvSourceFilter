@@ -118,16 +118,18 @@ def combine_sources():
         save_df(net_df, os.path.join("output", "netsource.txt"))
     except Exception as e: 
         logger.error(f"网络源写出失败:{e}")
-        with open(os.path.join("output", "netsource_log.txt"), 'w', encoding='utf-8') as f:
-            for _, row in net_df.iterrows():
-                f.write(f"频道: {row['name']},地址: {row['url']}\n")
         errorflag=True
+        with open(os.path.join("output", "netsource_log.txt"), 'w', encoding='gbk', errors='replace') as f:
+            for _, row in net_df.iterrows():
+                f.write(f"{row['name']},{row['url']}\n")
+        
     
     # 合并所有源
     if errorflag:
-        all_data = result_data + local_data + own_data + net_data
-    else:
         all_data = local_data + own_data + net_data
+    else:
+        all_data = result_data + local_data + own_data + net_data
+        
     all_df = deduplicate(all_data)
     # all_df['combined'] = all_df.apply(
     # lambda row: f"{row['name']},{row['url']}${row['extra']}",
@@ -139,12 +141,11 @@ def combine_sources():
         save_df(all_df, os.path.join("output", "allsource.txt"))
     except Exception as e: 
         logger.error(f"网络源写出失败:{e}")
-        with open(os.path.join("output", "allsource_log.txt"), 'w', encoding='utf-8') as f:
+        with open(os.path.join("output", "allsource_log.txt"), 'w', encoding='gbk', errors='replace') as f:
             for _, row in all_df.iterrows():
-                f.write(f"频道: {row['name']},地址: {row['url']}\n")
-
-    
+                f.write(f"{row['name']},{row['url']}\n")
     logger.info("模块2执行完毕")
+    return errorflag
 if __name__ == '__main__':
 
     combine_sources()
@@ -277,6 +278,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
