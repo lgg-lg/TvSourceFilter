@@ -46,7 +46,7 @@ def read_subscribe_sources(subscribe_path):
                     while i < len(lines):
                         if lines[i].startswith('#EXTINF'):                           
                             info = lines[i]
-                            url = lines[i+1]
+                            url = html.unescape(lines[i+1])
                             name = info.split(',')[-1].strip()
                             url, extra = url.split('$', 1)
                             extra=extra.split('#')[0].strip()
@@ -68,6 +68,7 @@ def read_subscribe_sources(subscribe_path):
                                 if ',' in p:
                                     name, url = p.split(',', 1)
                                     extra = ''
+                                    url=html.unescape(url)
                                     if '$' in url:
                                         url, extra = url.split('$', 1)
                                     data.append([name.strip(), url.strip(), extra.strip()])
@@ -261,6 +262,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
