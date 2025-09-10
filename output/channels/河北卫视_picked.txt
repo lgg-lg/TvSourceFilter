@@ -1,8 +1,13 @@
+河北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&t=1757403106&token=e241a8507153da49569cc8eb56c19e6a
+河北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&t=1757401893&token=5517a5767df30f2b40e9bae6e4f05427
+河北卫视,http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://gfr.x3322.net:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://k.061899.xyz/m.php?id=hbws&key=txiptv&playlive=1&authid=0
+河北卫视,http://61.156.228.12:8154/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://123.129.70.178:9901/tsfile/live/0117_1.m3u8
 河北卫视,http://123.129.70.178:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://221.2.148.205:8154/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://61.156.228.12:8154/tsfile/live/0117_1.m3u8
-河北卫视,http://61.156.228.12:8154/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://8.138.7.223/tv/hebtv.m3u8
 河北卫视,http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
 河北卫视,https://stream1.freetv.fun/a995bf588414dfdd5597e1458b574468be6201181b6323fd280473e314d4f397.ctv

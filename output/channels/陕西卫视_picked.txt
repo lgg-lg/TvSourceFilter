@@ -1,8 +1,12 @@
+陕西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1757403106&token=518c7d2da8eca0876c0c61db5849e02f
+陕西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1757401893&token=dc8b5ccbfe4be0c1293c44078934cf81
+陕西卫视,http://gfr.x3322.net:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://k.061899.xyz/m.php?id=sxws&key=txiptv&playlive=1&authid=0
+陕西卫视,http://61.156.228.12:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://221.2.148.205:8154/tsfile/live/0136_1.m3u8
 陕西卫视,http://221.2.148.205:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8
 陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://61.156.228.12:8154/tsfile/live/0136_1.m3u8
-陕西卫视,http://61.156.228.12:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://api.kkitv.itv888.cn:8080/hls/hyy3w1xyoaw/index.m3u8

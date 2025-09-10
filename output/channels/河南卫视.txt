@@ -1,3 +1,16 @@
+河南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757403106&token=0cd2754d0a93be3f452e6d35c26989ce
+河南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757401893&token=63637464c94ea7256e380857b5929e00
+河南卫视,http://gfr.x3322.net:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://iptv.huuc.edu.cn/hls/hnhd.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://k.061899.xyz/m.php?id=hnws&key=txiptv&playlive=1&authid=0
+河南卫视,http://115.190.105.236/daxiang.php?id=hnws
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://112.27.235.94:8000/hls/37/index.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://1.180.2.93:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://183.131.246.250:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://223.241.247.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://sh.lnott.top:880/dx44.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226320/index.m3u8
 河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8
@@ -41,7 +54,6 @@
 河南卫视,http://1.197.254.98:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.199.243.15:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://101.66.198.175:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://101.66.198.191:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://101.66.198.2:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -93,7 +105,6 @@
 河南卫视,http://114.228.152.34:8888/rtp/239.49.1.44:6000
 河南卫视,http://114.252.238.87:8000/udp/239.3.1.27:8128
 河南卫视,http://115.153.254.81/PLTV/88888888/224/3221226842/59814787.smil/index.m3u8?fmt=ts2hls
-河南卫视,http://115.190.105.236/daxiang.php?id=hnws
 河南卫视,http://115.48.163.254:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://115.58.217.231:60001/hls/16/index.m3u8
 河南卫视,http://115.59.9.30:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -209,7 +220,6 @@
 河南卫视,http://182.91.124.60:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://182.92.109.190:1668/migu720/migu720.php?id=hnws
 河南卫视,http://183.11.239.36:808/hls/51/index.m3u8
-河南卫视,http://183.131.246.250:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://183.185.105.197:8082/rtp/226.0.2.195:9472
 河南卫视,http://183.185.105.197:8082/rtp/226.0.2.52:8328
 河南卫视,http://183.185.129.160:8085/rtp/226.0.2.195:9472
@@ -252,7 +262,6 @@
 河南卫视,http://223.145.224.77:8000/udp/239.76.246.202:1234
 河南卫视,http://223.145.224.77:8000/udp/239.76.253.202:9000
 河南卫视,http://223.241.247.214:9901/tsfile/live/0139_1.m3u8
-河南卫视,http://223.241.247.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://27.18.225.28:34567/nptv/henan.m3u8
 河南卫视,http://3501776.xyz:35455/itv/1000000002000027731.m3u8?cdn=ystenlive
 河南卫视,http://36.105.100.208:35455/itv/1000000002000027731.m3u8?cdn=ystenlive

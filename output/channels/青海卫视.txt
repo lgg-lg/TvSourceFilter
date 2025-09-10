@@ -1,3 +1,11 @@
+青海卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&t=1757403106&token=cb00650bcd1fabd604423f9ebc59f62e
+青海卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&t=1757401893&token=7c13867d3a2a46e853e0de1657164255
+青海卫视,http://gfr.x3322.net:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://k.061899.xyz/m.php?id=qhws&key=txiptv&playlive=1&authid=0
+青海卫视,http://iptv.huuc.edu.cn/hls/qhhd.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://1.180.2.93:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://111.43.126.240:9003/hls/59/index.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://sh.lnott.top:880/dx54.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 青海卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225628/index.m3u8
 青海卫视,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8

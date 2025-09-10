@@ -1,3 +1,12 @@
+浙江卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1757403106&token=34faf08ad9167918f1e8794e5a93205a
+浙江卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1757401893&token=2d01544ba7d5919fe5df2abf85e363ad
+浙江卫视,http://8.138.7.223/tv/zjws.m3u8
+浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://k.061899.xyz/m.php?id=zjws&key=txiptv&playlive=1&authid=0
+浙江卫视,http://221.226.51.220:50081/newlive/live/hls/27/live.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://222.169.85.8:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://123.129.70.178:9901/tsfile/live/0124_1.m3u8
 浙江卫视,http://123.129.70.178:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://218.3.138.25:1111/tsfile/live/1019_1.m3u8
@@ -5,10 +14,8 @@
 浙江卫视,http://221.2.148.205:8154/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://221.226.51.220:50081/newlive/live/hls/27/live.m3u8
 浙江卫视,http://222.169.85.8:9901/tsfile/live/0019_1.m3u8
-浙江卫视,http://222.169.85.8:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://61.156.228.12:8154/tsfile/live/0124_1.m3u8
 浙江卫视,http://61.156.228.12:8154/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 浙江卫视,http://hbhyjq.ufyct.com:1088/hls/79/index.m3u8
 浙江卫视,http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8

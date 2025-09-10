@@ -1,3 +1,12 @@
+贵州卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&t=1757403106&token=434c620615781b1bb1881bf9c258fe3e
+贵州卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&t=1757401893&token=f2ce7751e7e7baed7ff787bc7270a289
+贵州卫视,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://k.061899.xyz/m.php?id=gzws&key=txiptv&playlive=1&authid=0
+贵州卫视,http://iptv.huuc.edu.cn/hls/gzhd.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://60.174.40.117:85/tsfile/live/0120_1.m3u8?key=txiptv
+贵州卫视,http://112.27.235.94:8000/hls/46/index.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://sh.lnott.top:880/dx50.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225974/main.m3u8
 贵州卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 贵州卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
@@ -243,7 +252,6 @@
 贵州卫视,http://221.226.4.10:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://222.142.70.204:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8
-贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://222.174.239.62:352/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://222.241.154.37:9901/tsfile/live/23046_1.m3u8?key=txiptv
 贵州卫视,http://222.241.154.37:9901/tsfile/live/23046_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -298,7 +306,6 @@
 贵州卫视,http://60.12.183.46:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视,http://60.172.130.146:352/tsfile/live/0120_1.m3u8?ace
 贵州卫视,http://60.172.130.146:352/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://60.174.40.117:85/tsfile/live/0120_1.m3u8?key=txiptv
 贵州卫视,http://60.209.125.254:352/tsfile/live/0120_1.m3u8?ace
 贵州卫视,http://60.210.100.54:352/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://60.214.104.110:352/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0

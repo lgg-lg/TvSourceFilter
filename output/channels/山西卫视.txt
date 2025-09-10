@@ -1,3 +1,15 @@
+山西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1757403106&token=635850a25e2e653483e3a667692516d9
+山西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1757401893&token=f78dfe3f3bbd5025aadf1510931484f3
+山西卫视,http://gfr.x3322.net:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://60.174.40.117:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://hbhyjq.ufyct.com:1088/hls/35/index.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://112.27.235.94:8000/hls/45/index.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://42.225.117.174:11199/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://61.156.228.12:8154/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://ak6668768.zicp.io:8865/live1090.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://sh.lnott.top:880/dx39.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226392/index.m3u8
 山西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 山西卫视,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
@@ -110,7 +122,6 @@
 山西卫视,http://221.226.4.10:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://222.142.70.204:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8
-山西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227559/index.m3u8
 山西卫视,http://223.241.247.214:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://27.18.225.28:34567/nptv/shanxi.m3u8
@@ -124,7 +135,6 @@
 山西卫视,http://39.150.96.141:65535/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://39.164.180.36:19901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://39.165.44.179:9901/tsfile/live/0118_1.m3u8
-山西卫视,http://42.225.117.174:11199/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://42.231.221.160:9901/tsfile/live/0118_2.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://42.238.163.100:8854/live1451.m3u8?token=7375646f78cd171c8253c341f7964e93bdf22d18&z=22c3
 山西卫视,http://42.48.17.230:808/hls/56/index.m3u8
@@ -146,7 +156,6 @@
 山西卫视,http://61.134.204.177:9003/hls/19/index.m3u8
 山西卫视,http://61.138.128.226:19901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://61.156.228.12:8154/tsfile/live/0118_1.m3u8
-山西卫视,http://61.156.228.12:8154/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://61.157.139.15:9901/tsfile/live/2397_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://76.5432123.xyz/杂项代理/学习强国.php?id=sxiws
 山西卫视,http://aiony.top:35455/bst/shanxiws@1300000.m3u8

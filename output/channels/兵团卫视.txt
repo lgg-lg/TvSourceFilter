@@ -1,3 +1,13 @@
+兵团卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&t=1757403106&token=9eaccee76666f89fe07149a6eef96861
+兵团卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&t=1757401893&token=05752bd4faf71e75ccd5058fdce73d90
+兵团卫视,http://8.138.7.223/tv/btws.m3u8
+兵团卫视,http://gfr.x3322.net:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://k.061899.xyz/m.php?id=btws&key=txiptv&playlive=1&authid=0
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://8.138.7.223/tv/btws.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://218.89.240.144:59901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://sh.lnott.top:880/dx59.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESv-rH0nF41q6pxKZKeRnNA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN-56c_rnHTXQA4R-D0Dlau%2CEND
 兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226439/index.m3u8
@@ -95,7 +105,6 @@
 兵团卫视,http://60.7.56.33:4000/udp/239.253.93.176:6344
 兵团卫视,http://61.138.128.226:19901/tsfile/live/0115_1.m3u8
 兵团卫视,http://61.138.128.226:19901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-兵团卫视,http://8.138.7.223/tv/btws.m3u8
 兵团卫视,http://8.146.211.219:2001/live_tv?pid=600193252
 兵团卫视,http://8.209.196.123:32768/1000000005000266005/ystenlive/index.m3u8
 兵团卫视,http://aiony.top:35455/bst/btws@1300000.m3u8

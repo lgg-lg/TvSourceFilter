@@ -1,3 +1,20 @@
+湖北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1757403106&token=3de4339ad151352166be9d16a298ffff
+湖北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1757401893&token=68ecbb1f4a79a3b944ca42da11696573
+湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://60.174.40.117:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://1.180.2.93:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://111.61.236.247:9081/hls/39/index.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://111.43.126.240:9003/hls/54/index.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://112.27.235.94:8000/hls/41/index.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://223.241.247.214:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://49.87.154.246:85/tsfile/live/1017_1.m3u8?key=txiptv
+湖北卫视,http://218.89.240.144:59901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://ak6668768.zicp.io:8838/live1040.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://sh.lnott.top:880/dx42.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖北卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226477/index.m3u8
 湖北卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226501/index.m3u8
@@ -248,7 +265,6 @@
 湖北卫视,http://218.76.32.193:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://218.78.176.241:5003/hbws.m3u8?token=7375646f5a6de7caf56f7bbd731d50188425bfd9&z=1f48
 湖北卫视,http://218.89.240.144:59901/tsfile/live/0132_1.m3u8
-湖北卫视,http://218.89.240.144:59901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://219.135.208.218:8083/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://219.156.17.223:8888/hls/46/index.m3u8
 湖北卫视,http://219.157.60.114:7001/rtp/225.1.4.89:1118
@@ -263,7 +279,6 @@
 湖北卫视,http://221.226.4.10:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://222.142.70.204:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8
-湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://222.174.239.62:352/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://222.219.183.103:8089/hls/36/index.m3u8
 湖北卫视,http://222.240.220.198:9901/tsfile/live/0132_1.m3u8
@@ -279,7 +294,6 @@
 湖北卫视,http://223.151.51.74:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://223.159.8.12:8099/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视,http://223.241.247.214:9901/tsfile/live/0132_1.m3u8
-湖北卫视,http://223.241.247.214:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://3501776.xyz:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
 湖北卫视,http://36.105.100.208:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
 湖北卫视,http://36.248.137.69:60033/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -303,7 +317,6 @@
 湖北卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
 湖北卫视,http://4330413.xyz:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
 湖北卫视,http://49.67.96.109:55555/rtp/239.49.8.147:6000
-湖北卫视,http://49.87.154.246:85/tsfile/live/1017_1.m3u8?key=txiptv
 湖北卫视,http://504099760.qicp.vip:9901/tsfile/live/0132_1.m3u8
 湖北卫视,http://58.17.116.69:9903/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://58.19.244.92:1111/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0

@@ -1,8 +1,13 @@
+天津卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1757403106&token=3b86b9b71635a69588ece1402be25c0c
+天津卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1757401893&token=92b001cb30d74e11e79c4b95b8da8711
+天津卫视,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://gfr.x3322.net:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://k.061899.xyz/m.php?id=tjws&key=txiptv&playlive=1&authid=0
+天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://123.129.70.178:9901/tsfile/live/0135_1.m3u8
 天津卫视,http://123.129.70.178:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://221.2.148.205:8154/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8
-天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://61.156.228.12:8154/tsfile/live/0135_1.m3u8
 天津卫视,http://61.156.228.12:8154/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8

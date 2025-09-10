@@ -1,3 +1,17 @@
+重庆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&t=1757403106&token=35ae1e3e3023aa2000b0d78a36129223
+重庆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&t=1757401893&token=4530ce7f9bc00d785cf342668176b0a3
+重庆卫视,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://111.43.126.240:9003/hls/55/index.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://61.156.228.12:8154/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://223.241.247.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://221.226.51.220:50081/newlive/live/hls/28/live.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://218.89.240.144:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://ak6668768.zicp.io:8845/live1071.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://api.kkitv.itv888.cn:8080/hls/ogh3s6tbw6/index.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://sh.lnott.top:880/dx46.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226409/index.m3u8
@@ -229,7 +243,6 @@
 重庆卫视,http://218.58.136.82:352/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://218.78.176.241:5003/cqws.m3u8?token=7375646f5a6de7caf56f7bbd731d50188425bfd9&z=1f48
 重庆卫视,http://218.89.240.144:59901/tsfile/live/0142_1.m3u8
-重庆卫视,http://218.89.240.144:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://219.135.208.218:8083/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://219.145.201.198:3389/index.php?okaysites=1×tamp=1744288369&url=ZQWSGc/index.m3u8
 重庆卫视,http://219.156.17.223:8888/hls/49/index.m3u8
@@ -245,7 +258,6 @@
 重庆卫视,http://221.226.51.220:50081/newlive/live/hls/28/live.m3u8
 重庆卫视,http://222.142.70.204:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
-重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://222.173.108.238:352/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://222.174.239.62:352/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://222.219.183.103:8089/hls/33/index.m3u8
@@ -258,7 +270,6 @@
 重庆卫视,http://223.145.224.77:8000/udp/239.76.246.92:1234
 重庆卫视,http://223.145.224.77:8000/udp/239.76.253.92:9000
 重庆卫视,http://223.241.247.214:9901/tsfile/live/1007_1.m3u8
-重庆卫视,http://223.241.247.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://27.18.225.28:34567/nptv/chongqing.m3u8
 重庆卫视,http://3501776.xyz:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://36.105.100.208:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
@@ -307,7 +318,6 @@
 重庆卫视,http://61.138.128.226:19901/tsfile/live/0142_1.m3u8
 重庆卫视,http://61.138.128.226:19901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://61.156.228.12:8154/tsfile/live/0142_1.m3u8
-重庆卫视,http://61.156.228.12:8154/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://61.163.181.78:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://76.5432123.xyz/杂项代理/学习强国.php?id=cqws
 重庆卫视,http://aiony.top:35455/bst/cqwshd4m@4000000.m3u8

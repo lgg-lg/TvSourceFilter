@@ -1,3 +1,4 @@
+法治天地,http://sh.lnott.top:880/dx108.m3u8?key=txiptv&playlive=1&authid=0
 法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
 法治天地,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002010/index.m3u8?IASHttpSessionId=
 法治天地,http://[2409:8087:5e00:24::1e]:6060/000000001000/9001547084732463424/1.m3u8

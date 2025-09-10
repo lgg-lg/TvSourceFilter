@@ -1,3 +1,7 @@
+海峡卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1757403106&token=279899d35c5b7ca7dbc1ee94c28d2248
+海峡卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1757401893&token=c769e3465273326d6e509c8449e62d6b
+海峡卫视,http://k.061899.xyz/m.php?id=hxws&key=txiptv&playlive=1&authid=0
+海峡卫视,http://iptv.huuc.edu.cn/hls/ynhd.m3u8?key=txiptv&playlive=1&authid=0
 海峡卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 海峡卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 海峡卫视,http://110.72.70.34:8181/tsfile/live/0150_1.m3u8
@@ -43,12 +47,3 @@
 海峡卫视,p3p://167.114.175.6:55331/63ec47390001586de42ffc1a7e1856a6
 海峡卫视,p3p://173.208.176.178:31809/63ec47390001586de42ffc1a7e1856a6
 海峡卫视,http://120.40.61.59:1000/rtp/239.61.2.151:8894
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist1.m3u8
-海峡卫视,http://kkk.888.3116598.xyz/api.php?n=tttt&id=MwwhZ5&tk=FgM0vQMejxvG
-海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-6.m3u8
-海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-4.m3u8
-海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-7.m3u8
-海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-10.m3u8
-海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=bec1b6ad1757008948
-海峡卫视,https://tv.iill.top/migu/hxws
-海峡卫视,http://122.117.71.103:8674/海峡卫视.m3u8
