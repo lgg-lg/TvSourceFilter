@@ -650,7 +650,7 @@ def main(input_file, output_file, step=7 ,exflag=False):
         except Exception as e:
             logger.error(f"❌ 程序执行出错: {e}")
     else:
-        logger.info(f"为降低爬取频率，改为每周日一爬，本次将不爬取信号源")
+        logger.info(f"为降低爬取频率，改为每{step}天一爬，本次将不爬取信号源")
 
 
 # 如果直接运行此脚本，则执行 main 函数
@@ -660,6 +660,7 @@ if __name__ == "__main__":
     input_file = os.path.join("config", "channels.txt")
     output_file = os.path.join("output", "ownsource.txt")
     main(input_file, output_file)
+
 
 
 
