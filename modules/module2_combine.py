@@ -144,8 +144,8 @@ def combine_sources():
     
     # 合并所有源
     if errorflag:
-        net_data=read_sources_gbk(os.path.join("output", "netsource_log.txt"))
-        all_data = result_data + local_data + own_data+ net_data
+        # net_data=read_sources_gbk(os.path.join("output", "netsource_log.txt"))
+        all_data = result_data + local_data + own_data
     else:
         all_data = result_data + local_data + own_data + net_data
         
@@ -297,6 +297,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
