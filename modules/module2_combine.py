@@ -27,6 +27,24 @@ def read_sources(file_path):
                 url, extra = url.split('$', 1)
             data.append([name, url.strip(), extra.strip()])
     return data
+    
+def read_sources_gbk(file_path):
+    data = []
+    if not os.path.exists(file_path):
+        return data
+    with open(file_path, 'r', encoding='gbk') as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith('#') or ',#genre#' in line:
+                continue
+            parts = line.split(',', 1)
+            name = parts[0].strip()
+            url = parts[1].strip() if len(parts) > 1 else ''
+            extra = ''
+            if '$' in url:
+                url, extra = url.split('$', 1)
+            data.append([name, url.strip(), extra.strip()])
+    return data
 
 def read_subscribe_sources(subscribe_path):
     data = []
@@ -126,7 +144,7 @@ def combine_sources():
     
     # 合并所有源
     if errorflag:
-        net_data=read_sources(os.path.join("output", "netsource_log.txt"))
+        net_data=read_sources_gbk(os.path.join("output", "netsource_log.txt"))
         all_data = result_data + local_data + own_data+ net_data
     else:
         all_data = result_data + local_data + own_data + net_data
@@ -279,6 +297,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
