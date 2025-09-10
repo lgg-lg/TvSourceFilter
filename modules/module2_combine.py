@@ -121,12 +121,13 @@ def combine_sources():
         errorflag=True
         with open(os.path.join("output", "netsource_log.txt"), 'w', encoding='gbk', errors='replace') as f:
             for _, row in net_df.iterrows():
-                f.write(f"{row['name']},{row['url']}\n")
+                f.write(f"{row['name']},{row['url'],{row['extra']}\n")
         
     
     # 合并所有源
     if errorflag:
-        all_data = result_data + local_data + own_data
+        net_data=read_sources(os.path.join("output", "netsource_log.txt"))
+        all_data = result_data + local_data + own_data+ net_data
     else:
         all_data = result_data + local_data + own_data + net_data
         
@@ -278,6 +279,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
