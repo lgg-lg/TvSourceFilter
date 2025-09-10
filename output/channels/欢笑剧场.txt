@@ -51,13 +51,3 @@
 欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001
 欢笑剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/index.m3u8
 欢笑剧场,http://183.128.144.71:8000/udp/233.50.201.189:5140
-欢笑剧场,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hxjc
-欢笑剧场,http://t.061899.xyz/tl/dq.php?id=hxjc
-欢笑剧场,http://116.226.38.242:4022/udp/239.45.3.196:5140$上海电信组播
-欢笑剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8
-欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8?
-欢笑剧场,http://nctv.top/IDOEPpiryt/migu.php?id=hxjc
-欢笑剧场,http://120.192.226.35:8009/hls/78/index.m3u8
-欢笑剧场,
-欢笑剧场,http://dl.zhoujie218.top/migu/migu.php?id=hxjc
-欢笑剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989

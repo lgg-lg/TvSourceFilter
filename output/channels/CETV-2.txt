@@ -60,10 +60,3 @@ CETV-2,http://219.156.17.223:8888/hls/20/index.m3u8
 CETV-2,http://115.58.122.81:8879/live1715.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 CETV-2,http://107.174.52.32/itv.php?id=CETV2
 CETV-2,http://183.166.144.49:8686/rtp/238.1.78.106:6720
-CETV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
-CETV-2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20250903090033bf55eab2bb984fe0b4ac863e60d28ac6&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20250903090033&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.83&SecurityKey=20250903090033&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ebfbdc6c83654112720d2b5599373223&ddCalcu=3e2bv2fa3ba7da3c969c5853b625d4012172&sv=10004&ct=android
-CETV-2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225813/index.m3u8
-CETV-2,http://wuwenxidong.work:2333/udp/225.1.8.193:4120
-CETV-2,http://39.134.64.87:6610/PLTV/88888888/224/3221226425/index.m3u8?IASHttpSessionId=
-CETV-2,http://183.11.239.36:808/hls/78/index.m3u8
-CETV-2,http://hbhyjq.ufyct.com:1088/hls/6/index.m3u8

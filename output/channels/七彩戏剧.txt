@@ -24,17 +24,3 @@
 七彩戏剧,http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 七彩戏剧,http://php.jdshipin.com:8880/bst.php?id=qcxjhd8m/8000000
 七彩戏剧,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/qcxjhd8m/8000000/mnf.m3u8
-七彩戏剧,http://mg.hmysapp.cn:177/ckmg/zb.php?id=qcxj
-七彩戏剧,http://t.061899.xyz/tl/dq.php?id=qcxj
-七彩戏剧,http://nas.hssvm.com:8888/udp/225.1.1.86:5002
-七彩戏剧,http://139.196.151.191:2051/rtp/239.45.3.61:5140
-七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9763&tk=e503191f8e20
-七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6494&tk=a0c4f6cfaba3
-七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0866&tk=e640d0a1bf70
-七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3074&tk=b53028476470
-七彩戏剧,http://nctv.top/IDOEPpiryt/migu.php?id=qcxj
-七彩戏剧,http://dl.zhoujie218.top/migu/migu.php?id=qcxj
-七彩戏剧,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-七彩戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=83f1a1&tk=822270345d4c
-七彩戏剧,http://139.196.214.238/rtp/239.45.3.61:5140
-七彩戏剧,http://www.xzbn.site:35455/itv/5000000011000031116.m3u8?cdn=bestzb

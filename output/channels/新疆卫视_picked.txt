@@ -14,15 +14,3 @@
 新疆卫视,https://stream1.freetv.fun/cb58b0a62804daac145240a026b9deb894df2b4eeafad095125dd7f942bfe568.ctv
 新疆卫视,https://stream1.freetv.fun/db4b29ef198855d9b99d536b088e761d0a593387d97b7b71933f2fa8a2723797.ctv
 新疆卫视,http://api.kkitv.itv888.cn:8080/hls/vr12qgtucx/index.m3u8
-新疆卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xjws
-新疆卫视,http://t.061899.xyz/tl/dq.php?id=xjws
-新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
-新疆卫视,http://221.2.148.205:8154/tsfile/live/0110_1.m3u8
-新疆卫视,http://tpc.x3322.net:9901/tsfile/live/0110_1.m3u8
-新疆卫视,http://go.bkpcp.top/mg/xjws
-新疆卫视,http://dl.zhoujie218.top/migu/migu.php?id=xjws
-新疆卫视,https://stream1.freetv.fun/cb58b0a62804daac145240a026b9deb894df2b4eeafad095125dd7f942bfe568.ctv$LR•IPV4『线路20』
-新疆卫视,https://stream1.freetv.fun/1abe256db4cb4fdd810aefb4335f73f52f11ce89eb0111941981d27a0f9c2aab.ctv$LR•IPV4『线路26』
-新疆卫视,https://stream1.freetv.fun/db4b29ef198855d9b99d536b088e761d0a593387d97b7b71933f2fa8a2723797.ctv$LR•IPV4『线路27』
-新疆卫视,https://stream1.freetv.fun/ad792f5609892bf154369537185a58a8c2a1b29e4f225a268282f628ef83e7bc.ctv$LR•IPV4『线路34』
-新疆卫视,https://stream1.freetv.fun/345c53fbea8456cd1cc4c91283ea05745ba501069d006845745d9bf453f1ab53.ctv$LR•IPV4『线路61』

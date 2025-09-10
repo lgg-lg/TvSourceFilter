@@ -72,16 +72,3 @@
 东方影视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 东方影视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/index.m3u8
 东方影视,http://39.134.136.198:6410/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb
-东方影视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfys
-东方影视,http://t.061899.xyz/tl/dq.php?id=dfys
-东方影视,http://116.226.38.242:4022/udp/239.45.3.237:5140$上海电信组播
-东方影视,https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-14.m3u8
-东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-12.ctv
-东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8?
-东方影视,http://[2409:8087:1e01:20::3]/000000000000/5000000010000032212/index.m3u8
-东方影视,http://nctv.top/IDOEPpiryt/migu.php?id=shys
-东方影视,
-东方影视,http://dl.zhoujie218.top/migu/migu.php?id=dfys
-东方影视,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-东方影视,http://www.xzbn.site:35455/itv/5000000010000032212.m3u8?cdn=bestzb
-东方影视,http://huangxin.quipor.cn:12999/hls/19/index.m3u8?url=tvzb.com

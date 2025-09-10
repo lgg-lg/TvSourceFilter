@@ -18,12 +18,3 @@
 北京卫视,http://hbhyjq.ufyct.com:1088/hls/32/index.m3u8
 北京卫视,http://omnix.cn:4000/udp/225.1.8.21:8002
 北京卫视,http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
-北京卫视,http://t.061899.xyz/tl/dq.php?id=bjws
-北京卫视,http://go.bkpcp.top/mg/bjws
-北京卫视,http://171.120.248.227:9003/hls/20/index.m3u8
-北京卫视,http://221.205.204.69:9003/hls/20/index.m3u8
-北京卫视,http://www.hkyc.site:1991/udp/239.253.64.204:5140
-北京卫视,http://tpc.x3322.net:9901/tsfile/live/0122_1.m3u8
-北京卫视,http://153.0.171.163:9901/tsfile/live/0122_1.m3u8
-北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
-北京卫视,https://6663.luyazo.com/livetv/hlcc/EeE1Rw7Hgz/EeE1Rw7Hgz_live.m3u8

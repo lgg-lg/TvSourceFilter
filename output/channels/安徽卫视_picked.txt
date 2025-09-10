@@ -16,12 +16,3 @@
 安徽卫视,http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
 安徽卫视,http://hbhyjq.ufyct.com:1088/hls/81/index.m3u8
 安徽卫视,http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
-安徽卫视,http://112.132.10.54:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://171.120.248.227:9003/hls/21/index.m3u8
-安徽卫视,http://221.205.204.69:9003/hls/21/index.m3u8
-安徽卫视,http://www.hkyc.site:1991/udp/239.253.64.129:5140
-安徽卫视,http://tpc.x3322.net:9901/tsfile/live/0130_1.m3u8
-安徽卫视,http://153.0.171.163:9901/tsfile/live/0130_1.m3u8
-安徽卫视,http://go.bkpcp.top/mg/ahws
-安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
-安徽卫视,https://6663.luyazo.com/livetv/hlcc/ZbU6ZQnNg/ZbU6ZQnNg_live.m3u8

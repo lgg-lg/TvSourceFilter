@@ -1,7 +1,3 @@
 欢笑剧场,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA&t=1757403106&token=015608007e238db7b11f63b06504e45f
 欢笑剧场,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA&t=1757401893&token=b2ea6e6e037eeb37f2eb4b5ba8fd922f
 欢笑剧场,https://epg.pw/stream/c26de373680830b38e7b3f0da2f920353f298e3369addfe68b8e4a2e3811a12b.ctv
-欢笑剧场,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hxjc
-欢笑剧场,http://t.061899.xyz/tl/dq.php?id=hxjc
-欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8?
-欢笑剧场,http://dl.zhoujie218.top/migu/migu.php?id=hxjc

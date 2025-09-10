@@ -65,12 +65,3 @@
 法治天地,http://115.196.30.118:8500/udp/233.50.201.191:5140
 法治天地,http://39.134.136.198:6410/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb
 法治天地,http://183.191.138.96:8001/rtp/226.0.2.83:8576
-法治天地,http://[2409:8087:5e08:25::4]:6610/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&Ace
-法治天地,http://mg.hmysapp.cn:177/ckmg/zb.php?id=fztd
-法治天地,http://t.061899.xyz/tl/dq.php?id=fztd
-法治天地,http://live2.rxip.sc96655.com/live/fztx_4000.m3u8?E=&U=&A=&K=&P=&S=
-法治天地,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8?
-法治天地,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000123/index.m3u8?
-法治天地,http://dl.zhoujie218.top/migu/migu.php?id=fztd
-法治天地,https://iptv.crestekk.cn/php/cqyx.php?id=fazhi
-法治天地,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989

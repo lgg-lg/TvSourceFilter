@@ -11,16 +11,3 @@
 云南卫视,https://stream1.freetv.fun/eff62f09bb1873ea9ee8027c3a613f56387807ae7e011c46d8ff2e43bd11ff7f.ctv
 云南卫视,https://stream1.freetv.fun/f40235a5ade931c60cc82abe8d013628e1977f5cea353d83586f27b4026d32b4.ctv
 云南卫视,http://api.kkitv.itv888.cn:8080/hls/jwvhleddq5/index.m3u8
-云南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=ynws
-云南卫视,http://t.061899.xyz/tl/dq.php?id=ynws
-云南卫视,http://153.0.171.163:9901/tsfile/live/0119_1.m3u8
-云南卫视,http://go.bkpcp.top/mg/ynws
-云南卫视,http://dl.zhoujie218.top/migu/migu.php?id=ynws
-云南卫视,https://stream1.freetv.fun/f40235a5ade931c60cc82abe8d013628e1977f5cea353d83586f27b4026d32b4.ctv$LR•IPV4『线路43』
-云南卫视,https://stream1.freetv.fun/eff62f09bb1873ea9ee8027c3a613f56387807ae7e011c46d8ff2e43bd11ff7f.ctv$LR•IPV4『线路44』
-云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8$LR•IPV4『线路84』
-云南卫视,http://t.061899.xyz/tl/tl.php?id=ynws
-云南卫视,http://221.226.51.220:50081/newlive/live/hls/33/live.m3u8
-云南卫视,https://6663.luyazo.com/livetv/hlnt/mDPzQMqIg/mDPzQMqIg_live.m3u8
-云南卫视,http://171.15.18.199:8180/TV00000000000000000034@HHZT
-云南卫视,http://113.15.109.216:59901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
