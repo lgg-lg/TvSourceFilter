@@ -128,7 +128,10 @@ def combine_sources():
     # )
     all_df.drop(columns=['extra'], inplace=True)
     #save_df(all_df, r'.\output\allsource.txt')
-    save_df(all_df, os.path.join("output", "allsource.txt"))
+    try:
+        save_df(all_df, os.path.join("output", "allsource.txt"))
+    except Exception as e: 
+        logger.error(f"网络源写出失败:{e}")
     logger.info("模块2执行完毕")
 if __name__ == '__main__':
 
@@ -262,6 +265,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
