@@ -1,4 +1,5 @@
-湖北卫视,https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1757043017&token=02ea0a7ca6b519b486b5f84bed5ccee3
+湖北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1757403106&token=3de4339ad151352166be9d16a298ffff
+湖北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1757401893&token=68ecbb1f4a79a3b944ca42da11696573
 湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -15,10 +16,9 @@
 湖北卫视,http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8
 湖北卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hubws
 湖北卫视,http://t.061899.xyz/tl/dq.php?id=hubws
-湖北卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?msisdn=20250909090028d0c069e376aa42498c174398bbc30f4f&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20250909090028&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.90&SecurityKey=20250909090028&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1ceca653d7938e19c14fc9730ce2b815&ddCalcu=511cv8eabcy2aae6c5033d7799c3f84e11c9&sv=10004&ct=android
+湖北卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?msisdn=2025091009003706bae602204245929cabc49daa3aea13&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a5c5f227cd149cf825abe5ec8d1da6c6&ddCalcu=6ac5v6caa5ydfa12d287cced51e4b9ac5f28&sv=10004&ct=android
 湖北卫视,http://go.bkpcp.top/mg/hubws
 湖北卫视,http://112.132.10.54:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,https://cc06.tv12.xyz/50.m3u8
 湖北卫视,http://171.120.248.227:9003/hls/32/index.m3u8
 湖北卫视,http://221.205.204.69:9003/hls/32/index.m3u8
 湖北卫视,http://www.hkyc.site:1991/udp/239.253.64.207:5140

@@ -1,4 +1,5 @@
-广东卫视,https://stream.iptv-search.com/main.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1757043017&token=b50144ff34e3c239159d1e173d63c85b
+广东卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1757403106&token=6216aaa7d4c8c9143aa04b3f99f209b2
+广东卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1757401893&token=fec71e2585838698c0bac01562fdd79d
 广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://gfr.x3322.net:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -14,10 +15,8 @@
 广东卫视,http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
 广东卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gdws
 广东卫视,http://t.061899.xyz/tl/dq.php?id=gdws
-广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20250909090028001cb75323cc4c6ca0dfc7fa361cab1d&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20250909090028&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.90&SecurityKey=20250909090028&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ebab12779c403ae2a758a1b996d0505c&ddCalcu=ce5bv0aa5ba01ad2679799bc14a0835a7ea2&sv=10004&ct=android
+广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20250910090037a7ef748cba6f4e548a377298c99e2e50&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2d39fb16bee11e6a04ccaad3f330f7e1&ddCalcu=12edv73af9a0fa3b31f63bdeaea1c1ce460a&sv=10004&ct=android
 广东卫视,http://go.bkpcp.top/mg/gdws
-广东卫视,http://113.15.109.216:59901/tsfile/live/0125_1.m3u8
-广东卫视,https://cc06.tv12.xyz/43.m3u8
 广东卫视,http://171.120.248.227:9003/hls/26/index.m3u8
 广东卫视,http://221.205.204.69:9003/hls/26/index.m3u8
 广东卫视,http://www.hkyc.site:1991/udp/239.253.64.200:5140

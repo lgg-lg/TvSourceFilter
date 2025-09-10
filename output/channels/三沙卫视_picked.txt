@@ -1,4 +1,5 @@
-三沙卫视,https://stream.iptv-search.com/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&t=1757043017&token=b28b227b9decaec59b3be07675a49cf1
+三沙卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&t=1757403106&token=aea3db8335cc8b3dd17d295d97007761
+三沙卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&t=1757401893&token=8d87833f46b3f5ce0713d07961ef9c13
 三沙卫视,http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,https://stream1.freetv.fun/2cd4144297abc1ff362c335b2277ea95807b098d03e76dc36a28f27c9bf89c47.ctv
 三沙卫视,https://stream1.freetv.fun/2f29bdf337cfd1004d4deb54a8f7ab4476ca8a0d740651bb6e9f8b71fdbdb60e.ctv
@@ -6,8 +7,8 @@
 三沙卫视,https://stream1.freetv.fun/de612c9a7e60a728c4c7416f9f5767e6e1d998de42dc23a3e1c401afad4f4498.ctv
 三沙卫视,http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8
 三沙卫视,http://tpc.x3322.net:9901/tsfile/live/0142_1.m3u8
-三沙卫视,https://stream1.freetv.fun/2cd4144297abc1ff362c335b2277ea95807b098d03e76dc36a28f27c9bf89c47.ctv$LR•IPV4『线路16』
-三沙卫视,https://stream1.freetv.fun/b54ef2d025e3b6719aba4722e7bad797297d5e0f87df76bc9935a91ad02daee8.ctv$LR•IPV4『线路17』
-三沙卫视,https://stream1.freetv.fun/de612c9a7e60a728c4c7416f9f5767e6e1d998de42dc23a3e1c401afad4f4498.ctv$LR•IPV4『线路20』
+三沙卫视,https://stream1.freetv.fun/2cd4144297abc1ff362c335b2277ea95807b098d03e76dc36a28f27c9bf89c47.ctv$LR•IPV4『线路15』
+三沙卫视,https://stream1.freetv.fun/b54ef2d025e3b6719aba4722e7bad797297d5e0f87df76bc9935a91ad02daee8.ctv$LR•IPV4『线路16』
+三沙卫视,https://stream1.freetv.fun/de612c9a7e60a728c4c7416f9f5767e6e1d998de42dc23a3e1c401afad4f4498.ctv$LR•IPV4『线路19』
 三沙卫视,http://hbhyjq.ufyct.com:1088/hls/7/index.m3u8
 三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8

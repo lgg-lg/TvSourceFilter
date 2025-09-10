@@ -1,4 +1,5 @@
-江苏卫视,https://stream.iptv-search.com/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1757043017&token=8f8c53fe5da405fb1e47e5fa47dee6c7
+江苏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1757403106&token=a758bdd8b3de0f1e4aaadd0ea93f3c25
+江苏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1757401893&token=d259896594158a0fa6d43cda54d1f43b
 江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://k.061899.xyz/m.php?id=jsws&key=txiptv&playlive=1&authid=0
@@ -18,14 +19,12 @@
 江苏卫视,http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
 江苏卫视,http://t.061899.xyz/tl/dq.php?id=jsws
-江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=202509090900285857880449bf4586883f568cab990052&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20250909090028&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.90&SecurityKey=20250909090028&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4bafeeb9f5c8d3d3f434368598500b44&ddCalcu=444bvbaa0fb0ea5e8b995f856c384d334df3&sv=10004&ct=android
+江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=20250910090037e581182d1c7348d39a6865e09703bc48&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d141a44b1f775f2ed5c3f0b78a38fc84&ddCalcu=4d81vc4af1b8aa34a48b71bf07f735cf52de&sv=10004&ct=android
 江苏卫视,http://go.bkpcp.top/mg/jsws
-江苏卫视,https://cc06.tv12.xyz/61.m3u8
 江苏卫视,http://171.120.248.227:9003/hls/35/index.m3u8
 江苏卫视,http://221.205.204.69:9003/hls/35/index.m3u8
 江苏卫视,http://221.226.51.220:50081/newlive/live/hls/18/live.m3u8
 江苏卫视,http://221.2.148.205:8154/tsfile/live/0127_1.m3u8
-江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8#http://222.169.85.8:9901/tsfile/live/0127_1.m3u8
 江苏卫视,http://www.hkyc.site:1991/udp/239.253.64.202:5140
 江苏卫视,http://tpc.x3322.net:9901/tsfile/live/0127_1.m3u8
 江苏卫视,http://dl.zhoujie218.top/migu/migu.php?id=jsws

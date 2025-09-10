@@ -1,4 +1,5 @@
-CCTV-5,https://stream.iptv-search.com/main.php?id=CCTV5&t=1757043017&token=d9b8e2b8cb1b5af7c290fead6a20723a
+CCTV-5,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1757403106&token=9eb8577ccc56d647f718179cf931263f
+CCTV-5,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1757401893&token=c8cddacea4ee0ae398ea073ad2800d7e
 CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://k.061899.xyz/m.php?id=cctv5&key=txiptv&playlive=1&authid=0
@@ -29,9 +30,8 @@ CCTV-5,http://hbhyjq.ufyct.com:1088/hls/13/index.m3u8
 CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
 CCTV-5,http://t.061899.xyz/tl/dq.php?id=cctv5
 CCTV-5,http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=202509090900276a2d01c261d043a2b76965701cd2b753&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20250909090027&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.90&SecurityKey=20250909090027&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a7b0141172dc9b1a80cc0e21db140f7a&ddCalcu=aa77vfba00w41a14b1d11722ed0cc9cb018a&sv=10004&ct=android
+CCTV-5,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=2025091009003439d97706364d40fda72d82a41c70a965&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20250910090034&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.83&SecurityKey=20250910090034&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c2b4238565e1b530bd50712a0d3916f2&ddCalcu=2cf2v6ba14w92a33d805a6251e710b55d3b0&sv=10004&ct=android
 CCTV-5,http://go.bkpcp.top/mg/cctv5
-CCTV-5,https://cc06.tv12.xyz/5.m3u8
 CCTV-5,http://171.120.248.227:9003/hls/5/index.m3u8
 CCTV-5,http://221.205.204.69:9003/hls/5/index.m3u8
 CCTV-5,http://171.120.248.227:9003/hls/6/index.m3u8
@@ -40,11 +40,12 @@ CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
 CCTV-5,http://www.hkyc.site:1991/udp/239.253.64.245:5140
 CCTV-5,http://106.53.99.30/tv/api.php?id=cctv5
+CCTV-5,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8
 CCTV-5,http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
 CCTV-5,http://dl.zhoujie218.top/migu/migu.php?id=cctv5
 CCTV-5,http://222.135.142.75:3283/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://218.104.239.114:9901//tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://60.29.124.66:6080/hls/16/index.m3u8$LR•IPV4『线路30』
+CCTV-5,http://60.29.124.66:6080/hls/16/index.m3u8$LR•IPV4『线路31』
 CCTV-5,http://218.3.138.25:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路58』
 CCTV-5,https://stream1.freetv.fun/1b7611e6b0e4aae05b867aa6a842bae6194ee0f78e11690ba727dcb3d79d8155.ctv$LR•IPV4『线路105』
 CCTV-5,https://stream1.freetv.fun/1f4d35fa573d2d14b6c677080cf70be7d3809ee7710fbbe450348d425c377b39.ctv$LR•IPV4『线路110』

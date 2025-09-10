@@ -1,4 +1,5 @@
-CCTV-11,https://stream.iptv-search.com/main.php?id=CCTV11&t=1757043017&token=a74e21749a55d8eeb5b772de24561e5f
+CCTV-11,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1757403106&token=ac06bcc8ce6b63d4fc2c1c559fad4cf8
+CCTV-11,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1757401893&token=ebc408d7fea27dbfd25edba16f8dd50f
 CCTV-11,http://gfr.x3322.net:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://gfr.x3322.net:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://k.061899.xyz/m.php?id=cctv11&key=txiptv&playlive=1&authid=0
@@ -22,12 +23,12 @@ CCTV-11,http://hbhyjq.ufyct.com:1088/hls/19/index.m3u8
 CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
 CCTV-11,http://t.061899.xyz/tl/dq.php?id=cctv11
 CCTV-11,http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-11,http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?msisdn=20250909090027bbd323d4b0114959a9b9d87cbcb9b91f&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20250909090027&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.90&SecurityKey=20250909090027&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=91f1abb0ae218bb7cf594480da475100&ddCalcu=0901v1fa51z7aa4babd00a8e4241985bfbc7&sv=10004&ct=android
+CCTV-11,http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?msisdn=20250910090035c007904fe40a4636b6df09018fe499b6&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20250910090035&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.83&SecurityKey=20250910090035&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c1cf675abd07deca7bcee31f9b0c3a24&ddCalcu=4c21vaca3fzc6a07b59afb1d30e7edcebc7a&sv=10004&ct=android
 CCTV-11,http://go.bkpcp.top/mg/cctv11
-CCTV-11,https://cc06.tv12.xyz/12.m3u8
 CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
 CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
 CCTV-11,http://www.hkyc.site:1991/udp/239.253.64.70:5140
+CCTV-11,http://112.123.243.37:50085/tsfile/live/0012_1.m3u8
 CCTV-11,http://tpc.x3322.net:9901/tsfile/live/0011_1.m3u8
 CCTV-11,http://dl.zhoujie218.top/migu/migu.php?id=cctv11
 CCTV-11,http://58.243.224.242:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0

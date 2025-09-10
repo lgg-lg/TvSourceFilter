@@ -1,4 +1,5 @@
-青海卫视,https://stream.iptv-search.com/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&t=1757043017&token=2aee96173063a61b6af1259a6d9d7c14
+青海卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&t=1757403106&token=cb00650bcd1fabd604423f9ebc59f62e
+青海卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&t=1757401893&token=7c13867d3a2a46e853e0de1657164255
 青海卫视,http://gfr.x3322.net:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://k.061899.xyz/m.php?id=qhws&key=txiptv&playlive=1&authid=0
 青海卫视,http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -10,9 +11,7 @@
 青海卫视,http://api.kkitv.itv888.cn:8080/hls/ry7s3t5wmqa/index.m3u8
 青海卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=qhws
 青海卫视,http://t.061899.xyz/tl/dq.php?id=qhws
-青海卫视,http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=202509090900290e6a5a1fcf3b4872b56544aba601d020&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20250909090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.90&SecurityKey=20250909090029&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=71e5d18a831351f69305e338b1c79937&ddCalcu=7731v9ea95z7dac118ba883331e355013f96&sv=10004&ct=android
-青海卫视,http://113.15.109.216:59901/tsfile/live/0140_1.m3u8
-青海卫视,https://cc06.tv12.xyz/97.m3u8
+青海卫视,http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=202509100900373f803ab8575a4cc887e228ccc0e8cea6&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=537172de2157c67ed138792774019367&ddCalcu=7563v37a91z17a024d7e722195778c3617de&sv=10004&ct=android
 青海卫视,http://221.2.148.205:8154/tsfile/live/0140_1.m3u8
 青海卫视,http://tpc.x3322.net:9901/tsfile/live/0140_1.m3u8
 青海卫视,http://153.0.171.163:9901/tsfile/live/0140_1.m3u8

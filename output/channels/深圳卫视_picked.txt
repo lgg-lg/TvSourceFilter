@@ -1,4 +1,5 @@
-深圳卫视,https://stream.iptv-search.com/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1757043017&token=adf2f0b2991ed8e5328727d501c374f4
+深圳卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1757403106&token=b01d584da4bf4dfe6a31991bf26a4edc
+深圳卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1757401893&token=cf9bc2dd98da35f28f1e2ad1fffdb718
 深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://221.226.51.220:50081/newlive/live/hls/32/live.m3u8?key=txiptv&playlive=1&authid=0
@@ -14,13 +15,12 @@
 深圳卫视,http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
 深圳卫视,http://t.061899.xyz/tl/dq.php?id=szws
 深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,https://cc06.tv12.xyz/108.m3u8
 深圳卫视,http://171.120.248.227:9003/hls/43/index.m3u8
 深圳卫视,http://www.hkyc.site:1991/udp/239.253.64.203:5140
 深圳卫视,http://tpc.x3322.net:9901/tsfile/live/0126_1.m3u88
 深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://go.bkpcp.top/mg/szws
-深圳卫视,https://stream1.freetv.fun/7d39b3e02dccfbd1ed32ec34964c9c335bfed429cb4f45800afa9f77414d01e3.ctv$LR•IPV4『线路68』
+深圳卫视,https://stream1.freetv.fun/7d39b3e02dccfbd1ed32ec34964c9c335bfed429cb4f45800afa9f77414d01e3.ctv$LR•IPV4『线路66』
 深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
 深圳卫视,https://6663.luyazo.com/livetv/hlnt/_e7zQMqSRz/_e7zQMqSRz_live.m3u8
 深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8

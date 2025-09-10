@@ -1,4 +1,5 @@
-香港卫视,https://stream.iptv-search.com/main.php?id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&t=1757043017&token=fb4ee9b0efa884e0d95f810dbfe869e6
+香港卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&t=1757403106&token=665add165435f493aee5d62c436e1ddc
+香港卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&t=1757401893&token=5dbdcbf42845b29ae41243017ff0e518
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,https://yvxymm.tv12.xyz/175.m3u8?key=txiptv&playlive=1&authid=0
@@ -15,7 +16,6 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0
-香港卫视,https://migu.188766.xyz/?migutoken=fb03a21bede3eb8e11ffb10c699d8f63&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
 香港卫视,https://stream1.freetv.fun/79e4d77e2f29a2ca7f7cabbbe2ee02d32a4f2f7fb91ae94d0fb9573c9f94b4ab.ctv
@@ -28,18 +28,13 @@
 香港卫视,https://yvxymm.tv12.xyz/175.m3u8
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-香港卫视,https://migu.188766.xyz/?migutoken=6804cde09f4133e69f2aaf5406a2bcc5&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&type=yy
-香港卫视,https://migu.188766.xyz/?migutoken=71c1dbe4568d6c43573e0f04671d588f&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-1.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-16.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;amp;amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;amp;amp;wsMonitor=0
 香港卫视,https://hls-gateway.vpstv.net/streams/708918.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0
 香港卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hkphoenix_twn/playlist.m3u8
-香港卫视,https://migu.188766.xyz/?migutoken=ac62e0613b93648d97306ec5a0ed0318&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1&token=c0ce1ad4280e3aac677abee5182a7ba9
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$LR•IPV4『线路1』
-香港卫视,https://migu.188766.xyz/?migutoken=71c1dbe4568d6c43573e0f04671d588f&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$LR•IPV4『线路2』
 香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv$LR•IPV4『线路3』
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv$LR•IPV4『线路4』
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8$LR•IPV4『线路5』

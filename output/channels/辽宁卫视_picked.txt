@@ -1,4 +1,5 @@
-辽宁卫视,https://stream.iptv-search.com/main.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&t=1757043017&token=de6ed1818b2501727dda55c07a293ddb
+辽宁卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&t=1757403106&token=d5c80e359ffc9cedff9a737c29ad979a
+辽宁卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&t=1757401893&token=1e7592198ab27e0cfa8be118dc1fc86d
 辽宁卫视,http://k.061899.xyz/m.php?id=ynws&key=txiptv&playlive=1&authid=0
 辽宁卫视,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://api.kkitv.itv888.cn:8080/hls/iibq0absdjr/index.m3u8?key=txiptv&playlive=1&authid=0
@@ -13,10 +14,7 @@
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-gao-qing-2.ctv
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-gao-qing-5.ctv
 辽宁卫视,http://api.kkitv.itv888.cn:8080/hls/iibq0absdjr/index.m3u8
-辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
 辽宁卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=lnws
-辽宁卫视,https://cc06.tv12.xyz/70.m3u8
-辽宁卫视,https://cc06.tv12.xyz/71.m3u8
 辽宁卫视,http://171.120.248.227:9003/hls/37/index.m3u8
 辽宁卫视,http://221.205.204.69:9003/hls/37/index.m3u8
 辽宁卫视,http://www.hkyc.site:1991/udp/239.253.64.150:5140

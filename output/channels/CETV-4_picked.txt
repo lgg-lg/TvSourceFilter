@@ -1,4 +1,5 @@
-CETV-4,https://stream.iptv-search.com/main.php?id=CETV4&t=1757043017&token=abfaed39c60c2458b379e46ab20794a3
+CETV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CETV4&t=1757403106&token=c2ca6c280a73202a33fa25e4e5511f8a
+CETV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CETV4&t=1757401893&token=aad37dcb34851c6a55159b5e46a445b2
 CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=2025090309003329cd481a5313461999ea66e0b5c14a1b&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20250903090033&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.83&SecurityKey=20250903090033&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a0dd23e241f091b5c99903fbe22f27e3&ddCalcu=3ae0v7da2dbf2a232ee2b4f13f0099919bc5&sv=10004&ct=android
 CETV-4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8

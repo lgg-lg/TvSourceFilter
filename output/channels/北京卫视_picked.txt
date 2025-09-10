@@ -1,4 +1,5 @@
-北京卫视,https://stream.iptv-search.com/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1757043017&token=63e42458197ec1630a092830f5dedc84
+北京卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1757403106&token=1ac480e699a44b4c5e4a9d98c19fac85
+北京卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1757401893&token=603549f4d1d3d031184d1822142df0ad
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://61.156.228.12:8154/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -19,7 +20,6 @@
 北京卫视,http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
 北京卫视,http://t.061899.xyz/tl/dq.php?id=bjws
 北京卫视,http://go.bkpcp.top/mg/bjws
-北京卫视,https://cc06.tv12.xyz/27.m3u8
 北京卫视,http://171.120.248.227:9003/hls/20/index.m3u8
 北京卫视,http://221.205.204.69:9003/hls/20/index.m3u8
 北京卫视,http://www.hkyc.site:1991/udp/239.253.64.204:5140

@@ -1,4 +1,5 @@
-山东卫视,https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1757043017&token=69a63ddc4d19474c650053d3cb4ad6ae
+山东卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1757403106&token=781588141060710984c590dc7b598ad1
+山东卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1757401893&token=21774fabd86434a59c0df87c9b2d231d
 山东卫视,http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://gfr.x3322.net:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -21,15 +22,13 @@
 山东卫视,http://t.061899.xyz/tl/dq.php?id=sdws
 山东卫视,http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://go.bkpcp.top/mg/sdws
-山东卫视,http://113.15.109.216:59901/tsfile/live/0131_1.m3u8
-山东卫视,https://cc06.tv12.xyz/101.m3u8
 山东卫视,http://171.120.248.227:9003/hls/41/index.m3u8
 山东卫视,http://www.hkyc.site:1991/udp/239.253.64.208:5140
 山东卫视,http://tpc.x3322.net:9901/tsfile/live/0131_1.m3u8
 山东卫视,http://153.0.171.163:9901/tsfile/live/0131_1.m3u8
 山东卫视,http://dl.zhoujie218.top/migu/migu.php?id=sdws
-山东卫视,https://stream1.freetv.fun/ac1c15dc01a08667160c68a85717a5fab47c32c3861d361c102d0f3e96be2672.ctv$LR•IPV4『线路68』
-山东卫视,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8$LR•IPV4『线路104』
+山东卫视,https://stream1.freetv.fun/ac1c15dc01a08667160c68a85717a5fab47c32c3861d361c102d0f3e96be2672.ctv$LR•IPV4『线路70』
+山东卫视,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8$LR•IPV4『线路107』
 山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
 山东卫视,ttps://6663.luyazo.com/livetv/hlnt/BCeRwG3Sg/BCeRwG3Sg_live.m3u8
 山东卫视,http://171.15.18.199:8180/TV00000000000000000024@HHZT

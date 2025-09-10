@@ -1,4 +1,5 @@
-CCTV-7,https://stream.iptv-search.com/main.php?id=CCTV7&t=1757043017&token=fad50beb7d5f674fcb642f4f34fbba62
+CCTV-7,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV7&t=1757403106&token=6a162455411cd56a180340b7f27ac358
+CCTV-7,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV7&t=1757401893&token=ffb6e78924801baf950cb4874107bc02
 CCTV-7,http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://gfr.x3322.net:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://k.061899.xyz/m.php?id=cctv7&key=txiptv&playlive=1&authid=0
@@ -23,10 +24,8 @@ CCTV-7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
 CCTV-7,http://t.061899.xyz/tl/dq.php?id=cctv7
 CCTV-7,http://112.132.10.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-7,http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/50/index.m3u8?msisdn=20250909090027d489c5b36cf944178dffa14befd055c4&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20250909090027&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=106.13.250.90&SecurityKey=20250909090027&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f6097975b27b99a7ed4e4b5818b1e302&ddCalcu=2f06v30ae9d17ab987158b52b74be949dae7&sv=10004&ct=android
+CCTV-7,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/50/index.m3u8?msisdn=20250910090034fc8f9054ee0c40479c65bec8348acf28&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20250910090034&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=106.13.250.83&SecurityKey=20250910090034&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4512c01206a6c26156ef415ef643022c&ddCalcu=c425v21a02d3ca4061f2e0561a46fce26651&sv=10004&ct=android
 CCTV-7,http://go.bkpcp.top/mg/cctv7
-CCTV-7,http://113.15.109.216:59901/tsfile/live/1002_1.m3u8
-CCTV-7,https://cc06.tv12.xyz/8.m3u8
 CCTV-7,http://171.120.248.227:9003/hls/8/index.m3u8
 CCTV-7,http://221.205.204.69:9003/hls/8/index.m3u8
 CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
@@ -42,7 +41,7 @@ CCTV-7,http://222.135.142.75:3283/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&
 CCTV-7,http://218.104.239.114:9901//tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://8.138.7.223/tv/cctv7.m3u8$LR•IPV4『线路23』
 CCTV-7,http://60.29.124.66:6080/hls/18/index.m3u8$LR•IPV4『线路25』
-CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104$LR•IPV4『线路98』
+CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104$LR•IPV4『线路99』
 CCTV-7,http://221.226.51.220:50081/newlive/live/hls/7/live.m3u8
 CCTV-7,http://106.53.99.30/tv/hot.php?id=cctv7
 CCTV-7,http://t.061899.xyz/tl/tl.php?id=cctv7

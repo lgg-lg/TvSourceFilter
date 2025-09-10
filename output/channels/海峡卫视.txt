@@ -1,4 +1,5 @@
-海峡卫视,https://stream.iptv-search.com/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1757043017&token=74c097005f59af0e66bc8744d87e36b8
+海峡卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1757403106&token=279899d35c5b7ca7dbc1ee94c28d2248
+海峡卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1757401893&token=c769e3465273326d6e509c8449e62d6b
 海峡卫视,http://k.061899.xyz/m.php?id=hxws&key=txiptv&playlive=1&authid=0
 海峡卫视,http://iptv.huuc.edu.cn/hls/ynhd.m3u8?key=txiptv&playlive=1&authid=0
 海峡卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -54,7 +55,6 @@
 海峡卫视,http://183.249.160.38:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236416/index.m3u8?IASHttpSessionId=RR500720241116022541478975&ispcode=2000146
 海峡卫视,http://183.249.160.38:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236368/index.m3u8?
 海峡卫视,http://dl.zhoujie218.top/migu/migu.php?id=hxws
-海峡卫视,https://migu.188766.xyz/?migutoken=8b14c9b46c4876251125fbc83c83f4dc&id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&type=yy&token=c0ce1ad4280e3aac677abee5182a7ba9
 海峡卫视,"#EXTINF:-1,tvg-name=""福建电视剧"" tvg-logo=""https://gitee.com/yuer0304/logo/raw/master/福建/福建电视剧.png"" group-title=""影视"",福建电视剧"
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8$LR•IPV4『线路1』
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8$LR•IPV4『线路2』

@@ -1,4 +1,5 @@
-CETV-4,https://stream.iptv-search.com/main.php?id=CETV4&t=1757043017&token=abfaed39c60c2458b379e46ab20794a3
+CETV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CETV4&t=1757403106&token=c2ca6c280a73202a33fa25e4e5511f8a
+CETV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CETV4&t=1757401893&token=aad37dcb34851c6a55159b5e46a445b2
 CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-4,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
 CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
@@ -36,7 +37,6 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 CETV-4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 CETV-4,http://video.qd.sdu.edu.cn/liverespath/d9fd740848ee6bc5d883832bba7cafb90524390e/index.m3u8
 CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy
 CETV-4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b
 CETV-4,https://stream1.freetv.fun/32f526edf68b2b7c04e59c02928d80161e4f3f6faf76a634f7629b1b61550a98.m3u8
 CETV-4,rtsp://115.153.212.72/PLTV/88888888/224/3221226905/65242632.smil

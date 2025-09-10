@@ -1,4 +1,5 @@
-西藏卫视,https://stream.iptv-search.com/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1757043017&token=c5eab739cc6955300441811dfe901c84
+西藏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1757403106&token=fa1ec635343db967cdcede33b3e6ccdf
+西藏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1757401893&token=b4aac9b20c3c2e0782562c3b4d6fef5e
 西藏卫视,http://gfr.x3322.net:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://k.061899.xyz/m.php?id=xzws&key=txiptv&playlive=1&authid=0
 西藏卫视,http://221.2.148.205:8154/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -12,7 +13,6 @@
 西藏卫视,http://t.061899.xyz/tl/dq.php?id=xzws
 西藏卫视,http://k.061899.xyz/m.php?id=xzws
 西藏卫视,http://112.132.10.54:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,https://cc06.tv12.xyz/112.m3u8
 西藏卫视,http://221.2.148.205:8154/tsfile/live/0111_1.m3u8
 西藏卫视,http://tpc.x3322.net:9901/tsfile/live/0111_1.m3u8
 西藏卫视,http://tpc.x3322.net:9901/tsfile/live/1040_1.m3u8

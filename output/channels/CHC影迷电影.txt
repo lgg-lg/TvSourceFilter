@@ -1,3 +1,5 @@
+CHC影迷电影,https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&t=1757403106&token=77e46c4008b7f8870611a5ffe75167f0
+CHC影迷电影,https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&t=1757401893&token=fac20ce37e240bbe7e88c2df5d23b1fa
 CHC影迷电影,http://go.bkpcp.top/mg/ymdy
 CHC影迷电影,http://k.061899.xyz/m.php?id=ymdy
 CHC影迷电影,http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
@@ -19,7 +21,6 @@ CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 CHC影迷电影,http://nas.hssvm.com:8888/udp/225.1.1.214:5002
 CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 CHC影迷电影,http://www.hiliu.myds.me:8088/rtp/239.69.1.241:11088
-CHC影迷电影,https://migu.188766.xyz/?migutoken=fa5146290e9e89ac3edc5c6f6a0c031c&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-12.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv
 CHC影迷电影,p3p://167.114.175.6:55331/63ec4caf00020428e445513c2d902fdb
@@ -40,16 +41,13 @@ CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/888
 CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 CHC影迷电影,http://117.10.59.110:8888/newlive/live/hls/54/live.m3u8
 CHC影迷电影,http://113.68.139.107:5000/mgtv/952383261.m3u8
-CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=202509090900301ddc882d3414495da1b0a50514f7be42&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20250909090030&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.90&SecurityKey=20250909090030&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=23ac2a30dfe3043ff3079adbfba1cc0d&ddCalcu=d203vcaacca12aaab3f0bddfae93700433ff&sv=10004&ct=android
-CHC影迷电影,https://mgtv.ottiptv.cc/mg/952383261.m3u8?sign=d8e66be9dbd501527dc132d88943ebce&tm=1757355490&token=d63c7205b23889ff6c7f73034703a6acdbfbe9ee46115506edb4a064807f881fb79a1ef7b4a16d8c7d4fd166cf775fb7334b573d7cfd8ff13de64fdc38c92f581574f91868fd2d82a5e2cb52df
-CHC影迷电影,https://migu.188766.xyz/?migutoken=4c75f27f492227d2bb70d1640275a2d1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=2025091009004100af19f53e814fc8a0b8d92c25327c46&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20250910090041&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.83&SecurityKey=20250910090041&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=019948f2c30e1be64ca6d37454a5c817&ddCalcu=7011v89ac9a54aa84f524c7330de61abce46&sv=10004&ct=android
+CHC影迷电影,https://mgtv.ottiptv.cc/mg/952383261.m3u8?sign=ce1155254c5d464f60340f2c9046af1e&tm=1757436314&token=acbf12108bd8ae95206adc5991296dc9a81d6d7078dd7ccb322c6047887a950f2343564790ab55482dc12c330ec5a547fd275fe35f575af03b2ff9a779e5a3a04f110f29686bedc62d85c2b1c6
 CHC影迷电影,http://115.120.210.199:35455/migu/952383261.m3u8?migutoken=ea0f1dbd634139cabf18e01dc3821a8b3ed1fa6912579a92355b31faa90da9a0585262dc19439ad69771c558296c341ced516d6f8176686673ed3900e192d084e1870865cb1f678ae8fc016a66
 CHC影迷电影,http://120.236.126.156:55455/mgtv/952383261.m3u8
 CHC影迷电影,http://223.100.63.144:880/dx101.m3u8
 CHC影迷电影,http://m.061899.xyz/mg/ymdy
 CHC影迷电影,http://124.93.18.238:9002//hls/77/index.m3u8
-CHC影迷电影,https://guangdongcmcc.tv12.xyz/25.m3u8
-CHC影迷电影,http://58.17.48.228:808/hls/28/index.m3u8
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-8.m3u8
 CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088
 CHC影迷电影,https://stream1.freetv.fun/ipv6-chcying-mi-dian-ying-10.m3u8

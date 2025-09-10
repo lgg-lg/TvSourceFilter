@@ -1,4 +1,3 @@
-CHC动作电影,https://stream.iptv-search.com/main.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&t=1755401429&token=1a584ba2afe999ebeae6914fc9b89a9b
 CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
 CHC动作电影,http://go.bkpcp.top/mg/dzdy
@@ -81,8 +80,6 @@ CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy CCTV1 综合
 CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
-CHC动作电影,https://migu.188766.xyz/?migutoken=5f7ddbc144aaa6a046ced38913096c20&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
-CHC动作电影,https://migu.188766.xyz/?migutoken=7d5391cf1e3b41074db5992924ba050e&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
 CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
 CHC动作电影,https://stream1.freetv.fun/413df533cc2d866bacdc87729814e66f4cf836c13b12ed783b54345fd012c6c8.m3u8
 CHC动作电影,https://stream1.freetv.fun/chc-dong-zuo-dian-ying-1.ctv
@@ -138,21 +135,17 @@ CHC动作电影,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/
 CHC动作电影,http://219.140.5.23:8888/rtp/239.69.1.242:11094
 CHC动作电影,http://182.126.44.164:4021/rtp/225.1.4.208:1261
 CHC动作电影,http://eastscreen.tv/ooooo.php
-CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CHC动作电影,http://111.43.126.240:9003/hls/75/index.m3u8
-CHC动作电影,https://migu.188766.xyz/?migutoken=3e41706b857c643b3224b709d052e53c&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
+CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CHC动作电影,http://mg.hmysapp.cn:177/ckmg/zb.php?id=chcdzdy
 CHC动作电影,http://t.061899.xyz/tl/dq.php?id=chcdzdy
-CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?sign=ae388878457cfa64d2cbf942fa5a7ca1&tm=1757355490&token=ef4e4e517ca5015200acc65759c0f6b7f6f91eb4667c2c1b4228a85639e2c822758f59c31d0e0e0020d45446b9fd1fffebb2c71df0745493ce4c06f11a015656ac64b97cc81bfe0773f54b5024
+CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?sign=d627807e867a99f65ae396e8ae0a9675&tm=1757436314&token=1a2036875be84ba3419666483ca276e9592c27add4c18460891d1a04aa0bdbabf84604d85409f2b2aac2bb9f57314924b0962eab9dbc7b25baa78a08057d2772594cc19739165176af9236d929
 CHC动作电影,http://m.061899.xyz/mg/dzdy
 CHC动作电影,http://61.184.46.85:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://115.120.210.199:35455/migu/644368714.m3u8?migutoken=1dede88341ea9306b0229c316de15eba362442b3a4755a5a9ef6c228909f5d1c21b4d7047c7191e4bf6df946aa2f2050ab1f3346cd58c9ecb9e9e255015f72cdc9f080206e59aabeb7dd7f199b
 CHC动作电影,http://120.236.126.156:55455/mgtv/644368714.m3u8
 CHC动作电影,http://223.100.63.144:880/dx100.m3u8
 CHC动作电影,http://124.93.18.238:9002//hls/76/index.m3u8
-CHC动作电影,https://guangdongcmcc.tv12.xyz/26.m3u8
-CHC动作电影,http://58.17.48.228:808/hls/30/index.m3u8
-CHC动作电影,https://cc05.tv12.xyz/120.m3u8
 CHC动作电影,http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-1.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-10.m3u8

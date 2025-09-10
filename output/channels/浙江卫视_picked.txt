@@ -1,4 +1,5 @@
-浙江卫视,https://stream.iptv-search.com/main.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1757043017&token=7634c12638daf93444081c97d803fbda
+浙江卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1757403106&token=34faf08ad9167918f1e8794e5a93205a
+浙江卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1757401893&token=2d01544ba7d5919fe5df2abf85e363ad
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -19,12 +20,10 @@
 浙江卫视,http://hbhyjq.ufyct.com:1088/hls/79/index.m3u8
 浙江卫视,http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8#http://8.138.7.223/tv/zjws.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
 浙江卫视,http://t.061899.xyz/tl/dq.php?id=zjws
 浙江卫视,http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://go.bkpcp.top/mg/zjws
 浙江卫视,http://112.132.10.54:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,https://cc06.tv12.xyz/117.m3u8
 浙江卫视,http://www.hkyc.site:1991/udp/239.253.64.206:5140
 浙江卫视,http://tpc.x3322.net:9901/tsfile/live/0124_1.m3u8
 浙江卫视,http://153.0.171.163:9901/tsfile/live/0124_1.m3u8

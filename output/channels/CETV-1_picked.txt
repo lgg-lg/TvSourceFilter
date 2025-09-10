@@ -1,4 +1,5 @@
-CETV-1,https://stream.iptv-search.com/main.php?id=CETV1&t=1757043017&token=1671f7679fa6afbe21d9b5a47c9d8d96
+CETV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CETV1&t=1757403106&token=3c40980aa77cfe4bd902c8be23a0525e
+CETV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CETV1&t=1757401893&token=d2e3a44b81c99667c25173f48b1da019
 CETV-1,http://gfr.x3322.net:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,https://cc06.tv12.xyz/23.m3u8
 CETV-1,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8

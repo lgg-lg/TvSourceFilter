@@ -1,4 +1,5 @@
-海南卫视,https://stream.iptv-search.com/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757043017&token=770efe0fa5f9b9e91451859bb8f4bc18
+海南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757403106&token=2383c42518c87b456a3b897eaf2ea679
+海南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757401893&token=e874cf1976972d2a8b01d606926745e2
 海南卫视,http://gfr.x3322.net:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://221.2.148.205:8154/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,https://stream1.freetv.fun/0db3bcb05f954e0949aaaf8924a3a47d7af53d61294bdff1a208aa042cff2a46.ctv
@@ -6,11 +7,10 @@
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
 海南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hinws
 海南卫视,http://t.061899.xyz/tl/dq.php?id=hinws
-海南卫视,http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20250909090029d512340732824b72a62c99266213b6da&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20250909090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.90&SecurityKey=20250909090029&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=abb70c527c313e175c6cf7b03c5dd388&ddCalcu=8a8bv3bad7zd0a5cc53207bc73f1c36ec157&sv=10004&ct=android
+海南卫视,http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20250910090037bcb8b1eccc854c84be32dbae6f43fd81&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=297238580734e74bdea89163be2d47d8&ddCalcu=82d9v77a42zd3a28e5b8306713948ea7e4db&sv=10004&ct=android
 海南卫视,http://go.bkpcp.top/mg/hinws
 海南卫视,http://gfr.x3322.net:9901/tsfile/live/1020_1.m3u8
 海南卫视,http://112.132.10.54:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,https://cc06.tv12.xyz/93.m3u8
 海南卫视,http://221.205.204.69:9003/hls/28/index.m3u8
 海南卫视,https://stream1.freetv.fun/e7287ead73b2c6f7869c81ee2fcec3298ffc2cea26a0402cd3c32084280590b6.ctv$LR•IPV4『线路44』
 海南卫视,https://stream1.freetv.fun/0db3bcb05f954e0949aaaf8924a3a47d7af53d61294bdff1a208aa042cff2a46.ctv$LR•IPV4『线路50』

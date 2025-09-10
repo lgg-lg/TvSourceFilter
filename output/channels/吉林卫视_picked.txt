@@ -1,4 +1,5 @@
-吉林卫视,https://stream.iptv-search.com/main.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&t=1757043017&token=25611029b88694d1ea7e03e87ee74572
+吉林卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&t=1757403106&token=8551761887f9d1d143160cb92931dc3a
+吉林卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&t=1757401893&token=4b34d078ef30292dc65eb2b91adc0f99
 吉林卫视,http://gfr.x3322.net:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://k.061899.xyz/m.php?id=hbws&key=txiptv&playlive=1&authid=0
 吉林卫视,http://61.156.228.12:8154/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -9,10 +10,8 @@
 吉林卫视,http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u8
 吉林卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jlws
 吉林卫视,http://t.061899.xyz/tl/dq.php?id=jlws
-吉林卫视,http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20250909090029719d097ceab94a728d97c37288c0f66d&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20250909090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.13.250.90&SecurityKey=20250909090029&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=71178794e66bf5ba171c25da5eb1d590&ddCalcu=0791v51ad7z18ab7e954aed6562bcf157b1a&sv=10004&ct=android
+吉林卫视,http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20250910090037b84d24847e6547a79f28595673a70cd9&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d35f46312fdf65d34ddb1469561ea3f0&ddCalcu=0df3v35aafze4a166351926f4d1fb6d5dd43&sv=10004&ct=android
 吉林卫视,http://112.132.10.54:9901/tsfile/live/0116_2.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://113.15.109.216:59901/tsfile/live/0116_1.m3u8
-吉林卫视,https://cc06.tv12.xyz/60.m3u8
 吉林卫视,http://171.120.248.227:9003/hls/34/index.m3u8
 吉林卫视,http://221.205.204.69:9003/hls/34/index.m3u8
 吉林卫视,http://221.2.148.205:8154/tsfile/live/0116_1.m3u8
@@ -21,7 +20,7 @@
 吉林卫视,http://153.0.171.163:9901/tsfile/live/0116_1.m3u8
 吉林卫视,http://go.bkpcp.top/mg/jlws
 吉林卫视,http://dl.zhoujie218.top/migu/migu.php?id=jlws
-吉林卫视,http://61.156.228.12:8154/tsfile/live/0116_1.m3u8$LR•IPV4『线路92』
+吉林卫视,http://61.156.228.12:8154/tsfile/live/0116_1.m3u8$LR•IPV4『线路94』
 吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
 吉林卫视,https://6663.luyazo.com/livetv/hldn/_ZefUG3Ig/_ZefUG3Ig_live.m3u8
 吉林卫视,http://171.15.18.199:8180/TV00000000000000000036@HHZT
