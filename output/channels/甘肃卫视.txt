@@ -1,12 +1,3 @@
-甘肃卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&t=1757403106&token=8720ad557351a7bb8ee33d382f35c5d3
-甘肃卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&t=1757401893&token=053721f787855cea7a860b6555603774
-甘肃卫视,http://gfr.x3322.net:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://k.061899.xyz/m.php?id=dfws&key=txiptv&playlive=1&authid=0
-甘肃卫视,http://111.43.126.240:9003/hls/70/index.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://60.174.40.117:85/tsfile/live/0141_1.m3u8?key=txiptv
-甘肃卫视,http://223.241.247.214:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://36.32.174.67:60080/newlive/live/hls/40/live.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://sh.lnott.top:880/dx56.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225633/index.m3u8
@@ -157,6 +148,7 @@
 甘肃卫视,http://223.145.224.77:8000/udp/239.76.246.94:1234
 甘肃卫视,http://223.145.224.77:8000/udp/239.76.253.94:9000
 甘肃卫视,http://223.241.247.214:9901/tsfile/live/0141_1.m3u8
+甘肃卫视,http://223.241.247.214:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://27.18.225.28:34567/nptv/gansu.m3u8
 甘肃卫视,http://3501776.xyz:35455/itv/5000000011000031121.m3u8?cdn=bestzb
 甘肃卫视,http://36.105.100.208:35455/itv/5000000011000031121.m3u8?cdn=bestzb
@@ -181,6 +173,7 @@
 甘肃卫视,http://58.57.21.166:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://58.57.21.166:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://58.57.40.22:9901/tsfile/live/1056_1.m3u8
+甘肃卫视,http://60.174.40.117:85/tsfile/live/0141_1.m3u8?key=txiptv
 甘肃卫视,http://60.209.125.254:352/tsfile/live/0141_1.m3u8?ace
 甘肃卫视,http://60.223.224.176:8888/newlive/live/hls/35/live.m3u8?#rtsp://60.13.39.19/PLTV/88888910/224/3221225480/10000100000000060000000000102557_0.smil#rtsp://180.95.143.19/PLTV/88888910/224/3221225489/10000100000000060000000000102570_0.smil
 甘肃卫视,http://61.138.128.226:19901/tsfile/live/0141_1.m3u8

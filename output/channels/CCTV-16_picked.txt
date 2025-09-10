@@ -1,6 +1,3 @@
-CCTV-16,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV16&t=1757403106&token=97154890362653a2e213e83697ab71ad
-CCTV-16,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV16&t=1757401893&token=503893e21288b41f41f5e4f75c5116ec
-CCTV-16,http://gfr.x3322.net:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://k.061899.xyz/m.php?id=cctv16
 CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
 CCTV-16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8

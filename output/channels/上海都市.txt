@@ -1,5 +1,3 @@
-上海都市,http://8.138.7.223/tv/shtv.php?id=ds
-上海都市,http://k.061899.xyz/m.php?id=shds&key=txiptv&playlive=1&authid=0
 上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
 上海都市,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018926/1.m3u8
 上海都市,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=007
@@ -20,6 +18,7 @@
 上海都市,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/dshd8m/8000000/mnf.m3u8
 上海都市,http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
 上海都市,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+上海都市,http://8.138.7.223/tv/shtv.php?id=ds
 上海都市,http://a21709.tv.netsite.cc/proxy/2116818558/2116818558.m3u8
 上海都市,http://api3.52tb.xyz/info?id=372&token=20221127jxwhhemby
 上海都市,http://cn.samzhao.cloud:3001/itv/bestzb/5000000010000018926

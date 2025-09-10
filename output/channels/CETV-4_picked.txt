@@ -1,3 +1,0 @@
-CETV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CETV4&t=1757403106&token=c2ca6c280a73202a33fa25e4e5511f8a
-CETV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CETV4&t=1757401893&token=aad37dcb34851c6a55159b5e46a445b2
-CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0

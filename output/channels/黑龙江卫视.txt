@@ -1,15 +1,3 @@
-黑龙江卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1757403106&token=da41529223010d2280f3b82b359d0f14
-黑龙江卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1757401893&token=fb46452734b6dd9c3dcdcdf9e356635e
-黑龙江卫视,http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://112.99.193.34:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://1.180.2.93:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://61.156.228.12:8154/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://39.164.160.249:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://sh.lnott.top:880/dx36.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
@@ -317,6 +305,7 @@
 黑龙江卫视,http://61.138.128.226:19901/tsfile/live/0143_1.m3u8
 黑龙江卫视,http://61.138.128.226:19901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://61.156.228.12:8154/tsfile/live/0143_1.m3u8
+黑龙江卫视,http://61.156.228.12:8154/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://61.157.139.15:9901/tsfile/live/0143_1.m3u8
 黑龙江卫视,http://76.5432123.xyz/杂项代理/学习强国.php?id=hljws
 黑龙江卫视,http://aiony.top:35455/bst/hljwshd@4000000.m3u8

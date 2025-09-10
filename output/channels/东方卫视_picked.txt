@@ -1,11 +1,3 @@
-东方卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&t=1757403106&token=2cf5e1be21570ee14bba8260ef413e1e
-东方卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&t=1757401893&token=29492028b2002341fe0e986ead386dd7
-东方卫视,http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://gfr.x3322.net:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://k.061899.xyz/m.php?id=dfws&key=txiptv&playlive=1&authid=0
-东方卫视,http://61.156.228.12:8154/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://222.169.85.8:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://113.15.109.216:59901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://123.129.70.178:9901/tsfile/live/0107_1.m3u8
@@ -14,6 +6,7 @@
 东方卫视,http://218.3.138.25:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://221.2.148.205:8154/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://222.169.85.8:9901/tsfile/live/0018_1.m3u8
+东方卫视,http://61.156.228.12:8154/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
 东方卫视,http://omnix.cn:4000/udp/225.1.8.45:8032
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-gao-qing-10.ctv

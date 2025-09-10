@@ -1,10 +1,3 @@
-宁夏卫视,http://gfr.x3322.net:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://iptv.huuc.edu.cn/hls/nxhd.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://42.225.117.174:11199/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://113.57.93.165:9900/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://sh.lnott.top:880/dx53.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8
 宁夏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226454/index.m3u8
 宁夏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
@@ -52,6 +45,7 @@
 宁夏卫视,http://113.218.229.47:8081/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://113.57.20.158:9901/tsfile/live/1003_1.m3u8
 宁夏卫视,http://113.57.20.158:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://113.57.93.165:9900/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://113.64.146.2:2024/hls/87/index.m3u8
 宁夏卫视,http://113.64.146.32:2024/hls/87/index.m3u8
 宁夏卫视,http://113.64.146.6:2024/hls/87/index.m3u8
@@ -168,6 +162,7 @@
 宁夏卫视,http://39.137.75.234/000000001000/1000000002000031451/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=no
 宁夏卫视,http://39.164.180.36:19901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 宁夏卫视,http://39.165.44.179:9901/tsfile/live/0112_1.m3u8
+宁夏卫视,http://42.225.117.174:11199/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://42.231.221.160:9901/tsfile/live/0112_2.m3u8?key=txiptv&playlive=0&authid=0
 宁夏卫视,http://42.238.163.100:8858/live1481.m3u8?token=7375646f78cd171c8253c341f7964e93bdf22d18&z=22c3
 宁夏卫视,http://42.48.17.230:808/hls/102/index.m3u8

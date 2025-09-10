@@ -1,15 +1,3 @@
-辽宁卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&t=1757403106&token=d5c80e359ffc9cedff9a737c29ad979a
-辽宁卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&t=1757401893&token=1e7592198ab27e0cfa8be118dc1fc86d
-辽宁卫视,http://k.061899.xyz/m.php?id=ynws&key=txiptv&playlive=1&authid=0
-辽宁卫视,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://112.27.235.94:8000/hls/47/index.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://223.241.247.214:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://36.32.174.67:60080/newlive/live/hls/35/live.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://api.kkitv.itv888.cn:8080/hls/iibq0absdjr/index.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://39.164.160.249:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://ak6668768.zicp.io:8843/live1045.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://1.180.2.93:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226254/index.m3u8
 辽宁卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226254/index.m3u8
 辽宁卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
@@ -267,6 +255,7 @@
 辽宁卫视,http://223.145.224.77:8000/udp/239.76.245.197:1234
 辽宁卫视,http://223.145.224.77:8000/udp/239.76.252.197:9000
 辽宁卫视,http://223.241.247.214:9901/tsfile/live/0121_1.m3u8
+辽宁卫视,http://223.241.247.214:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://3501776.xyz:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
 辽宁卫视,http://36.105.100.208:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
 辽宁卫视,http://36.32.99.215:5003/lnws.m3u8
