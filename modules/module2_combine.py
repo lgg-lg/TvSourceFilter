@@ -109,7 +109,7 @@ def combine_sources():
     try:
         save_df(net_df, os.path.join("output", "netsource.txt"))
     except Exception as e: 
-        logger.error(f"网络源写出失败: {line} - {e}")
+        logger.error(f"网络源写出失败:{e}")
     
     # 合并所有源
     all_data = result_data + local_data + own_data + net_data
@@ -254,6 +254,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
