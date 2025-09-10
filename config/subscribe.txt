@@ -118,6 +118,8 @@ https://raw.githubusercontent.com/jigedos/1024uz/main/ipv6.m3u
 https://raw.githubusercontent.com/tushen6/Tomorrow/master/TV/0708.txt
 https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+https://raw.githubusercontent.com/aiyakuaile/easy_tv_live/main/temp
+https://raw.githubusercontent.com/leiyou-li/moyuntv3/main/live.txt
 http://wx.thego.cn/df.txt
 http://wx.thego.cn/backup.m3u
 https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
