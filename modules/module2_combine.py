@@ -89,6 +89,7 @@ def deduplicate(data):
     return df
 
 def save_df(df, path):
+    logger.error(f"有{len(df)}条数据待写出")
     df.to_csv(path, index=False, header=False, encoding='utf-8')
     
 def combine_sources():
@@ -254,6 +255,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
