@@ -112,6 +112,7 @@ def split_channels():
         try:
             # 保存到文件，不包含索引和列头
             sub_df_to_save.drop(columns=['extra'], inplace=True)  # 如果不需要 extra 列，可以删除
+            sub_df_to_save['url'] = sub_df_to_save['url'].str.split('$').str[0]  #去频道名
             sub_df_to_save.drop_duplicates(subset=['url'], inplace=True)  # 可选：去重
             sub_df_to_save.to_csv(output_file_path, index=False, header=False, encoding='utf-8')
             print(f"信息: 已保存频道 '{channel}' 的条目到 {output_file_path}")
@@ -123,4 +124,5 @@ def split_channels():
 if __name__ == '__main__':
 
     split_channels()
+
 
