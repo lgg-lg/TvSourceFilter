@@ -38,7 +38,7 @@ def is_line_clean(line, blacklist):
             return False # 找到一个黑名单词，此行不干净
     return True # 遍历完所有黑名单词都没找到，此行干净
 
-def clean_sources(input_path, blacklist_path, output_path):
+def clean_sources(input_path, blacklist_path, output_path,flag=False):
     """主清理函数"""
     # 确保输出目录存在
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -59,23 +59,42 @@ def clean_sources(input_path, blacklist_path, output_path):
         return
 
     try:
-        with open(input_path, 'r', encoding='utf-8') as infile:
-            for line in infile:
-                total_lines += 1
-                # 去除行尾换行符进行处理
-                line_content = line.rstrip('\n\r')
-                # 检查行是否为空或注释（虽然 allsource.txt 通常不会有）
-                if not line_content or line_content.startswith('#'):
-                     # 如果源文件有注释或空行，也保留
-                     cleaned_lines.append(line) # 保留原始换行符
-                     cleaned_lines_count += 1
-                     continue
-
-                # 3. 应用黑名单过滤
-                if is_line_clean(line_content, blacklist):
-                    cleaned_lines.append(line) # 保留原始换行符
-                    cleaned_lines_count += 1
-                # else: 行被过滤掉，不添加到 cleaned_lines
+        if flag:
+            with open(input_path, 'r', encoding='gbk') as infile:
+                for line in infile:
+                    total_lines += 1
+                    # 去除行尾换行符进行处理
+                    line_content = line.rstrip('\n\r')
+                    # 检查行是否为空或注释（虽然 allsource.txt 通常不会有）
+                    if not line_content or line_content.startswith('#'):
+                         # 如果源文件有注释或空行，也保留
+                         cleaned_lines.append(line) # 保留原始换行符
+                         cleaned_lines_count += 1
+                         continue
+    
+                    # 3. 应用黑名单过滤
+                    if is_line_clean(line_content, blacklist):
+                        cleaned_lines.append(line) # 保留原始换行符
+                        cleaned_lines_count += 1
+                    # else: 行被过滤掉，不添加到 cleaned_lines
+        else:
+            with open(input_path, 'r', encoding='utf-8') as infile:
+                for line in infile:
+                    total_lines += 1
+                    # 去除行尾换行符进行处理
+                    line_content = line.rstrip('\n\r')
+                    # 检查行是否为空或注释（虽然 allsource.txt 通常不会有）
+                    if not line_content or line_content.startswith('#'):
+                         # 如果源文件有注释或空行，也保留
+                         cleaned_lines.append(line) # 保留原始换行符
+                         cleaned_lines_count += 1
+                         continue
+    
+                    # 3. 应用黑名单过滤
+                    if is_line_clean(line_content, blacklist):
+                        cleaned_lines.append(line) # 保留原始换行符
+                        cleaned_lines_count += 1
+                    # else: 行被过滤掉，不添加到 cleaned_lines
 
         # 4. 写入清理后的文件
         with open(output_path, 'w', encoding='utf-8') as outfile:
@@ -87,17 +106,21 @@ def clean_sources(input_path, blacklist_path, output_path):
     except Exception as e:
         logger.error(f"处理文件 {input_path} 时出错: {e}")
 
-def main():
+def main(flag=False):
     """模块3的入口函数"""
-    input_file = os.path.join("output", "allsource.txt")
+    if flag:
+        input_file = os.path.join("output", "allsource_log.txt")
+    else:
+        input_file = os.path.join("output", "allsource.txt")
     blacklist_file = os.path.join("config", "blacklist.txt")
     output_file = os.path.join("output", "allsourcecleaned.txt")
 
     logger.info("开始执行模块3：清理信号源")
-    clean_sources(input_file, blacklist_file, output_file)
+    clean_sources(input_file, blacklist_file, output_file,flag)
     logger.info("模块3执行完毕。")
 
 # 如果直接运行此脚本，则执行 main 函数
 if __name__ == "__main__":
 
     main()
+
