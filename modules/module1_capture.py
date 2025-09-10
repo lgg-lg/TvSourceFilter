@@ -579,18 +579,27 @@ def deduplicate_and_save(results, output_file):
     except IOError as e:
         logger.error(f"写入文件 {output_file} 时出错: {e}")
 
+def generate_range(step):
+    if not isinstance(step, int) or step <= 0:
+        raise ValueError("步长必须为正整数")
 
-def main(input_file, output_file, exflag=False):
+    # 用 range 生成从 0 到 6（不含6）的值
+    result = list(range(0, 7, step))
+
+    return result
+
+def main(input_file, output_file, step=7 ,exflag=False):
     # 获取当前东八区时间
     beijing_time = datetime.now(timezone(timedelta(hours=8)))
     
     # 获取星期几并判断是否为单数
     weekday = beijing_time.weekday()
-    is_single_day = weekday in [0, 2, 4, 6]  # 周一、周三、周五、周日
-    
+    # is_single_day = weekday in [0, 2, 4, 6]  # 周一、周三、周五、周日
+    is_day = weekday in generate_range(step)
     # 判断当前时间是否小于12:00
     is_before_noon = beijing_time.hour < 12
-    if is_single_day and is_before_noon :
+    #if is_single_day and is_before_noon :
+    if is_day and is_before_noon :
         """主函数"""
         all_results = []
         
@@ -641,7 +650,7 @@ def main(input_file, output_file, exflag=False):
         except Exception as e:
             logger.error(f"❌ 程序执行出错: {e}")
     else:
-        logger.info(f"为降低爬取频率，改为2天一爬，本次将不爬取信号源")
+        logger.info(f"为降低爬取频率，改为每周日一爬，本次将不爬取信号源")
 
 
 # 如果直接运行此脚本，则执行 main 函数
@@ -651,6 +660,7 @@ if __name__ == "__main__":
     input_file = os.path.join("config", "channels.txt")
     output_file = os.path.join("output", "ownsource.txt")
     main(input_file, output_file)
+
 
 
 
