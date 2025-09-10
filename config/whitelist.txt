@@ -1,6 +1,7 @@
 #清理allsource使用
 #cctv1自验结果
 .ctv
+stream.iptv-search.com/iptv_test/main.php?
 1.94.31.214/php
 8.138.7.223/tv
 #58.19.180.108:9981/stream
@@ -66,6 +67,7 @@ hbhyjq.ufyct.com:1088/hls
 #migu.188766.xyz/?migutoken=fbe012d26536e0d8ba0f6e3effdb0bc6
 omnix.cn:4000
 www.hkyc.site:1991
+
 
 
 
