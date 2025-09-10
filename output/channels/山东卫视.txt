@@ -1,3 +1,16 @@
+山东卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1757403106&token=781588141060710984c590dc7b598ad1
+山东卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1757401893&token=21774fabd86434a59c0df87c9b2d231d
+山东卫视,http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://gfr.x3322.net:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://112.27.235.94:8000/hls/34/index.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://1.180.2.93:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://hbhyjq.ufyct.com:1088/hls/39/index.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://60.174.40.117:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://ak6668768.zicp.io:8860/live1078.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://sh.lnott.top:880/dx38.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226456/index.m3u8
 山东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226456/index.m3u8
@@ -83,7 +96,6 @@
 山东卫视,http://111.61.236.247:9081/hls/31/index.m3u8
 山东卫视,http://112.122.32.151:85/tsfile/live/1078_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://112.123.217.208:85/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://112.27.235.94:8000/hls/34/index.m3u8
 山东卫视,http://112.6.165.112:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://113.101.119.27:808/hls/133/index.m3u8
@@ -320,7 +332,6 @@
 山东卫视,http://61.138.128.226:19901/tsfile/live/0131_1.m3u8
 山东卫视,http://61.138.128.226:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8
-山东卫视,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://76.5432123.xyz/杂项代理/学习强国.php?id=sdws
 山东卫视,http://aiony.top:35455/bst/sdwshd@4000000.m3u8
 山东卫视,http://aiony.top:35455/nptv/shandong.m3u8

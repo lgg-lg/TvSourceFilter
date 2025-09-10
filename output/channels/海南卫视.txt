@@ -1,3 +1,10 @@
+海南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757403106&token=2383c42518c87b456a3b897eaf2ea679
+海南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757401893&token=e874cf1976972d2a8b01d606926745e2
+海南卫视,http://gfr.x3322.net:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://218.89.240.144:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://1.180.2.93:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://183.223.157.33:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://sh.lnott.top:880/dx58.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8
 海南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8
 海南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
@@ -136,7 +143,6 @@
 海南卫视,http://183.185.105.197:8082/rtp/226.0.2.61:8400
 海南卫视,http://183.185.129.160:8085/rtp/226.0.2.212:9608
 海南卫视,http://183.185.129.160:8085/rtp/226.0.2.61:8400
-海南卫视,http://183.223.157.33:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://192.168.123.1:23234/rtp/228.1.1.81:8304
 海南卫视,http://192.168.123.1:23234/rtp/239.3.1.45:8304
 海南卫视,http://211.101.234.24:866/aishang/sxg.php?id=hanws

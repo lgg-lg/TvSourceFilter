@@ -1,3 +1,12 @@
+四川卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&t=1757403106&token=6314e5ac129c984493ef5cf5cba0574e
+四川卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&t=1757401893&token=84cf5ce11a99f7eaf044818205dcdf0e
+四川卫视,http://gfr.x3322.net:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://61.156.228.12:8154/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://218.89.240.144:59901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://sh.lnott.top:880/dx45.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226338/index.m3u8
 四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226338/index.m3u8
@@ -225,7 +234,6 @@
 四川卫视,http://218.29.168.146:352/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://218.78.176.241:5003/scws.m3u8?token=7375646f5a6de7caf56f7bbd731d50188425bfd9&z=1f48
 四川卫视,http://218.89.240.144:59901/tsfile/live/0123_1.m3u8
-四川卫视,http://218.89.240.144:59901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://219.147.200.9:18080/newlive/live/hls/48/live.m3u8
 四川卫视,http://219.156.17.223:8888/hls/45/index.m3u8
 四川卫视,http://219.157.60.114:7001/rtp/225.1.4.151:1306
@@ -300,7 +308,6 @@
 四川卫视,http://61.138.128.226:19901/tsfile/live/0123_1.m3u8
 四川卫视,http://61.138.128.226:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://61.156.228.12:8154/tsfile/live/0123_1.m3u8
-四川卫视,http://61.156.228.12:8154/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://61.157.139.15:9901/tsfile/live/2393_1.m3u8
 四川卫视,http://61.157.139.15:9901/tsfile/live/2393_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://76.5432123.xyz/杂项代理/学习强国.php?id=scws

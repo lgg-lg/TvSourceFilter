@@ -1,3 +1,13 @@
+天津卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1757403106&token=3b86b9b71635a69588ece1402be25c0c
+天津卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1757401893&token=92b001cb30d74e11e79c4b95b8da8711
+天津卫视,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://gfr.x3322.net:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://k.061899.xyz/m.php?id=tjws&key=txiptv&playlive=1&authid=0
+天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://112.27.235.94:8000/hls/42/index.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://218.89.240.144:59901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://sh.lnott.top:880/dx30.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8
 天津卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226459/index.m3u8
@@ -249,7 +259,6 @@
 天津卫视,http://218.76.32.193:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://218.78.176.241:5003/tjws.m3u8?token=7375646f5a6de7caf56f7bbd731d50188425bfd9&z=1f48
 天津卫视,http://218.89.240.144:59901/tsfile/live/0135_1.m3u8
-天津卫视,http://218.89.240.144:59901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://219.145.201.198:3389/index.php?okaysites=1×tamp=1744288369&url=TJWSlN/index.m3u8
 天津卫视,http://219.156.17.223:8888/hls/47/index.m3u8
 天津卫视,http://219.157.60.114:7001/rtp/225.1.4.86:1115
@@ -264,7 +273,6 @@
 天津卫视,http://221.226.4.10:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://222.142.70.204:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8
-天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://222.173.108.238:352/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://222.241.154.37:9901/tsfile/live/23032_1.m3u8?key=txiptv
 天津卫视,http://222.241.154.37:9901/tsfile/live/23032_1.m3u8?key=txiptv&playlive=1&authid=0

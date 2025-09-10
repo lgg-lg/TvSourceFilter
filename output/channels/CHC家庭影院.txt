@@ -1,3 +1,8 @@
+CHC家庭影院,http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
+CHC家庭影院,http://ak6668768.zicp.io:8844/live1046.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://go.bkpcp.top/mg/jtyy
+CHC家庭影院,http://k.061899.xyz/m.php?id=jtyy
+CHC家庭影院,http://sh.lnott.top:880/dx93.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
 CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
 CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
@@ -38,7 +43,6 @@ CHC家庭影院,http://43.138.100.110:1258/mgtv/644368373.m3u8
 CHC家庭影院,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://47.122.125.40:6666/hls/chctv.m3u8
 CHC家庭影院,http://49.235.65.250:600/miguHD.php?id=CHC家庭影院
-CHC家庭影院,http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CHC家庭影院,http://61.177.81.198:35455/mgtv/644368373.m3u8
@@ -55,10 +59,8 @@ CHC家庭影院,http://dassby.qqff.top:99/live/CHC家庭影院/index.m3u8
 CHC家庭影院,http://eastscreen.tv/ooooo.php
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
-CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 CHC家庭影院,http://iptvcyp.top:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://k.061899.xyz/m.php?id=jtyy
 CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0321&tk=a0c4f6cfaba3
 CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3027&tk=23a9aca1f79f
 CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002

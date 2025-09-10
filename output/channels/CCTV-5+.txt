@@ -1,3 +1,16 @@
+CCTV-5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1757403106&token=24ee35e68414a32839f525e8ca411f3b
+CCTV-5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1757401893&token=13d1a70002bbe0e820483fef01503c02
+CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://k.061899.xyz/m.php?id=cctv5p&key=txiptv&playlive=1&authid=0
+CCTV-5+,http://61.156.228.12:8154/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://112.27.235.94:8000/hls/6/index.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://sh.lnott.top:880/dx16.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://106.52.196.79:80/TV/mui.php?id=cctv5p&key=txiptv&playlive=1&authid=0
+CCTV-5+,http://183.223.157.33:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://218.89.240.144:59901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
 CCTV-5+,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND
 CCTV-5+,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
@@ -125,7 +138,6 @@ CCTV-5+,http://182.92.109.190:1668/migu720/migu720.php?id=cctv5p
 CCTV-5+,http://183.185.105.197:8082/rtp/226.0.2.168:9256
 CCTV-5+,http://183.186.89.104:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://183.186.89.226:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+,http://183.223.157.33:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://192.168.123.1:23234/rtp/228.1.1.23:8004
 CCTV-5+,http://192.168.123.1:23234/rtp/239.3.1.130:8004
 CCTV-5+,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv5p
@@ -135,7 +147,6 @@ CCTV-5+,http://218.241.192.50:8808/rtp/239.3.1.130:8004
 CCTV-5+,http://218.58.136.82:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://218.76.32.193:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://218.89.240.144:59901/tsfile/live/0016_1.m3u8
-CCTV-5+,http://218.89.240.144:59901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://219.128.121.202:59901/tsfile/live/1005_1.m3u8
 CCTV-5+,http://219.135.208.218:8083/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://219.156.17.223:8888/hls/17/index.m3u8
@@ -175,7 +186,6 @@ CCTV-5+,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5Spo
 CCTV-5+,http://45.145.229.71:8866/TVOD/1000000001000020505/ystenlive/index.m3u8
 CCTV-5+,http://47.122.125.40:6666/hls/cctv5phd.m3u8
 CCTV-5+,http://50.7.234.10:8278/cctv5plus/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=34ded99800e7d73d06e6be3ac5c2bb02
-CCTV-5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
 CCTV-5+,http://58.19.244.92:1111/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://58.221.214.82:9901/tsfile/live/0016_1.m3u8
 CCTV-5+,http://58.221.214.82:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -195,7 +205,6 @@ CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1
 CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8
 CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://61.156.228.12:8154/tsfile/live/0016_1.m3u8
-CCTV-5+,http://61.156.228.12:8154/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://61.160.112.102:35455/gaoma/cctv5p.m3u8
 CCTV-5+,http://8.138.214.88:47681/mgtv/641886773.m3u8
 CCTV-5+,http://8.218.124.113:5000/TVOD/5000000011000031127/bestzb/index.m3u8

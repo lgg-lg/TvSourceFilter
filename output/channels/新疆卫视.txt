@@ -1,3 +1,12 @@
+新疆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1757403106&token=eb8527ce73979f251d4e74e57b22279a
+新疆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1757401893&token=1e0e260f59e7625b29c0d71ea6e3083c
+新疆卫视,http://gfr.x3322.net:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://k.061899.xyz/m.php?id=xjws&key=txiptv&playlive=1&authid=0
+新疆卫视,http://42.225.117.174:11199/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://1.180.2.93:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://iptv.huuc.edu.cn/hls/xjhd.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://sh.lnott.top:880/dx55.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
 新疆卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
 新疆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
@@ -130,7 +139,6 @@
 新疆卫视,http://221.205.180.88:8003/rtp/226.0.2.67:8448
 新疆卫视,http://221.226.215.162:352/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://36.105.100.208:35455/itv/1000000002000029441.m3u8?cdn=ystenlive
 新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
 新疆卫视,http://36.32.99.215:5003/xjws.m3u8
@@ -140,7 +148,6 @@
 新疆卫视,http://39.137.75.230/000000001000/1000000002000029441/index.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=no
 新疆卫视,http://39.164.160.249:9901/tsfile/live/0110_1.m3u8
 新疆卫视,http://39.165.44.179:9901/tsfile/live/0110_1.m3u8
-新疆卫视,http://42.225.117.174:11199/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://42.231.221.160:9901/tsfile/live/0110_2.m3u8?key=txiptv&playlive=0&authid=0
 新疆卫视,http://42.238.163.100:8867/live1574.m3u8?token=7375646f78cd171c8253c341f7964e93bdf22d18&z=22c3
 新疆卫视,http://42.48.17.230:808/hls/104/index.m3u8

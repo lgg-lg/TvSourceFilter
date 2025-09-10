@@ -1,3 +1,12 @@
+东南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757403106&token=623e35a12136dbee21f317e7d5a0ee73
+东南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757401893&token=6c8f376f39c0e67cb106df2b22fbed6a
+东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://k.061899.xyz/m.php?id=dnws&key=txiptv&playlive=1&authid=0
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://112.27.235.94:8000/hls/38/index.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://111.43.126.240:9003/hls/47/index.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://sh.lnott.top:880/dx47.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://[2409:8087:1a01:df::4035]/TVOD/88888888/224/3221225950/main.m3u8
 东南卫视,http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225950/main.m3u8
 东南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8

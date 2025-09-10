@@ -1,3 +1,14 @@
+深圳卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1757403106&token=b01d584da4bf4dfe6a31991bf26a4edc
+深圳卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1757401893&token=cf9bc2dd98da35f28f1e2ad1fffdb718
+深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://218.89.240.144:59901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://183.237.95.108:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视,http://112.27.235.94:8000/hls/33/index.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://221.226.51.220:50081/newlive/live/hls/32/live.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://223.241.247.214:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://sh.lnott.top:880/dx61.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 深圳卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
 深圳卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226313/index.m3u8
@@ -216,7 +227,6 @@
 深圳卫视,http://183.207.248.71/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
 深圳卫视,http://183.207.249.37/PLTV/4/224/3221227307/index.m3u8
 深圳卫视,http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://183.237.95.108:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://183.3.134.56:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://183.3.134.56:9901/tsfile/live/0126_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 深圳卫视,http://183.3.134.56:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -232,7 +242,6 @@
 深圳卫视,http://218.76.32.193:9901/tsfile/live/0127_2.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://218.78.176.241:5003/szws.m3u8?token=7375646f5a6de7caf56f7bbd731d50188425bfd9&z=1f48
 深圳卫视,http://218.89.240.144:59901/tsfile/live/0126_1.m3u8
-深圳卫视,http://218.89.240.144:59901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://219.137.203.191:8081/hls/43/index.m3u8
 深圳卫视,http://219.145.201.198:3389/index.php?okaysites=1×tamp=1744288369&url=SWSjB/index.m3u8
 深圳卫视,http://219.157.60.114:7001/rtp/225.1.4.90:1119
@@ -263,7 +272,6 @@
 深圳卫视,http://223.151.51.74:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://223.159.8.12:8099/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://223.241.247.214:9901/tsfile/live/1012_1.m3u8
-深圳卫视,http://223.241.247.214:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://27.46.125.111:808/hls/33/index.m3u8
 深圳卫视,http://3501776.xyz:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
 深圳卫视,http://36.105.100.208:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
