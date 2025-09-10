@@ -81,15 +81,15 @@ def read_subscribe_sources(subscribe_path):
 
 def deduplicate(data):
     df = pd.DataFrame(data, columns=['name', 'url', 'extra'])
-    df['url'] = df['url'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
-    df['name'] = df['name'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
-    df['extra'] = df['extra'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
+    #df['url'] = df['url'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
+    #df['name'] = df['name'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
+    #df['extra'] = df['extra'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
     df.drop_duplicates(subset=['name', 'url'], keep='first', inplace=True)
     return df
 
 def save_df(df, path):
     df.to_csv(path, index=False, header=False, encoding='utf-8')
-
+    
 def combine_sources():
     logger.info("开始执行模块2：读取订阅源")
     # 读取本地源
@@ -105,6 +105,9 @@ def combine_sources():
     net_data = read_subscribe_sources(os.path.join("config", "subscribe.txt"))
     net_df = deduplicate(net_data)
     #save_df(net_df, r'.\output\netsource.txt')
+    text = '\n'.join(net_df.apply(lambda row: f"{row['name']}|{row['url']}|{row['extra']}", axis=1))
+    with open(os.path.join("output", "netsource_log.txt"), 'w', encoding='utf-8') as f:
+        f.write(text)
     save_df(net_df, os.path.join("output", "netsource.txt"))
 
     
@@ -122,6 +125,7 @@ def combine_sources():
 if __name__ == '__main__':
 
     combine_sources()
+
 
 
 
