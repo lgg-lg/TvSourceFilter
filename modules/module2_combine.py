@@ -126,7 +126,7 @@ def combine_sources():
     
     # 合并所有源
     if errorflag:
-        all_data = local_data + own_data + net_data
+        all_data = result_data + local_data + own_data
     else:
         all_data = result_data + local_data + own_data + net_data
         
@@ -278,6 +278,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
