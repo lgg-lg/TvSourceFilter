@@ -1,23 +1,3 @@
-CCTV-11,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1757403106&token=ac06bcc8ce6b63d4fc2c1c559fad4cf8
-CCTV-11,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1757401893&token=ebc408d7fea27dbfd25edba16f8dd50f
-CCTV-11,http://gfr.x3322.net:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://gfr.x3322.net:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://k.061899.xyz/m.php?id=cctv11&key=txiptv&playlive=1&authid=0
-CCTV-11,http://61.156.228.12:8154/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://112.27.235.94:8000/hls/12/index.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://113.57.93.165:9900/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://sh.lnott.top:880/dx11.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,https://60.191.56.186:8888/hls/11/index.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://106.52.196.79:80/TV/mui.php?id=cctv11&key=txiptv&playlive=1&authid=0
-CCTV-11,http://183.223.157.33:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://60.29.124.66:6080/hls/22/index.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://222.169.85.8:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://223.241.247.214:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://106.111.244.182:60001/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://42.225.117.174:11199/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://111.43.126.240:9003/hls/24/index.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8?
@@ -67,6 +47,7 @@ CCTV-11,http://101.66.198.211:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0
 CCTV-11,http://101.66.198.247:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://101.66.198.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://101.66.198.84:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-11,http://106.111.244.182:60001/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://106.46.37.188:808/hls/11/index.m3u8
 CCTV-11,http://106.52.196.79:80/TV/mui.php?id=cctv11
 CCTV-11,http://107.173.199.222:35455/gaoma/cctv11.m3u8
@@ -240,6 +221,7 @@ CCTV-11,http://183.185.105.197:8082/rtp/226.0.2.28:8136
 CCTV-11,http://183.185.254.246:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://183.186.89.104:8899/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://183.196.25.171:808/hls/11/index.m3u8
+CCTV-11,http://183.223.157.33:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://183.237.95.108:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://183.3.134.56:9901/tsfile/live/0011_1.m3u8
 CCTV-11,http://183.66.15.146:60901/tsfile/live/0011_1.m3u8?key=txiptv
@@ -283,6 +265,7 @@ CCTV-11,http://223.145.224.77:8000/udp/239.76.245.251:1234
 CCTV-11,http://223.151.49.74:59901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://223.159.8.12:8099/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://223.241.247.214:9901/tsfile/live/0011_1.m3u8
+CCTV-11,http://223.241.247.214:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://27.18.225.28:34567/mgtv/667987558.m3u8
 CCTV-11,http://3501776.xyz:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
 CCTV-11,http://36.105.100.208:35455/gaoma/cctv11.m3u8
@@ -305,6 +288,7 @@ CCTV-11,http://42.48.80.240:9002/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&a
 CCTV-11,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
 CCTV-11,http://49.67.96.109:55555/rtp/239.49.1.11:6000
 CCTV-11,http://504099760.qicp.vip:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
 CCTV-11,http://58.19.244.92:1111/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://58.19.43.46:9901/tsfile/live/1030_1.m3u8
 CCTV-11,http://58.210.168.86:10800/newlive/live/hls/10/live.m3u8
@@ -328,6 +312,7 @@ CCTV-11,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
 CCTV-11,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://61.138.128.226:19901/tsfile/live/0011_2.m3u8
 CCTV-11,http://61.138.128.226:19901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://61.156.228.12:8154/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://61.160.112.102:35455/gaoma/cctv11.m3u8
 CCTV-11,http://8.138.214.88:47681/mgtv/667987558.m3u8
 CCTV-11,http://aiony.top:35455/bst/cctv11hd4m@4000000.m3u8

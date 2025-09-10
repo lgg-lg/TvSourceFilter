@@ -1,14 +1,3 @@
-云南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757403106&token=8b664f7f740339b54b153db0c5239b31
-云南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757401893&token=24d92abcdc9b322613bc4a1714ec4f7b
-云南卫视,http://gfr.x3322.net:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://60.174.40.117:85/tsfile/live/0119_1.m3u8?key=txiptv
-云南卫视,http://112.27.235.94:8000/hls/40/index.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://hbhyjq.ufyct.com:1088/hls/41/index.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://183.131.246.250:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://iptv.huuc.edu.cn/hls/ynhd.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://sh.lnott.top:880/dx49.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
 云南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
 云南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
@@ -171,6 +160,7 @@
 云南卫视,http://182.91.124.60:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 云南卫视,http://182.92.109.190:1668/migu720/migu720.php?id=ynws
 云南卫视,http://183.11.239.36:808/hls/52/index.m3u8
+云南卫视,http://183.131.246.250:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://183.161.56.50:55555/rtp/238.1.78.89:6584
 云南卫视,http://183.185.105.197:8082/rtp/226.0.2.60:8392
 云南卫视,http://183.185.129.160:8085/rtp/226.0.2.60:8392
@@ -195,6 +185,7 @@
 云南卫视,http://221.226.215.162:352/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://222.142.70.204:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8
+云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://222.219.183.103:8089/hls/20/index.m3u8
 云南卫视,http://222.241.154.37:9901/tsfile/live/23043_1.m3u8?key=txiptv
 云南卫视,http://222.241.154.37:9901/tsfile/live/23043_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -233,6 +224,7 @@
 云南卫视,http://60.12.183.46:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
 云南卫视,http://60.172.130.146:352/tsfile/live/0119_1.m3u8?ace#rtsp://115.85.232.19/PLTV/88888910/224/3221225554/10000100000000060000000000107334_0.smil#rtsp://221.7.61.147/PLTV/88888910/224/3221225554/10000100000000060000000000107334_0.smil
 云南卫视,http://60.172.130.146:352/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://60.174.40.117:85/tsfile/live/0119_1.m3u8?key=txiptv
 云南卫视,http://60.208.104.234:352/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://60.223.224.176:8888/newlive/live/hls/26/live.m3u8?
 云南卫视,http://61.136.67.238:50085/tsfile/live/0119_1.m3u8

@@ -1,11 +1,3 @@
-西藏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1757403106&token=fa1ec635343db967cdcede33b3e6ccdf
-西藏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1757401893&token=b4aac9b20c3c2e0782562c3b4d6fef5e
-西藏卫视,http://gfr.x3322.net:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://k.061899.xyz/m.php?id=xzws&key=txiptv&playlive=1&authid=0
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
-西藏卫视,http://218.89.240.144:59901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://183.237.95.108:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
-西藏卫视,http://sh.lnott.top:880/dx57.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 西藏卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
 西藏卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226847/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -94,6 +86,7 @@
 西藏卫视,http://183.11.239.36:808/hls/64/index.m3u8
 西藏卫视,http://183.185.105.197:8082/rtp/226.0.2.66:8440
 西藏卫视,http://183.185.129.160:8085/rtp/226.0.2.66:8440
+西藏卫视,http://183.237.95.108:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
 西藏卫视,http://183.66.15.146:60901/tsfile/live/0111_1.m3u8
 西藏卫视,http://183.66.15.146:60901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://192.168.123.1:23234/rtp/228.1.1.57:8164
@@ -162,6 +155,7 @@
 西藏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,http://psp94525.iask.in:6688/udp/239.93.0.83:5140
 西藏卫视,http://psp94525.iask.in:6688/udp/239.93.1.213:5140
 西藏卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.125:11111

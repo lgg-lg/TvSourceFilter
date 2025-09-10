@@ -1,8 +1,3 @@
-CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
-CHC动作电影,http://go.bkpcp.top/mg/dzdy
-CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
-CHC动作电影,http://sh.lnott.top:880/dx100.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
 CHC动作电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226308/2/index.m3u8
 CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
@@ -40,6 +35,7 @@ CHC动作电影,http://171.117.59.236:8083/rtp/226.0.2.94:8012
 CHC动作电影,http://171.118.120.113:8085/rtp/226.0.2.94:8012
 CHC动作电影,http://175.22.226.131:888/hls/106/index.m3u8
 CHC动作电影,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
 CHC动作电影,http://220.164.3.102:4022/udp/239.200.201.31:8144
 CHC动作电影,http://223.13.61.250:1000/mgtv/644368714.m3u8
@@ -49,6 +45,7 @@ CHC动作电影,http://42.48.17.230:808/hls/65/index.m3u8
 CHC动作电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://47.122.125.40:6666/hls/chcatv.m3u8
 CHC动作电影,http://49.235.65.250:600/miguHD.php?id=CHC动作电影
+CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://58.215.231.35/live3.ngaacdn.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
 CHC动作电影,http://61.138.167.36:9901/tsfile/live/1014_1.m3u8
@@ -62,8 +59,10 @@ CHC动作电影,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chcdzdyHD/__o
 CHC动作电影,http://cz.crossec.com:35455/mgtv/644368714.m3u8
 CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
+CHC动作电影,http://go.bkpcp.top/mg/dzdy
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,http://iptvcyp.top:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4654&tk=23a9aca1f79f
 CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6009&tk=a0c4f6cfaba3
 CHC动作电影,http://live.nctv.top/huya.php?id=11602077

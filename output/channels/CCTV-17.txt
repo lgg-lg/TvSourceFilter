@@ -1,14 +1,3 @@
-CCTV-17,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1757403106&token=a917ff4d11cf12cfe655438f438039d2
-CCTV-17,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1757401893&token=b4880c6d3001d3a64dbeec37036a1cd2
-CCTV-17,http://gfr.x3322.net:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17,http://gfr.x3322.net:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17,http://106.52.196.79:80/TV/mui.php?id=cctv17?key=txiptv&playlive=1&authid=0
-CCTV-17,http://218.89.240.144:59901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17,http://k.061899.xyz/m.php?id=cctv17&key=txiptv&playlive=1&authid=0
-CCTV-17,http://sh.lnott.top:880/dx17.m3u8&key=txiptv&playlive=1&authid=0
-CCTV-17,http://61.156.228.12:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17,http://111.43.126.240:9003/hls/30/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EtihRNVe_x2y1Lgi_XWYeNw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOl8OnsD1vPD0mhNmo98J3J%2CEND
 CCTV-17,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
@@ -162,6 +151,7 @@ CCTV-17,http://218.24.193.146:808/rtp/232.0.0.230:1234
 CCTV-17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 CCTV-17,http://218.29.168.146:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://218.58.136.82:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,http://218.89.240.144:59901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://219.135.180.210:18888/hls/24/index.m3u8
 CCTV-17,http://219.156.17.223:8888/hls/16/index.m3u8
 CCTV-17,http://219.159.147.195:9901/tsfile/live/1022_1.m3u8?key=txiptv
@@ -172,6 +162,7 @@ CCTV-17,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 CCTV-17,http://221.205.180.88:8003/rtp/226.0.2.170:9272
 CCTV-17,http://221.218.160.19:4000/rtp/239.3.1.151:8144
 CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8
+CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://222.219.183.103:8089/hls/17/index.m3u8
 CCTV-17,http://222.241.154.37:9901/tsfile/live/23017_1.m3u8?key=txiptv
 CCTV-17,http://222.241.154.37:9901/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -213,6 +204,7 @@ CCTV-17,http://60.210.100.54:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&a
 CCTV-17,http://60.214.104.110:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://60.7.56.33:4000/udp/239.253.93.150:6318
 CCTV-17,http://61.156.228.12:8154/tsfile/live/0019_1.m3u8
+CCTV-17,http://61.156.228.12:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://61.157.139.15:9901/tsfile/live/2386_1.m3u8
 CCTV-17,http://61.160.112.102:35455/gaoma/cctv17.m3u8
 CCTV-17,http://8.138.214.88:47681/mgtv/673168256.m3u8

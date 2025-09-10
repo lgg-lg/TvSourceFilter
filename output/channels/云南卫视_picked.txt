@@ -1,11 +1,7 @@
-云南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757403106&token=8b664f7f740339b54b153db0c5239b31
-云南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757401893&token=24d92abcdc9b322613bc4a1714ec4f7b
-云南卫视,http://gfr.x3322.net:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://hbhyjq.ufyct.com:1088/hls/41/index.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://221.2.148.205:8154/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8
+云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://8.138.7.223/tv/yntv.m3u8
 云南卫视,http://hbhyjq.ufyct.com:1088/hls/41/index.m3u8
 云南卫视,https://stream1.freetv.fun/eff62f09bb1873ea9ee8027c3a613f56387807ae7e011c46d8ff2e43bd11ff7f.ctv

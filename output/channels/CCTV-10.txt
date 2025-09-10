@@ -1,21 +1,3 @@
-CCTV-10,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV10&t=1757403106&token=9c1e44f11de28ab6eb3e7cc72fd365c6
-CCTV-10,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV10&t=1757401893&token=68db3e988600a31eeddc8c904b507e68
-CCTV-10,http://gfr.x3322.net:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://gfr.x3322.net:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://k.061899.xyz/m.php?id=cctv10&key=txiptv&playlive=1&authid=0
-CCTV-10,http://61.156.228.12:8154/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://112.27.235.94:8000/hls/11/index.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://sh.lnott.top:880/dx10.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,https://60.191.56.186:8888/hls/10/index.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://106.52.196.79:80/TV/mui.php?id=cctv10&key=txiptv&playlive=1&authid=0
-CCTV-10,http://183.223.157.33:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://60.29.124.66:6080/hls/21/index.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://223.241.247.214:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://113.57.93.165:9900/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://106.111.244.182:60001/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://42.225.117.174:11199/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 CCTV-10,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-10,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
@@ -68,6 +50,7 @@ CCTV-10,http://101.66.198.2:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&a
 CCTV-10,http://101.66.198.247:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,http://101.66.198.77:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,http://101.66.198.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-10,http://106.111.244.182:60001/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://106.46.37.188:808/hls/10/index.m3u8
 CCTV-10,http://106.52.196.79:80/TV/mui.php?id=cctv10
 CCTV-10,http://107.173.199.222:35455/gaoma/cctv10.m3u8
@@ -261,6 +244,7 @@ CCTV-10,http://183.185.254.246:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=
 CCTV-10,http://183.186.89.104:8899/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://183.186.89.226:8899/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://183.223.157.123:85/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV-10,http://183.223.157.33:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://183.237.95.108:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,http://183.66.15.146:60901/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV-10,http://183.66.15.146:60901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -324,6 +308,7 @@ CCTV-10,http://39.164.180.36:19901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0
 CCTV-10,http://39.165.196.149:9003//hls/10/index.m3u8
 CCTV-10,http://39.165.44.179:9901/tsfile/live/0010_1.m3u8
 CCTV-10,http://39.170.52.236:808/hls/10/index.m3u8
+CCTV-10,http://42.225.117.174:11199/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://42.231.221.160:9901/tsfile/live/0010_3.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,http://42.238.163.100:8809/cctv10.m3u8?token=7375646f78cd171c8253c341f7964e93bdf22d18&z=22c3
 CCTV-10,http://42.48.17.230:808/hls/11/index.m3u8
@@ -366,6 +351,7 @@ CCTV-10,http://61.136.67.238:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1
 CCTV-10,http://61.138.128.226:19901/tsfile/live/0011_1.m3u8
 CCTV-10,http://61.138.128.226:19901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://61.156.228.12:8154/tsfile/live/0010_1.m3u8
+CCTV-10,http://61.156.228.12:8154/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://61.157.139.15:9901/tsfile/live/2380_1.m3u8
 CCTV-10,http://61.160.112.102:35455/gaoma/cctv10.m3u8
 CCTV-10,http://8.138.214.88:47681/mgtv/624878405.m3u8

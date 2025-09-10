@@ -1,8 +1,3 @@
-内蒙古卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&t=1757403106&token=1b6662837bf70937064da160ca463abd
-内蒙古卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&t=1757401893&token=3f51ca593937df3c7d331492cc34c664
-内蒙古卫视,http://gfr.x3322.net:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://k.061899.xyz/m.php?id=nmgws&key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://hbhyjq.ufyct.com:1088/hls/43/index.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://153.0.171.163:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://221.2.148.205:8154/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://221.2.148.205:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0

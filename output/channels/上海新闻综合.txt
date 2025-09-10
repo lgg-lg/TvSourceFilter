@@ -1,7 +1,3 @@
-上海新闻综合,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1757403106&token=5a56beb9a72747deaf14aeed7dbc9213
-上海新闻综合,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1757401893&token=37e3e8df8ee13e018f1200cabcbf983b
-上海新闻综合,http://8.138.7.223/tv/shtv.php?id=xwzh
-上海新闻综合,http://k.061899.xyz/m.php?id=shxw&key=txiptv&playlive=1&authid=0
 上海新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 上海新闻综合,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031110/1.m3u8
 上海新闻综合,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=007

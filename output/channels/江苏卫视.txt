@@ -1,17 +1,3 @@
-江苏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1757403106&token=a758bdd8b3de0f1e4aaadd0ea93f3c25
-江苏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1757401893&token=d259896594158a0fa6d43cda54d1f43b
-江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://k.061899.xyz/m.php?id=jsws&key=txiptv&playlive=1&authid=0
-江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://61.163.181.78:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://223.241.247.214:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://49.87.154.246:85/tsfile/live/1006_1.m3u8?key=txiptv
-江苏卫视,http://116.9.204.242:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://42.225.117.174:11199/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://ak6668768.zicp.io:8829/live1030.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://sh.lnott.top:880/dx33.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江苏卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226310/index.m3u8
 江苏卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226310/index.m3u8
@@ -150,6 +136,7 @@
 江苏卫视,http://116.5.161.197:8000/udp/239.77.1.149:5146
 江苏卫视,http://116.77.32.59:8277/streams/d/jsws/playlist.m3u8
 江苏卫视,http://116.9.204.242:9901/tsfile/live/0127_1.m3u8
+江苏卫视,http://116.9.204.242:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://117.161.12.124/live/program/live/jswshd8m/8000000/mnf.m3u8
 江苏卫视,http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
 江苏卫视,http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
@@ -328,6 +315,7 @@
 江苏卫视,http://39.164.160.249:9901/tsfile/live/0127_1.m3u8
 江苏卫视,http://39.164.180.36:19901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://39.165.44.179:9901/tsfile/live/0127_1.m3u8
+江苏卫视,http://42.225.117.174:11199/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://42.231.221.160:9901/tsfile/live/0127_2.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://42.48.17.188:9901/tsfile/live/37225_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://42.48.17.230:808/hls/42/index.m3u8
@@ -337,6 +325,7 @@
 江苏卫视,http://4330413.xyz:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
 江苏卫视,http://47.94.35.70:31420/tsfile/live/1017_1.m3u8?key=txiptv&url=tvzb.com
 江苏卫视,http://49.67.96.109:55555/rtp/239.49.1.16:6000
+江苏卫视,http://49.87.154.246:85/tsfile/live/1006_1.m3u8?key=txiptv
 江苏卫视,http://504099760.qicp.vip:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://58.17.116.69:9903/tsfile/live/0127_2.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://58.19.244.92:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -370,6 +359,7 @@
 江苏卫视,http://61.156.228.12:8154/tsfile/live/0127_1.m3u8
 江苏卫视,http://61.156.228.12:8154/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://61.157.139.15:9901/tsfile/live/2392_1.m3u8
+江苏卫视,http://61.163.181.78:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://76.5432123.xyz/杂项代理/学习强国.php?id=jsws
 江苏卫视,http://8.138.214.88:47681/mgtv/623899368.m3u8
 江苏卫视,http://81.70.10.196:35455/nptv/jiangsu.m3u8

@@ -1,4 +1,1 @@
-海峡卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1757403106&token=279899d35c5b7ca7dbc1ee94c28d2248
-海峡卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1757401893&token=c769e3465273326d6e509c8449e62d6b
-海峡卫视,http://k.061899.xyz/m.php?id=hxws&key=txiptv&playlive=1&authid=0
 海峡卫视,http://218.104.239.114:9901/tsfile/live/0150_1.m3u8

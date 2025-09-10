@@ -1,3 +1,2 @@
 上海都市,http://8.138.7.223/tv/shtv.php?id=ds
-上海都市,http://k.061899.xyz/m.php?id=shds&key=txiptv&playlive=1&authid=0
 上海都市,https://stream1.freetv.fun/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.ctv
