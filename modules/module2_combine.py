@@ -81,9 +81,9 @@ def read_subscribe_sources(subscribe_path):
 
 def deduplicate(data):
     df = pd.DataFrame(data, columns=['name', 'url', 'extra'])
-    df['url'] = df['url'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', 'sbdxc', regex=False)
-    df['name'] = df['name'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', 'sbdxc', regex=False)
-    df['extra'] = df['extra'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', 'sbdxc', regex=False)
+    df['url'] = df['url'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
+    df['name'] = df['name'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
+    df['extra'] = df['extra'].str.replace('\r', '', regex=False).str.replace('\n', '', regex=False).str.replace(',', '', regex=False).str.replace('"', '', regex=False).str.replace("'", '', regex=False)
     df.drop_duplicates(subset=['name', 'url'], keep='first', inplace=True)
     return df
 
@@ -122,6 +122,7 @@ def combine_sources():
 if __name__ == '__main__':
 
     combine_sources()
+
 
 
 
