@@ -114,7 +114,7 @@ def deduplicate(data):
     return df
 
 def save_df(df, path):
-    logger.error(f"有{len(df)}条数据待写出")
+    logger.info(f"有{len(df)}条数据待写出")
     df.to_csv(path, index=False, header=False, encoding='utf-8')
     
 def combine_sources():
@@ -137,15 +137,16 @@ def combine_sources():
     except Exception as e: 
         logger.error(f"网络源写出失败:{e}")
         errorflag=True
-        with open(os.path.join("output", "netsource_log.txt"), 'w', encoding='gbk', errors='replace') as f:
+        with open(os.path.join("output", "netsource_log.csv"), 'w', encoding='gbk', errors='replace') as f:
             for _, row in net_df.iterrows():
                 f.write(f"{row['name']},{row['url']},{row['extra']}\n")
         
     
     # 合并所有源
     if errorflag:
-        # net_data=read_sources_gbk(os.path.join("output", "netsource_log.txt"))
-        all_data = result_data + local_data + own_data
+        net_data=read_sources_gbk(os.path.join("output", "netsource_log.csv"))
+        all_data = result_data + local_data + own_data+  net_data
+        logger.error("网络源读取失败，改用GBK编码重新读取")
     else:
         all_data = result_data + local_data + own_data + net_data
         
@@ -297,6 +298,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
