@@ -214,11 +214,43 @@ def deduplicate(data):
     df.drop_duplicates(subset=['name', 'url'], keep='first', inplace=True)
     return df
 
-def save_df(df, path):
-    logger.info(f"有{len(df)}条数据待写出")
-    df.to_csv(path, index=False, header=False, encoding='utf-8')
-    logger.info(f"数据已写出到 {path}")
+# def save_df(df, path):
+#     logger.info(f"有{len(df)}条数据待写出")
+#     df.to_csv(path, index=False, header=False, encoding='utf-8')
+#     logger.info(f"数据已写出到 {path}")
 
+def save_df(df, path):
+    chunk_size = 50000
+    total_rows = len(df)
+    logger.info(f"有 {total_rows} 条数据待写出")
+
+    # 如果文件已存在，先删除（确保从头开始写）
+    if os.path.exists(path):
+        os.remove(path)
+        logger.info(f"已删除旧文件 {path}")
+
+    # 分块写入
+    num_chunks = (total_rows + chunk_size - 1) // chunk_size  # 向上取整
+    for i in range(num_chunks):
+        start_row = i * chunk_size
+        end_row = min(start_row + chunk_size, total_rows)
+        chunk = df.iloc[start_row:end_row]
+
+        # 第一块写入时，不写 header（因为 header=False）；后续块追加写入
+        write_header = False  # 你原需求是 header=False，所以始终不写 header
+        write_mode = 'w' if i == 0 else 'a'  # 第一块覆盖写，后续块追加写
+
+        chunk.to_csv(
+            path,
+            index=False,
+            header=write_header,
+            encoding='utf-8',
+            mode=write_mode
+        )
+
+        logger.info(f"数据分段 {i+1}/{num_chunks} 已追加写入到 {path}")
+
+    logger.info(f"全部数据已写出到 {path}")
 
 def combine_sources():
     logger.info("开始执行模块2：读取订阅源")
@@ -394,6 +426,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
