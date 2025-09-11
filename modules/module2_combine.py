@@ -115,7 +115,7 @@ def deduplicate(data):
 
 def save_df(df, path):
     logger.info(f"有{len(df)}条数据待写出")
-    df.to_csv(path, index=False, header=False, encoding='utf-8',quoting=csv.QUOTE_ALL)
+    df.to_csv(path, index=False, header=False, encoding='utf-8',quoting=1)
     
 def combine_sources():
     logger.info("开始执行模块2：读取订阅源")
@@ -298,6 +298,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
