@@ -5,6 +5,8 @@ playwright
 pandas
 numpy
 datetime
+opencc
+
 
 
 
