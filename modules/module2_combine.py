@@ -163,9 +163,9 @@ def combine_sources():
     except Exception as e: 
         logger.error(f"网络源写出失败:{e}")
         errorflag=True
-        with open(os.path.join("output", "allsource_log.txt"), 'w', encoding='gbk', errors='replace') as f:
+        with open(os.path.join("output", "allsource_log.csv"), 'w', encoding='gbk', errors='replace') as f:
             for _, row in all_df.iterrows():
-                f.write(f"{row['name']},{row['url']}\n")
+                f.write(f"{row['name']},{row['url']},{row['extra']}\n")
     logger.info("模块2执行完毕")
     return errorflag
 if __name__ == '__main__':
@@ -300,6 +300,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
