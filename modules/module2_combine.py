@@ -159,8 +159,10 @@ def combine_sources():
     #save_df(all_df, r'.\output\allsource.txt')
     try:
         save_df(all_df, os.path.join("output", "allsource.txt"))
+        errorflag=False
     except Exception as e: 
         logger.error(f"网络源写出失败:{e}")
+        errorflag=True
         with open(os.path.join("output", "allsource_log.txt"), 'w', encoding='gbk', errors='replace') as f:
             for _, row in all_df.iterrows():
                 f.write(f"{row['name']},{row['url']}\n")
@@ -298,6 +300,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
