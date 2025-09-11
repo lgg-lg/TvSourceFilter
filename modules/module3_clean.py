@@ -96,12 +96,13 @@ def main():
     output_file = os.path.join("output", "allsourcecleaned.txt")
 
     logger.info("开始执行模块3：清理信号源")
-    clean_sources(input_file, blacklist_file, output_file,flag)
+    clean_sources(input_file, blacklist_file, output_file)
     logger.info("模块3执行完毕。")
 
 # 如果直接运行此脚本，则执行 main 函数
 if __name__ == "__main__":
 
     main()
+
 
 
