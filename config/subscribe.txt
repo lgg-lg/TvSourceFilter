@@ -2,6 +2,6 @@
 # This is a list of subscription sources, with one subscription address per line
 
 
-https://raw.githubusercontent.com/lgg-lg/IPTV/main/others.txt
+#https://raw.githubusercontent.com/lgg-lg/IPTV/main/others.txt
 https://raw.githubusercontent.com/lgg-lg/IPTV/main/live.txt
-https://raw.githubusercontent.com/lgg-lg/IPTV/main/live_lite.txt
+#https://raw.githubusercontent.com/lgg-lg/IPTV/main/live_lite.txt
