@@ -9,10 +9,10 @@ if __name__ == '__main__':
     module1_capture.main(input_file, output_file)
 
     print("开始执行模块2：组合信号源")
-    module2_combine.combine_sources()
+    flag=module2_combine.combine_sources()
 
     print("开始执行模块3：清理信号源") # <<< 新增 >>>
-    module3_clean.main() # <<< 新增 >>>
+    module3_clean.main(flag) # <<< 新增 >>>
 
     print("开始执行模块4：拆分信号源")
     # 注意：模块3现在应该读取清理后的文件
@@ -25,5 +25,6 @@ if __name__ == '__main__':
     module6_result.main() # <<< 新增 >>>
 
     print("✅ 所有模块执行完成")
+
 
 
