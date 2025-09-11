@@ -141,7 +141,7 @@ def process_url(url):
             lines = text.split('\n')
             print(f"行数: {len(lines)}")
             for index, line in enumerate(lines):
-                if index % 1000 == 0 and index > 0:  # 每1000行提示一次（跳过第0行）
+                if index % 5000 == 0 and index > 0:  # 每5000行提示一次（跳过第0行）
                     print(f"已处理 {index} 行...")
 
                 line = line.strip()
@@ -426,6 +426,7 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 
 #     combine_sources()
+
 
 
 
