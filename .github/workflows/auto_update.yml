@@ -11,7 +11,7 @@ on:
   schedule:
     #- cron: '0 0 * * *'  # 北京时间 8:00（UTC 0）
     # - cron: '12 12 * * *'  # 北京时间 20:00（UTC 12）
-   - cron: '0 20,8 * * *'
+   - cron: '0 21,9 * * *'
   workflow_dispatch:  # 手动触发
 
 jobs:
