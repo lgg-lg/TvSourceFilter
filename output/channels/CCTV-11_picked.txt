@@ -53,3 +53,4 @@ CCTV-11,http://112.123.243.37:50085/tsfile/live/0012_1.m3u8
 CCTV-11,http://cc06.tv12.xyz/12.m3u8
 CCTV-11,http://153.0.171.163:9901/tsfile/live/1010_1.m3u8
 CCTV-11,http://61.156.228.12:8154/tsfile/live/0011_1.m3u8
+CCTV-11,http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?msisdn=20250909090027bbd323d4b0114959a9b9d87cbcb9b91f&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139×tamp=20250909090027&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.90&SecurityKey=20250909090027&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=91f1abb0ae218bb7cf594480da475100&ddCalcu=0901v1fa51z7aa4babd00a8e4241985bfbc7&sv=10004&ct=android

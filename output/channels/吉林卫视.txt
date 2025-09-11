@@ -763,3 +763,4 @@
 吉林卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000036/index.m3u8
 吉林卫视,p3p://167.114.175.6:55331/5fe220ab000694027a41adb200196608
 吉林卫视,http://111.230.30.193/php/lyd.php?id=6397
+吉林卫视,http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20250909090029719d097ceab94a728d97c37288c0f66d&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139×tamp=20250909090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.13.250.90&SecurityKey=20250909090029&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=71178794e66bf5ba171c25da5eb1d590&ddCalcu=0791v51ad7z18ab7e954aed6562bcf157b1a&sv=10004&ct=android

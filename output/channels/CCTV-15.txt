@@ -875,3 +875,7 @@ CCTV-15,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:808
 CCTV-15,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000015/index.m3u8
 CCTV-15,http://111.230.30.193/php/lyd.php?id=6476
 CCTV-15,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/ys.php?id=cctv15b&token=29OdfaO3c77ad5fO9777d6c85264655c85O1ccc56238c51d6746a5bb4caebc84
+CCTV-15,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/50/index.m3u8?msisdn=20250909090027cf88e45c8d49433b818b4607fdf72f6d&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139×tamp=20250909090027&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=106.13.250.90&SecurityKey=20250909090027&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0a0d10678d8f373d57d6b0e378231112&ddCalcu=201av10a1da31a20867738ed08bf63d7735d&sv=10004&ct=android
+CCTV-15,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
+CCTV-15,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
+CCTV-15,http://lml1971.cn:35455/gptv/G_CCTV-15-HQ.m3u8

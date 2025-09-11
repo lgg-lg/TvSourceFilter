@@ -60,3 +60,4 @@ CCTV-10,http://112.132.10.54:9901/tsfile/live/0010_1.m3u8
 CCTV-10,http://112.123.243.37:50085/tsfile/live/0011_1.m3u8
 CCTV-10,http://cc06.tv12.xyz/11.m3u8
 CCTV-10,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8
+CCTV-10,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?msisdn=20250909090027517c12a1eeee428ab4858cc548232dac&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139×tamp=20250909090027&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=106.13.250.90&SecurityKey=20250909090027&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c49bc1d6e10be72226e8e1e950845648&ddCalcu=8c44v69a5by4ca810d569ee110eb8ee76222&sv=10004&ct=android

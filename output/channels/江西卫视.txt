@@ -885,3 +885,4 @@
 江西卫视,p3p://167.114.175.6:55331/5fe21ab1000e4e987a2a57190bf705fd
 江西卫视,http://111.230.30.193/php/lyd.php?id=6344
 江西卫视,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/ws.php?id=jiangxi3&token=3aaeOd91442fa7Ofbb275336bOa63eaaadd234bO12a9c3a18622b328f7b8735f
+江西卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/jxwshd/50/20190820/index.m3u8?msisdn=202509090900281a0e1e2892074112975d720dd0fa8120&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139×tamp=20250909090028&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=106.13.250.90&SecurityKey=20250909090028&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ab0d1b29c245c208cb72c3213115c8e9&ddCalcu=9aebv80acdy51a1b12391c2234c52c72b0c8&sv=10004&ct=android

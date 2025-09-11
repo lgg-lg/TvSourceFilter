@@ -61,3 +61,4 @@ CCTV-9,http://112.132.10.54:9901/tsfile/live/0009_1.m3u8
 CCTV-9,http://112.123.243.37:50085/tsfile/live/0010_1.m3u8
 CCTV-9,http://cc06.tv12.xyz/10.m3u8
 CCTV-9,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8
+CCTV-9,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/index.m3u8?msisdn=20250909090027cbf3df672c4c49a1b276e0c456694bdf&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139×tamp=20250909090027&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=106.13.250.90&SecurityKey=20250909090027&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e51dbd8311a2ebdef34ce3fb039ae165&ddCalcu=5e65v11aeddaba9d3803b1f13ae2ce4b3dfe&sv=10004&ct=android

@@ -53,3 +53,4 @@
 河南卫视,http://112.132.10.54:9901/tsfile/live/0139_1.m3u8
 河南卫视,http://112.123.243.37:50085/tsfile/live/0121_1.m3u8
 河南卫视,http://cc06.tv12.xyz/49.m3u8
+河南卫视,http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=2025090909002807509fe81fb24a26aabc2aa23db01783&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139×tamp=20250909090028&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.90&SecurityKey=20250909090028&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e7be58031006313da78e2eee31886b6b&ddCalcu=be67vbba6ea85a881033e1e0e026e38173ad&sv=10004&ct=android

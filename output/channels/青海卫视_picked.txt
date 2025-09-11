@@ -36,3 +36,4 @@
 青海卫视,http://hbhyjq.ufyct.com:1088/hls/76/index.m3u8
 青海卫视,https://6663.luyazo.com/livetv/hlnt/ub_gwG3Ig/ub_gwG3Ig_live.m3u8
 青海卫视,http://cc06.tv12.xyz/97.m3u8
+青海卫视,http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=202509090900290e6a5a1fcf3b4872b56544aba601d020&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139×tamp=20250909090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.90&SecurityKey=20250909090029&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=71e5d18a831351f69305e338b1c79937&ddCalcu=7731v9ea95z7dac118ba883331e355013f96&sv=10004&ct=android
