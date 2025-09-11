@@ -19,12 +19,14 @@
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-92.ctv
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-39.ctv
 四川卫视,http://t.061899.xyz/tl/dq.php?id=scws
+四川卫视,https://cc06.tv12.xyz/99.m3u8
 四川卫视,https://60.191.56.186:8888/hls/37/index.m3u8
+四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-19.ctv
 四川卫视,http://k.061899.xyz/m.php?id=scws
 四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
 四川卫视,http://gfr.x3322.net:9901/tsfile/live/1053_1.m3u8
-四川卫视,https://cc06.tv12.xyz/99.m3u8
 四川卫视,http://106.53.99.30/tv/hot.php?id=scws
+四川卫视,http://218.17.33.178:53290/tsfile/live/0123_1.m3u8?key=txiptv
 四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
 四川卫视,http://tpc.x3322.net:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://153.0.171.163:9901/tsfile/live/0123_1.m3u8

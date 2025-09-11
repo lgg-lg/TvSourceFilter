@@ -24,8 +24,9 @@
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-83.ctv
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
 江苏卫视,http://t.061899.xyz/tl/dq.php?id=jsws
-江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=20250910090037e581182d1c7348d39a6865e09703bc48&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d141a44b1f775f2ed5c3f0b78a38fc84&ddCalcu=4d81vc4af1b8aa34a48b71bf07f735cf52de&sv=10004&ct=android
+江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=2025091109003425d8effe343c4eab99d6069cec202eca&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250911090034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.89&SecurityKey=20250911090034&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ab410e8a8be9094089e9824a05a62373&ddCalcu=3a7be341213600ae580aa84b2e8990e99480
 江苏卫视,http://go.bkpcp.top/mg/jsws
+江苏卫视,https://cc06.tv12.xyz/61.m3u8
 江苏卫视,http://171.120.248.227:9003/hls/35/index.m3u8
 江苏卫视,http://221.205.204.69:9003/hls/35/index.m3u8
 江苏卫视,http://221.2.148.205:8154/tsfile/live/0127_1.m3u8
@@ -38,9 +39,9 @@
 江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=202509100600434a62c04a63684c1f84de98243d56a6d3&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250910060043&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.83&SecurityKey=20250910060043&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9b0aee997fe10ebba91442263c24d6a8&ddCalcu=89abv60adab4ea2ec939672f2e41401e9bab&sv=10004&ct=android
 江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
 江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1029_1.m3u8
-江苏卫视,https://cc06.tv12.xyz/61.m3u8
 江苏卫视,http://106.53.99.30/tv/hot.php?id=jsws
 江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
+江苏卫视,http://218.17.33.178:53290/tsfile/live/0127_1.m3u8?key=txiptv
 江苏卫视,http://dmggg.tyzb.fun:26355/migu/623899368.m3u8?migutoken=85c7d5288a93404f97362c95daf62a6f0e86cf5d6baf4852a2de501c860691391a86fd614c6f2257918cb57fc504b0fe2794ea3fef107e74ae484eb3b1be19a1c481b161df448185f85bd4983f
 江苏卫视,http://www.hkyc.site:1991/udp/239.253.64.202:5140
 江苏卫视,http://tpc.x3322.net:9901/tsfile/live/0127_1.m3u8
@@ -48,4 +49,6 @@
 江苏卫视,https://6663.luyazo.com/livetv/hldn/jbZYUGqSg/jbZYUGqSg_live.m3u8
 江苏卫视,http://112.123.243.37:50085/tsfile/live/0017_1.m3u8
 江苏卫视,http://cc06.tv12.xyz/61.m3u8
+江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=202509110600386dd1e60241ff4979a5b550b55eb5d422&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250911060038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.90&SecurityKey=20250911060038&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=fd8dc1f85aa21dc2741dbaa7fd5ca03f&ddCalcu=ff3de081ad3cc051dff875aaaab2d11d4c72
 江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=202509090900285857880449bf4586883f568cab990052&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250909090028&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.90&SecurityKey=20250909090028&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4bafeeb9f5c8d3d3f434368598500b44&ddCalcu=444bvbaa0fb0ea5e8b995f856c384d334df3&sv=10004&ct=android
+江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=20250910090037e581182d1c7348d39a6865e09703bc48&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d141a44b1f775f2ed5c3f0b78a38fc84&ddCalcu=4d81vc4af1b8aa34a48b71bf07f735cf52de&sv=10004&ct=android

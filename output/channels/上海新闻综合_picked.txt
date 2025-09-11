@@ -5,11 +5,11 @@
 上海新闻综合,https://stream1.freetv.fun/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.m3u8
 上海新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shxwzh
 上海新闻综合,http://t.061899.xyz/tl/dq.php?id=shxwzh
-上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=2025091009003889a22c053ee641e3b26ecf13590a18ac&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139×tamp=20250910090038&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20250910090038&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=fdd020e835a4ad563a4795427a4831a9&ddCalcu=9fadv1da30w82a40ae7823455a947a4da536&sv=10004&ct=android
-上海新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-1.ctv
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-9.ctv
-上海新闻综合,http://106.53.99.30/tv/hot.php?id=shxw
+上海新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-1.ctv
+上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=2025091109003517fea52238084e38b9a920aaeab4c6ae&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139×tamp=20250911090035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.89&SecurityKey=20250911090035&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=96c02c65a818e0061a4f2ff4fd16f7b7&ddCalcu=79b6e7c1f016201cd6f54af8f128fe40a016
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-8.ctv
+上海新闻综合,http://106.53.99.30/tv/hot.php?id=shxw
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-6.ctv
 上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=202509100600440d07686478bf48479688f2061517a552&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139×tamp=20250910060044&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20250910060044&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=447fdb1da08b822478c89388f65924e8&ddCalcu=84e4v47a2fw9da5b61fd8a80389b88c28274&sv=10004&ct=android
 上海新闻综合,http://dmggg.tyzb.fun:26355/migu/651632657.m3u8?migutoken=d1ce24436bc103be8a1e062feb55e8a3759b9ac11a6cf5f0866cab83e262ceaf6006abba6b445e563640f4007e8805e0a4bf63c3c1616b611eda8ef3bec586d40579aa03c1a9365d5683b92030
@@ -17,3 +17,5 @@
 上海新闻综合,http://hbhyjq.ufyct.com:1088/hls/48/index.m3u8
 上海新闻综合,http://dl.zhoujie218.top/migu/migu.php?id=shxwzh
 上海新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
+上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20250911060039444fd61d6c3542118ddc4dd54db34288&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139×tamp=20250911060039&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.90&SecurityKey=20250911060039&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=65d5dd58e32428a24da95f113be94eea&ddCalcu=a6e5eed14519d0edb5381e13f25492a8da42
+上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=2025091009003889a22c053ee641e3b26ecf13590a18ac&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139×tamp=20250910090038&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20250910090038&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=fdd020e835a4ad563a4795427a4831a9&ddCalcu=9fadv1da30w82a40ae7823455a947a4da536&sv=10004&ct=android

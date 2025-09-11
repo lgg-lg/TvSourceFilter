@@ -4,7 +4,7 @@ CHC影迷电影,http://go.bkpcp.top/mg/ymdy
 CHC影迷电影,http://k.061899.xyz/m.php?id=ymdy
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-12.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv
-CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=2025091009004100af19f53e814fc8a0b8d92c25327c46&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139×tamp=20250910090041&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.83&SecurityKey=20250910090041&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=019948f2c30e1be64ca6d37454a5c817&ddCalcu=7011v89ac9a54aa84f524c7330de61abce46&sv=10004&ct=android
+CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=202509110900374974ad216b16449a8e8ced4ae71eda4b&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139×tamp=20250911090037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.89&SecurityKey=20250911090037&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b9a9833cbb39ab17024fc1ff2e20ca87&ddCalcu=7b89eaa1c9208023e32cfbfb13c9fa4b2107
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-1.ctv
 CHC影迷电影,https://stream1.freetv.fun/chc-gao-qing-dian-ying-1.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-3.ctv
@@ -20,3 +20,4 @@ CHC影迷电影,http://dmggg.tyzb.fun:26355/migu/952383261.m3u8?migutoken=a0cdd7
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-5.ctv
 CHC影迷电影,http://104.244.79.187:4994/proxy?url=https%3A//gdcucc.v1.mk/gdcucc/chcymdy.m3u8
 CHC影迷电影,http://106.53.99.30/tv/hot.php?id=ymdy
+CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=20250911060042a141289351ce49cea2dcbd3e0ad5f995&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139×tamp=20250911060042&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.90&SecurityKey=20250911060042&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8585b14d091bc1af5f313d5e72987aee&ddCalcu=e8e5ea817528b091247de059d13b1c31fa5f

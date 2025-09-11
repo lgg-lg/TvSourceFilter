@@ -23,8 +23,10 @@
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-34.ctv
 广东卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gdws
 广东卫视,http://t.061899.xyz/tl/dq.php?id=gdws
-广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20250910090037a7ef748cba6f4e548a377298c99e2e50&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139×tamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2d39fb16bee11e6a04ccaad3f330f7e1&ddCalcu=12edv73af9a0fa3b31f63bdeaea1c1ce460a&sv=10004&ct=android
+广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=202509110900345a2e32c07e014c4db7204988bba62522&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139×tamp=20250911090034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.89&SecurityKey=20250911090034&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a09d4f41f604887ab42670983f42a3c3&ddCalcu=3ac0e391ad82404ff4318f960074682847ba
 广东卫视,http://go.bkpcp.top/mg/gdws
+广东卫视,http://113.15.109.216:59901/tsfile/live/0125_1.m3u8
+广东卫视,https://cc06.tv12.xyz/43.m3u8
 广东卫视,http://171.120.248.227:9003/hls/26/index.m3u8
 广东卫视,http://221.205.204.69:9003/hls/26/index.m3u8
 广东卫视,http://118.81.76.194:9003/hls/26/index.m3u8
@@ -32,12 +34,12 @@
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-18.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-60.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-2.ctv
+广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-7.ctv
+广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-10.ctv
 广东卫视,http://106.52.196.79:80/TV/mui.php?id=gdws
 广东卫视,http://k.061899.xyz/m.php?id=gdws
 广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=202509100600435a342a287a0d4fb5b81d53a97d38224f&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139×tamp=20250910060043&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.83&SecurityKey=20250910060043&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8236292a6238a388645b389686e9a08d&ddCalcu=d882v03aa6a92ae9628a66928338ba534868&sv=10004&ct=android
 广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
-广东卫视,http://113.15.109.216:59901/tsfile/live/0125_1.m3u8
-广东卫视,https://cc06.tv12.xyz/43.m3u8
 广东卫视,http://106.53.99.30/tv/hot.php?id=gdws
 广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
 广东卫视,http://dmggg.tyzb.fun:26355/migu/608831231.m3u8?migutoken=1747c9610a2c1b98d3a6169b77a6d59021d781b15c6f9e1e8c17f39f41e15af2d375c37a4277841009cd5585f3a9278d0446cdbfa6eb838972cc87c96e8cd1585c205f512fff61ea8b5363e9b8
@@ -51,5 +53,6 @@
 广东卫视,http://112.123.243.37:50085/tsfile/live/0135_1.m3u8
 广东卫视,http://cc06.tv12.xyz/43.m3u8
 广东卫视,http://123.129.70.178:9901/tsfile/live/0125_1.m3u8
-广东卫视,http://221.2.148.205:8154/tsfile/live/0125_1.m3u8
+广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=202509110600389d2409593bd541299750fe696ad88248&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139×tamp=20250911060038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.90&SecurityKey=20250911060038&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=05be5a9559579f578ba656163ed8f905&ddCalcu=5005e9b1fe8850dae9356519655769afb587
 广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20250909090028001cb75323cc4c6ca0dfc7fa361cab1d&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139×tamp=20250909090028&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.90&SecurityKey=20250909090028&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ebab12779c403ae2a758a1b996d0505c&ddCalcu=ce5bv0aa5ba01ad2679799bc14a0835a7ea2&sv=10004&ct=android
+广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20250910090037a7ef748cba6f4e548a377298c99e2e50&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139×tamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2d39fb16bee11e6a04ccaad3f330f7e1&ddCalcu=12edv73af9a0fa3b31f63bdeaea1c1ce460a&sv=10004&ct=android

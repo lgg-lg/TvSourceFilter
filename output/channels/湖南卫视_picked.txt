@@ -26,17 +26,20 @@
 湖南卫视,http://t.061899.xyz/tl/dq.php?id=hunws
 湖南卫视,http://go.bkpcp.top/mg/hunws
 湖南卫视,http://112.132.10.54:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,https://cc06.tv12.xyz/57.m3u8
 湖南卫视,http://171.120.248.227:9003/hls/33/index.m3u8
 湖南卫视,http://221.205.204.69:9003/hls/33/index.m3u8
 湖南卫视,http://221.2.148.205:8154/tsfile/live/0128_1.m3u8
+湖南卫视,http://112.123.243.37:50085/tsfile/live/1002_1.m3u8
 湖南卫视,http://118.81.76.194:9003/hls/33/index.m3u8
 湖南卫视,https://60.191.56.186:8888/hls/31/index.m3u8
+湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-44.ctv
 湖南卫视,http://k.061899.xyz/m.php?id=hunws
 湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1027_1.m3u8
-湖南卫视,https://cc06.tv12.xyz/57.m3u8
 湖南卫视,http://106.53.99.30/tv/hot.php?id=hunws
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
+湖南卫视,http://218.17.33.178:53290/tsfile/live/0128_1.m3u8?key=txiptv
 湖南卫视,http://www.hkyc.site:1991/udp/239.253.64.114:5140
 湖南卫视,http://153.0.171.163:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://dl.zhoujie218.top/migu/migu.php?id=hunws
@@ -44,5 +47,4 @@
 湖南卫视,https://6663.luyazo.com/livetv/hldn/g9lfUG3SR/g9lfUG3SR_live.m3u8
 湖南卫视,http://171.15.18.199:8180/TV00000000000000000018@HHZT
 湖南卫视,http://112.132.10.54:9901/tsfile/live/0128_1.m3u8
-湖南卫视,http://112.123.243.37:50085/tsfile/live/1002_1.m3u8
 湖南卫视,http://cc06.tv12.xyz/57.m3u8

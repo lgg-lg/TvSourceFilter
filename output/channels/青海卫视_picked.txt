@@ -15,7 +15,9 @@
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-121.ctv
 青海卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=qhws
 青海卫视,http://t.061899.xyz/tl/dq.php?id=qhws
-青海卫视,http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=202509100900373f803ab8575a4cc887e228ccc0e8cea6&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139×tamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=537172de2157c67ed138792774019367&ddCalcu=7563v37a91z17a024d7e722195778c3617de&sv=10004&ct=android
+青海卫视,http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=202509110900344a6a7f2631144afebddbbd685d8b3a9e&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139×tamp=20250911090034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.89&SecurityKey=20250911090034&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3dd4d2a5da9c86cf090275157e8878a9&ddCalcu=93ade8d17478d082ea755d1a597c28069c0f
+青海卫视,http://113.15.109.216:59901/tsfile/live/0140_1.m3u8
+青海卫视,https://cc06.tv12.xyz/97.m3u8
 青海卫视,http://221.2.148.205:8154/tsfile/live/0140_1.m3u8
 青海卫视,http://118.81.76.194:9003/hls/40/index.m3u8
 青海卫视,http://221.205.204.69:9003/hls/40/index.m3u8
@@ -25,9 +27,8 @@
 青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
 青海卫视,http://go.bkpcp.top/mg/qhws
 青海卫视,http://gfr.x3322.net:9901/tsfile/live/1045_1.m3u8
-青海卫视,http://113.15.109.216:59901/tsfile/live/0140_1.m3u8
-青海卫视,https://cc06.tv12.xyz/97.m3u8
 青海卫视,http://106.53.99.30/tv/hot.php?id=qhws
+青海卫视,http://218.17.33.178:53290/tsfile/live/0140_1.m3u8?key=txiptv
 青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
 青海卫视,http://dmggg.tyzb.fun:26355/migu/947472506.m3u8?migutoken=accb7abcc48753a60c319f2fcbb862a09fb13edda92f902ecea228f7887fe0c1e124bcad8a62b4eb9f6a109b0915d5feea535f1fc03070d9766f09839a9ba70ba0875937b85e39b4989bf22016
 青海卫视,http://tpc.x3322.net:9901/tsfile/live/0140_1.m3u8
@@ -35,5 +36,8 @@
 青海卫视,http://dl.zhoujie218.top/migu/migu.php?id=qhws
 青海卫视,http://hbhyjq.ufyct.com:1088/hls/76/index.m3u8
 青海卫视,https://6663.luyazo.com/livetv/hlnt/ub_gwG3Ig/ub_gwG3Ig_live.m3u8
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-154.ctv
 青海卫视,http://cc06.tv12.xyz/97.m3u8
+青海卫视,http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=20250911060039d6f67100e8494f87a2070c6ab6ed30c0&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139×tamp=20250911060039&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.90&SecurityKey=20250911060039&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b477d0fed4f42123a7559dd414dfeb8b&ddCalcu=bb84eb71e77fd0d04f1e4dd4df94525172a3
 青海卫视,http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=202509090900290e6a5a1fcf3b4872b56544aba601d020&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139×tamp=20250909090029&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.90&SecurityKey=20250909090029&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=71e5d18a831351f69305e338b1c79937&ddCalcu=7731v9ea95z7dac118ba883331e355013f96&sv=10004&ct=android
+青海卫视,http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=202509100900373f803ab8575a4cc887e228ccc0e8cea6&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139×tamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=537172de2157c67ed138792774019367&ddCalcu=7563v37a91z17a024d7e722195778c3617de&sv=10004&ct=android

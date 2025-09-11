@@ -28,8 +28,10 @@
 东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
 东方卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfws
 东方卫视,http://t.061899.xyz/tl/dq.php?id=dfws
-东方卫视,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/600/index.m3u8?msisdn=20250910090037e2542fa023bf4fc7a55f4fb5df3ae406&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139×tamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=754eceb9db0b8c54db3dd3e9f5043804&ddCalcu=4705v84a3ew4ca0e5bf99deb30dbd83cb5d4&sv=10004&ct=android
+东方卫视,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=202509110900347ded1b645e434f87becc6e28da2db52b&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139×tamp=20250911090034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.89&SecurityKey=20250911090034&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9f279402f9da2a70bc542fe4e4d7109f&ddCalcu=f99fe021171790d440e24fe9fd2a425ac7b0
 东方卫视,http://go.bkpcp.top/mg/dfws
+东方卫视,http://113.15.109.216:59901/tsfile/live/1009_1.m3u8
+东方卫视,https://cc06.tv12.xyz/37.m3u8
 东方卫视,http://171.120.248.227:9003/hls/23/index.m3u8
 东方卫视,http://221.205.204.69:9003/hls/23/index.m3u8
 东方卫视,http://221.2.148.205:8154/tsfile/live/0107_1.m3u8
@@ -42,11 +44,10 @@
 东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
 东方卫视,http://106.53.99.30/tv/api.php?id=dfws
 东方卫视,http://gfr.x3322.net:9901/tsfile/live/1028_1.m3u8
-东方卫视,http://113.15.109.216:59901/tsfile/live/1009_1.m3u8
-东方卫视,https://cc06.tv12.xyz/37.m3u8
 东方卫视,http://106.53.99.30/tv/hot.php?id=dfws
 东方卫视,https://epg.pw/stream/ca2f2aece144ab46ee64c76f769fa36ab38326fd216dd3d9e980bf055524466f.ctv
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
+东方卫视,http://218.17.33.178:53290/tsfile/live/0107_1.m3u8?key=txiptv
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226050/index.m3u8
 东方卫视,http://dmggg.tyzb.fun:26355/migu/651632648.m3u8?migutoken=8e88861cd5dc2121c53ef4ec4269633367e1d0bb38b29c00d65bfbc3eaa2c5ff4ebfbf75792dd01238389bae149ea41c5ddf5522e1a46bcd0b5f9005ad7742207d212664fd65c82456846426ed
@@ -60,4 +61,6 @@
 东方卫视,http://112.123.243.37:50085/tsfile/live/0124_1.m3u8
 东方卫视,http://cc06.tv12.xyz/37.m3u8
 东方卫视,http://61.156.228.12:8154/tsfile/live/0107_1.m3u8
+东方卫视,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=202509110600384d8848ec2cec4574950b9e33aa2a0ba6&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139×tamp=20250911060038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.90&SecurityKey=20250911060038&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=88c1cace6c747c88500b82fa4f80bae9&ddCalcu=98e8eac1b110c08afc4ea6fc2784b70c0858
 东方卫视,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/600/index.m3u8?msisdn=2025090909002805c307f961df4208acfa9555d4d21c6b&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139×tamp=20250909090028&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.90&SecurityKey=20250909090028&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a16ad8b91d1b6222bad0b8374cf3163d&ddCalcu=da31v66a1aw3daf8cb49713d81bb06d2a2b2&sv=10004&ct=android
+东方卫视,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/600/index.m3u8?msisdn=20250910090037e2542fa023bf4fc7a55f4fb5df3ae406&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139×tamp=20250910090037&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.83&SecurityKey=20250910090037&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=754eceb9db0b8c54db3dd3e9f5043804&ddCalcu=4705v84a3ew4ca0e5bf99deb30dbd83cb5d4&sv=10004&ct=android
