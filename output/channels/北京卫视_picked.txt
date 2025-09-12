@@ -29,11 +29,10 @@
 北京卫视,https://cc06.tv12.xyz/27.m3u8
 北京卫视,http://171.120.248.227:9003/hls/20/index.m3u8
 北京卫视,http://221.205.204.69:9003/hls/20/index.m3u8
-北京卫视,http://112.123.243.37:50085/tsfile/live/0127_1.m3u8
 北京卫视,http://118.81.76.194:9003/hls/20/index.m3u8
 北京卫视,https://60.191.56.186:8888/hls/34/index.m3u8
-北京卫视,http://k.061899.xyz/m.php?id=bjws
 北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
+北京卫视,http://k.061899.xyz/m.php?id=bjws
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1032_1.m3u8
 北京卫视,http://106.53.99.30/tv/hot.php?id=bjws
 北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
@@ -42,4 +41,5 @@
 北京卫视,http://tpc.x3322.net:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://153.0.171.163:9901/tsfile/live/0122_1.m3u8
 北京卫视,https://6663.luyazo.com/livetv/hlcc/EeE1Rw7Hgz/EeE1Rw7Hgz_live.m3u8
+北京卫视,http://112.123.243.37:50085/tsfile/live/0127_1.m3u8
 北京卫视,http://cc06.tv12.xyz/27.m3u8

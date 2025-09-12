@@ -15,12 +15,12 @@
 甘肃卫视,http://112.132.10.54:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,https://cc06.tv12.xyz/44.m3u8
 甘肃卫视,http://221.205.204.69:9003/hls/25/index.m3u8
+甘肃卫视,http://218.17.33.178:53290/tsfile/live/0141_1.m3u8?key=txiptv
 甘肃卫视,http://118.81.76.194:9003/hls/25/index.m3u8
 甘肃卫视,http://t.061899.xyz/tl/tl.php?id=gsws
 甘肃卫视,http://go.bkpcp.top/mg/gsws
 甘肃卫视,http://gfr.x3322.net:9901/tsfile/live/1038_1.m3u8
 甘肃卫视,http://106.53.99.30/tv/hot.php?id=gsws
-甘肃卫视,http://218.17.33.178:53290/tsfile/live/0141_1.m3u8?key=txiptv
 甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
 甘肃卫视,http://tpc.x3322.net:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://dl.zhoujie218.top/migu/migu.php?id=gsws
