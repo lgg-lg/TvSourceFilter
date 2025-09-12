@@ -547,4 +547,3 @@
 甘肃卫视,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000046/index.m3u8
 甘肃卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000046/index.m3u8
 甘肃卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226662/1.m3u8
-甘肃卫视,http://lml1971.cn:35455/gptv/G_GANSU-HQ.m3u8

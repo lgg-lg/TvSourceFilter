@@ -660,4 +660,3 @@
 云南卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000039/index.m3u8
 云南卫视,p3p://167.114.175.6:55331/63ec497c00058741e438d2e90a5c74a9
 云南卫视,http://116.237.148.215:8881/rtp/239.45.0.4:5140
-云南卫视,http://lml1971.cn:35455/gptv/G_YUNNAN-HQ.m3u8

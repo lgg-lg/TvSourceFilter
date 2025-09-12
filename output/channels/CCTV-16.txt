@@ -507,4 +507,3 @@ CCTV-16,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479
 CCTV-16,http://111.230.30.193/php/lyd.php?id=6100
 CCTV-16,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8
 CCTV-16,http://lml1971.cn:35455/gptv/G_CCTV-16-HQ.m3u8
-CCTV-16,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
