@@ -724,4 +724,3 @@
 广西卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000038/index.m3u8
 广西卫视,p3p://167.114.175.6:55331/602210560009472773fecbad4efa370f
 广西卫视,http://111.230.30.193/php/lyd.php?id=6549
-广西卫视,http://116.237.148.215:8881/rtp/239.45.0.5:5140

@@ -492,5 +492,3 @@
 内蒙古卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000040/index.m3u8
 内蒙古卫视,p3p://167.114.175.6:55331/63ec4a1f0006a1c8e43b4fe45f4007c7
 内蒙古卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226685/1.m3u8
-内蒙古卫视,http://lml1971.cn:35455/gptv/G_NEIMENGGU.m3u8
-内蒙古卫视,https://www.nmtv.cn/liveTv?tag=内蒙古卫视

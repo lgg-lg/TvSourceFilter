@@ -160,4 +160,3 @@
 动漫秀场,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227977/index.m3u8
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8
 动漫秀场,https://mursor.ottiptv.cc/bst/dmxchd@4000000.m3u8
-动漫秀场,http://116.237.148.215:8881/rtp/239.45.3.134:5140

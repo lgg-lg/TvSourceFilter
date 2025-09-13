@@ -821,4 +821,3 @@
 黑龙江卫视,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000027/index.m3u8
 黑龙江卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000027/index.m3u8
 黑龙江卫视,p3p://167.114.175.6:55331/6323b2350007630d265fbb91230b76bb
-黑龙江卫视,http://116.237.148.215:8881/rtp/239.45.3.232:5140
