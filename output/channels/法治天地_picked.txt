@@ -1,6 +1,6 @@
 法治天地,https://cc06.tv12.xyz/42.m3u8
 法治天地,http://106.53.99.30/tv/hot.php?id=fztd
 法治天地,http://cc06.tv12.xyz/42.m3u8
-法治天地,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
 法治天地,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8?
 法治天地,http://dl.zhoujie218.top/migu/migu.php?id=fztd
+法治天地,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8

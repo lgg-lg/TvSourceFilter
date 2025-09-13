@@ -54,6 +54,7 @@
 东方财经,http://183.189.253.21:8888/rtp/226.0.2.76:8520
 东方财经,http://39.134.136.198:6410/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb
 东方财经,http://111.113.89.235:2000/rtp/239.121.4.71:8400
+东方财经,https://mursor.ottiptv.cc/bst/dfcjhd4m@4000000.m3u8
 东方财经,http://hui.guo.my/api.php?id=e56wCynnuJHFJpEAa5FB
 东方财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2276&tk=7d4ad8f156e3
 东方财经,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
@@ -70,4 +71,3 @@
 东方财经,http://58.32.33.197:4022/rtp/239.45.0.17:5140
 东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
 东方财经,http://[2409:8087:5e00:24::29]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
-东方财经,https://mursor.ottiptv.cc/bst/dfcjhd4m@4000000.m3u8
