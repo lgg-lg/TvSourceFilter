@@ -35,4 +35,3 @@ CCTV-12,http://42.48.80.240:9002/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&a
 CCTV-12,http://58.46.28.144:9999/tsfile/live/0012_1.m3u8
 CCTV-12,http://iptv.887979.xyz/ysptp/cctv12.m3u8
 CCTV-12,http://ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
-CCTV-12,http://118.249.196.244:8088/tsfile/live/0012_1.m3u8?key=txiptv

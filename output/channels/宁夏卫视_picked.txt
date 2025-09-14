@@ -11,8 +11,10 @@
 宁夏卫视,http://153.0.171.163:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-60.ctv
 宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-90.ctv
-宁夏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=nxws
 宁夏卫视,http://112.132.10.54:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=nxws
+宁夏卫视,http://113.15.109.216:59901/tsfile/live/0112_1.m3u8
+宁夏卫视,https://cc06.tv12.xyz/96.m3u8
 宁夏卫视,http://171.120.248.227:9003/hls/39/index.m3u8
 宁夏卫视,http://221.205.204.69:9003/hls/39/index.m3u8
 宁夏卫视,http://118.81.76.194:9003/hls/39/index.m3u8
@@ -21,8 +23,6 @@
 宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws
 宁夏卫视,http://tpc.x3322.net:9901/tsfile/live/0112_1.m3u8
 宁夏卫视,http://gfr.x3322.net:9901/tsfile/live/1040_1.m3u8
-宁夏卫视,http://113.15.109.216:59901/tsfile/live/0112_1.m3u8
-宁夏卫视,https://cc06.tv12.xyz/96.m3u8
 宁夏卫视,http://221.2.148.205:8154/tsfile/live/0112_1.m3u8
 宁夏卫视,http://218.17.33.178:53290/tsfile/live/0112_1.m3u8?key=txiptv
 宁夏卫视,https://zby.130519.xyz/PLTV/11/224/3221226092/index.m3u8

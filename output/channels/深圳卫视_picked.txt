@@ -18,10 +18,13 @@
 深圳卫视,https://epg.pw/stream/7d39b3e02dccfbd1ed32ec34964c9c335bfed429cb4f45800afa9f77414d01e3.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-7.ctv
 深圳卫视,http://t.061899.xyz/tl/dq.php?id=szws
+深圳卫视,https://cc06.tv12.xyz/108.m3u8
 深圳卫视,http://171.120.248.227:9003/hls/43/index.m3u8
+深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-72.ctv
+深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-94.ctv
+深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-gao-qing-5.ctv
 深圳卫视,http://k.061899.xyz/m.php?id=szws
 深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
-深圳卫视,https://cc06.tv12.xyz/108.m3u8
 深圳卫视,http://106.53.99.30/tv/hot.php?id=szws
 深圳卫视,http://218.17.33.178:53290/tsfile/live/0126_1.m3u8?key=txiptv
 深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
@@ -31,7 +34,7 @@
 深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8
 深圳卫视,https://6663.luyazo.com/livetv/hlnt/_e7zQMqSRz/_e7zQMqSRz_live.m3u8
 深圳卫视,http://171.15.18.199:8180/TV00000000000000000026@HHZT
-深圳卫视,http://123.129.70.178:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://112.123.243.37:50085/tsfile/live/1000_1.m3u8
 深圳卫视,http://cc06.tv12.xyz/108.m3u8
+深圳卫视,http://123.129.70.178:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://221.2.148.205:8154/tsfile/live/0126_1.m3u8
