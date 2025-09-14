@@ -499,5 +499,3 @@
 西藏卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000045/index.m3u8
 西藏卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225857/index.m3u8
 西藏卫视,p3p://167.114.175.6:55331/63ec4ab500052d07e43d99727879092e
-西藏卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226710/1.m3u8
-西藏卫视,http://lml1971.cn:35455/gptv/G_XIZANG.m3u8
