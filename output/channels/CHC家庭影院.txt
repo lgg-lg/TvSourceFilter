@@ -293,4 +293,3 @@ CHC家庭影院,http://171.108.239.98:8181/tsfile/live/1006_1.m3u8?key=txiptv&pl
 CHC家庭影院,http://171.108.239.80:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://171.108.239.99:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,https://stream1.freetv.fun/03f67d0e0fa947765e1aec78406a6a085ee9f3b4bb2d4f6c6947dd70a6c40296.ctv
-CHC家庭影院,https://mg.chinacert.cftest5.cn/mg/644368373.m3u8?token=adff73d728ea297eb688b6fa713e8f8796735dbfbd02cc07e301b128f389b5a16a926a9c92e67229fee298c24eacbc6042d558ba729e33c7d5422a7263c9b0025eaa248d535e0bae959ccf9daa&tm=1757535222&sign=8150b12b750fd241c638d9d6910865f7

@@ -507,4 +507,3 @@
 内蒙古卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226685/1.m3u8
 内蒙古卫视,http://lml1971.cn:35455/gptv/G_NEIMENGGU.m3u8
 内蒙古卫视,https://www.nmtv.cn/liveTv?tag=内蒙古卫视
-内蒙古卫视,http://n1.gzbody.com:85/rtp/239.77.0.70:5146
