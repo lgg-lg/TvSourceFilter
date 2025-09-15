@@ -6,13 +6,13 @@ CCTV-16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 CCTV-16,http://106.52.196.79:80/TV/mui.php?id=cctv16
 CCTV-16,http://t.061899.xyz/tl/dq.php?id=cctv16
 CCTV-16,http://go.bkpcp.top/mg/cctv16
-CCTV-16,http://171.120.248.227:9003/hls/17/index.m3u8
-CCTV-16,http://221.205.204.69:9003/hls/17/index.m3u8
 CCTV-16,http://118.81.76.194:9003/hls/17/index.m3u8
+CCTV-16,http://221.205.204.69:9003/hls/17/index.m3u8
 CCTV-16,http://k.061899.xyz/m.php?id=cctv16
 CCTV-16,http://t.061899.xyz/tl/tl.php?id=cctv16
 CCTV-16,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://gfr.x3322.net:9901/tsfile/live/1081_1.m3u8
+CCTV-16,http://171.120.248.227:9003/hls/17/index.m3u8
 CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 CCTV-16,http://www.hkyc.site:1991/udp/239.253.64.251:5140
 CCTV-16,http://www.hkyc.site:1991/udp/239.253.64.126:5140

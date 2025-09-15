@@ -16,9 +16,10 @@
 广西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gxws
 广西卫视,http://113.15.109.216:59901/tsfile/live/0113_1.m3u8
 广西卫视,https://cc06.tv12.xyz/46.m3u8
-广西卫视,http://221.205.204.69:9003/hls/27/index.m3u8
+广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv
 广西卫视,http://221.2.148.205:8154/tsfile/live/0113_1.m3u8
 广西卫视,http://118.81.76.194:9003/hls/27/index.m3u8
+广西卫视,http://221.205.204.69:9003/hls/27/index.m3u8
 广西卫视,https://60.191.56.186:8888/hls/58/index.m3u8
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-gao-qing-2.ctv
 广西卫视,http://k.061899.xyz/m.php?id=gxws
@@ -36,3 +37,4 @@
 广西卫视,http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 广西卫视,http://112.123.243.37:50085/tsfile/live/0137_1.m3u8
 广西卫视,http://cc06.tv12.xyz/46.m3u8
+广西卫视,https://stream1.freetv.fun/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.ctv

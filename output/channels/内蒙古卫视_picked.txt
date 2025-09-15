@@ -36,3 +36,4 @@
 内蒙古卫视,http://112.123.243.37:50085/tsfile/live/0118_1.m3u8
 内蒙古卫视,http://cc06.tv12.xyz/94.m3u8
 内蒙古卫视,http://218.17.33.178:53290/tsfile/live/0109_1.m3u8
+内蒙古卫视,https://stream1.freetv.fun/1e5dc1f802d7775ea9cde7b7b874b914365797c6718c5e95448aa26648e136e6.ctv

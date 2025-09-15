@@ -16,10 +16,11 @@
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-66.ctv
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-39.ctv
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-11.ctv
+云南卫视,http://113.15.109.216:59901/tsfile/live/0119_1.m3u8
 云南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=ynws
 云南卫视,http://t.061899.xyz/tl/dq.php?id=ynws
-云南卫视,http://113.15.109.216:59901/tsfile/live/0119_1.m3u8
 云南卫视,https://cc06.tv12.xyz/114.m3u8
+云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv
 云南卫视,https://60.191.56.186:8888/hls/42/index.m3u8
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-40.ctv
 云南卫视,http://t.061899.xyz/tl/tl.php?id=ynws
@@ -38,3 +39,4 @@
 云南卫视,http://112.123.243.37:50085/tsfile/live/0117_1.m3u8
 云南卫视,http://cc06.tv12.xyz/114.m3u8
 云南卫视,http://221.2.148.205:8154/tsfile/live/0119_1.m3u8
+云南卫视,https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.ctv
