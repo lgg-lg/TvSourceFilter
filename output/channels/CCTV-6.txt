@@ -528,6 +528,10 @@ CCTV-6,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225741/index.m3u8
 CCTV-6,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
 CCTV-6,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000005000265006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=3
 CCTV-6,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000265006/index.m3u8?channel-id=bestzb&Contentid=5000000011000265006&livemode=1&stbId=3
+CCTV-6,http://36.136.13.250:18181/tsfile/live/faacts/0006_1.m3u8
+CCTV-6,http://36.136.13.230:18181/tsfile/live/faacts/0006_1.m3u8
+CCTV-6,http://36.136.13.248:18181/tsfile/live/faacts/0006_1.m3u8
+CCTV-6,http://36.136.13.215:18181/tsfile/live/faacts/0006_1.m3u8
 CCTV-6,http://39.134.136.198:6410/000000001000/5000000011000265006/index.m3u8?channel-id=bestzb
 CCTV-6,http://27.10.209.234:8008/udp/225.0.4.144:7980
 CCTV-6,http://115.58.122.81:8805/cctv6.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3

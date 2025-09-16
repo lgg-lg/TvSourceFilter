@@ -471,6 +471,10 @@ CCTV-14,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226150/index.m3u8
 CCTV-14,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000008170/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3
 CCTV-14,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000010000023358/index.m3u8?channel-id=bestzb&Contentid=5000000010000023358&livemode=1&stbId=3
 CCTV-14,http://180.109.191.173:8888/rtp/239.49.1.14:6000
+CCTV-14,http://36.136.13.250:18181/tsfile/live/faacts/0014_1.m3u8
+CCTV-14,http://36.136.13.230:18181/tsfile/live/faacts/0014_1.m3u8
+CCTV-14,http://36.136.13.215:18181/tsfile/live/faacts/0014_1.m3u8
+CCTV-14,http://36.136.13.248:18181/tsfile/live/faacts/0014_1.m3u8
 CCTV-14,http://101.204.187.4:8035/hls.p2p.com/live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8?E&U&A&K&P&S
 CCTV-14,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-14-HQ/G_CCTV-14-HQ.m3u8
 CCTV-14,http://39.134.136.198:6410/000000001000/5000000004000006673/index.m3u8?channel-id=bestzb

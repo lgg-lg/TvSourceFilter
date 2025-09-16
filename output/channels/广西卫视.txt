@@ -392,6 +392,10 @@
 广西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226130/index.m3u8
 广西卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=3
 广西卫视,http://api.kkitv.itv888.cn:8080/hls/yvz4ndj9dqb/index.m3u8
+广西卫视,http://36.136.13.250:18181/tsfile/live/0113_1.m3u8
+广西卫视,http://36.136.13.230:18181/tsfile/live/0113_1.m3u8
+广西卫视,http://36.136.13.248:18181/tsfile/live/0113_1.m3u8
+广西卫视,http://36.136.13.215:18181/tsfile/live/0113_1.m3u8
 广西卫视,http://115.58.122.81:8852/live1420.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3
 广西卫视,http://39.134.136.198:6410/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive
 广西卫视,http://39.134.136.198:6410/000000001000/5000000011000031118/index.m3u8?channel-id=bestzb

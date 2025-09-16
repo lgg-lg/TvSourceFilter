@@ -522,6 +522,10 @@ CCTV-3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225766/index.m3u8
 CCTV-3,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
 CCTV-3,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000265003/index.m3u8?channel-id=bestzb&Contentid=5000000011000265003&livemode=1&stbId=3
 CCTV-3,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+CCTV-3,http://36.136.13.250:18181/tsfile/live/faacts/0003_1.m3u8
+CCTV-3,http://36.136.13.230:18181/tsfile/live/faacts/0003_1.m3u8
+CCTV-3,http://36.136.13.215:18181/tsfile/live/faacts/0003_1.m3u8
+CCTV-3,http://36.136.13.248:18181/tsfile/live/faacts/0003_1.m3u8
 CCTV-3,http://14.154.193.10:4022/udp/239.77.0.175:5146
 CCTV-3,http://39.134.136.198:6410/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive
 CCTV-3,http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8

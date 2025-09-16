@@ -453,6 +453,10 @@
 深圳卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000009227/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=3
 深圳卫视,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
 深圳卫视,http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
+深圳卫视,http://36.136.13.250:18181/tsfile/live/0126_1.m3u8
+深圳卫视,http://36.136.13.230:18181/tsfile/live/0126_1.m3u8
+深圳卫视,http://36.136.13.215:18181/tsfile/live/0126_1.m3u8
+深圳卫视,http://36.136.13.248:18181/tsfile/live/0126_1.m3u8
 深圳卫视,http://39.134.136.198:6410/000000001000/1000000005000265028/index.m3u8?channel-id=ystenlive
 深圳卫视,http://39.134.136.198:6410/000000001000/5352218613763113657/index.m3u8?channel-id=ystenlive
 深圳卫视,http://123.145.29.14:8002/udp/225.0.4.202:7980

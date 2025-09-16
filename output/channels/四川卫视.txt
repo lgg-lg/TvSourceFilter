@@ -418,6 +418,10 @@
 四川卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=3
 四川卫视,http://112.67.40.22:8686/rtp/239.253.64.36:5140
 四川卫视,http://api.kkitv.itv888.cn:8080/hls/p2npnppn96p/index.m3u8
+四川卫视,http://36.136.13.250:18181/tsfile/live/0123_1.m3u8
+四川卫视,http://36.136.13.230:18181/tsfile/live/0123_1.m3u8
+四川卫视,http://36.136.13.215:18181/tsfile/live/0123_1.m3u8
+四川卫视,http://36.136.13.248:18181/tsfile/live/0123_1.m3u8
 四川卫视,http://14.154.193.10:4022/udp/239.77.0.159:5146
 四川卫视,http://39.134.136.198:6410/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive
 四川卫视,http://39.134.136.198:6410/000000001000/5000000004000006119/index.m3u8?channel-id=bestzb
@@ -838,4 +842,3 @@
 四川卫视,http://58.248.112.205:8006/GD_CUCC/G_SICHUAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHShysHnFVsdNiy%2FnVMuA%2F2ui53pLIt5xLZYRaSNohMBM&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 四川卫视,https://epg.pw/stream/c1d7aa9fdbe369ae7c3242d0dade547b7987e1e37e7e2098a45e794c3296f862.ctv
 四川卫视,https://stream1.freetv.fun/3c264c25b1f8debffea48cd474ef8b830ced737528778624f006949a84930657.ctv
-四川卫视,http://36.24.65.178:8888/udp/233.50.201.139:5140

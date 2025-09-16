@@ -522,6 +522,10 @@
 广东卫视,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
 广东卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5616881981321254555/index.m3u8?channel-id=ystenlive&Contentid=5616881981321254555&livemode=1&stbId=3
 广东卫视,http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
+广东卫视,http://36.136.13.250:18181/tsfile/live/faacts/1165_1.m3u8
+广东卫视,http://36.136.13.230:18181/tsfile/live/faacts/1165_1.m3u8
+广东卫视,http://36.136.13.215:18181/tsfile/live/faacts/1165_1.m3u8
+广东卫视,http://36.136.13.248:18181/tsfile/live/faacts/1165_1.m3u8
 广东卫视,http://39.134.136.198:6410/000000001000/1000000001000028357/index.m3u8?channel-id=ystenlive
 广东卫视,http://39.134.136.198:6410/000000001000/1000000005000265034/index.m3u8?channel-id=ystenlive
 广东卫视,http://39.134.136.198:6410/000000001000/5616881981321254555/index.m3u8?channel-id=ystenlive
@@ -1045,8 +1049,6 @@
 广东卫视,http://101.66.198.44:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://112.46.105.20:8009/hls/36/index.m3u8
 广东卫视,http://180.172.46.232:4022/rtp/239.45.3.230:5140
-广东卫视,http://36.136.13.248:18181/tsfile/live/faacts/1165_1.m3u8
-广东卫视,http://36.136.13.215:18181/tsfile/live/faacts/1165_1.m3u8
 广东卫视,http://49.234.31.101:7040/tsfile/live/1008_1.m3u8
 广东卫视,http://111.229.155.66:7722/timetv.php?type=gdtv&channel=gdws
 广东卫视,http://112.99.193.34:9901/tsfile/live/1043_1.m3u8

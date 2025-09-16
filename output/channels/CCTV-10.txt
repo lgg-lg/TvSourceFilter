@@ -533,6 +533,10 @@ CCTV-10,http://221.219.183.89:4022/rtp/239.3.1.63:8116
 CCTV-10,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000010000016738/index.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=3
 CCTV-10,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
 CCTV-10,http://180.109.191.173:8888/rtp/239.49.1.10:6000
+CCTV-10,http://36.136.13.250:18181/tsfile/live/faacts/0010_1.m3u8
+CCTV-10,http://36.136.13.230:18181/tsfile/live/faacts/0010_1.m3u8
+CCTV-10,http://36.136.13.215:18181/tsfile/live/faacts/0010_1.m3u8
+CCTV-10,http://36.136.13.248:18181/tsfile/live/faacts/0010_1.m3u8
 CCTV-10,http://39.134.136.198:6410/000000001000/1000000001000023734/index.m3u8?channel-id=ystenlive
 CCTV-10,http://39.134.136.198:6410/000000001000/5000000004000012827/index.m3u8?channel-id=bestzb
 CCTV-10,http://39.134.136.198:6410/000000001000/5000000010000016738/index.m3u8?channel-id=bestzb

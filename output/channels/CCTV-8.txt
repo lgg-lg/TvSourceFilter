@@ -523,6 +523,10 @@ CCTV-8,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000003736/inde
 CCTV-8,http://60.223.72.164:8003/rtp/226.0.2.211:9600
 CCTV-8,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226167/index.m3u8
 CCTV-8,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+CCTV-8,http://36.136.13.250:18181/tsfile/live/faacts/0008_1.m3u8
+CCTV-8,http://36.136.13.230:18181/tsfile/live/faacts/0008_1.m3u8
+CCTV-8,http://36.136.13.248:18181/tsfile/live/faacts/0008_1.m3u8
+CCTV-8,http://36.136.13.215:18181/tsfile/live/faacts/0008_1.m3u8
 CCTV-8,http://14.154.193.10:4022/udp/239.77.0.172:5146
 CCTV-8,http://119.39.68.13:5003/cctv8.m3u8?token=7375646f3360f83690215581855b75ef53c1f1c8&z=1f9a
 CCTV-8,http://115.58.122.81:8807/cctv8.m3u8?token=7375646f8b3db87704ae11e7f910babb8fd00bc9&z=22c3

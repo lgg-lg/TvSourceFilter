@@ -124,4 +124,3 @@
 东方影视,http://61.170.164.195:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 东方影视,p3p://167.114.175.6:55331/63ec504700099c1ae4535ce016284942
 东方影视,https://stream1.freetv.fun/9d3c9f7982bce6a6d8c61dee6b3533032537b84c1312b8bf2613be972edfc0df.ctv
-东方影视,http://58.32.33.197:4022/rtp/239.45.3.237:5140

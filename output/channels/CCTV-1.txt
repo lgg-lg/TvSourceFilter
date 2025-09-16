@@ -560,6 +560,11 @@ CCTV-1,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000021973/inde
 CCTV-1,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
 CCTV-1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225723/index.m3u8
 CCTV-1,http://27.24.215.54:5003/cctv1.m3u8?token=7375646ffddbd340db37c0eb327382f8204b8a9e&z=1f40
+CCTV-1,http://36.136.13.250:18181/tsfile/live/faacts/0001_1.m3u8
+CCTV-1,http://36.136.13.230:18181/tsfile/live/faacts/0001_1.m3u8
+CCTV-1,http://36.136.13.215:18181/tsfile/live/faacts/0001_1.m3u8
+CCTV-1,http://36.136.38.87:9901/tsfile/live/0001_1.m3u8
+CCTV-1,http://36.136.13.248:18181/tsfile/live/faacts/0001_1.m3u8
 CCTV-1,http://171.116.147.32:9003/hls/1/index.m3u8
 CCTV-1,http://183.184.232.247:9003/hls/1/index.m3u8
 CCTV-1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8

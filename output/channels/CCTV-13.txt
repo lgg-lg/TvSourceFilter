@@ -468,6 +468,10 @@ CCTV-13,http://119.53.58.104:5003/cctv13.m3u8?token=7375646f810bc373ab6d86b402ed
 CCTV-13,http://ygbh.site/php/bfgd.php?id=067
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,http://180.109.191.173:8888/rtp/239.49.9.43:6000
+CCTV-13,http://36.136.13.250:18181/tsfile/live/faacts/0013_1.m3u8
+CCTV-13,http://36.136.13.230:18181/tsfile/live/faacts/0013_1.m3u8
+CCTV-13,http://36.136.13.215:18181/tsfile/live/faacts/0013_1.m3u8
+CCTV-13,http://36.136.13.248:18181/tsfile/live/faacts/0013_1.m3u8
 CCTV-13,http://118.81.193.194:9003/hls/14/index.m3u8
 CCTV-13,http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
 CCTV-13,http://171.116.240.179:9003/hls/14/index.m3u8
