@@ -22,11 +22,11 @@
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-80.ctv
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-30.ctv
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-83.ctv
+江苏卫视,http://218.104.239.114:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
 江苏卫视,http://t.061899.xyz/tl/dq.php?id=jsws
-江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=20250915090040e8d74942feec40739cfe86d298318d5e&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250915090040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.89&SecurityKey=20250915090040&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c1319b60c1e0930035891ffc0fbbd9b9&ddCalcu=9cb1e931d13b90bbf600ccf1fe1099835030
+江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=20250916090035243692e6fb20436d816ab2cc6b9ba874&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250916090035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.89&SecurityKey=20250916090035&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6eb21e94a03645194933a3bf2c7a9671&ddCalcu=167ee6b1923a107ec924fab033a634359149
 江苏卫视,http://go.bkpcp.top/mg/jsws
-江苏卫视,https://cc06.tv12.xyz/61.m3u8
 江苏卫视,http://222.169.85.8:9901/tsfile/live/0127_1.m3u8?key=txiptv
 江苏卫视,http://221.2.148.205:8154/tsfile/live/0127_1.m3u8
 江苏卫视,http://118.81.76.194:9003/hls/35/index.m3u8
@@ -36,13 +36,13 @@
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-96.ctv
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-gao-qing-5.ctv
 江苏卫视,http://113.15.109.216:59901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-23.ctv
 江苏卫视,http://106.52.196.79:80/TV/mui.php?id=jsws
 江苏卫视,http://8.138.7.223/tv/jstv.php?id=jsws
 江苏卫视,http://k.061899.xyz/m.php?id=jsws
-江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=202509140600333cce3216d0f44257b205d6b144eabadd&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250914060033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.89&SecurityKey=20250914060033&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c29ec5cce4c79ca2466dff28e183cf28&ddCalcu=8c22ef91ce33c0851cec8e24fcf7d96c6a42
 江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
 江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1029_1.m3u8
-江苏卫视,http://171.120.248.227:9003/hls/35/index.m3u8
+江苏卫视,https://cc06.tv12.xyz/61.m3u8
 江苏卫视,http://106.53.99.30/tv/hot.php?id=jsws
 江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
 江苏卫视,http://218.17.33.178:53290/tsfile/live/0127_1.m3u8?key=txiptv
@@ -63,3 +63,5 @@
 江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=202509130901164e1277e6bdf04a8ca174faad0ac0ca3f&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250913090116&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.89&SecurityKey=20250913090116&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9058f85b4618392d2354707dbb53c8c4&ddCalcu=49c0e851c833f058b5bbd47601784359322d
 江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=202509130600350afc2051e3434b52a2e555c53dce2ee8&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250913060035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.90&SecurityKey=20250913060035&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=50e65d15fe1ed253cf73a4e03d34357c&ddCalcu=c570e5e13634503dd1350fee41ae3d72f5c3
 江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=202509140900349d7504ad6e324a878910df014536d8e6&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250914090034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.88&SecurityKey=20250914090034&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=600c37fa9b3b61626a6ff2afca819b66&ddCalcu=6660eb019c313087afcaf9ab23fbf661a662
+江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=202509140600333cce3216d0f44257b205d6b144eabadd&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250914060033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.89&SecurityKey=20250914060033&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c29ec5cce4c79ca2466dff28e183cf28&ddCalcu=8c22ef91ce33c0851cec8e24fcf7d96c6a42
+江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=20250915090040e8d74942feec40739cfe86d298318d5e&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139×tamp=20250915090040&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.89&SecurityKey=20250915090040&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c1319b60c1e0930035891ffc0fbbd9b9&ddCalcu=9cb1e931d13b90bbf600ccf1fe1099835030

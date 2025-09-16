@@ -26,10 +26,12 @@ CCTV-13,http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
 CCTV-13,http://hbhyjq.ufyct.com:1088/hls/21/index.m3u8
 CCTV-13,http://113.15.109.216:59901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,https://cc06.tv12.xyz/14.m3u8
+CCTV-13,http://218.104.239.114:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8?key=txiptv
 CCTV-13,http://113.15.109.216:59901/tsfile/live/0013_1.m3u8
 CCTV-13,http://t.061899.xyz/tl/dq.php?id=cctv13
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
-CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=202509150900397a9c44a3943644359a2e334852f5d9bd&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139×tamp=20250915090039&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.89&SecurityKey=20250915090039&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5fc486671dfb82a605496a10b333c2f7&ddCalcu=75ffe2c1c483803636b7011daf6b98425a06
+CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=20250916090034a6192ba7143b4490a1eace382f8fc263&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139×tamp=20250916090034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.89&SecurityKey=20250916090034&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a8145799184601dde22531f157a22df2&ddCalcu=2af8ed11248250a7795911f8143650212ded
 CCTV-13,http://go.bkpcp.top/mg/cctv13
 CCTV-13,http://221.2.148.205:8154/tsfile/live/0013_1.m3u8
 CCTV-13,http://118.81.76.194:9003/hls/14/index.m3u8
@@ -43,14 +45,12 @@ CCTV-13,https://stream1.freetv.fun/cctv13-xin-wen-13.ctv
 CCTV-13,http://8.138.7.223/tv/gzjs.m3u8
 CCTV-13,http://222.135.142.75:3283/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://k.061899.xyz/m.php?id=cctv13
-CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=20250914060032f6189fd2efee4c5bac1c788a32ae0fe8&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139×tamp=20250914060032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.89&SecurityKey=20250914060032&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6a69983dd8068d8342d800ce2d7986bb&ddCalcu=b6bae66189899078d32dedc8000688dd2843
+CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=202509150600293f18a99da1ff484eb64b74cde65d7690&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139×tamp=20250915060029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.90&SecurityKey=20250915060029&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b547d5553060d64705b47048591b0813&ddCalcu=3b15e841078bd0159555834006704db65407
 CCTV-13,http://t.061899.xyz/tl/tl.php?id=cctv13
 CCTV-13,http://t.061899.xyz/tl/tl.php?id=cctv13   t.061899.xyz/tl/tl.php?id=CCTV6
 CCTV-13,http://106.53.99.30/tv/api.php?id=cctv13-1
 CCTV-13,http://gfr.x3322.net:9901/tsfile/live/1012_1.m3u8
 CCTV-13,http://gfr.x3322.net:9901/tsfile/live/1078_1.m3u8
-CCTV-13,http://171.120.248.227:9003/hls/14/index.m3u8
-CCTV-13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8?key=txiptv
 CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
 CCTV-13,http://106.53.99.30/tv/api.php?id=cctv13
 CCTV-13,http://180.76.145.203:656/zb.php?id=cctv13
@@ -67,7 +67,7 @@ CCTV-13,https://stream1.freetv.fun/cctv13-21.ctv
 CCTV-13,http://112.123.243.37:50085/tsfile/live/0014_1.m3u8
 CCTV-13,http://cc06.tv12.xyz/14.m3u8
 CCTV-13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8
-CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=202509150600293f18a99da1ff484eb64b74cde65d7690&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139×tamp=20250915060029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.90&SecurityKey=20250915060029&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b547d5553060d64705b47048591b0813&ddCalcu=3b15e841078bd0159555834006704db65407
+CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=20250916060028df7dd57cb3884377bfc8de25d87f17e6&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139×tamp=20250916060028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.88&SecurityKey=20250916060028&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b914ec77a8b8fd04fde177fbefbb91ef&ddCalcu=fbe9e111948be0bcf7e7baf87b781fedd0f4
 CCTV-13,http://dmggg.tyzb.fun:26355/migu/608807423.m3u8?migutoken=d7b6cc3eac046465fe236c2965e3946243ace92809ec4ffa835acbf19f85a23758cc09035119e8dbb5866d0b84d66ffcb757e160fc002572802f546bad72ac31d4554c3c0e5167b0817a685258
 CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=202509090900271dac72e3622f4b7d8cd709d6b56b84e4&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139×tamp=20250909090027&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.90&SecurityKey=20250909090027&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b94c3586b51f93b39f137896b132edf0&ddCalcu=0bf9vd4aecy23a3518b66b95817f3913fb93&sv=10004&ct=android
 CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=202509100900352b822ee623a747b4b38f1fcfcdc257e7&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139×tamp=20250910090035&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.83&SecurityKey=20250910090035&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a24e59d7e6e810a532579bec8aa9d6bb&ddCalcu=bab2v64adey95aa9ad87cee6be9871502a35&sv=10004&ct=android
