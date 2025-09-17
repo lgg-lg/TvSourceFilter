@@ -11,6 +11,8 @@ www.freetv.top/migu/608807420.m3u8
 free.cnlive.club/channel/47cdbb52
 113.101.119.50:808/hls
 113.101.119.50:8090/hls
+#咪咕回放
+gslbmgsplive.miguvideo.com
 #无效
 8.138.7.223/tv/migu
 8.138.7.223/tv/hljv6.php
@@ -201,6 +203,7 @@ em.21dtv.com
 hitmusic.hu
 #特殊字符
 公众号
+
 
 
 
