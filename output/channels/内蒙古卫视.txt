@@ -542,3 +542,5 @@
 内蒙古卫视,https://epg.pw/stream/257b62e44b49294fba69f1d5689725632ae7d24594234533f23ee7cc1cc49c63.m3u8
 内蒙古卫视,https://stream1.freetv.fun/1e5dc1f802d7775ea9cde7b7b874b914365797c6718c5e95448aa26648e136e6.ctv
 内蒙古卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226685/1.m3u8
+内蒙古卫视,http://lml1971.cn:35455/gptv/G_NEIMENGGU.m3u8
+内蒙古卫视,https://www.nmtv.cn/liveTv?tag=内蒙古卫视

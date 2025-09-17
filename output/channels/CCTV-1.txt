@@ -619,7 +619,6 @@ CCTV-1,http://180.213.170.24:8188/rtp/239.5.1.4:5000
 CCTV-1,http://t.061899.xyz/tl/dq.php?id=cctv1
 CCTV-1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/1.m3u8
 CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
-CCTV-1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202509160900336c168651444347ef996b0d19a4a6c567&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139×tamp=20250916090033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.89&SecurityKey=20250916090033&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=426de335f8791953fdfa79851235d955&ddCalcu=5452e961dd85e03323155f889779a1f9d5f3
 CCTV-1,http://183.222.242.31:8088/hls/1/index.m3u8
 CCTV-1,http://61.184.46.85:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://go.bkpcp.top/mg/cctv1
@@ -782,7 +781,6 @@ CCTV-1,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA
 CCTV-1,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1
 CCTV-1,http://39.135.133.136/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1229&online=1717695524&vqe=3
-CCTV-1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2025091506002889abd81bbc1444338edb4573fb4903c2&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139×tamp=20250915060028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.90&SecurityKey=20250915060028&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6bb8c4b7fa87270334de384450f06aae&ddCalcu=e6abeab16880c0f40b574f4a8837e2d74033
 CCTV-1,http://t.061899.xyz/tl/tl.php?id=cctv1
 CCTV-1,http://live.xmqkx.com/live/1001_1.m3u8
 CCTV-1,http://api.mytv666.top/api/kzb.php?id=cctv1
@@ -1119,7 +1117,6 @@ CCTV-1,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227479/index.m3u8
 CCTV-1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0.flv
 CCTV-1,http://ttkx.cc:1380/公开源/mg9.php?id=cctv1
 CCTV-1,https://live.catvod.com/catvod_com.php?id=cctv1&token=246ccefa34e4a9be430034d2dd88c781c5dff7b7f782097769b4f979b4d2072b%3A1757983194
-CCTV-1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2025091606002762fa800b9be04b3fba024f3d12d1ef5d&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139×tamp=20250916060027&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.88&SecurityKey=20250916060027&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1759c89b35da627b68f75560c14ce8d6&ddCalcu=61d7e851e98cc04819cb03655d5a76f2876b
 CCTV-1,http://36.105.100.208:35455/bptv/10000100000000050000000003864351.m3u8
 CCTV-1,http://59.174.90.205:5555/bptv/10000100000000050000000003864351.m3u8
 CCTV-1,http://yemingjkl.x3322.net:35455/bptv/10000100000000050000000003864351.m3u8
@@ -1154,8 +1151,4 @@ CCTV-1,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////
 CCTV-1,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/ys.php?id=cctv1a&token=29OdfaO3c77ad5fO9777d6c85264655c85O1ccc56238c51d6746a5bb4caebc84
 CCTV-1,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/ys.php?id=cctv1b&token=29OdfaO3c77ad5fO9777d6c85264655c85O1ccc56238c51d6746a5bb4caebc84
 CCTV-1,http://111.230.30.193/php/lyd.php?id=6559
-CCTV-1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=202509090900276bb4ae81875f4348804532a38df44641&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139×tamp=20250909090027&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.90&SecurityKey=20250909090027&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1fe921db6d3792f54567708ea665f1c2&ddCalcu=21cfv1eaf9y52a616dabe68d037779625f45&sv=10004&ct=android
 CCTV-1,http://106.53.99.30/tv/api.php?id=cctv1
-CCTV-1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=2025091009003471b04c7812174629bcba660fe39d1047&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139×tamp=20250910090034&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.83&SecurityKey=20250910090034&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8c1ce5cf579220dc6c481b5ca4231c68&ddCalcu=886cvc1a1cy3ea254cafc557b9128240cd6c&sv=10004&ct=android
-CCTV-1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=202509100600396a5c85f1b14e4581ace500b50eccbb21&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139×tamp=20250910060039&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.83&SecurityKey=20250910060039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=fe6dac534f9b2474be06273d718319dd&ddCalcu=dfdev96a1dy3aa8c1573d43f792b6204e7b4&sv=10004&ct=android
-CCTV-1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202509110900314e276d9ccc9b49978691ca1e264ce47f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139×tamp=20250911090031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.89&SecurityKey=20250911090031&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2b622dce5a5f8a0a8fed87fb9b67d002&ddCalcu=220be061d287206dbc9eb5fa758fd8eaf08a

@@ -194,7 +194,6 @@
 兵团卫视,https://my5353.com/7Z1HP
 兵团卫视,http://116.234.77.27:4022/rtp/239.45.1.117:5140
 兵团卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226111/1.m3u8
-兵团卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/index.m3u8?msisdn=20250916090036723865d2f6fc4496b6d430045723bbe0&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139×tamp=20250916090036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=106.13.250.89&SecurityKey=20250916090036&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c8bf624d8bae42cb5dee80f868409250&ddCalcu=0c58e2b19f606042846d88fb0a8ee4e2dc5b
 兵团卫视,http://go.bkpcp.top/mg/btws
 兵团卫视,https://live.sxrtv.com/iptv/btws.flv
 兵团卫视,rtp://239.3.1.168:8196
@@ -255,7 +254,6 @@
 兵团卫视,http://112.132.10.54:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,https://mursor.ottiptv.cc/bst/btws@1300000.m3u8
 兵团卫视,http://k.061899.xyz/m.php?id=btws
-兵团卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/index.m3u8?msisdn=20250915060031b0f5c99035ef46108f0cb3733389dbe4&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139×tamp=20250915060031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=106.13.250.90&SecurityKey=20250915060031&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=52acbae11304a5023cb7db7cd2d626f3&ddCalcu=35f2e6a12c66b0da2ed1c173b0d47ab5c032
 兵团卫视,http://t.061899.xyz/tl/tl.php?id=btws
 兵团卫视,http://106.53.99.30/tv/api.php?id=btws
 兵团卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
@@ -362,7 +360,6 @@
 兵团卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887456.m3u8
 兵团卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227934/index.m3u8
 兵团卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8
-兵团卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/index.m3u8?msisdn=20250916060031ce513b87e7e5459db3dd2d4a5e96a70e&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139×tamp=20250916060031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=106.13.250.88&SecurityKey=20250916060031&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d5906a04ffbf6abb3682cc67d0ca2af4&ddCalcu=4df5ea91206a60ca00d47f6fcbcf268a6b3b
 兵团卫视,http://36.105.100.208:35455/bptv/10000100000000050000000003887456.m3u8
 兵团卫视,http://119.8.184.75:35455/bptv/10000100000000050000000003887456.m3u8
 兵团卫视,http://223.166.74.79:10030/bptv/10000100000000050000000003887456.m3u8

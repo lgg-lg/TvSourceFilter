@@ -312,3 +312,4 @@ CHC动作电影,http://171.108.239.98:8181/tsfile/live/1007_1.m3u8?key=txiptv&pl
 CHC动作电影,http://171.108.239.80:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://171.108.239.79:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8
+CHC动作电影,https://mg.chinacert.cftest5.cn/mg/644368714.m3u8?token=c87bb6d3e9466801200f57735433a92c113ccc53e181f4d8701a4236db8cd2c384c9f0e8ed9e1a93095221c211bfa280327696333b47634f3714228a01cb915fea2ab0f1b7985e21dfe730bed0&tm=1757535222&sign=ef3b669ce9785905f6bdb169c3dcae88

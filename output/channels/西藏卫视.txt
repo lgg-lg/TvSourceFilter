@@ -536,3 +536,5 @@
 西藏卫视,p3p://167.114.175.6:55331/63ec4ab500052d07e43d99727879092e
 西藏卫视,https://epg.pw/stream/de379ca26bc8e110b63a57f9d4b17db2fdb54047b99679d4c5434d1330b3d0d9.m3u8
 西藏卫视,https://stream1.freetv.fun/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.m3u8
+西藏卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226710/1.m3u8
+西藏卫视,http://lml1971.cn:35455/gptv/G_XIZANG.m3u8
