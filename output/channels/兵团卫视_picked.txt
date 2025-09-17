@@ -11,8 +11,8 @@
 兵团卫视,http://go.bkpcp.top/mg/btws
 兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-6.ctv
 兵团卫视,http://112.132.10.54:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-兵团卫视,http://k.061899.xyz/m.php?id=btws
 兵团卫视,http://t.061899.xyz/tl/tl.php?id=btws
+兵团卫视,http://k.061899.xyz/m.php?id=btws
 兵团卫视,http://106.53.99.30/tv/api.php?id=btws
 兵团卫视,http://gfr.x3322.net:9901/tsfile/live/1050_1.m3u8
 兵团卫视,https://cc06.tv12.xyz/30.m3u8

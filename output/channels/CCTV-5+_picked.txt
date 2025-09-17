@@ -31,6 +31,7 @@ CCTV-5+,http://221.205.204.69:9003/hls/6/index.m3u8
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-33.ctv
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-38.ctv
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-41.ctv
+CCTV-5+,https://stream1.freetv.fun/cctv5-plus-42.ctv
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-46.ctv
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-54.ctv
 CCTV-5+,http://t.061899.xyz/tl/tl.php?id=cctv5p

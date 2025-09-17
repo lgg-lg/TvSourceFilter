@@ -24,6 +24,7 @@
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-103.ctv
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-74.ctv
 贵州卫视,http://218.104.239.114:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
 贵州卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gzws
 贵州卫视,http://t.061899.xyz/tl/dq.php?id=gzws
 贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv
@@ -32,12 +33,11 @@
 贵州卫视,https://60.191.56.186:8888/hls/36/index.m3u8
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-18.ctv
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-76.ctv
-贵州卫视,http://k.061899.xyz/m.php?id=gzws
 贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
+贵州卫视,http://k.061899.xyz/m.php?id=gzws
 贵州卫视,https://cc06.tv12.xyz/48.m3u8
 贵州卫视,http://106.53.99.30/tv/hot.php?id=gzws
 贵州卫视,http://218.17.33.178:53290/tsfile/live/0120_1.m3u8?key=txiptv
-贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
 贵州卫视,http://www.hkyc.site:1991/udp/239.253.64.197:5140
 贵州卫视,http://tpc.x3322.net:9901/tsfile/live/0120_1.m3u8
 贵州卫视,http://153.0.171.163:9901/tsfile/live/0120_1.m3u8

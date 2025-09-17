@@ -7,10 +7,10 @@
 第一财经,https://stream1.freetv.fun/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.ctv
 第一财经,https://stream1.freetv.fun/di-yi-cai-jing-6.ctv
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-1.ctv
+第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
 第一财经,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dycj
 第一财经,http://t.061899.xyz/tl/dq.php?id=dycj
 第一财经,https://stream1.freetv.fun/shang-hai-di-yi-cai-jing-2.ctv
 第一财经,http://106.53.99.30/tv/hot.php?id=dycj
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8?
 第一财经,http://dl.zhoujie218.top/migu/migu.php?id=dycj
-第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8

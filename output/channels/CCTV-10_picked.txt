@@ -25,8 +25,10 @@ CCTV-10,http://112.132.10.54:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&
 CCTV-10,http://113.15.109.216:59901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cc06.tv12.xyz/11.m3u8
 CCTV-10,http://218.104.239.114:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
 CCTV-10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv
 CCTV-10,http://t.061899.xyz/tl/dq.php?id=cctv10
+CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
 CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
 CCTV-10,http://go.bkpcp.top/mg/cctv10
 CCTV-10,http://113.15.109.216:59901/tsfile/live/0010_1.m3u8
@@ -38,19 +40,17 @@ CCTV-10,https://stream1.freetv.fun/cctv10-75.ctv
 CCTV-10,https://stream1.freetv.fun/cctv10-80.ctv
 CCTV-10,https://stream1.freetv.fun/cctv10-ke-jiao-14.ctv
 CCTV-10,https://stream1.freetv.fun/cctv10-ke-jiao-16.ctv
-CCTV-10,http://222.135.142.75:3283/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://k.061899.xyz/m.php?id=cctv10
 CCTV-10,http://t.061899.xyz/tl/tl.php?id=cctv10
+CCTV-10,http://k.061899.xyz/m.php?id=cctv10
 CCTV-10,http://gfr.x3322.net:9901/tsfile/live/1009_1.m3u8
 CCTV-10,http://gfr.x3322.net:9901/tsfile/live/1075_1.m3u8
-CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
-CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
 CCTV-10,http://106.53.99.30/tv/api.php?id=cctv10
 CCTV-10,http://180.76.145.203:656/zb.php?id=cctv10
 CCTV-10,http://www.hkyc.site:1991/udp/239.253.64.87:5140
 CCTV-10,http://tpc.x3322.net:9901/tsfile/live/0010_1.m3u8
 CCTV-10,http://dl.zhoujie218.top/migu/migu.php?id=cctv10
 CCTV-10,http://58.243.224.242:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-10,http://222.135.142.75:3283/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://218.104.239.114:9901//tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://221.226.51.220:50081/newlive/live/hls/10/live.m3u8
 CCTV-10,http://106.53.99.30/tv/hot.php?id=cctv10
@@ -63,4 +63,3 @@ CCTV-10,http://112.132.10.54:9901/tsfile/live/0010_1.m3u8
 CCTV-10,http://112.123.243.37:50085/tsfile/live/0011_1.m3u8
 CCTV-10,http://cc06.tv12.xyz/11.m3u8
 CCTV-10,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8
-CCTV-10,http://221.2.148.205:8154/tsfile/live/0010_1.m3u8

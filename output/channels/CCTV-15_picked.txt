@@ -23,11 +23,12 @@ CCTV-15,http://hbhyjq.ufyct.com:1088/hls/23/index.m3u8
 CCTV-15,http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-15,https://cc06.tv12.xyz/16.m3u8
 CCTV-15,http://218.104.239.114:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV-15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv
-CCTV-15,http://113.15.109.216:59901/tsfile/live/0015_1.m3u8
 CCTV-15,http://t.061899.xyz/tl/dq.php?id=cctv15
 CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
 CCTV-15,http://go.bkpcp.top/mg/cctv15
+CCTV-15,http://113.15.109.216:59901/tsfile/live/0015_1.m3u8
 CCTV-15,http://118.81.76.194:9003/hls/16/index.m3u8
 CCTV-15,http://221.205.204.69:9003/hls/16/index.m3u8
 CCTV-15,https://stream1.freetv.fun/cctv15-26.ctv
@@ -37,12 +38,10 @@ CCTV-15,https://stream1.freetv.fun/cctv15-89.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-90.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-yin-le-1.ctv
 CCTV-15,http://113.15.109.216:59901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 CCTV-15,http://t.061899.xyz/tl/tl.php?id=cctv15
+CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1014_1.m3u8
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1080_1.m3u8
-CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV-15,http://dmggg.tyzb.fun:26355/migu/673168223.m3u8?migutoken=cb4bfbcc5677d19b02268ee486017cf57b8856a0659eef385d10e2af542e607f1963f672278ad5f22761105862b9123efefbce650013764f86ff15269649961511b622cb0e3f520d192380725a
 CCTV-15,http://218.104.239.114:9901/tsfile/live/0015_1.m3u8
 CCTV-15,http://106.53.99.30/tv/api.php?id=cctv15
@@ -51,6 +50,7 @@ CCTV-15,http://www.hkyc.site:1991/udp/239.253.64.72:5140
 CCTV-15,http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
 CCTV-15,http://dl.zhoujie218.top/migu/migu.php?id=cctv15
 CCTV-15,http://58.243.224.242:9999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://218.104.239.114:9901//tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://221.226.51.220:50081/newlive/live/hls/15/live.m3u8
 CCTV-15,http://106.53.99.30/tv/hot.php?id=cctv15
@@ -61,5 +61,4 @@ CCTV-15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=
 CCTV-15,http://112.132.10.54:9901/tsfile/live/0015_1.m3u8
 CCTV-15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
 CCTV-15,http://cc06.tv12.xyz/16.m3u8
-CCTV-15,http://221.2.148.205:8154/tsfile/live/0015_1.m3u8
 CCTV-15,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8

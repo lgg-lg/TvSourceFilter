@@ -14,11 +14,12 @@
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-22.ctv
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-gao-qing-6.ctv
 江西卫视,http://218.104.239.114:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://218.17.33.178:53290/tsfile/live/0138_1.m3u8?key=txiptv
 江西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jxws
 江西卫视,http://t.061899.xyz/tl/dq.php?id=jxws
+江西卫视,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
 江西卫视,http://go.bkpcp.top/mg/jxws
 江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv
+江西卫视,http://218.17.33.178:53290/tsfile/live/0138_1.m3u8?key=txiptv
 江西卫视,http://118.81.76.194:9003/hls/36/index.m3u8
 江西卫视,http://221.205.204.69:9003/hls/36/index.m3u8
 江西卫视,https://60.191.56.186:8888/hls/50/index.m3u8
@@ -30,13 +31,12 @@
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-gao-qing-4.ctv
 江西卫视,http://106.52.196.79:80/TV/mui.php?id=jxws
 江西卫视,http://112.132.10.54:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://k.061899.xyz/m.php?id=jxws
 江西卫视,http://t.061899.xyz/tl/tl.php?id=jxws
+江西卫视,http://k.061899.xyz/m.php?id=jxws
 江西卫视,http://gfr.x3322.net:9901/tsfile/live/1039_1.m3u8
 江西卫视,https://cc06.tv12.xyz/62.m3u8
 江西卫视,http://106.53.99.30/tv/hot.php?id=jxws
 江西卫视,http://dmggg.tyzb.fun:26355/migu/783847495.m3u8?migutoken=6f29d4a62a610291ff0b90b5d6a3e04632a058a3b173d4ff63e932ad09df220ae44588a0c780ef671c82b0ec54cb5497ad43ee1ce0efe919c1abef7ea9da4fcea7addce933ddce85ccbf189152
-江西卫视,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
 江西卫视,http://www.hkyc.site:1991/udp/239.253.64.56:5140
 江西卫视,http://tpc.x3322.net:9901/tsfile/live/0138_1.m3u8
 江西卫视,http://153.0.171.163:9901/tsfile/live/0138_1.m3u8
@@ -47,5 +47,4 @@
 江西卫视,http://112.132.10.54:9901/tsfile/live/0138_1.m3u8
 江西卫视,http://112.123.243.37:50085/tsfile/live/0132_1.m3u8
 江西卫视,http://cc06.tv12.xyz/62.m3u8
-江西卫视,http://221.2.148.205:8154/tsfile/live/0138_1.m3u8
 江西卫视,http://218.17.33.178:53290/tsfile/live/0138_1.m3u8
