@@ -1,8 +1,8 @@
 哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫动,http://gfr.x3322.net:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8
-哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
-哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
 哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-18.ctv
 哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8?
+哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
+哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
 哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8?

@@ -1,7 +1,7 @@
 CETV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CETV4&t=1757403106&token=c2ca6c280a73202a33fa25e4e5511f8a
 CETV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CETV4&t=1757401893&token=aad37dcb34851c6a55159b5e46a445b2
 CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV-4,http://hbhyjq.ufyct.com:1088/hls/2/index.m3u8
 CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505a080445d7d03e7b261.ctv
 CETV-4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
-CETV-4,http://hbhyjq.ufyct.com:1088/hls/2/index.m3u8
 CETV-4,https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
