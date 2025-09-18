@@ -584,3 +584,7 @@
 陕西卫视,http://58.248.112.205:8006/GD_CUCC/G_SHANXI-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe8cMCaTgpWWUaOfH%2BZI9az1BWtWU81eWqPvN0PhI2pD&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 陕西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/SXTV/index.m3u8?gMac=unknown&livodToken=c553bb820ba0fceee866c695e3e7ca27fc9cd874769c2d9c16cadad386c4a71e_1720508744_604800&fromCDN=ws
 陕西卫视,https://epg.pw/stream/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8
+陕西卫视,http://117.174.25.254:8188/rtp/239.0.0.53:5140
+陕西卫视,http://223.167.245.215:8001/rtp/239.45.1.232:5140
+陕西卫视,http://183.220.20.17:4321/rtp/239.11.0.54:5140
+陕西卫视,http://lml1971.cn:35455/gptv/G_SHANXI-HQ.m3u8

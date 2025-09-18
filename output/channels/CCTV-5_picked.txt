@@ -64,3 +64,4 @@ CCTV-5,http://112.132.10.54:9901/tsfile/live/0005_1.m3u8
 CCTV-5,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8
 CCTV-5,http://cc06.tv12.xyz/5.m3u8
 CCTV-5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8
+CCTV-5,http://221.2.148.205:8154/tsfile/live/0005_1.m3u8

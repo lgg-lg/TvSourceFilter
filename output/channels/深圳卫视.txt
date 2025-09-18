@@ -933,5 +933,5 @@
 深圳卫视,http://58.248.112.205:8006/GD_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHdBPUZJQRNJB5bOiIhhUc3d4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 深圳卫视,https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8
 深圳卫视,https://stream1.freetv.fun/83e8b450c90348dc8c1a595f04cc7ac388754606cfc999c628a71eb3574789a5.m3u8
-深圳卫视,http://111.127.156.228:51234/rtp/239.29.0.105:5000
-深圳卫视,http://112.109.206.106:9999/rtp/239.255.40.199:8208
+深圳卫视,http://183.236.43.98:4013/udp/239.77.0.130:5146
+深圳卫视,http://180.154.61.39:4022/rtp/239.45.3.231:5140

@@ -122,7 +122,5 @@ CETV-2,https://mgtv.ottiptv.cc/mg/923287211.m3u8?userid=5559462299&sign=bb28c1a2
 CETV-2,http://111.225.115.28:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-2,http://121.19.134.140:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-2,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
-CETV-2,http://117.174.25.254:8188/rtp/239.0.0.196:5140
 CETV-2,http://112.109.206.106:9999/rtp/239.255.40.30:8208
-CETV-2,http://123.174.106.183:8888/rtp/239.1.1.66:8066
-CETV-2,https://mg.chinacert.cftest5.cn/mg/923287211.m3u8?token=18547ccefc0d6c85a95b1013b10110f0c447f994bb22cb2209a68b8ffd4d14773b0460d87536aca7f7406f5a631c8e0229e62e6ee5c0d89047c01152f9a22c7f064e5f3b142125fb066d3d8ff7&tm=1757535222&sign=a89a1a83859852d6a3354eeba5ffe529
+CETV-2,http://117.174.25.254:8188/rtp/239.0.0.196:5140

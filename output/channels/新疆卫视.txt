@@ -562,7 +562,6 @@
 新疆卫视,p3p://167.114.175.6:55331/63ec49c6000efa45e439f6607d261a01
 新疆卫视,http://jxcbn.ws-cdn.gitv.tv/hls/XJWS/index.m3u8?gMac=unknown&livodToken=3b0868c32bc314dfdd41bf46f20a8179d1494db60d9ce810bb8e7be0ca092c84_1720509373_604800&fromCDN=ws
 新疆卫视,https://epg.pw/stream/ff921b905e5d0b1628a06f833e0de3632ce26572350b4c077f113e171d27bffe.m3u8
+新疆卫视,http://112.109.206.106:9999/rtp/239.255.40.11:8208
 新疆卫视,http://123.174.106.183:8888/rtp/239.1.1.59:8059
 新疆卫视,http://183.220.20.17:4321/rtp/239.11.0.58:5140
-新疆卫视,http://112.109.206.106:9999/rtp/239.255.40.11:8208
-新疆卫视,http://lml1971.cn:35455/gptv/G_XINJIANG.m3u8

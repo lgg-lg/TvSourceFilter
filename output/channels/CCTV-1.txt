@@ -1327,3 +1327,4 @@ CCTV-1,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479f
 CCTV-1,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/ys.php?id=cctv1b&token=29OdfaO3c77ad5fO9777d6c85264655c85O1ccc56238c51d6746a5bb4caebc84
 CCTV-1,http://111.230.30.193/php/lyd.php?id=6559
 CCTV-1,http://106.53.99.30/tv/api.php?id=cctv1
+CCTV-1,http://221.2.148.205:8154/tsfile/live/0001_1.m3u8

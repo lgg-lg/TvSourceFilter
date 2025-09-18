@@ -63,3 +63,4 @@ CCTV-10,http://112.132.10.54:9901/tsfile/live/0010_1.m3u8
 CCTV-10,http://112.123.243.37:50085/tsfile/live/0011_1.m3u8
 CCTV-10,http://cc06.tv12.xyz/11.m3u8
 CCTV-10,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8
+CCTV-10,http://221.2.148.205:8154/tsfile/live/0010_1.m3u8

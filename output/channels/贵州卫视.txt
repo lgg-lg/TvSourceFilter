@@ -856,3 +856,4 @@
 贵州卫视,https://epg.pw/stream/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.ctv
 贵州卫视,https://stream1.freetv.fun/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.ctv
 贵州卫视,http://180.213.170.24:8188/rtp/239.5.1.85:5000
+贵州卫视,http://223.167.245.215:8001/rtp/239.45.1.80:5140

@@ -610,7 +610,6 @@
 甘肃卫视,http://58.248.112.205:8006/GD_CUCC/G_GANSU-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHQqvE61CmV4kFMWXpFeskG1SM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 甘肃卫视,https://epg.pw/stream/05ccbebe8d81cf91ecf4347845f6f0b42fed4bab4071195b0a4f735a80c386bd.m3u8
 甘肃卫视,https://stream1.freetv.fun/62fc00b17e85a0f05bc7442ba4c507d0d9ed83d0e4c628543a0c8cc0f3c0e79e.m3u8
-甘肃卫视,http://112.109.206.106:9999/rtp/239.255.40.16:8208
-甘肃卫视,http://183.236.43.98:4013/udp/239.77.0.189:5146
 甘肃卫视,http://111.127.156.228:51234/rtp/239.29.1.124:5000
 甘肃卫视,http://221.10.226.195:5000/rtp/239.0.0.192:5140
+甘肃卫视,http://183.236.43.98:4013/udp/239.77.0.189:5146

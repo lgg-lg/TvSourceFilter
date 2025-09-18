@@ -529,5 +529,4 @@
 山西卫视,rtmp://live-stream.lsxrmtzx.com/live/video
 山西卫视,https://stream1.freetv.fun/390220f6744b5a820709bd2f957c97c01c68c210a1963b2a5e782fbccfaf378d.ctv
 山西卫视,https://epg.pw/stream/26bc11f19d981a15cde7badbe86ce9030af5cb1f8a4bf8c8e454c2b11e14f962.m3u8
-山西卫视,http://114.107.46.94:8188/rtp/238.1.78.95:6632
 山西卫视,http://218.8.87.96:4000/rtp/229.58.190.89:5000

@@ -511,4 +511,3 @@
 西藏卫视,https://stream1.freetv.fun/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.m3u8
 西藏卫视,http://112.109.206.106:9999/rtp/239.255.40.12:8208
 西藏卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226710/1.m3u8
-西藏卫视,http://lml1971.cn:35455/gptv/G_XIZANG.m3u8

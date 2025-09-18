@@ -63,3 +63,4 @@ CCTV-7,https://stream1.freetv.fun/cctv7-51.ctv
 CCTV-7,http://112.132.10.54:9901/tsfile/live/0007_1.m3u8
 CCTV-7,http://cc06.tv12.xyz/8.m3u8
 CCTV-7,http://153.0.171.163:9901/tsfile/live/0007_1.m3u8
+CCTV-7,http://221.2.148.205:8154/tsfile/live/0007_1.m3u8

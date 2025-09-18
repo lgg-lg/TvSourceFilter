@@ -873,7 +873,4 @@
 黑龙江卫视,http://58.248.112.205:8006/GD_CUCC/G_HEILONGJIANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYGO4sBlEXR27vS0rpENy%2BBCfQjfKrVAhZ7nyqv5N0cI&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 黑龙江卫视,https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8
 黑龙江卫视,https://stream1.freetv.fun/0342355911b1783929522a5f6ba3f359188afd79f7b1e837d5cf6a9a9050f085.ctv
-黑龙江卫视,http://183.236.43.98:4013/udp/239.77.0.124:5146
-黑龙江卫视,http://111.127.156.228:51234/rtp/239.29.0.91:5000
-黑龙江卫视,http://112.109.206.106:9999/rtp/239.255.40.44:8208
-黑龙江卫视,http://183.220.20.17:4321/rtp/239.11.0.36:5140
+黑龙江卫视,http://180.213.170.24:8188/rtp/239.5.1.17:5000

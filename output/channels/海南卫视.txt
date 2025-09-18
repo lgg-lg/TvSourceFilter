@@ -689,3 +689,7 @@
 海南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=337c9e24645beaea9e1dc2761e5d0e44cdce5dc90c3fedafcce5f9bde7faac9a_1720509432_604800&fromCDN=ws
 海南卫视,https://epg.pw/stream/13db356c0b392d00d91868541b8e5b62ef81bc91f1ab1f35444739650b5b1420.m3u8
 海南卫视,https://stream1.freetv.fun/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.m3u8
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php
+海南卫视,http://223.167.245.215:8001/rtp/239.45.1.81:5140
+海南卫视,http://111.127.156.228:51234/rtp/239.29.1.126:5000
+海南卫视,http://112.109.206.106:9999/rtp/239.255.40.23:8208

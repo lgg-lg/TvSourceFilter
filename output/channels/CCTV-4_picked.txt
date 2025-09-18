@@ -70,3 +70,4 @@ CCTV-4,http://112.132.10.54:9901/tsfile/live/0004_2.m3u8
 CCTV-4,http://112.123.243.37:50085/tsfile/live/0004_1.m3u8
 CCTV-4,http://cc06.tv12.xyz/4.m3u8
 CCTV-4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8
+CCTV-4,http://221.2.148.205:8154/tsfile/live/0004_1.m3u8
