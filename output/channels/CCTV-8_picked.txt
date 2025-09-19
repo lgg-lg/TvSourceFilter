@@ -51,8 +51,8 @@ CCTV-8,https://stream1.freetv.fun/cctv8-33.ctv
 CCTV-8,http://t.061899.xyz/tl/dq.php?id=cctv8
 CCTV-8,http://112.123.243.37:50085/tsfile/live/0009_1.m3u8
 CCTV-8,https://stream1.freetv.fun/cctv8-dian-shi-ju-8.ctv
-CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
 CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
+CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
 CCTV-8,http://k.061899.xyz/m.php?id=cctv8
 CCTV-8,http://t.061899.xyz/tl/tl.php?id=cctv8
 CCTV-8,http://dmggg.tyzb.fun:26355/migu/624878356.m3u8?migutoken=5f320bc4bc2fa03c1be249244fe099bda31e2c5e2e629bb430dd4781dc84b9fb035da05c9e1e6ca0b4c1572bb0c410375fe591c44ec3a0c13281a619c038de722d3c36d45698d9907b49a0db17

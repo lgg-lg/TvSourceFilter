@@ -52,6 +52,7 @@ CCTV-3,http://106.53.99.30/tv/api.php?id=cctv3
 CCTV-3,http://t.061899.xyz/tl/tl.php?id=cctv3
 CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
 CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
+CCTV-3,https://stream1.freetv.fun/cctv3-63.ctv
 CCTV-3,http://k.061899.xyz/m.php?id=cctv3
 CCTV-3,http://106.53.99.30/tv/hot.php?id=cctv3
 CCTV-3,http://112.123.243.37:50085/tsfile/live/0003_1.m3u8

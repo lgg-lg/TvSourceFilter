@@ -12,3 +12,5 @@
 三沙卫视,http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-57.ctv
 三沙卫视,https://stream1.freetv.fun/fc49c564c870b78b1a3655d913ca8a4fe4e31f58db2da34caedc0761a3e51256.ctv
+三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-51.ctv
+三沙卫视,https://stream1.freetv.fun/9a24d5626c1295681409db87c99ccda8bb4050632bce3025c4a72ab57b3dd623.ctv

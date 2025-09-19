@@ -87,10 +87,11 @@
 上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8?
 上海都市,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=ds&zy.m3u8
 上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1758223177&key=a4a9647a0988c246583a700909e8d90d
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1758309533&key=916ddb13e52561a039004d1fe282ae48
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-8.ctv
 上海都市,http://www.kaniptv.cn/aa/shkdf.php?id=18
 上海都市,http://vapi.91kds.cc/live1/bstv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=shylhd
 上海都市,http://192.168.0.5:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1758237699&key=bf0bc9b1443db54518d61cf5610ebb62
 上海都市,http://cx.shscxzx.cn:8899/rtp/239.45.3.236:5140
 上海都市,http://nas.suntao.online:35455/itv/5000000010000018926.m3u8?cdn=bestzb

@@ -45,6 +45,7 @@
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-54.ctv
 山东卫视,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
 山东卫视,http://go.bkpcp.top/mg/sdws
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-65.ctv
 山东卫视,https://epg.pw/stream/6ae72c2ed9e03972d255c19be7f49c4731d8c51bfd1dfc150e73a2d7a132235d.ctv
 山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
 山东卫视,http://106.53.99.30/tv/hot.php?id=sdws

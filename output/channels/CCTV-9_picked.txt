@@ -56,5 +56,5 @@ CCTV-9,http://k.061899.xyz/m.php?id=cctv9
 CCTV-9,http://dmggg.tyzb.fun:26355/migu/673168140.m3u8?migutoken=53ec1b76673b5ae0173b78ca2f09fa41891400edc9f7c1b7e2812c8234995f334f40605337c6eb28d368cb1d12d999ad2f31ba48540a7be8fc48feef37f35071f8ead6a57f20044893a47b1d13
 CCTV-9,http://106.53.99.30/tv/hot.php?id=cctv9
 CCTV-9,http://112.123.243.37:50085/tsfile/live/0010_1.m3u8
-CCTV-9,http://180.76.145.203:656/zb.php?id=cctv9
 CCTV-9,http://221.2.148.205:8154/tsfile/live/0009_1.m3u8
+CCTV-9,http://180.76.145.203:656/zb.php?id=cctv9

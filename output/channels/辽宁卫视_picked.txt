@@ -38,6 +38,8 @@
 辽宁卫视,https://stream1.freetv.fun/b2bebbb6d53b62ec21c3dca43f81123f14218a573e3986c8d65755142700cba7.ctv
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-93.ctv
 辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
+辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-43.ctv
+辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-88.ctv
 辽宁卫视,http://k.061899.xyz/m.php?id=lnws
 辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
 辽宁卫视,http://go.bkpcp.top/mg/lnws

@@ -40,3 +40,5 @@
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-gao-qing-7.ctv
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-74.ctv
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
+贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-24.ctv
+贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-72.ctv

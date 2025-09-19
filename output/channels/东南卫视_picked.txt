@@ -30,9 +30,10 @@
 东南卫视,http://t.061899.xyz/tl/dq.php?id=dnws
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-23.ctv
 东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
+东南卫视,http://113.15.109.216:59901/tsfile/live/0137_1.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-gao-qing-1.ctv
+东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-3.ctv
 东南卫视,http://k.061899.xyz/m.php?id=dnws
 东南卫视,http://t.061899.xyz/tl/tl.php?id=dnws
-东南卫视,http://113.15.109.216:59901/tsfile/live/0137_1.m3u8
 东南卫视,http://106.53.99.30/tv/hot.php?id=dnws
 东南卫视,http://112.123.243.37:50085/tsfile/live/0113_1.m3u8

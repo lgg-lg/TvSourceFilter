@@ -44,9 +44,10 @@ CCTV-11,https://stream1.freetv.fun/cctv11-xi-qu-6.ctv
 CCTV-11,http://t.061899.xyz/tl/tl.php?id=cctv11
 CCTV-11,https://stream1.freetv.fun/cctv11-39.ctv
 CCTV-11,http://106.53.99.30/tv/hot.php?id=cctv11
-CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
 CCTV-11,http://t.061899.xyz/tl/dq.php?id=cctv11
 CCTV-11,http://go.bkpcp.top/mg/cctv11
+CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
 CCTV-11,http://k.061899.xyz/m.php?id=cctv11
 CCTV-11,http://dmggg.tyzb.fun:26355/migu/667987558.m3u8?migutoken=22d29ee28adfece1ca0af1ef21ad55ff2f2d184276ff094691af949ea5c58f29e9c04676de2701e3d0a1f8cd87e31dab6346a861995b2a6b2c47efce5e81abb21107b5599733a991a173282700
+CCTV-11,http://61.156.228.12:8154/tsfile/live/0011_1.m3u8
 CCTV-11,http://221.2.148.205:8154/tsfile/live/0011_1.m3u8

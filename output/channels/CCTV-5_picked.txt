@@ -51,8 +51,8 @@ CCTV-5,http://go.bkpcp.top/mg/cctv5
 CCTV-5,http://106.53.99.30/tv/api.php?id=cctv5
 CCTV-5,https://stream1.freetv.fun/cctv5-29.ctv
 CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
-CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
 CCTV-5,http://k.061899.xyz/m.php?id=cctv5
+CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
 CCTV-5,https://6663.luyazo.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8
 CCTV-5,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8
 CCTV-5,http://221.2.148.205:8154/tsfile/live/0005_1.m3u8

@@ -186,10 +186,14 @@ CHC家庭影院,http://lf.670203.xyz:7088/rtp/239.45.0.40:5140
 CHC家庭影院,http://ygbh.site/php/bfgd.php?id=289
 CHC家庭影院,http://t.061899.xyz/tl/dq.php?id=jtyy
 CHC家庭影院,http://t.061899.xyz/tl/dq.php?id=chcjtdy
-CHC家庭影院,https://mg.chinacert.cftest5.cn/mg/644368373.m3u8?userid=1999482075&sign=ff255822c73c3237763723bd68b33de59752fd6035018749bcfbaee5e0ce33b3ce789ee1a86301e0b398273e319402a96d727033b71c2696840dc46cd2f46fd493693c83564d64f1dea77f9c25e8069d93&auth_token=3b1905859da87522d4aab2781382b1bf
-CHC家庭影院,http://goo.bkpcp.top/mg/chcjt
-CHC家庭影院,http://106.53.99.30/tv/hot.php?id=jtyy
+CHC家庭影院,http://171.113.210.106:4022/rtp/239.69.1.243:11100
+CHC家庭影院,http://58.48.104.98:4022/rtp/239.69.1.243:11100
+CHC家庭影院,http://175.15.56.195:4022/udp/239.76.252.241:9000
+CHC家庭影院,http://175.15.56.195:4022/udp/239.76.245.241:1234
 CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?userid=5559462299&sign=717107cce7e3068f431871610d9ffb9ecde893e8b4ead52cc1b331df09ec9cfd0d7c70329bc1dc4b4fb37bea2068b3a61fb27cf8a1638be85e91fb566078ae0a677e28eba6d3d2794629242ea6c533f998&auth_token=d96795f1341390f714a1afffe625b303
+CHC家庭影院,https://mg.chinacert.cftest5.cn/mg/644368373.m3u8?userid=1999482075&sign=2c689be1730c9680736bff3168109161156a76fe193a1ab7a84e6fcdcc27d95df6c853370f1359768ab45b97a390e3de73f52b32f7893f79d10d6b3a1e53469e2ec91890bd70e02c5113e6721beb473c66&auth_token=4813f1616b78290ad5ee0a94a3066809
+CHC家庭影院,http://106.53.99.30/tv/hot.php?id=jtyy
+CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?userid=5559462299&sign=b0fe6b02873412f0cafa83e356a3091ef59ee670fd97dce9bdc02136da59541a2eb8378f478aeda25f6b20d195df7e9f82a02affd2074dd4b85829d26ebf142f6488bcc0527236bd1a00a94cd63bebca87&auth_token=d96795f1341390f714a1afffe625b303
 CHC家庭影院,http://cx.shscxzx.cn:8899/rtp/239.45.0.40:5140
 CHC家庭影院,http://221.10.226.195:5000/rtp/239.0.0.23:5140
 CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8

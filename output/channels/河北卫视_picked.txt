@@ -39,4 +39,5 @@
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-70.ctv
 河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-56.ctv
+河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-32.ctv
 河北卫视,http://112.123.243.37:50085/tsfile/live/0018_1.m3u8

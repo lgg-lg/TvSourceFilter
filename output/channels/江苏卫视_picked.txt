@@ -40,8 +40,9 @@
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-78.ctv
 江苏卫视,http://go.bkpcp.top/mg/jsws
 江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
-江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
 江苏卫视,http://t.061899.xyz/tl/dq.php?id=jsws
+江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
+江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-21.ctv
 江苏卫视,http://k.061899.xyz/m.php?id=jsws
 江苏卫视,http://106.53.99.30/tv/hot.php?id=jsws
 江苏卫视,http://112.123.243.37:50085/tsfile/live/0017_1.m3u8

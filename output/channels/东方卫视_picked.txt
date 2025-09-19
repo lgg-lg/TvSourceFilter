@@ -50,10 +50,12 @@
 东方卫视,http://k.061899.xyz/m.php?id=dfws
 东方卫视,https://stream1.freetv.fun/eb7a5a450a87157712e9afc63da8f145ee437bbe67c89afe80ae08611c46c61d.ctv
 东方卫视,http://t.061899.xyz/tl/dq.php?id=dfws
-东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
-东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226050/index.m3u8
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-40.ctv
+东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-46.ctv
 东方卫视,http://106.53.99.30/tv/api.php?id=dfws
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
 东方卫视,http://106.53.99.30/tv/hot.php?id=dfws
 东方卫视,http://112.123.243.37:50085/tsfile/live/0124_1.m3u8
+东方卫视,http://61.156.228.12:8154/tsfile/live/0107_1.m3u8

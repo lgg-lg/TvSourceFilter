@@ -27,8 +27,8 @@
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-55.ctv
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-178.ctv
 青海卫视,http://go.bkpcp.top/mg/qhws
-青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
 青海卫视,http://t.061899.xyz/tl/dq.php?id=qhws
+青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
 青海卫视,http://k.061899.xyz/m.php?id=qhws
 青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
 青海卫视,http://106.53.99.30/tv/hot.php?id=qhws

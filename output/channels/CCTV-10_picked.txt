@@ -49,9 +49,9 @@ CCTV-10,https://stream1.freetv.fun/cctv10-ke-jiao-14.ctv
 CCTV-10,https://stream1.freetv.fun/cctv10-77.ctv
 CCTV-10,http://t.061899.xyz/tl/tl.php?id=cctv10
 CCTV-10,http://go.bkpcp.top/mg/cctv10
-CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
-CCTV-10,http://t.061899.xyz/tl/dq.php?id=cctv10
 CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
+CCTV-10,http://t.061899.xyz/tl/dq.php?id=cctv10
+CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
 CCTV-10,http://k.061899.xyz/m.php?id=cctv10
 CCTV-10,http://106.53.99.30/tv/hot.php?id=cctv10
 CCTV-10,http://180.76.145.203:656/zb.php?id=cctv10

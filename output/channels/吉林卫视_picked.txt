@@ -31,9 +31,11 @@
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-36.ctv
 吉林卫视,http://106.53.99.30/tv/hot.php?id=jlws
 吉林卫视,http://k.061899.xyz/m.php?id=jlws
-吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
+吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
 吉林卫视,http://t.061899.xyz/tl/dq.php?id=jlws
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-gao-qing-4.ctv
+吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-49.ctv
 吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
 吉林卫视,http://112.123.243.37:50085/tsfile/live/0116_1.m3u8
+吉林卫视,http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u

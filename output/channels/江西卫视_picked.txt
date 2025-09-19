@@ -38,3 +38,6 @@
 江西卫视,http://106.53.99.30/tv/hot.php?id=jxws
 江西卫视,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-gao-qing-6.ctv
+江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-5.ctv
+江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-46.ctv
+江西卫视,http://221.2.148.205:8154/tsfile/live/0138_1.m3u8

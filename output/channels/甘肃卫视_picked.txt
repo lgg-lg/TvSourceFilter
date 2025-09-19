@@ -22,4 +22,5 @@
 甘肃卫视,https://stream1.freetv.fun/gan-su-wei-shi-20.ctv
 甘肃卫视,https://stream1.freetv.fun/gan-su-wei-shi-59.ctv
 甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
+甘肃卫视,https://stream1.freetv.fun/gan-su-wei-shi-9.ctv
 甘肃卫视,http://112.123.243.37:50085/tsfile/live/0123_1.m3u8

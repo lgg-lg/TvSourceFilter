@@ -44,8 +44,12 @@
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-gao-qing-1.ctv
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-86.ctv
 湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
+湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-33.ctv
+湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-49.ctv
 湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
 湖北卫视,http://106.53.99.30/tv/hot.php?id=hubws
 湖北卫视,http://dmggg.tyzb.fun:26355/migu/947472496.m3u8?migutoken=98e87eaaf466138e42b808f8631eb553e550341433ede63b22d8bfe4f1a3a0650a0e8ae28154551b719847626d36b7958b793107e3ac554f1c9332262411d687673048ad7c5065dc540ba9c041
 湖北卫视,http://112.123.243.37:50085/tsfile/live/1001_1.m3u8
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-81.ctv
+湖北卫视,http://221.2.148.205:8154/tsfile/live/0132_1.m3u8
+湖北卫视,https://stream1.freetv.fun/f159656e972aa17ba9ff4e974713a0f92b152108582d298455b0bed215d2427b.ctv

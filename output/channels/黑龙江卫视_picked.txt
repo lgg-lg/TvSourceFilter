@@ -34,6 +34,6 @@
 黑龙江卫视,http://106.53.99.30/tv/hot.php?id=hljws
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-62.ctv
 黑龙江卫视,http://go.bkpcp.top/mg/hljws
-黑龙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
 黑龙江卫视,http://k.061899.xyz/m.php?id=hljws
+黑龙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
 黑龙江卫视,http://112.123.243.37:50085/tsfile/live/0142_1.m3u8

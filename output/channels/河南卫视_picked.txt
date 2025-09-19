@@ -38,8 +38,11 @@
 河南卫视,http://1.94.31.214/php/hntv.php
 河南卫视,http://t.061899.xyz/tl/dq.php?id=hnws
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
+河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-71.ctv
+河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-46.ctv
 河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
 河南卫视,http://gfr.x3322.net:9901/tsfile/live/1049_1.m3u8
 河南卫视,http://106.53.99.30/tv/hot.php?id=hnws
 河南卫视,http://112.123.243.37:50085/tsfile/live/0121_1.m3u8
+河南卫视,https://stream1.freetv.fun/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.ctv
 河南卫视,http://221.2.148.205:8154/tsfile/live/0139_1.m3u8

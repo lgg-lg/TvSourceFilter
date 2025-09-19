@@ -8,8 +8,8 @@
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-9.ctv
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-8.ctv
 上海新闻综合,http://hbhyjq.ufyct.com:1088/hls/48/index.m3u8
-上海新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
 上海新闻综合,http://t.061899.xyz/tl/dq.php?id=shxwzh
+上海新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-6.ctv
 上海新闻综合,http://106.53.99.30/tv/hot.php?id=shxw
 上海新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8?
