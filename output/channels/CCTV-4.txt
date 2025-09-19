@@ -917,3 +917,4 @@ CCTV-4,https://mgtv.ottiptv.cc/mg/608807416.m3u8?userid=5559462299&sign=ff44a16d
 CCTV-4,http://180.76.145.203:656/zb.php?id=cctv4
 CCTV-4,https://60.191.56.186:8888/hls/4/index.m3u8
 CCTV-4,http://221.2.148.205:8154/tsfile/live/0004_1.m3u8
+CCTV-4,http://221.10.226.195:5000/rtp/239.0.0.184:5140

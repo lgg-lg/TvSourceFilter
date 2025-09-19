@@ -94,9 +94,5 @@ CETV-2,http://139.129.231.228/rtp/239.21.2.8:5002
 CETV-2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2,https://mg.chinacert.cftest5.cn/mg/923287211.m3u8?userid=1999482075&sign=95eb56b864e1a8a9fe249339747bc7ff9e41dd14f74a9719b156afcee8fec8aa7900bfb1fe14c490e691606bffaedb2a1870c3c36701c65c8447af28a6b637e17b6d2f6e59dbf1d6d3d894d8092e54193e&auth_token=3b1905859da87522d4aab2781382b1bf
 CETV-2,https://mgtv.ottiptv.cc/mg/923287211.m3u8?userid=5559462299&sign=b2741ffc4b669c9efdc85f9deb02bc28fe19f1614501c9d78b2075c024b750841f22c414781db75d91ae2934cfff4b16a6cce5d10b444c2b0371b5551ae10d90001f61fd262c590879858bad5002462c1e&auth_token=d96795f1341390f714a1afffe625b303
-CETV-2,http://112.109.206.106:9999/rtp/239.255.40.30:8208
-CETV-2,http://117.174.25.254:8188/rtp/239.0.0.196:5140
-CETV-2,http://karika.myds.me:4022/rtp/239.45.1.52:5140
-CETV-2,http://cx.shscxzx.cn:8899/rtp/239.45.1.52:5140
 CETV-2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225813/index.m3u8
 CETV-2,http://n1.gzbody.com:85/rtp/239.77.1.69:5146

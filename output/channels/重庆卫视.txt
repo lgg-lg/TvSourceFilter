@@ -973,8 +973,5 @@
 重庆卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227227/index.m3u8
 重庆卫视,http://p.ytelc.com/videojs.php?id=https%3A%2F%2Fsjlivecdn9.cbg.cn%2F202506172306%2Fapp_2%2F_definst_%2Fls_2.stream%2Fchunklist.m3u8
 重庆卫视,http://p.ytelc.com/videojs.php?id=https%3A%2F%2Fsjlivecdn9.cbg.cn%2F202503080105%2Fapp_2%2F_definst_%2Fls_2.stream%2Fchunklist.m3u8
-重庆卫视,http://116.21.205.101:8188/udp/239.77.1.162:5146
-重庆卫视,http://116.234.77.27:4022/rtp/239.45.1.84:5140
-重庆卫视,http://113.120.168.111:4022/udp/239.21.1.233:5002
-重庆卫视,http://113.106.171.234:8899/rtp/239.20.0.195:2188
-重庆卫视,http://223.167.245.215:8001/rtp/239.45.1.84:5140
+重庆卫视,http://112.109.206.106:9999/rtp/239.255.40.21:8208
+重庆卫视,http://111.127.156.228:51234/rtp/239.29.0.99:5000

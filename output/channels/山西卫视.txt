@@ -346,5 +346,7 @@
 山西卫视,http://112.123.243.37:50085/tsfile/live/0120_1.m3u8
 山西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2OS40Ny4xMDA6MTAwODEvaGxzLzMwL2luZGV4Lm0zdTg=
 山西卫视,http://120.87.4.12:80/PLTV/88888973/224/3221225677/10000100000000060000000000332983_0.smil/01.m3u8?fmt=ts2hls
-山西卫视,http://cx.shscxzx.cn:8899/rtp/239.45.3.205:5140
 山西卫视,http://218.8.87.96:4000/rtp/229.58.190.89:5000
+山西卫视,http://cx.shscxzx.cn:8899/rtp/239.45.3.205:5140
+山西卫视,http://missyao.com:35455/bptv/10000100000000050000000003887413.m3u8
+山西卫视,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887413.m3u8

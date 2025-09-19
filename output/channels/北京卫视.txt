@@ -712,7 +712,6 @@
 北京卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227340/index.m3u8
 北京卫视,https://iptv.catvod.com/catvod_com.php?id=beijing&token=789c5d5c7ae4e96287a161b1461e42436f129210e5de238e2ac269f0ac4a6f45%3A1758227800
 北京卫视,https://iptv.catvod.com/catvod_com.php?id=beijing&token=cd6028a060ddb8743e49496c4450acf553927c7d16f86300a4b2d8c361b71f4d%3A1758228081
-北京卫视,http://116.21.205.101:8188/udp/239.77.1.151:5146
 北京卫视,http://180.213.170.24:8188/rtp/239.5.1.89:5000
-北京卫视,http://116.234.77.27:4022/rtp/239.45.3.229:5140
-北京卫视,http://113.120.168.111:4022/udp/239.21.1.88:5002
+北京卫视,http://223.167.245.215:8001/rtp/239.45.3.229:5140
+北京卫视,http://116.21.205.101:8188/udp/239.77.1.151:5146

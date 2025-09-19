@@ -729,5 +729,3 @@
 湖南卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227316/index.m3u8
 湖南卫视,https://iptv.catvod.com/catvod_com.php?id=hunan_twn&token=d64bda658ef3702b08b285e8bbeb9d96da11a6eecf630fc6a489fb715f828a5a%3A1758227800
 湖南卫视,https://iptv.catvod.com/catvod_com.php?id=hunan_twn&token=043c6f565324512b7e649c39f11728cdef5f894b3cfdc957d8948c92dc6dd143%3A1758228081
-湖南卫视,http://114.241.255.166:4022/rtp/239.3.1.132:8012
-湖南卫视,http://111.127.156.228:51234/rtp/239.29.0.90:5000

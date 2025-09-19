@@ -683,11 +683,9 @@ CCTV-15,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226796/index.m3u8
 CCTV-15,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227361/index.m3u8
 CCTV-15,http://free.cnlive.club/channel/n4fe0755e/index.m3u8?q=1758156526724
 CCTV-15,http://180.76.145.203:656/zb.php?id=cctv15
-CCTV-15,http://114.241.255.166:4022/rtp/239.3.1.153:8136
-CCTV-15,http://113.106.171.234:8899/rtp/239.21.0.36:3484
-CCTV-15,http://113.120.168.111:4022/udp/239.21.2.4:5002
+CCTV-15,http://221.10.226.195:5000/rtp/239.0.0.188:5140
 CCTV-15,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
+CCTV-15,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
 CCTV-15,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
 CCTV-15,http://missyao.com:35455/bptv/10000100000000050000000003870757.m3u8
 CCTV-15,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003870757.m3u8
-CCTV-15,http://lml1971.cn:35455/gptv/G_CCTV-15-HQ.m3u8

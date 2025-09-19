@@ -345,9 +345,6 @@ CCTV-16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
 CCTV-16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227074/index.m3u8
 CCTV-16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227346/index.m3u8
 CCTV-16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1758156526724
-CCTV-16,http://liuwenxiaokevin.top:14044/rtp/239.45.0.12:5140
+CCTV-16,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV-16,http://116.21.205.101:8188/udp/239.77.0.165:5146
 CCTV-16,http://111.127.156.228:51234/rtp/239.29.1.146:5000
-CCTV-16,http://114.241.255.166:4022/rtp/239.3.1.184:8001
-CCTV-16,http://49.113.110.63:4022/udp/238.125.5.34:5140
-CCTV-16,http://182.110.171.164:4022/udp/239.252.220.237:5140

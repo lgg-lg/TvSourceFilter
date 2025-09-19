@@ -369,5 +369,10 @@
 内蒙古卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzYxLjE2OS40Ny4xMDA6MTAwODEvaGxzLzM5L2luZGV4Lm0zdTg=
 内蒙古卫视,http://219.146.95.58:59902/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://111.127.156.228:51234/rtp/239.29.0.2:5000
-内蒙古卫视,http://182.110.171.164:4022/rtp/239.252.219.48:5140
-内蒙古卫视,http://112.66.70.243:8188/rtp/239.253.64.144:5140
+内蒙古卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226685/1.m3u8
+内蒙古卫视,http://missyao.com:35455/bptv/10000100000000050000000003887427.m3u8
+内蒙古卫视,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887427.m3u8
+内蒙古卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227185/index.m3u8
+内蒙古卫视,http://lml1971.cn:35455/gptv/G_NEIMENGGU.m3u8
+内蒙古卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225801/1.m3u8
+内蒙古卫视,https://www.nmtv.cn/liveTv?tag=内蒙古卫视

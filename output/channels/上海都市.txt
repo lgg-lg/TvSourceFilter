@@ -92,5 +92,5 @@
 上海都市,http://www.kaniptv.cn/aa/shkdf.php?id=18
 上海都市,http://vapi.91kds.cc/live1/bstv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=shylhd
 上海都市,http://192.168.0.5:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-上海都市,http://cx.shscxzx.cn:8899/rtp/239.45.3.243:5140
+上海都市,http://cx.shscxzx.cn:8899/rtp/239.45.3.236:5140
 上海都市,http://nas.suntao.online:35455/itv/5000000010000018926.m3u8?cdn=bestzb

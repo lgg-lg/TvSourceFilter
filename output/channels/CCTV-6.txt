@@ -768,4 +768,4 @@ CCTV-6,http://free.cnlive.club/channel/47cedd7d/index.m3u8?q=1758156526724
 CCTV-6,http://free.cnlive.club/channel/63f18811/index.m3u8?q=1758156526724
 CCTV-6,http://180.76.145.203:656/zb.php?id=cctv6
 CCTV-6,http://221.2.148.205:8154/tsfile/live/0006_1.m3u8
-CCTV-6,http://116.234.77.27:4022/rtp/239.45.1.70:5140
+CCTV-6,http://113.106.171.234:8899/rtp/239.20.0.29:3288

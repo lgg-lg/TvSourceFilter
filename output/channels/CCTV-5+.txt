@@ -526,15 +526,11 @@ CCTV-5+,http://free.cnlive.club/channel/n374503fe/index.m3u8?q=1758156526724
 CCTV-5+,http://free.cnlive.club/channel/n4fd60eb5/index.m3u8?q=1758156526724
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?userid=5559462299&sign=ea0fd1f2eb8b192d813b280c727b5d235f41f0d068f55eec3f19f747f2b9b412d5931916a5d4d67e837576bb4eb20c7e68a0ceb6b156889a5052b6f984a94e577c48a44ea6edd8eb1039294f55776cb888&auth_token=d96795f1341390f714a1afffe625b303
 CCTV-5+,http://116.21.205.101:8188/udp/239.77.1.31:5146
-CCTV-5+,http://113.120.168.111:4022/udp/239.21.1.142:5002
-CCTV-5+,http://113.56.95.223:8889/rtp/228.0.0.17:6108
-CCTV-5+,http://115.171.216.58:4000/rtp/225.1.8.20:8004
-CCTV-5+,http://111.127.156.228:51234/rtp/239.29.1.10:5001
+CCTV-5+,http://61.176.24.78:40001/rtp/232.0.0.93:1234
 CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
 CCTV-5+,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
+CCTV-5+,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226199/1.m3u8
 CCTV-5+,http://huijie5421.cn:8800/rtp/239.49.8.18:9610
 CCTV-5+,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 CCTV-5+,http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
 CCTV-5+,http://zjzcf.synology.me:35455/gaoma/cctv5p.m3u8
-CCTV-5+,http://n1.gzbody.com:85/rtp/239.77.1.31:5146
-CCTV-5+,http://bailudz.top:1236/111/hahahaha.php?id=cctv5p

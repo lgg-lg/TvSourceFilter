@@ -842,4 +842,3 @@ CCTV-5,http://free.cnlive.club/channel/47c9f401/index.m3u8?q=1758156526724
 CCTV-5,http://free.cnlive.club/channel/n5d959a6c/index.m3u8?q=1758156526724
 CCTV-5,http://221.2.148.205:8154/tsfile/live/0005_1.m3u8
 CCTV-5,http://116.21.205.101:8188/udp/239.77.0.170:5146
-CCTV-5,http://113.120.168.111:4022/udp/239.21.2.46:5002

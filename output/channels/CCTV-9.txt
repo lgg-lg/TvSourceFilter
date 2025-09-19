@@ -749,5 +749,3 @@ CCTV-9,http://free.cnlive.club/channel/47d2f363/index.m3u8?q=1758156526724
 CCTV-9,http://180.76.145.203:656/zb.php?id=cctv9
 CCTV-9,http://221.2.148.205:8154/tsfile/live/0009_1.m3u8
 CCTV-9,http://180.213.170.24:8188/rtp/239.5.1.9:5000
-CCTV-9,http://114.241.255.166:4022/rtp/239.3.1.62:8112
-CCTV-9,http://113.120.168.111:4022/udp/239.21.1.153:5002

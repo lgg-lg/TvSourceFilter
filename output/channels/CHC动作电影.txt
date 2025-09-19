@@ -201,7 +201,6 @@ CHC动作电影,http://goo.bkpcp.top/mg/chcdz
 CHC动作电影,http://106.53.99.30/tv/hot.php?id=dzdy
 CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?userid=5559462299&sign=63e5d7137846ae57de1d27b9f7c6b2a724d4b53fbb7d49a3b7b79b47067bff26adb2943d7a280bbf16c609ab7d2a31e2ed74ff4b4d7afa7563d775ac534644cc72c2053d765b3a5adc83721aeda27933fc&auth_token=d96795f1341390f714a1afffe625b303
 CHC动作电影,http://180.213.170.24:8188/rtp/239.5.1.52:5000
-CHC动作电影,http://182.110.171.164:4022/udp/239.252.219.85:5140
 CHC动作电影,http://cx.shscxzx.cn:8899/rtp/239.45.0.41:5140
 CHC动作电影,http://221.10.226.195:5000/rtp/239.0.0.24:5140
-CHC动作电影,http://www.lizhinas.top:1009/rtp/239.252.219.85:5140
+CHC动作电影,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226034/1.m3u8

@@ -618,4 +618,3 @@
 河南卫视,http://p.123tv.cn/p/hentv.php?id=hnws
 河南卫视,https://mgtv.ottiptv.cc/mg/790187291.m3u8?userid=5559462299&sign=7326e867c39e0a78cff6c69d112701a27c94946ebea885dc4f1c7e7a238e9b5f6d016acb1d67c47bec757fb839921a5feb1ec6ea91668b1b1b4f6a4b24a78e9633242a46d3cef9397ed59b33d73b3242d0&auth_token=d96795f1341390f714a1afffe625b303
 河南卫视,http://221.2.148.205:8154/tsfile/live/0139_1.m3u8
-河南卫视,http://116.21.205.101:8188/udp/239.77.1.229:5146

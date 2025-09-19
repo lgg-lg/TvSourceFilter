@@ -138,5 +138,5 @@ CETV-4,https://mg.chinacert.cftest5.cn/mg/923287339.m3u8?userid=1999482075&sign=
 CETV-4,https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
 CETV-4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 CETV-4,https://mgtv.ottiptv.cc/mg/923287339.m3u8?userid=5559462299&sign=97f88654dbe919d49807df7b71eaff130e1914ae5be796545e3fc29e947f3e6d318385cd1748d3481e76d5f0eef91aabb772d2434ec640d20bd575caae5e3471f291d375c09226f0129cf4d71d5534f96a&auth_token=d96795f1341390f714a1afffe625b303
-CETV-4,http://106.116.243.22:9999/rtp/239.254.200.227:6261
-CETV-4,http://cx.shscxzx.cn:8899/rtp/239.45.1.243:5140
+CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
+CETV-4,http://n1.gzbody.com:85/rtp/239.253.43.114:5146

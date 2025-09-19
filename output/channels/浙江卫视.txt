@@ -771,6 +771,4 @@
 浙江卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227313/index.m3u8
 浙江卫视,https://iptv.catvod.com/catvod_com.php?id=zhejiang_twn&token=b8e3592f5454863feed668c37f6d6c22b98e4ceb766e3663ddb8262616f1f0de%3A1758227800
 浙江卫视,https://iptv.catvod.com/catvod_com.php?id=zhejiang_twn&token=c60e7262bf70eb6ac41d8f2476c377cafef6cc9b74e7d850287a1c78acb8c136%3A1758228081
-浙江卫视,http://114.241.255.166:4022/rtp/239.3.1.137:8036
-浙江卫视,http://116.21.205.101:8188/udp/239.77.1.33:5146
-浙江卫视,http://113.120.168.111:4022/udp/239.21.1.90:5002
+浙江卫视,http://112.109.206.106:9999/rtp/239.255.40.49:8208

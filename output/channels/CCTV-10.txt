@@ -762,5 +762,3 @@ CCTV-10,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227321/index.m3u8
 CCTV-10,http://180.76.145.203:656/zb.php?id=cctv10
 CCTV-10,http://106.53.99.30/tv/api.php?id=cctv10
 CCTV-10,http://221.2.148.205:8154/tsfile/live/0010_1.m3u8
-CCTV-10,http://114.241.255.166:4022/rtp/239.3.1.63:8116
-CCTV-10,http://116.234.77.27:4022/rtp/239.45.3.8:5140

@@ -190,7 +190,6 @@ CHC家庭影院,https://mg.chinacert.cftest5.cn/mg/644368373.m3u8?userid=1999482
 CHC家庭影院,http://goo.bkpcp.top/mg/chcjt
 CHC家庭影院,http://106.53.99.30/tv/hot.php?id=jtyy
 CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?userid=5559462299&sign=717107cce7e3068f431871610d9ffb9ecde893e8b4ead52cc1b331df09ec9cfd0d7c70329bc1dc4b4fb37bea2068b3a61fb27cf8a1638be85e91fb566078ae0a677e28eba6d3d2794629242ea6c533f998&auth_token=d96795f1341390f714a1afffe625b303
-CHC家庭影院,http://182.110.171.164:4022/udp/239.252.219.84:5140
 CHC家庭影院,http://cx.shscxzx.cn:8899/rtp/239.45.0.40:5140
 CHC家庭影院,http://221.10.226.195:5000/rtp/239.0.0.23:5140
 CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8

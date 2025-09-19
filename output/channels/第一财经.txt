@@ -135,12 +135,10 @@
 第一财经,http://139.196.214.238/rtp/239.45.3.211:5140
 第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=05b8541b970ab70ce57e553f7a800dac5900b4d2aadb523b7229587a233bcc2fd927c8c8b6a5ee090792675ae0f569cecb5ac29cb4c3cd0fe21cdebc2d268fdb7fbb0f5649ae0a3748aaacca1c4177f4c3&auth_token=d96795f1341390f714a1afffe625b303
 第一财经,http://223.167.230.154:4022/rtp/239.45.3.211:5140
-第一财经,http://116.234.77.27:4022/rtp/239.45.3.211:5140
 第一财经,http://180.154.61.39:4022/rtp/239.45.3.211:5140
 第一财经,http://116.235.57.40:4022/rtp/239.45.3.211:5140
+第一财经,http://cx.shscxzx.cn:8899/rtp/239.45.3.211:5140
 第一财经,http://180.165.6.184:4022/rtp/239.45.3.211:5140
-第一财经,http://180.165.12.90:4022/rtp/239.45.3.211:5140
-第一财经,http://cx.shscxzx.cn:8899/rtp/239.45.3.111:5140
 第一财经,http://nas.suntao.online:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 第一财经,http://home.dzlove.top:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 第一财经,http://unicom.lynnyang.cn:4022/rtp/239.45.3.211:5140

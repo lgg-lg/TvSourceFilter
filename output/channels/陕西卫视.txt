@@ -381,12 +381,14 @@
 陕西卫视,http://103.150.10.129:177/bfgd.php?id=512
 陕西卫视,http://103.150.10.129:177/bfgd.php?id=114
 陕西卫视,https://mgtv.ottiptv.cc/mg/738910838.m3u8?userid=5559462299&sign=c6c7c929016911013c047ef6ba82e1adde635b9b200090a985b30d2ff7f9a667f9e993afd2eebc43b48de27a9c32c67b5d503e2ee2bee4d8f350714217f7d23bfe3112e186ea5cff190a3f43fdc2713f99&auth_token=d96795f1341390f714a1afffe625b303
-陕西卫视,http://117.174.25.254:8188/rtp/239.0.0.53:5140
-陕西卫视,http://223.167.245.215:8001/rtp/239.45.1.232:5140
 陕西卫视,http://183.220.20.17:4321/rtp/239.11.0.54:5140
+陕西卫视,http://117.174.25.254:8188/rtp/239.0.0.53:5140
 陕西卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226707/1.m3u8
 陕西卫视,http://missyao.com:35455/bptv/10000100000000050000000003887404.m3u8
 陕西卫视,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887404.m3u8
 陕西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227216/index.m3u8
 陕西卫视,http://lml1971.cn:35455/gptv/G_SHANXI-HQ.m3u8
+陕西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225807/1.m3u8
 陕西卫视,http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
+陕西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1
+陕西卫视,http://www.terrykang.xyz:35455/itv/1000000002000007495.m3u8?cdn=ystenlive
