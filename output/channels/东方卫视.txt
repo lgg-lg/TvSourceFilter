@@ -765,4 +765,3 @@
 东方卫视,https://mgtv.ottiptv.cc/mg/651632648.m3u8?userid=5559462299&sign=23d7d3903702a0ea6b445f442d17a95f6d568ce7741e55854f0a67437424be27967689a19c8bcaeba1836d5d304cd1bd1646e78b4c35e93e9bdacd3034367ed46cc8f82ac9a8330bcc438ae25a4a6882f7&auth_token=d96795f1341390f714a1afffe625b303
 东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1758237699&key=e99b549c7b2b122c68d49e9b9c405ff1
 东方卫视,https://iptv.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=2db2c4a8e573fb1ae4bde2c69d33eb2c76cc0b900a31125e4486a71c24bb9fa2%3A1758249060
-东方卫视,http://112.109.206.106:9999/rtp/239.255.40.50:8208

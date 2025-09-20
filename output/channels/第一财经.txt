@@ -138,9 +138,8 @@
 第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=1707466853703c8870c29f6f8961dc68c5ad653c2a69bd0c8eae095adc9b71da452ec815c4b32398c9b5a79d6c2f2c1b9909b0e6b2fa41c1e9de0b1d971ab2408f6d400a0521ad738c54ae5c1a85055ea7&auth_token=d96795f1341390f714a1afffe625b303
 第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1758237699&key=5073b7486df0c71ee67513ab0f5b4b7e
 第一财经,http://223.167.230.154:4022/rtp/239.45.3.211:5140
-第一财经,http://116.235.57.40:4022/rtp/239.45.3.211:5140
 第一财经,http://cx.shscxzx.cn:8899/rtp/239.45.3.211:5140
-第一财经,http://180.165.6.184:4022/rtp/239.45.3.211:5140
+第一财经,http://116.235.57.40:4022/rtp/239.45.3.211:5140
 第一财经,http://nas.suntao.online:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 第一财经,http://home.dzlove.top:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 第一财经,http://unicom.lynnyang.cn:4022/rtp/239.45.3.211:5140

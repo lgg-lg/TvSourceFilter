@@ -798,4 +798,3 @@ CCTV-6,http://free.cnlive.club/channel/63f18811/index.m3u8?q=1758243683361
 CCTV-6,https://iptv.catvod.com/catvod_com.php?id=cctv6&token=2ad5e77941d96984db406f3eefa8c31a8427116546acebf63c2fac0926729153%3A1758249060
 CCTV-6,http://180.76.145.203:656/zb.php?id=cctv6
 CCTV-6,http://221.2.148.205:8154/tsfile/live/0006_1.m3u8
-CCTV-6,http://113.106.171.234:8899/rtp/239.20.0.29:3288

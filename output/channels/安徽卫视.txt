@@ -691,4 +691,3 @@
 安徽卫视,http://112.46.105.20:8009/hls/42/index.m3u8
 安徽卫视,http://iptv.4666888.xyz/iptv.php?id=20039
 安徽卫视,https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1758237699&key=c0e6a34c3accee270c10e390a5827cb0
-安徽卫视,http://221.10.226.195:5000/rtp/239.0.0.65:5140

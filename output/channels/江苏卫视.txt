@@ -776,4 +776,4 @@
 江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1758237699&key=20546ba15201f637e56ac073e2a97e0c
 江苏卫视,https://iptv.catvod.com/catvod_com.php?id=jiangsu_twn&token=3d5d3e990bbad878251335306a42f67b3cc747d45a6532fc5e741061bfb8c594%3A1758249060
 江苏卫视,http://180.213.170.24:8188/rtp/239.5.1.25:5000
-江苏卫视,http://223.167.245.215:8001/rtp/239.45.3.177:5140
+江苏卫视,http://112.109.206.106:9999/rtp/239.255.40.42:8208

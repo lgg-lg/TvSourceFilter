@@ -498,5 +498,5 @@
 青海卫视,https://hyf000.eu.org/FG/245
 青海卫视,https://mgtv.ottiptv.cc/mg/947472506.m3u8?userid=5559462299&sign=0ef80603453cfffb18dcff71c9cec84761788f0cc4a5dfbb24d926adb607acd388803343fc6dede2efaa597fb92daa696637429a1000daad8c476bbef10b357e5ecb63b01199d32fe4a52252f8fb20b9d3&auth_token=d96795f1341390f714a1afffe625b303
 青海卫视,http://218.17.33.178:53290/tsfile/live/0140_1.m3u8?key=txiptv
-青海卫视,http://cx.shscxzx.cn:8899/rtp/239.45.0.37:5140
 青海卫视,http://112.109.206.106:9999/rtp/239.255.40.15:8208
+青海卫视,http://cx.shscxzx.cn:8899/rtp/239.45.0.37:5140

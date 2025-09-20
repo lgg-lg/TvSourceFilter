@@ -716,4 +716,3 @@ CCTV-13,https://live.catvod.com/catvod_com.php?id=cctv13&token=bf4e53a5c4cee9356
 CCTV-13,http://free.cnlive.club/channel/n4fe72c8e/index.m3u8?q=1758243683361
 CCTV-13,http://dmggg.tyzb.fun:26355/migu/608807423.m3u8?migutoken=d7b6cc3eac046465fe236c2965e3946243ace92809ec4ffa835acbf19f85a23758cc09035119e8dbb5866d0b84d66ffcb757e160fc002572802f546bad72ac31d4554c3c0e5167b0817a685258
 CCTV-13,http://180.76.145.203:656/zb.php?id=cctv13
-CCTV-13,http://112.109.206.106:9999/rtp/239.255.40.3:8208

@@ -800,4 +800,3 @@
 浙江卫视,https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=c90e9002267122d2683ce844a735212cff79d78d98c4ad4c21fef249809e3559%3A1758242571
 浙江卫视,http://j.s.bkpcp.top/jj/zjws
 浙江卫视,https://iptv.catvod.com/catvod_com.php?id=zhejiang_twn&token=524183c8da3b3aca5d935f6cc00e5195d58e86f6c3efd3ef28a59230970bcd34%3A1758249060
-浙江卫视,http://112.109.206.106:9999/rtp/239.255.40.49:8208
