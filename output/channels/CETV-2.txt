@@ -169,11 +169,11 @@ CETV-2,https://iptv.catvod.com/live.php?id=CETV2
 CETV-2,https://httop.top/cctv4g-cetv2
 CETV-2,https://httop.top/gitv-cetv2
 CETV-2,http://api.mytv666.top/api/qwt.php?t=少儿频道&id=CETV2
-CETV-2,https://mgtv.ottiptv.cc/mg/923287211.m3u8?userid=5559462299&sign=ddf03a9ecf2d7b81d3365385e246abfe26a4bd9e7a5c03cc4f3dd9d68b17fb05f5d035f81f1b1593e24ee07abc789c3cdc39c5ab8af5c806792737c06e6e4552a713fce8f3ab0d073acb1cb83299a3ca29&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CETV-2,https://mgtv.ottiptv.cc/mg/923287211.m3u8?userid=5559462299&sign=cfca52f59c77073f5a260631e4003284beb5332da1961159e482e566f0040c6960b336d1b0f2b6bfb8c8cf8c01a11cc0e846ca798cd5935c6fd9aa319507379961b9820561dc99072bb2b0e1770c53f977&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CETV-2,http://116.179.149.157:6000/rtp/226.0.2.69:8464
 CETV-2,https://migu.pl10000.top/cetv2
 CETV-2,http://www.lnlee.top:65535/udp/239.81.0.245:4056
 CETV-2,http://223.167.230.34:4022/rtp/239.45.1.52:5140
 CETV-2,https://hyf.serv00.net/飞哥极速.php?id=80
 CETV-2,http://139.129.231.228:50060/rtp/239.21.2.8:5002
-CETV-2,https://mgtv.ottiptv.cc/mg/923287211.m3u8?userid=5559462299&sign=cfca52f59c77073f5a260631e4003284beb5332da1961159e482e566f0040c6960b336d1b0f2b6bfb8c8cf8c01a11cc0e846ca798cd5935c6fd9aa319507379961b9820561dc99072bb2b0e1770c53f977&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CETV-2,https://mgtv.ottiptv.cc/mg/923287211.m3u8?userid=5559462299&sign=b014c694302ee2a33c26b39049284d1facb4567d02deaceb483ff2f3da78d1e5496c249a14b4292d125e399a5fa99a19ffa07a2305359440285ad5100e1e660c81ea4d2c4bf45027543b124f13ee0e9db5&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
