@@ -31,3 +31,4 @@
 陕西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-132.ctv
 陕西卫视,http://106.53.99.30/tv/migu.php?id=sxws
 陕西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-118.ctv
+陕西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-55.ctv

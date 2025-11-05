@@ -107,3 +107,4 @@
 东方影视,https://shyd.484947.xyz/cms001/ch00000090990000001016/index.m3u8?
 东方影视,http://139.196.151.191:2051/rtp/239.45.3.237:5140
 东方影视,https://hyf.serv00.net/稳定.php?id=78
+东方影视,https://stream1.freetv.fun/24b2b7048074d6989b0b0bdbb6cf188930ea474e17a5a04641c5313791b6791a.m3u8

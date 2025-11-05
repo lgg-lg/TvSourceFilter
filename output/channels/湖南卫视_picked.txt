@@ -53,3 +53,7 @@
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-18.ctv
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-63.ctv
 湖南卫视,http://106.53.99.30/tv/api.php?id=hnws4k
+湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-3.ctv
+湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-92.ctv
+湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-67.ctv
+湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-70.ctv

@@ -38,3 +38,5 @@
 青海卫视,http://106.53.99.30/tv/migu.php?id=qhws
 青海卫视,http://106.53.99.30/tv/qhbtv.php?id=qhws
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-382.ctv
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-270.ctv
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-273.ctv

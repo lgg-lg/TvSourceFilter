@@ -27,3 +27,5 @@
 海南卫视,https://stream1.freetv.fun/hai-nan-wei-shi-4.ctv
 海南卫视,http://106.53.99.30/tv/migu.php?id=hinws
 海南卫视,https://stream1.freetv.fun/hai-nan-wei-shi-53.ctv
+海南卫视,https://stream1.freetv.fun/hai-nan-wei-shi-72.ctv
+海南卫视,https://stream1.freetv.fun/hai-nan-wei-shi-63.ctv

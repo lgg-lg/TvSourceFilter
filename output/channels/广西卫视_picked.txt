@@ -29,3 +29,4 @@
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-50.ctv
 广西卫视,http://106.53.99.30/tv/migu.php?id=gxws
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-89.ctv
+广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-59.ctv

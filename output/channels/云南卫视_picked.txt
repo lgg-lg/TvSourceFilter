@@ -34,3 +34,7 @@
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-21.ctv
 云南卫视,http://106.53.99.30/tv/migu.php?id=ynws
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-37.ctv
+云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-52.ctv
+云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-14.ctv
+云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-20.ctv
+云南卫视,https://stream1.freetv.fun/ec6460f3951bfbaef38cc68bfe9248e1a90afea1f9ff73dfcc3b93812a11b519.ctv

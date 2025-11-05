@@ -43,3 +43,4 @@
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-64.ctv
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-81.ctv
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-30.ctv
+重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-13.ctv

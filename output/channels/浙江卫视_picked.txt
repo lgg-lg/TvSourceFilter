@@ -64,3 +64,8 @@
 浙江卫视,https://stream1.freetv.fun/cfe6c386aeda1787f606df629248faf407b2351852e3ea6994357836a1643f5c.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-109.ctv
 浙江卫视,http://106.53.99.30/tv/api.php?id=zjws4k
+浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-3.ctv
+浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-53.ctv
+浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-37.ctv
+浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-102.ctv
+浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-65.ctv
