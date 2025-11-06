@@ -63,3 +63,6 @@ CCTV-2,http://106.53.99.30/tv/cctv2-1.php
 CCTV-2,http://106.53.99.30/tv/cctv.php?id=CCTV28bee868714f04ea2af79947bb9b46fc3H
 CCTV-2,https://stream1.freetv.fun/cctv2-53.ctv
 CCTV-2,https://stream1.freetv.fun/cctv2-59.ctv
+CCTV-2,https://stream1.freetv.fun/cctv2-36.ctv
+CCTV-2,https://stream1.freetv.fun/cctv2-71.ctv
+CCTV-2,https://stream1.freetv.fun/cctv2-76.ctv

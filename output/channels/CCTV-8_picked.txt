@@ -56,3 +56,8 @@ CCTV-8,https://stream1.freetv.fun/cctv8-27.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-60.ctv
 CCTV-8,https://stream1.freetv.fun/cctv-8-24.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-65.ctv
+CCTV-8,https://stream1.freetv.fun/cctv-8-25.ctv
+CCTV-8,https://stream1.freetv.fun/cctv-8-9.ctv
+CCTV-8,https://stream1.freetv.fun/cctv8-26.ctv
+CCTV-8,https://stream1.freetv.fun/cctv8-31.ctv
+CCTV-8,https://stream1.freetv.fun/cctv8-53.ctv

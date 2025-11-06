@@ -33,3 +33,5 @@ CCTV-17,https://stream1.freetv.fun/cctv17-nong-ye-nong-cun-1.ctv
 CCTV-17,https://stream1.freetv.fun/cctv17-31.ctv
 CCTV-17,http://106.53.99.30/tv/migu.php?id=cctv17
 CCTV-17,https://stream1.freetv.fun/cctv-17-19.ctv
+CCTV-17,https://stream1.freetv.fun/cctv-17-20.ctv
+CCTV-17,https://stream1.freetv.fun/cctv17-22.ctv
