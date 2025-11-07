@@ -64,3 +64,4 @@ CCTV-5,https://stream1.freetv.fun/cctv5-60.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-97.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-plus-50.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-ti-yu-2.ctv
+CCTV-5,https://stream1.freetv.fun/cctv5-23.ctv

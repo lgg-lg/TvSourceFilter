@@ -180,3 +180,4 @@
 东方财经,http://www.kktoo21.com:4022/rtp/239.45.0.17:5140
 东方财经,https://shyd.484947.xyz/cms001/ch00000090990000001318/index.m3u8?
 东方财经,https://hyf.serv00.net/稳定.php?id=74
+东方财经,https://shyd.695847.xyz/cms001/ch00000090990000001318/index.m3u8?IAS
