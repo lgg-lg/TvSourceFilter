@@ -108,5 +108,6 @@
 东方影视,https://shyd.695847.xyz/cms001/ch00000090990000001016/index.m3u8?IAS
 东方影视,http://139.196.151.191:2051/rtp/239.45.3.237:5140
 东方影视,http://shyd.695847.xyz/cms001/ch00000090990000001016/index.m3u8?IAS
+东方影视,http://[2409:8087:1e02:20::10]/000000000000/5000000010000032212/index.m3u8
 东方影视,https://hyf.serv00.net/稳定.php?id=78
 东方影视,https://stream1.freetv.fun/9d3c9f7982bce6a6d8c61dee6b3533032537b84c1312b8bf2613be972edfc0df.m3u8
