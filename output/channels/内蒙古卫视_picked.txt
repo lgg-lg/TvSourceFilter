@@ -30,3 +30,4 @@
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-14.ctv
 内蒙古卫视,http://106.53.99.30/tv/migu.php?id=nmws
 内蒙古卫视,https://stream1.freetv.fun/97f9104f50fef19f532dccf3478be721b8eb8aead56247c68a672b5bb12bdf4f.ctv
+内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-19.ctv

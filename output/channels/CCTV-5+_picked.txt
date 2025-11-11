@@ -35,3 +35,4 @@ CCTV-5+,https://6663.luyazo.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-8.ctv
 CCTV-5+,https://6663.luyazo.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_key=1756266937-0-0-33bb9c95be9914da6d6c52039673ce89
 CCTV-5+,http://106.53.99.30/tv/migu.php?id=cctv5p
+CCTV-5+,https://stream1.freetv.fun/cctv5-plus-64.ctv
