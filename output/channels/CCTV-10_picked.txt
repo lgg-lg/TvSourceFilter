@@ -58,3 +58,4 @@ CCTV-10,https://stream1.freetv.fun/cctv-10-25.ctv
 CCTV-10,https://stream1.freetv.fun/cctv10-15.ctv
 CCTV-10,https://stream1.freetv.fun/cctv10-60.ctv
 CCTV-10,https://stream1.freetv.fun/cctv10-79.ctv
+CCTV-10,https://stream1.freetv.fun/cctv10-20.ctv
