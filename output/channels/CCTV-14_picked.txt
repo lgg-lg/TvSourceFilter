@@ -55,3 +55,4 @@ CCTV-14,https://stream1.freetv.fun/cctv-14-25.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-26.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-51.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-34.ctv
+CCTV-14,http://106.53.99.30/tv/migu.php?id=cctv14

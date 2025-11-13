@@ -61,3 +61,4 @@ CCTV-8,https://stream1.freetv.fun/cctv-8-9.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-26.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-31.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-53.ctv
+CCTV-8,http://106.53.99.30/tv/migu.php?id=cctv8

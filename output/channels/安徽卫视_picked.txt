@@ -51,3 +51,4 @@
 安徽卫视,https://stream1.freetv.fun/aa9b31c1dbeffb511830532e0b8f1413b48dd2c61e59e843d19ba9fc3a073241.ctv
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-101.ctv
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-81.ctv
+安徽卫视,https://stream1.freetv.fun/5b4822a5ec2db203657ad69a37c8ee684490003ec64dfd80eb0c8074110f60e2.ctv
