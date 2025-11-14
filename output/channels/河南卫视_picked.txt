@@ -65,3 +65,5 @@
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-19.ctv
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-11.ctv
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-52.ctv
+河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-20.ctv
+河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-67.ctv

@@ -181,6 +181,8 @@
 东方财经,http://iptv.666230.xyz/iptv/sxg.php/dfcj_4000
 东方财经,http://8.138.250.123:8899/live2.rxip.sc96655.com/live/dfcj_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 东方财经,http://107.174.47.152:8888/live2.rxip.sc96655.com/live/dfcj_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+东方财经,http://iptv.666230.xyz/iptv/hnyx.php/dfcj
+东方财经,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfcj_4000.m3u8
 东方财经,https://shyd.695847.xyz/cms001/ch00000090990000001318/index.m3u8?IAS
 东方财经,https://hyf.serv00.net/蜀小果.php?id=dfcj
 东方财经,http://shyd.695847.xyz/cms001/ch00000090990000001318/index.m3u8?IAS

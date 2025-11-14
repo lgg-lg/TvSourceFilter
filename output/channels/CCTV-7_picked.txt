@@ -65,3 +65,4 @@ CCTV-7,https://stream1.freetv.fun/cctv7-41.ctv
 CCTV-7,https://stream1.freetv.fun/cctv-7-3.ctv
 CCTV-7,https://stream1.freetv.fun/cctv7-31.ctv
 CCTV-7,https://stream1.freetv.fun/cctv-7-23.ctv
+CCTV-7,https://stream1.freetv.fun/cctv7-27.ctv

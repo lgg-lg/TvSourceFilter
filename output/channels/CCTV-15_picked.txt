@@ -55,3 +55,4 @@ CCTV-15,https://stream1.freetv.fun/cctv15-34.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-64.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-yin-le-16.ctv
 CCTV-15,http://106.53.99.30/tv/migu.php?id=cctv15
+CCTV-15,https://stream1.freetv.fun/cctv15-91.ctv
