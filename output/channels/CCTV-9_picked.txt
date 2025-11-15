@@ -62,3 +62,5 @@ CCTV-9,https://stream1.freetv.fun/cctv9-72.ctv
 CCTV-9,http://106.53.99.30/tv/migu.php?id=cctv9
 CCTV-9,https://stream1.freetv.fun/cctv9-14.ctv
 CCTV-9,https://stream1.freetv.fun/cctv9-59.ctv
+CCTV-9,https://stream1.freetv.fun/cctv-9-1.ctv
+CCTV-9,https://stream1.freetv.fun/cctv9-8.ctv
