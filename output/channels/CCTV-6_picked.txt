@@ -66,3 +66,4 @@ CCTV-6,https://stream1.freetv.fun/cctv6-71.ctv
 CCTV-6,http://106.53.99.30/tv/migu.php?id=cctv6
 CCTV-6,https://stream1.freetv.fun/cctv6-19.ctv
 CCTV-6,https://stream1.freetv.fun/cctv6-50.ctv
+CCTV-6,https://stream1.freetv.fun/cctv-6-6.ctv

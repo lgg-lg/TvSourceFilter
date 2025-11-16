@@ -170,13 +170,11 @@
 五星体育,http://116.235.57.41:4022/rtp/239.45.3.210:5140
 五星体育,https://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8?IAS
 五星体育,http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221225732/1.m3u8
-五星体育,https://live.catvod.com/iptv.php?id=gg1irhcn
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-12.m3u8
+五星体育,https://live.catvod.com/iptv.php?id=gg1irhcn
 五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 五星体育,https://live.catvod.com/iptv.php?id=wxty
-五星体育,http://223.167.245.20:8001/rtp/239.45.3.210:5140
 五星体育,http://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8?IAS
 五星体育,http://[2409:8087:1e02:20::1a]/000000001000/5000000010000017540/index.m3u8
 五星体育,https://hyf.serv00.net/稳定.php?id=77
 五星体育,http://vapi.91kds.cc/live1/bstv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=wxtyhd
-五星体育,https://stream1.freetv.fun/d99d90dcb204a091467cada6295ceb8dfb0cf5c3890378e1d0f57ec8ef9922f0.m3u8
