@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025/11/19-17:17,http://8.138.7.223/tv/shtv.php?id=xwzh
+2025/11/20-05:12,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -85,6 +85,7 @@ CCTV-1,https://stream1.freetv.fun/cctv1-16.ctv
 CCTV-1,https://stream1.freetv.fun/cctv1-63.ctv
 CCTV-1,https://stream1.freetv.fun/cctv1-75.ctv
 CCTV-1,https://stream1.freetv.fun/cctv1-89.ctv
+CCTV-1,https://stream1.freetv.fun/cctv-1-14.ctv
 CCTV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1760585411&token=b62ec217c9ea32b3ba58ffee43c1e567
 CCTV-2,http://k.061899.xyz/m.php?id=cctv2&key=txiptv&playlive=1&authid=0
 CCTV-2,http://gfr.x3322.net:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -535,6 +536,7 @@ CCTV-7,https://stream1.freetv.fun/cctv-7-23.ctv
 CCTV-7,https://stream1.freetv.fun/cctv7-27.ctv
 CCTV-7,https://stream1.freetv.fun/cctv7-54.ctv
 CCTV-7,https://stream1.freetv.fun/cctv7-12.ctv
+CCTV-7,https://stream1.freetv.fun/cctv7-68.ctv
 CCTV-8,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1760585411&token=68364a3ee862acfdd15da4c8d59bac6e
 CCTV-8,http://gfr.x3322.net:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://gfr.x3322.net:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1152,6 +1154,8 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-6.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-87.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-28.ctv
+广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-88.ctv
+广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-96.ctv
 香港卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&t=1759030213&token=e9c1a20650968322d141eb25cb90fef8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 香港卫视,https://stream1.freetv.fun/79e4d77e2f29a2ca7f7cabbbe2ee02d32a4f2f7fb91ae94d0fb9573c9f94b4ab.ctv
@@ -1296,6 +1300,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-89.ctv
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-80.ctv
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-31.ctv
+湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-16.ctv
 北京卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1760585411&token=0953757f2bb1f67c0f2f8f14e82677ee
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1867,6 +1872,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 河北卫视,https://stream1.freetv.fun/53800b472ac1869f0e75f5c2b17fdee144590e10b746f523425fd6ee5cc9b490.ctv
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-54.ctv
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-30.ctv
+河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-47.ctv
 河南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=8689d35c534f76f661a723ce793da719
 河南卫视,http://gfr.x3322.net:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://k.061899.xyz/m.php?id=hnws&key=txiptv&playlive=1&authid=0
@@ -2536,6 +2542,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-97.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-94.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-102.ctv
+深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-57.ctv
 三沙卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&t=1760585411&token=32a71b01c95fbab09c016decd5a754b7
 三沙卫视,http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,https://stream1.freetv.fun/2cd4144297abc1ff362c335b2277ea95807b098d03e76dc36a28f27c9bf89c47.ctv
