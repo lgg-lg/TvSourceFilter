@@ -159,7 +159,7 @@
 第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746379256&key=e6deaa8fc1e0662447be8f3b7c649f70
 第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746292937&key=8dbd6113ce0541e6b92e8f47782ef1f6
 第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746307365&key=7477fec974c356ed2cf91be43a1dc893
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1763580092&key=76e13589af0e80ba8843d48984beb11c
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1763666464&key=b43da16d23ebd384bd5401425e86c846
 第一财经,http://i.iill.top:12838/sh/dycj
 第一财经,https://stream1.freetv.fun/di-yi-cai-jing-6.m3u8
 第一财经,https://shyd.695847.xyz/cms001/ch00000090990000001017/index.m3u8?IAS
@@ -169,5 +169,5 @@
 第一财经,http://139.196.214.238/rtp/239.45.3.211:5140
 第一财经,https://hyf.serv00.net/稳定.php?id=76
 第一财经,http://vapi.91kds.cc/live1/bstv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=dycjhd
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1763508261&key=0b5c8a0c63da7c70b53ea36dbd4d7af2
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1763594655&key=d965fc62468ab13630f2d9d31bff6cb5
 第一财经,https://stream1.freetv.fun/533f951c259e0a0db9189aab022c535bca241b30dbf0d18aca82012de4e8c080.m3u8
