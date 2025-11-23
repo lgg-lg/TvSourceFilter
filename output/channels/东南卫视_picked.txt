@@ -39,3 +39,5 @@
 东南卫视,https://stream1.freetv.fun/12cc275a53b0651fdf3fb0c2e9a8bdf5a3eb47d2470edf05da5d0e5d86681f23.ctv
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-75.ctv
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-34.ctv
+东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-86.ctv
+东南卫视,https://stream1.freetv.fun/3ad6599415990b0f15bec3d681fb934f53a2f82aac7584375237a83573efe5c7.ctv
