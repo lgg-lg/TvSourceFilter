@@ -68,3 +68,5 @@ CCTV-5,https://stream1.freetv.fun/cctv5-23.ctv
 CCTV-5,http://106.53.99.30/tv/migu.php?id=cctv5
 CCTV-5,https://stream1.freetv.fun/cctv5-21.ctv
 CCTV-5,https://stream1.freetv.fun/cctv-5-13.ctv
+CCTV-5,https://stream1.freetv.fun/cctv-5-6.ctv
+CCTV-5,http://go.bkpcp.top/mg/CCTV-5

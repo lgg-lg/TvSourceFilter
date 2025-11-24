@@ -65,3 +65,4 @@ CCTV-4,https://stream1.freetv.fun/cctv4-84.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-16.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-44.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4k-1.ctv
+CCTV-4,http://go.bkpcp.top/mg/CCTV-4

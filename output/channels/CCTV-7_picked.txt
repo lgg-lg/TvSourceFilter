@@ -69,3 +69,4 @@ CCTV-7,https://stream1.freetv.fun/cctv7-27.ctv
 CCTV-7,https://stream1.freetv.fun/cctv7-54.ctv
 CCTV-7,https://stream1.freetv.fun/cctv7-12.ctv
 CCTV-7,https://stream1.freetv.fun/cctv7-68.ctv
+CCTV-7,http://go.bkpcp.top/mg/CCTV-7

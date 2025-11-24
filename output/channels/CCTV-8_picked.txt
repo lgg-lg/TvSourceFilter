@@ -65,3 +65,4 @@ CCTV-8,http://106.53.99.30/tv/migu.php?id=cctv8
 CCTV-8,https://stream1.freetv.fun/cctv8-54.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-8.ctv
 CCTV-8,https://stream1.freetv.fun/cctv-8-6.ctv
+CCTV-8,http://go.bkpcp.top/mg/CCTV-8
