@@ -44,3 +44,4 @@
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-64.ctv
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-61.ctv
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-32.ctv
+吉林卫视,http://112.132.10.54:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0

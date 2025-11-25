@@ -66,3 +66,4 @@ CCTV-9,https://stream1.freetv.fun/cctv-9-1.ctv
 CCTV-9,https://stream1.freetv.fun/cctv9-8.ctv
 CCTV-9,https://stream1.freetv.fun/cctv-9-6.ctv
 CCTV-9,http://go.bkpcp.top/mg/CCTV-9
+CCTV-9,https://stream1.freetv.fun/cctv9-gq-1.ctv

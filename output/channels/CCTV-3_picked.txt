@@ -64,3 +64,4 @@ CCTV-3,https://stream1.freetv.fun/cctv3-65.ctv
 CCTV-3,http://106.53.99.30/tv/migu.php?id=cctv3
 CCTV-3,https://stream1.freetv.fun/cctv3-29.ctv
 CCTV-3,http://go.bkpcp.top/mg/CCTV-3
+CCTV-3,https://stream1.freetv.fun/cctv-03-1.ctv

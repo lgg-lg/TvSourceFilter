@@ -39,3 +39,4 @@ CCTV-17,https://stream1.freetv.fun/cctv17-65.ctv
 CCTV-17,https://stream1.freetv.fun/cctv17-4.ctv
 CCTV-17,https://stream1.freetv.fun/cctv17-45.ctv
 CCTV-17,http://go.bkpcp.top/mg/CCTV-17
+CCTV-17,https://stream1.freetv.fun/cctv-17-15.ctv
