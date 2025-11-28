@@ -158,7 +158,6 @@
 上海新闻综合,http://ydn.wzy80119.top:5080/migu720p.php?id=651632657
 上海新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 上海新闻综合,https://live.chinacert.cftest5.cn/mg/?id=651632657
-上海新闻综合,http://cn.yycx.eu.org:12838/sh/xwzh
 上海新闻综合,http://106.53.99.30/tv/migu.php?id=shxwzh
 上海新闻综合,http://106.53.99.30/tv/hot.php?id=shxw
 上海新闻综合,http://t.061899.xyz/tl/dq.php?id=shxwzh
@@ -167,13 +166,13 @@
 上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746393735&key=647ef0ee7c08241a915702c9b6f16960
 上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746292937&key=2c0730250b4adabbdab89ad23f78c053
 上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746307365&key=934041caefb0bfa77af7ffc44707320c
-上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1764271226&key=c5a0305b97a5e380abe2ed2027419a6d
+上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1764357779&key=0aff7abfff5650164fe53d0e15ac8c38
+上海新闻综合,http://cn.yycx.eu.org:12838/sh/xwzh
+上海新闻综合,https://httop.top/hrtn-jyjs
 上海新闻综合,https://httop.top/hrtns-jyjs
 上海新闻综合,http://144.255.32.94:8288/rtp/239.21.1.193:5002
-上海新闻综合,https://httop.top/hrtn-jyjs
 上海新闻综合,https://shyd.695847.xyz/cms001/ch00000090990000001014/index.m3u8?IAS
-上海新闻综合,http://i.iill.top:12838/sh/xwzh
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=e9d53aecbf195ec93213ca2b67bfada17118c7d5a5041dd892580f6bd5edc7eec73aed3ff90ee41a900f357eb7a6d553ba63d8a1c8b0941663273d7e0855718377f768a9664ca2847615ae9fc1790a3959&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=a966cc690568073694d06994bd41ffd9f4fc6e1c97d14c2eb3adefc416f93efc7cb4659137842ec50d5963d53735a707845ab5ac59743900d070aab4c8f592d507fcf4e150c190701e59a6ead8f61cfe2a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 上海新闻综合,http://shyd.695847.xyz/cms001/ch00000090990000001014/index.m3u8?IAS
 上海新闻综合,https://migu.pl10000.top/-20
 上海新闻综合,http://[2409:8087:1e02:20::1a]/000000001000/5000000011000031110/index.m3u8
@@ -181,5 +180,5 @@
 上海新闻综合,http://139.129.231.228/rtp/239.21.1.193:5002
 上海新闻综合,https://hyf.serv00.net/稳定.php?id=75
 上海新闻综合,http://vapi.91kds.cc/live1/bstv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=shxwhd
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=a966cc690568073694d06994bd41ffd9f4fc6e1c97d14c2eb3adefc416f93efc7cb4659137842ec50d5963d53735a707845ab5ac59743900d070aab4c8f592d507fcf4e150c190701e59a6ead8f61cfe2a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1764199447&key=43f6175cdaf0b132ed149ed5e38be196
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=5103d5e6333fe04e070f7e52dbf7667cf2dd5cfe6c1150209a98cb564d51120aefec15c48930d6642a838eba24a354fefd32ea9597f01077ea3eebdfc670a848a06e1e9fea7627f8c83deeb530de79aa06&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1764285873&key=f24ad14737a32ad2c1eaf6fe896d7da5
