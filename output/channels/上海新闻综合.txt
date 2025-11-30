@@ -166,13 +166,14 @@
 上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746393735&key=647ef0ee7c08241a915702c9b6f16960
 上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746292937&key=2c0730250b4adabbdab89ad23f78c053
 上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746307365&key=934041caefb0bfa77af7ffc44707320c
-上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1764444020&key=d009b1a25e044c66f5304c433a848a5c
-上海新闻综合,https://httop.top/hrtn-jyjs
+上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1764530458&key=c7232a37d797db6258347c4be3ded1c0
+上海新闻综合,http://223.167.230.235:4022/rtp/238.200.200.130:5540
 上海新闻综合,http://144.255.32.94:8288/rtp/239.21.1.193:5002
-上海新闻综合,https://httop.top/hrtns-jyjs
 上海新闻综合,http://cn.yycx.eu.org:12838/sh/xwzh
+上海新闻综合,https://httop.top/hrtns-jyjs
+上海新闻综合,https://httop.top/hrtn-jyjs
 上海新闻综合,https://shyd.695847.xyz/cms001/ch00000090990000001014/index.m3u8?IAS
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=5103d5e6333fe04e070f7e52dbf7667cf2dd5cfe6c1150209a98cb564d51120aefec15c48930d6642a838eba24a354fefd32ea9597f01077ea3eebdfc670a848a06e1e9fea7627f8c83deeb530de79aa06&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=a1444f0024d2194a24301d22e7ab77b125ca54f297e52c76e10ee86ef1bcff3b68e6a5fb9077c8e30c94b7a719509f9b193332a7f7288eca250c9b4f456ea65857842c96c18b2407c28d4f5cd2c2ead17f&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 上海新闻综合,http://shyd.695847.xyz/cms001/ch00000090990000001014/index.m3u8?IAS
 上海新闻综合,https://migu.pl10000.top/-20
 上海新闻综合,http://[2409:8087:1e02:20::1a]/000000001000/5000000011000031110/index.m3u8
@@ -180,5 +181,5 @@
 上海新闻综合,http://139.129.231.228/rtp/239.21.1.193:5002
 上海新闻综合,https://hyf.serv00.net/稳定.php?id=75
 上海新闻综合,http://vapi.91kds.cc/live1/bstv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=shxwhd
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=a1444f0024d2194a24301d22e7ab77b125ca54f297e52c76e10ee86ef1bcff3b68e6a5fb9077c8e30c94b7a719509f9b193332a7f7288eca250c9b4f456ea65857842c96c18b2407c28d4f5cd2c2ead17f&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1764372231&key=13dbe7fe7578748c896cbb720b930bd9
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=4d277c23701bc3838800d68373dd2dc04a0371aa4c7dadfd9adcaa9d6b63b9898401f826c1250e408d76a3ed04600d44ea40ddc374670baee317adffbe98cd9e34a766b4b4b5a0efb6675505bd751009a9&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1764458638&key=17d396bae9419aa8c7f588b3ddbd70f1
