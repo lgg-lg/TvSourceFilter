@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025/12/03-17:19,http://8.138.7.223/tv/shtv.php?id=xwzh
+2025/12/04-05:14,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1757,6 +1757,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-34.ctv
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-86.ctv
 东南卫视,https://stream1.freetv.fun/3ad6599415990b0f15bec3d681fb934f53a2f82aac7584375237a83573efe5c7.ctv
+东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-53.ctv
 甘肃卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&t=1760585411&token=ca23a984380ccb5a5338cb57fec640f5
 甘肃卫视,http://gfr.x3322.net:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://k.061899.xyz/m.php?id=dfws&key=txiptv&playlive=1&authid=0
@@ -2641,6 +2642,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-4.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-62.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-100.ctv
+深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-8.ctv
 三沙卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&t=1760585411&token=32a71b01c95fbab09c016decd5a754b7
 三沙卫视,http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,https://stream1.freetv.fun/2cd4144297abc1ff362c335b2277ea95807b098d03e76dc36a28f27c9bf89c47.ctv
