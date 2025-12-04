@@ -69,3 +69,4 @@
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-91.ctv
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-36.ctv
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-22.ctv
+湖南卫视,http://61.156.228.12:8154/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0

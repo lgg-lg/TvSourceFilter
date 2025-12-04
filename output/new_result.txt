@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025/12/04-17:19,http://8.138.7.223/tv/shtv.php?id=xwzh
+2025/12/05-05:15,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -567,6 +567,7 @@ CCTV-7,https://stream1.freetv.fun/cctv7-68.ctv
 CCTV-7,http://go.bkpcp.top/mg/CCTV-7
 CCTV-7,https://stream1.freetv.fun/cctv7-gq-1.ctv
 CCTV-7,https://stream1.freetv.fun/cctv-7-4.ctv
+CCTV-7,https://stream1.freetv.fun/cctv7-18.ctv
 CCTV-8,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1760585411&token=68364a3ee862acfdd15da4c8d59bac6e
 CCTV-8,http://gfr.x3322.net:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://gfr.x3322.net:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1373,6 +1374,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-91.ctv
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-36.ctv
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-22.ctv
+湖南卫视,http://61.156.228.12:8154/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1760585411&token=0953757f2bb1f67c0f2f8f14e82677ee
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0

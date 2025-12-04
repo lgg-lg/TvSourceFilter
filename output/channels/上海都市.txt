@@ -93,10 +93,11 @@
 上海都市,http://8.138.7.223/api/18sh.php?id=18&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 上海都市,http://8.138.7.223/api/ipv6.php?id=55&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746307365&key=635dd803224a560866c81f72aae510a0
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1764789908&key=b74afcc7045a6517855d602183b50b9b
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1764876238&key=cfbd3440c7d9cc00522a89547f17fc44
+上海都市,http://cn.yycx.eu.org:12838/sh/dspd
 上海都市,https://shyd.695847.xyz/cms001/ch00000090990000001015/index.m3u8?IAS
 上海都市,http://shyd.695847.xyz/cms001/ch00000090990000001015/index.m3u8?IAS
 上海都市,http://[2409:8087:1e02:20::1a]/000000001000/5000000010000018926/index.m3u8
 上海都市,https://hyf.serv00.net/稳定.php?id=79
 上海都市,http://vapi.91kds.cc/live1/bstv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=shylhd
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1764717871&key=816dc371bda1ff2db90d5d0d207d6a55
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1764804188&key=30f0116167d09277fab7c74f3cd46b18
