@@ -48,3 +48,4 @@
 辽宁卫视,https://stream1.freetv.fun/c386d9c7cbbd54acd5c62d1e68d3b89f76f9f7a926691e4ad69397091fe9692c.ctv
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-71.ctv
 辽宁卫视,https://stream1.freetv.fun/79a34375894602e49d48f315b291ec306fd20425e213ee3a1977e364e8dbe84b.ctv
+辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-39.ctv
