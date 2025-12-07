@@ -58,3 +58,4 @@ CCTV-11,https://stream1.freetv.fun/cctv11-70.ctv
 CCTV-11,https://stream1.freetv.fun/cctv11-xi-qu-1.ctv
 CCTV-11,https://stream1.freetv.fun/cctv11-50.ctv
 CCTV-11,http://go.bkpcp.top/mg/CCTV-11
+CCTV-11,https://stream1.freetv.fun/cctv11-xi-qu-10.ctv

@@ -71,3 +71,4 @@ CCTV-6,http://go.bkpcp.top/mg/CCTV-6
 CCTV-6,https://stream1.freetv.fun/cctv-6-9.ctv
 CCTV-6,https://stream1.freetv.fun/cctv-6-19.ctv
 CCTV-6,https://stream1.freetv.fun/cctv6-6.ctv
+CCTV-6,https://stream1.freetv.fun/cctv6-dian-ying-1.ctv

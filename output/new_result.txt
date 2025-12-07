@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025/12/07-17:15,http://8.138.7.223/tv/shtv.php?id=xwzh
+2025/12/08-05:39,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -166,6 +166,7 @@ CCTV-2,https://stream1.freetv.fun/cctv2-77.ctv
 CCTV-2,http://go.bkpcp.top/mg/CCTV-2
 CCTV-2,https://stream1.freetv.fun/cctv-2-17.ctv
 CCTV-2,https://stream1.freetv.fun/cctv-02-1.ctv
+CCTV-2,https://stream1.freetv.fun/cctv2-cai-jing-6.ctv
 CCTV-3,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1760585411&token=d62685a3c74216fb529a697d66a6e0c9
 CCTV-3,http://gfr.x3322.net:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://gfr.x3322.net:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -234,6 +235,7 @@ CCTV-3,https://stream1.freetv.fun/cctv3-29.ctv
 CCTV-3,http://go.bkpcp.top/mg/CCTV-3
 CCTV-3,https://stream1.freetv.fun/cctv-03-1.ctv
 CCTV-3,https://stream1.freetv.fun/cctv-3-7.ctv
+CCTV-3,https://stream1.freetv.fun/cctv3-zong-yi-8.ctv
 CCTV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4&t=1760585411&token=30206ac2abdd37a1d4104f2bc86536db
 CCTV-4,http://gfr.x3322.net:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://gfr.x3322.net:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -310,6 +312,8 @@ CCTV-4,https://stream1.freetv.fun/cctv4-zhong-yang-wei-shi-3.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-zhong-yang-wei-shi-4.ctv
 CCTV-4,https://stream1.freetv.fun/cctv-4k-1.ctv
 CCTV-4,https://stream1.freetv.fun/cctv-4-1.ctv
+CCTV-4,https://stream1.freetv.fun/cctv-4-zhong-wen-guo-ji-6.ctv
+CCTV-4,https://stream1.freetv.fun/cctv4-zhong-wen-guo-ji-2.ctv
 CCTV-5,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1760585411&token=11ca3f429dba1df4ad42fb1f50512dfa
 CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -383,6 +387,7 @@ CCTV-5,https://stream1.freetv.fun/cctv-5-13.ctv
 CCTV-5,https://stream1.freetv.fun/cctv-5-6.ctv
 CCTV-5,http://go.bkpcp.top/mg/CCTV-5
 CCTV-5,https://stream1.freetv.fun/cctv-5-10.ctv
+CCTV-5,https://stream1.freetv.fun/cctv5-ti-yu-11.ctv
 CCTV-5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1760585411&token=4555e6dbb64f42fbc0175bc8069bd14d
 CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://k.061899.xyz/m.php?id=cctv5p&key=txiptv&playlive=1&authid=0
@@ -496,6 +501,7 @@ CCTV-6,http://go.bkpcp.top/mg/CCTV-6
 CCTV-6,https://stream1.freetv.fun/cctv-6-9.ctv
 CCTV-6,https://stream1.freetv.fun/cctv-6-19.ctv
 CCTV-6,https://stream1.freetv.fun/cctv6-6.ctv
+CCTV-6,https://stream1.freetv.fun/cctv6-dian-ying-1.ctv
 CCTV-7,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV7&t=1760585411&token=ef4566ffc523128175204c2939d3a5b8
 CCTV-7,http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://gfr.x3322.net:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -838,6 +844,7 @@ CCTV-11,https://stream1.freetv.fun/cctv11-70.ctv
 CCTV-11,https://stream1.freetv.fun/cctv11-xi-qu-1.ctv
 CCTV-11,https://stream1.freetv.fun/cctv11-50.ctv
 CCTV-11,http://go.bkpcp.top/mg/CCTV-11
+CCTV-11,https://stream1.freetv.fun/cctv11-xi-qu-10.ctv
 CCTV-13,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV13&t=1760585411&token=cde87db33a1a9c36c65a2f73e3a9ff07
 CCTV-13,http://gfr.x3322.net:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://gfr.x3322.net:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -922,6 +929,7 @@ CCTV-13,https://stream1.freetv.fun/cctv-13-10.ctv
 CCTV-13,http://go.bkpcp.top/mg/CCTV-13
 CCTV-13,https://stream1.freetv.fun/cctv13-gq-1.ctv
 CCTV-13,https://stream1.freetv.fun/cctv-13-21.ctv
+CCTV-13,https://stream1.freetv.fun/cctv13-xin-wen-5.ctv
 CCTV-14,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1760585411&token=80bd93b5d36b1ec98fcd22d9f926ee09
 CCTV-14,http://gfr.x3322.net:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://gfr.x3322.net:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -985,6 +993,7 @@ CCTV-14,http://go.bkpcp.top/mg/CCTV-14
 CCTV-14,https://stream1.freetv.fun/cctv-14-2.ctv
 CCTV-14,https://stream1.freetv.fun/cctv-14-4.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-gq-1.ctv
+CCTV-14,https://stream1.freetv.fun/cctv14-shao-er-4.ctv
 CCTV-15,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1760585411&token=09554eaa18bb7938b0a35bcb56022466
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1066,6 +1075,7 @@ CCTV-16,http://106.53.99.30/tv/hot.php?id=cctv16
 CCTV-16,https://6663.luyazo.com/livetv/hlcc/McNJgw7Hg/McNJgw7Hg_live.m3u8?auth_key=1756266953-0-0-c0b2027bbc8c2f1ba5ac824b0dfdbd57
 CCTV-16,https://stream1.freetv.fun/cctv-16-1.ctv
 CCTV-16,http://go.bkpcp.top/mg/CCTV-16
+CCTV-16,https://stream1.freetv.fun/cctv16-39.ctv
 CCTV-17,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1760585411&token=89eb1f4f348a08ea121906fb91d25934
 CCTV-17,http://gfr.x3322.net:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://gfr.x3322.net:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1217,6 +1227,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-9.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-57.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-14.ctv
+广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-29.ctv
 香港卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&t=1759030213&token=e9c1a20650968322d141eb25cb90fef8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 香港卫视,https://stream1.freetv.fun/79e4d77e2f29a2ca7f7cabbbe2ee02d32a4f2f7fb91ae94d0fb9573c9f94b4ab.ctv
@@ -3141,6 +3152,7 @@ CCTV-5,https://stream1.freetv.fun/cctv-5-13.ctv
 CCTV-5,https://stream1.freetv.fun/cctv-5-6.ctv
 CCTV-5,http://go.bkpcp.top/mg/CCTV-5
 CCTV-5,https://stream1.freetv.fun/cctv-5-10.ctv
+CCTV-5,https://stream1.freetv.fun/cctv5-ti-yu-11.ctv
 CCTV-5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1760585411&token=4555e6dbb64f42fbc0175bc8069bd14d
 CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://k.061899.xyz/m.php?id=cctv5p&key=txiptv&playlive=1&authid=0
