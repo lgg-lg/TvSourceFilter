@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025/12/08-17:22,http://8.138.7.223/tv/shtv.php?id=xwzh
+2025/12/09-05:14,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -2859,6 +2859,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-20.ctv
 云南卫视,https://stream1.freetv.fun/ec6460f3951bfbaef38cc68bfe9248e1a90afea1f9ff73dfcc3b93812a11b519.ctv
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-13.ctv
+云南卫视,http://t.061899.xyz/tl/tl.php?id=ynws
 兵团卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&t=1760585411&token=0dccfb35ad42f88f22d6f57a2e960c2f
 兵团卫视,http://8.138.7.223/tv/btws.m3u8
 兵团卫视,http://gfr.x3322.net:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0

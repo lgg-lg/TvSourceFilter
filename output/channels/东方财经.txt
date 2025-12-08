@@ -182,11 +182,8 @@
 东方财经,http://8.138.250.123:8899/live2.rxip.sc96655.com/live/dfcj_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 东方财经,http://107.174.47.152:8888/live2.rxip.sc96655.com/live/dfcj_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 东方财经,http://iptv.666230.xyz/iptv/hnyx.php/dfcj
-东方财经,http://2099.tv12.xyz/1178_1765138882594.m3u8
 东方财经,https://shyd.695847.xyz/cms001/ch00000090990000001318/index.m3u8?IAS
 东方财经,http://124.129.234.252:4022/rtp/239.253.254.94:8000
 东方财经,http://115.221.92.20:7777/rtp/233.50.200.177:5140
 东方财经,http://115.221.94.21:7777/rtp/233.50.200.177:5140
 东方财经,http://183.3.202.19:2380/c3.cdn.hunancatv.com/live/dfcj.m3u8
-东方财经,https://hyf.serv00.net/稳定.php?id=74
-东方财经,http://2099.tv12.xyz/1178_1765138531818.m3u8
