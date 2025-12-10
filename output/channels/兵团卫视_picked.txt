@@ -19,3 +19,5 @@
 兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-9.ctv
 兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-7.ctv
 兵团卫视,http://106.53.99.30/tv/api.php?id=btws
+兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-14.ctv
+兵团卫视,https://stream1.freetv.fun/7e0d9638f60dca70ddc3a2437eb10e874587f11f9d3efd833e71acfbdf2de2d6.ctv

@@ -65,3 +65,5 @@
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-33.ctv
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-23.ctv
 山东卫视,https://stream1.freetv.fun/220190fbb76291005f7129d1553ddad9ecc1d70bceaeca80ca0caef936c06861.ctv
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-87.ctv
+山东卫视,https://stream1.freetv.fun/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e78fab5.ctv
