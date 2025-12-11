@@ -20,3 +20,4 @@ CCTV-16,https://6663.luyazo.com/livetv/hlcc/McNJgw7Hg/McNJgw7Hg_live.m3u8?auth_k
 CCTV-16,https://stream1.freetv.fun/cctv-16-1.ctv
 CCTV-16,http://go.bkpcp.top/mg/CCTV-16
 CCTV-16,https://stream1.freetv.fun/cctv16-39.ctv
+CCTV-16,https://stream1.freetv.fun/cctv16-25.ctv

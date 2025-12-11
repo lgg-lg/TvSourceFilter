@@ -53,3 +53,6 @@
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-47.ctv
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-24.ctv
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-28.ctv
+河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-51.ctv
+河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-83.ctv
+河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-92.ctv

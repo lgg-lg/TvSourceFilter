@@ -67,3 +67,5 @@ CCTV-3,http://go.bkpcp.top/mg/CCTV-3
 CCTV-3,https://stream1.freetv.fun/cctv-03-1.ctv
 CCTV-3,https://stream1.freetv.fun/cctv-3-7.ctv
 CCTV-3,https://stream1.freetv.fun/cctv3-zong-yi-8.ctv
+CCTV-3,https://stream1.freetv.fun/cctv3-40.ctv
+CCTV-3,https://stream1.freetv.fun/cctv3-zong-yi-3.ctv

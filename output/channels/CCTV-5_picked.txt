@@ -72,3 +72,6 @@ CCTV-5,https://stream1.freetv.fun/cctv-5-6.ctv
 CCTV-5,http://go.bkpcp.top/mg/CCTV-5
 CCTV-5,https://stream1.freetv.fun/cctv-5-10.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-ti-yu-11.ctv
+CCTV-5,https://stream1.freetv.fun/cctv5-54.ctv
+CCTV-5,https://stream1.freetv.fun/cctv5-ti-yu-15.ctv
+CCTV-5,https://stream1.freetv.fun/cctv5-ti-yu-3.ctv
