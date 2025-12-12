@@ -40,3 +40,9 @@
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-81.ctv
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-27.ctv
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-31.ctv
+广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-3.ctv
+广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-54.ctv
+广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-79.ctv
+广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-23.ctv
+广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-11.ctv
+广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-10.ctv

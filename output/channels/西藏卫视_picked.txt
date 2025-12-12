@@ -36,3 +36,7 @@
 西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-10.ctv
 西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-29.ctv
 西藏卫视,https://stream1.freetv.fun/f472b7f1026488727d44969d797eb060aa375af68479fe9b1359d81927da37f4.ctv
+西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-27.ctv
+西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-11.ctv
+西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-34.ctv
+西藏卫视,https://stream1.freetv.fun/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.ctv

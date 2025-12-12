@@ -50,3 +50,6 @@
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-8.ctv
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-36.ctv
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-63.ctv
+吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-68.ctv
+吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-2.ctv
+吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-1.ctv

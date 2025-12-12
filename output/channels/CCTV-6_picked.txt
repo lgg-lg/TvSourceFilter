@@ -75,3 +75,4 @@ CCTV-6,https://stream1.freetv.fun/cctv6-dian-ying-1.ctv
 CCTV-6,https://stream1.freetv.fun/cctv6-38.ctv
 CCTV-6,https://stream1.freetv.fun/cctv6-56.ctv
 CCTV-6,https://stream1.freetv.fun/cctv6-57.ctv
+CCTV-6,https://stream1.freetv.fun/cctv6-dian-ying-2.ctv

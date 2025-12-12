@@ -34,3 +34,8 @@
 宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-28.ctv
 宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-35.ctv
 宁夏卫视,https://stream1.freetv.fun/dac6bde8d0f89b3735cff3def0b505cb115db5d885ade8c0bfadd8712312dd5e.ctv
+宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-48.ctv
+宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-79.ctv
+宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-74.ctv
+宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-87.ctv
+宁夏卫视,https://stream1.freetv.fun/c3a22585493b5fbb62ab4b873bbf60ce767e779781bf178117fcf0918e2de201.ctv

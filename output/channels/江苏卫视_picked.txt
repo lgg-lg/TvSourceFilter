@@ -70,3 +70,6 @@
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-42.ctv
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-86.ctv
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-108.ctv
+江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-56.ctv
+江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-17.ctv
+江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-15.ctv

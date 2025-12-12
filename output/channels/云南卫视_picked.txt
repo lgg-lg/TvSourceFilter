@@ -43,3 +43,5 @@
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-28.ctv
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-71.ctv
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-22.ctv
+云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-68.ctv
+云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-54.ctv
