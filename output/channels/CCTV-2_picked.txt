@@ -74,3 +74,8 @@ CCTV-2,https://stream1.freetv.fun/cctv-02-1.ctv
 CCTV-2,https://stream1.freetv.fun/cctv2-cai-jing-6.ctv
 CCTV-2,https://stream1.freetv.fun/cctv2-2.ctv
 CCTV-2,https://stream1.freetv.fun/cctv2-cai-jing-7.ctv
+CCTV-2,https://stream1.freetv.fun/cctv2-12.ctv
+CCTV-2,https://stream1.freetv.fun/cctv2-20.ctv
+CCTV-2,https://stream1.freetv.fun/cctv2-3.ctv
+CCTV-2,https://stream1.freetv.fun/cctv2-63.ctv
+CCTV-2,https://stream1.freetv.fun/cctv2-8.ctv

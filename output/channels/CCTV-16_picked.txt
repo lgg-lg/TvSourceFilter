@@ -21,3 +21,6 @@ CCTV-16,https://stream1.freetv.fun/cctv-16-1.ctv
 CCTV-16,http://go.bkpcp.top/mg/CCTV-16
 CCTV-16,https://stream1.freetv.fun/cctv16-39.ctv
 CCTV-16,https://stream1.freetv.fun/cctv16-25.ctv
+CCTV-16,https://stream1.freetv.fun/cctv16-20.ctv
+CCTV-16,https://stream1.freetv.fun/cctv16-27.ctv
+CCTV-16,https://stream1.freetv.fun/cctv16-6.ctv

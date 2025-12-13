@@ -60,3 +60,8 @@ CCTV-15,http://go.bkpcp.top/mg/CCTV-15
 CCTV-15,https://stream1.freetv.fun/cctv-15-17.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-yin-le-5.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-yin-le-13.ctv
+CCTV-15,https://stream1.freetv.fun/cctv15-1.ctv
+CCTV-15,https://stream1.freetv.fun/cctv15-44.ctv
+CCTV-15,https://stream1.freetv.fun/cctv15-65.ctv
+CCTV-15,https://stream1.freetv.fun/cctv15-82.ctv
+CCTV-15,https://stream1.freetv.fun/cctv15-83.ctv

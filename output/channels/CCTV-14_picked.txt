@@ -64,3 +64,7 @@ CCTV-14,https://stream1.freetv.fun/cctv14-gq-1.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-shao-er-4.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-78.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-shao-er-6.ctv
+CCTV-14,https://stream1.freetv.fun/cctv14-20.ctv
+CCTV-14,https://stream1.freetv.fun/cctv14-41.ctv
+CCTV-14,https://stream1.freetv.fun/cctv14-50.ctv
+CCTV-14,https://stream1.freetv.fun/cctv14-81.ctv

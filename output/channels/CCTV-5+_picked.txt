@@ -41,3 +41,6 @@ CCTV-5+,http://go.bkpcp.top/mg/CCTV-5p
 CCTV-5+,http://go.bkpcp.top/mg/cctv5p?
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-32.ctv
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-4.ctv
+CCTV-5+,https://stream1.freetv.fun/cctv5-plus-29.ctv
+CCTV-5+,https://stream1.freetv.fun/cctv5-plus-48.ctv
+CCTV-5+,https://stream1.freetv.fun/cctv5-plus-61.ctv
