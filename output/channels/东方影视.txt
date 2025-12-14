@@ -105,6 +105,7 @@
 东方影视,https://stream1.freetv.fun/24b2b7048074d6989b0b0bdbb6cf188930ea474e17a5a04641c5313791b6791a.ctv
 东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-2.ctv
 东方影视,http://z.b.bkpcp.top/m.php?id=dfys
+东方影视,http://116.237.37.244:8888/rtp/239.45.3.237:5140
 东方影视,https://shyd.695847.xyz/cms001/ch00000090990000001016/index.m3u8?IAS
 东方影视,http://139.196.151.191:2051/rtp/239.45.3.237:5140
 东方影视,http://shyd.695847.xyz/cms001/ch00000090990000001016/index.m3u8?IAS

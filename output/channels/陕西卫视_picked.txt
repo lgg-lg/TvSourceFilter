@@ -43,3 +43,4 @@
 陕西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-19.ctv
 陕西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-121.ctv
 陕西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-105.ctv
+陕西卫视,http://www.hkyc.site:1991/udp/239.253.64.37:5140

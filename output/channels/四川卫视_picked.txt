@@ -70,3 +70,5 @@
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-90.ctv
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-7.ctv
 四川卫视,https://stream1.freetv.fun/b6824b72fbee9e42fac87484354cec553eb769a71a6536f94eacb50743dcfd1b.ctv
+四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-58.ctv
+四川卫视,http://www.hkyc.site:1991/udp/239.253.64.36:5140

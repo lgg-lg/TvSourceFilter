@@ -53,3 +53,5 @@
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-204.ctv
 青海卫视,https://stream1.freetv.fun/cd589c70667ca73052e90abf4610804ef83e8168420e85f4ee87ba3da944334f.ctv
 青海卫视,https://stream1.freetv.fun/c065bef9e17cf408a0e90171f69cc8ed09796b4b5a81c81fba6c4ea8665b78d5.ctv
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-314.ctv
+青海卫视,http://www.hkyc.site:1991/udp/239.253.64.46:5140

@@ -41,3 +41,4 @@
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-45.ctv
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-2.ctv
 内蒙古卫视,https://stream1.freetv.fun/5449f2d57a27706d5b13071efab41c175da68c2cc31af7c2734df6d796390d65.ctv
+内蒙古卫视,http://www.hkyc.site:1991/udp/239.253.64.144:5140

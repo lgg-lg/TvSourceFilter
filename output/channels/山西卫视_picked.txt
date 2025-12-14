@@ -43,3 +43,4 @@
 山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-51.ctv
 山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-83.ctv
 山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-20.ctv
+山西卫视,http://www.hkyc.site:1991/udp/239.253.64.31:5140

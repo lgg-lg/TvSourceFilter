@@ -51,3 +51,4 @@
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-3.ctv
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-13.ctv
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-61.ctv
+贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-82.ctv
