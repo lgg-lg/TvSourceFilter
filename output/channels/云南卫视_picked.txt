@@ -48,3 +48,4 @@
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-47.ctv
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-16.ctv
 云南卫视,http://www.hkyc.site:1991/udp/239.253.64.147:5140
+云南卫视,https://stream1.freetv.fun/78d5fdfe5a6a02f95ba9abe9781d88980afafde30f29a80c5ce264ca7c1fe245.ctv

@@ -74,3 +74,4 @@ CCTV-8,https://stream1.freetv.fun/cctv8-dian-shi-ju-15.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-1.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-42.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-64.ctv
+CCTV-8,https://stream1.freetv.fun/cctv8-67.ctv

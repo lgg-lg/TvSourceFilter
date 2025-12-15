@@ -16,6 +16,7 @@
 西藏卫视,https://cc06.tv12.xyz/112.m3u8
 西藏卫视,https://epg.pw/stream/4fbd79c043e577dc4f14ff006fce9d8d80cc734285c4e141636fa2e4a36be6af.ctv
 西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-7.ctv
+西藏卫视,http://www.hkyc.site:1991/udp/239.253.64.143:5140
 西藏卫视,http://k.061899.xyz/m.php?id=xzws
 西藏卫视,http://gfr.x3322.net:9901/tsfile/live/1046_1.m3u8
 西藏卫视,http://106.53.99.30/tv/hot.php?id=xzws
@@ -40,4 +41,3 @@
 西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-11.ctv
 西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-34.ctv
 西藏卫视,https://stream1.freetv.fun/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.ctv
-西藏卫视,http://www.hkyc.site:1991/udp/239.253.64.143:5140

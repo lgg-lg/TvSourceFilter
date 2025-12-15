@@ -16,6 +16,7 @@
 海南卫视,https://stream1.freetv.fun/hai-nan-wei-shi-68.ctv
 海南卫视,http://gfr.x3322.net:9901/tsfile/live/1020_1.m3u8
 海南卫视,https://stream1.freetv.fun/hai-nan-wei-shi-24.ctv
+海南卫视,http://www.hkyc.site:1991/udp/239.253.64.253:5140
 海南卫视,http://k.061899.xyz/m.php?id=hinws
 海南卫视,http://106.53.99.30/tv/hot.php?id=hinws
 海南卫视,http://t.061899.xyz/tl/dq.php?id=hinws
@@ -39,5 +40,4 @@
 海南卫视,https://stream1.freetv.fun/hai-nan-wei-shi-73.ctv
 海南卫视,https://stream1.freetv.fun/b49eb8c449c75b34dae48f7cba8d8e63de58ca8e034c3095819a17688dd68e10.ctv
 海南卫视,https://stream1.freetv.fun/hai-nan-wei-shi-11.ctv
-海南卫视,http://www.hkyc.site:1991/udp/239.253.64.253:5140
 海南卫视,https://stream1.freetv.fun/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.ctv
