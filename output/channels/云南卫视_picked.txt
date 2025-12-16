@@ -26,6 +26,7 @@
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-40.ctv
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-43.ctv
 云南卫视,http://gfr.x3322.net:9901/tsfile/live/1047_1.m3u8
+云南卫视,http://www.hkyc.site:1991/udp/239.253.64.147:5140
 云南卫视,http://106.53.99.30/tv/hot.php?id=ynws
 云南卫视,http://t.061899.xyz/tl/dq.php?id=ynws
 云南卫视,http://go.bkpcp.top/mg/ynws
@@ -47,5 +48,8 @@
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-54.ctv
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-47.ctv
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-16.ctv
-云南卫视,http://www.hkyc.site:1991/udp/239.253.64.147:5140
 云南卫视,https://stream1.freetv.fun/78d5fdfe5a6a02f95ba9abe9781d88980afafde30f29a80c5ce264ca7c1fe245.ctv
+云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-45.ctv
+云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-30.ctv
+云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-69.ctv
+云南卫视,https://stream1.freetv.fun/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.ctv

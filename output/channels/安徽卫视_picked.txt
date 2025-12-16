@@ -62,3 +62,7 @@
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-2.ctv
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-10.ctv
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-76.ctv
+安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-31.ctv
+安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-85.ctv
+安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-45.ctv
+安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-102.ctv
