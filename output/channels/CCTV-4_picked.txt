@@ -83,3 +83,6 @@ CCTV-4,https://stream1.freetv.fun/cctv4-35.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-42.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-48.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-74.ctv
+CCTV-4,https://stream1.freetv.fun/cctv4-14.ctv
+CCTV-4,https://stream1.freetv.fun/cctv4-64.ctv
+CCTV-4,https://stream1.freetv.fun/cctv4-66.ctv

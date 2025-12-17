@@ -54,3 +54,5 @@
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-73.ctv
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-39.ctv
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-12.ctv
+湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-35.ctv
+湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-50.ctv

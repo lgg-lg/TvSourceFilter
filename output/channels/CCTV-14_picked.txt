@@ -68,3 +68,5 @@ CCTV-14,https://stream1.freetv.fun/cctv14-20.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-41.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-50.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-81.ctv
+CCTV-14,https://stream1.freetv.fun/cctv14-17.ctv
+CCTV-14,https://stream1.freetv.fun/cctv14-3.ctv

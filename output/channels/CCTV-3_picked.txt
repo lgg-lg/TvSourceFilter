@@ -71,3 +71,8 @@ CCTV-3,https://stream1.freetv.fun/cctv3-40.ctv
 CCTV-3,https://stream1.freetv.fun/cctv3-zong-yi-3.ctv
 CCTV-3,https://stream1.freetv.fun/cctv3-62.ctv
 CCTV-3,https://stream1.freetv.fun/cctv3-9.ctv
+CCTV-3,https://stream1.freetv.fun/cctv3-11.ctv
+CCTV-3,https://stream1.freetv.fun/cctv3-3.ctv
+CCTV-3,https://stream1.freetv.fun/cctv3-35.ctv
+CCTV-3,https://stream1.freetv.fun/cctv3-55.ctv
+CCTV-3,https://stream1.freetv.fun/cctv3-zong-yi-10.ctv

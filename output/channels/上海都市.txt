@@ -96,11 +96,8 @@
 上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-8.ctv
 上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746307365&key=635dd803224a560866c81f72aae510a0
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1765913086&key=186306dc686e1e7c7bf6dc837155a28e
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1765999524&key=1c14469857bb76029ce18888f7ed92e7
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-6.m3u8
 上海都市,http://cn.yycx.eu.org:12838/sh/dspd
-上海都市,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=shds&key=湘西卫视QQ群121797010
-上海都市,http://A/ku9/js/kdf.js?id=shds
 上海都市,http://shyd.695847.xyz/cms001/ch00000090990000001015/index.m3u8?IAS
-上海都市,http://vapi.91kds.cc/live1/bstv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=shylhd
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1765841201&key=fcdab3540e11ce893ecb9e2a1696862e
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1765927707&key=a0ad6bdc32dd7ddb558cd45a771bc6b8
