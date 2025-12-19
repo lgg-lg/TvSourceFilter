@@ -69,3 +69,4 @@ CCTV-15,https://stream1.freetv.fun/cctv15-2.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-20.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-42.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-yin-le-8.ctv
+CCTV-15,https://stream1.freetv.fun/cctv15-67.ctv

@@ -70,3 +70,5 @@ CCTV-14,https://stream1.freetv.fun/cctv14-50.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-81.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-17.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-3.ctv
+CCTV-14,https://stream1.freetv.fun/cctv14-8.ctv
+CCTV-14,https://stream1.freetv.fun/cctv14-shao-er-11.ctv
