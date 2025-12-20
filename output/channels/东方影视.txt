@@ -97,8 +97,6 @@
 东方影视,https://shyd.695847.xyz/cms001/ch00000090990000001046/index.m3u8?Ace
 东方影视,http://8.138.7.223/api/00migu.php?id=49&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 东方影视,http://8.138.7.223/api/ipv6.php?id=62&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
-东方影视,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86HD&auth=666858
-东方影视,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&auth=666858
 东方影视,http://ydn.wzy80119.top:5080/migu720p.php?id=617290047
 东方影视,http://106.53.99.30/tv/migu.php?id=dfys
 东方影视,http://t.061899.xyz/tl/dq.php?id=dfys
@@ -108,9 +106,10 @@
 东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-2.ctv
 东方影视,http://z.b.bkpcp.top/m.php?id=dfys
 东方影视,http://www.wmviv.com/iptv/bc2t.php?id=dfys
-东方影视,http://A/ku9/py/socks5.py?ip=120.226.12.155:31167&u=http://39.134.13.35:6610/000000001000/2000000002000000013/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000013&livemode=1&stbId=lzz123
-东方影视,http://A/ku9/py/socks5.py?ip=223.112.8.106:17007&u=http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8
+东方影视,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86HD&auth=666858
+东方影视,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&auth=666858
 东方影视,http://A/ku9/py/socks5.py?ip=120.226.12.155:31167&u=http://39.134.13.35:6610/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=lzz123
+东方影视,http://A/ku9/py/socks5.py?ip=223.112.8.106:17007&u=http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8
+东方影视,http://A/ku9/py/socks5.py?ip=120.226.12.155:31167&u=http://39.134.13.35:6610/000000001000/2000000002000000013/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000013&livemode=1&stbId=lzz123
 东方影视,http://139.196.151.191:2051/rtp/239.45.3.237:5140
 东方影视,http://shyd.695847.xyz/cms001/ch00000090990000001016/index.m3u8?IAS
-东方影视,https://shyd.695847.xyz/cms001/ch00000090990000001016/index.m3u8?IAS
