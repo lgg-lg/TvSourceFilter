@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025/12/22-17:22,http://8.138.7.223/tv/shtv.php?id=xwzh
+2025/12/23-05:14,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -571,6 +571,7 @@ CCTV-6,https://stream1.freetv.fun/cctv6-18.ctv
 CCTV-6,https://stream1.freetv.fun/cctv6-29.ctv
 CCTV-6,https://stream1.freetv.fun/cctv6-62.ctv
 CCTV-6,https://stream1.freetv.fun/30115abb88b193bd22c6696fca54ef3d09b0877f82790032faa14cb983f9d191.ctv
+CCTV-6,https://stream1.freetv.fun/cctv6dian-ying-1.ctv
 CCTV-7,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV7&t=1760585411&token=ef4566ffc523128175204c2939d3a5b8
 CCTV-7,http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://gfr.x3322.net:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0

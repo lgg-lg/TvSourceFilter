@@ -218,8 +218,8 @@
 法治天地,http://8.138.250.123:8899/live2.rxip.sc96655.com/live/fztx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 法治天地,http://107.174.47.152:8888/live2.rxip.sc96655.com/live/fztx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 法治天地,http://iptv.666230.xyz/iptv/hnyx.php/fztx
-法治天地,http://171.83.103.119:9999/rtp/239.69.2.10:11214
 法治天地,http://116.237.37.244:8888/rtp/239.45.1.46:5140
+法治天地,http://171.83.103.119:9999/rtp/239.69.2.10:11214
 法治天地,http://www.wmviv.com/iptv/bc2t.php?id=fztd
 法治天地,http://A/ku9/py/cqyxs.py?id=fazhi&ip=113.250.190.81:50277
 法治天地,http://PLTV/ku9/py/socks5.py?ip=114.117.160.73:1212&u=http://live2.rxip.sc96655.com/live/fztx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
