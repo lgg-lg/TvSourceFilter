@@ -73,3 +73,5 @@ CCTV-9,https://stream1.freetv.fun/cctv9-34.ctv
 CCTV-9,https://stream1.freetv.fun/cctv9-37.ctv
 CCTV-9,https://stream1.freetv.fun/cctv9-38.ctv
 CCTV-9,https://stream1.freetv.fun/cctv9-58.ctv
+CCTV-9,https://stream1.freetv.fun/cctv9ji-lu-3.ctv
+CCTV-9,https://stream1.freetv.fun/1e6dd60cbcf0dd3c3f70bcf80636a150c35cfc33e03c39a05e09622a62392c4c.ctv
