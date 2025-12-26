@@ -267,14 +267,11 @@
 哈哈炫动,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225560/01.m3u8?fmt=ts2hls
 哈哈炫动,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236296/index.m3u8
 哈哈炫动,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/01.m3u8
-哈哈炫动,http://118.180.142.32:65535/udp/239.255.29.37:8231
 哈哈炫动,http://www.mila2020.com:4022/udp/239.45.1.55:5140
 哈哈炫动,http://222.82.204.16:8188/udp/238.125.5.106:5140
-哈哈炫动,http://www.kktoo21.com:4022/rtp/239.45.1.55:5140
 哈哈炫动,http://tv.laokhome.cn:19000/rtp/232.0.0.103:1234
 哈哈炫动,http://oec.wzy80119.top:5080/kknews.php?id=hhxd
 哈哈炫动,http://ydn.wzy80119.top:5080/kknews.php?id=hhxd
-哈哈炫动,http://223.167.230.5:4022/rtp/239.45.1.55:5140
 哈哈炫动,http://116.235.57.19:4022/rtp/239.45.1.55:5140
 哈哈炫动,http://a.708d.com:10010/udp/239.45.1.55:5140
 哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-7.ctv
@@ -282,9 +279,10 @@
 哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-21.ctv
 哈哈炫动,https://stream1.freetv.fun/eb5f5043576df8dd2010842c01a50be553e41c876df908dd14018ed306f35411.ctv
 哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1746307365&key=611cf4efea7a3dd2fe1b6a28541bed06
-哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1766690489&key=d7ffbbc227b9b981fb5d93683dd8448c
-哈哈炫动,http://218.86.184.240:8188/rtp/238.255.2.56:5999
+哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1766776898&key=7340efe09c86f2e781ce99fa771fb151
 哈哈炫动,http://220.176.218.76:9000/rtp/239.252.219.43:5140
+哈哈炫动,http://218.86.186.211:8188/rtp/238.255.2.56:5999
+哈哈炫动,http://222.82.200.70:8188/udp/238.125.5.106:5140
 哈哈炫动,http://111.162.207.175:8686/rtp/225.1.1.62:5002
 哈哈炫动,http://yp.qqqtv.top/1/api.php?id=%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8&auth=666858
 哈哈炫动,http://api.mytv666.top/api/qwt.php?t=少儿频道&id=哈哈炫动
@@ -295,4 +293,4 @@
 哈哈炫动,rtsp://118.212.169.134/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
 哈哈炫动,http://119.125.104.73:9901/tsfile/live/1040_1.m3u8
 哈哈炫动,http://cloud.diskcloud.cn:4022/rtp/239.45.1.55:5140
-哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1766618777&key=1d4c33374ef77d224a2ca4538da04e75
+哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1766705163&key=02c7cebd5696f52e21a84e5b11476955

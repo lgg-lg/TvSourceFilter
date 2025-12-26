@@ -178,13 +178,11 @@
 东方财经,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/6880079@BESTV.SMG.SMG
 东方财经,http://ydn.wzy80119.top:5080/bst.php?id=Umai:CHAN/6880079@BESTV.SMG.SMG
 东方财经,http://112.254.55.106:22222/rtp/239.253.254.94:8000
-东方财经,http://www.kktoo21.com:4022/rtp/239.45.0.17:5140
 东方财经,http://116.237.37.244:8888/rtp/239.45.0.17:5140
 东方财经,http://iptv.666230.xyz/iptv/sxg.php/dfcj_4000
 东方财经,http://8.138.250.123:8899/live2.rxip.sc96655.com/live/dfcj_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 东方财经,http://107.174.47.152:8888/live2.rxip.sc96655.com/live/dfcj_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 东方财经,http://iptv.666230.xyz/iptv/hnyx.php/dfcj
-东方财经,http://27.213.77.150:7000/rtp/239.253.254.94:8000
 东方财经,http://115.221.92.20:7777/rtp/233.50.200.177:5140
 东方财经,http://115.221.94.21:7777/rtp/233.50.200.177:5140
 东方财经,http://qgtf.jydjd.top:2903/udp/224.1.100.141:11111

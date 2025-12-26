@@ -26,3 +26,4 @@ CCTV-16,https://stream1.freetv.fun/cctv16-27.ctv
 CCTV-16,https://stream1.freetv.fun/cctv16-6.ctv
 CCTV-16,https://stream1.freetv.fun/cctv16-29.ctv
 CCTV-16,https://stream1.freetv.fun/cctv16-51.ctv
+CCTV-16,https://stream1.freetv.fun/cctv16-40.ctv
