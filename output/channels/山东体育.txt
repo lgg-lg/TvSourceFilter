@@ -72,5 +72,6 @@
 山东体育,https://v.iqilu.com/live/typd/
 山东体育,http://112.254.55.106:22222/rtp/239.253.254.22:8000
 山东体育,http://144.255.32.94:8288/rtp/239.21.1.141:5002
-山东体育,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
+山东体育,http://119.180.18.11:8888/rtp/239.253.254.22:8000
 山东体育,http://139.129.231.228:3529/rtp/239.21.1.141:5002
+山东体育,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
