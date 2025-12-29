@@ -61,3 +61,4 @@
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-211.ctv
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-352.ctv
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-179.ctv
+青海卫视,http://tpc.x3322.net:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0

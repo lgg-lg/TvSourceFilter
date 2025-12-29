@@ -76,3 +76,4 @@
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-95.ctv
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-40.ctv
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-13.ctv
+北京卫视,http://tpc.x3322.net:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0

@@ -32,4 +32,7 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&ampampwsIPSercert=8de23d0849e78e3b16ec92a809235421&ampampwsMonitor=0
 香港卫视,http://106.53.99.30/tv/hk.php?id=xgws
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://123123.667789.cn:88/hls/70/index.m3u8
+香港卫视,http://tv7.667789.cn:88/hls/70/index.m3u8
+香港卫视,http://2323.667789.cn:88/hls/70/index.m3u8
 香港卫视,http://www.hkstv.tv/player/flash/SewisePlayer.swf?autoStart=true&programId=mutfysrq&type=m3u8&serverPath=http://lives.hkstv.tv:5080/api/player/&server=live&volume=1&url=live://lives.hkstv.tv:5080/mutfysrq/hls

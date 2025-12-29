@@ -70,3 +70,4 @@ CCTV-15,https://stream1.freetv.fun/cctv15-20.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-42.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-yin-le-8.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-67.ctv
+CCTV-15,http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0

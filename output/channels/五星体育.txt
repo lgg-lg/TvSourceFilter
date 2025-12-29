@@ -166,7 +166,6 @@
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 五星体育,https://other.chinacert.cftest5.cn/wxty.m3u8
 五星体育,http://cdn3.163189.xyz/163189/wxty
-五星体育,http://yp.qqqtv.top/1/api.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&auth=666858
 五星体育,https://live.catvod.com/iptv.php?id=wxty01
 五星体育,http://cn.yycx.eu.org:12838/sh/wxty
 五星体育,https://181166.xyz/wxty1
