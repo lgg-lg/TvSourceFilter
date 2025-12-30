@@ -19,6 +19,7 @@
 青海卫视,https://stream1.freetv.fun/6e10a4a54db3f7f59614ab6de9f66a2a0b678e551e77ef9040af1d5fc2ceae2e.ctv
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-104.ctv
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-55.ctv
+青海卫视,http://tpc.x3322.net:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://www.hkyc.site:1991/udp/239.253.64.46:5140
 青海卫视,http://gfr.x3322.net:9901/tsfile/live/1045_1.m3u8
 青海卫视,http://k.061899.xyz/m.php?id=qhws
@@ -61,4 +62,3 @@
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-211.ctv
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-352.ctv
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-179.ctv
-青海卫视,http://tpc.x3322.net:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0

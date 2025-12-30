@@ -65,3 +65,5 @@
 天津卫视,https://stream1.freetv.fun/12bd529a4a4c275fc29906844719e95cac5107e284e27b33671bcf2f3c0a0ee6.ctv
 天津卫视,https://stream1.freetv.fun/bd982d0df8a512e59cf3ec145f179752510c2d5717237a175beaa7f548147059.ctv
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-53.ctv
+天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-72.ctv
+天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-11.ctv

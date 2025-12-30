@@ -308,14 +308,13 @@ CETV-1,http://iptv.666230.xyz/iptv/sxg.php/CETV-1H264_4000
 CETV-1,http://8.138.250.123:8899/live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CETV-1,http://107.174.47.152:8888/live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CETV-1,http://iptv.666230.xyz/iptv/hnyx.php/CETV1
-CETV-1,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=20251230040215c3c01c75fd1f45f78d2016b6ebb798c9&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139×tamp=20251230040215&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20251230040215&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=552886f0e2352d484ef6106031001e10&sv=10004&ct=android
-CETV-1,http://[2409:8087:5804:11::411:1075]:8088/PLTV/81/224/3221226673/1.m3u8
+CETV-1,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=202512310402382b3bf47230674484acbf6ae97d4bbb09&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139×tamp=20251231040238&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20251231040238&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e26cc2612308f573fdf01f8e01fdb14b&sv=10004&ct=android
 CETV-1,http://api.mytv666.top/api/qwt.php?t=少儿频道&id=CETV1
 CETV-1,http://migu.youdu.fan:8008/923287154
 CETV-1,http://218.206.221.78:90/hls/19/index.m3u8
 CETV-1,http://113.105.155.20:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CETV-1,https://mgtv.ottiptv.cc/mg/923287154.m3u8?userid=5559462299&sign=dd58b531c607768a45d8e9cac01edccacd5bd96e3d6d28c189e2bd8c3225c30dcc2a46bd8e0fd1dd7f7e624421d34053f5146141a0bed0a9c1eefbfdc34dc3ffa8af76b0eeb7efb84a41715d54c20f7152&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CETV-1,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=20251229040239cfd8fe8ed4df4a56b56be05382ff60bb&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139×tamp=20251229040239&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20251229040239&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c7f3a5426753a5e1ed48febb1513be7e&sv=10004&ct=android
+CETV-1,https://mgtv.ottiptv.cc/mg/923287154.m3u8?userid=5559462299&sign=9c31dbaeb123a3826a10f868ea798cdd35f5492cabb011b1f23bb4ad264679f692437f80fb36cf7147b60977a3471f24ad7c1aa7b5e535843761a2db2469bb9acee6301a8ca96ca1e2028ceaf05911de1f&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CETV-1,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=20251230040215c3c01c75fd1f45f78d2016b6ebb798c9&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139×tamp=20251230040215&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20251230040215&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=552886f0e2352d484ef6106031001e10&sv=10004&ct=android
 CETV-1,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/.m3u8
 CETV-1,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/.m3u8
 CETV-1,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/.m3u8
@@ -327,7 +326,6 @@ CETV-1,http://qgtf.jydjd.top:2903/udp/224.1.100.108:11111
 CETV-1,http://www.lnlee.top:65535/udp/239.81.0.92:4056
 CETV-1,http://cloud.diskcloud.cn:4022/rtp/239.45.1.125:5140
 CETV-1,http://120.87.4.14:80/PLTV/88888973/224/3221225701/10000100000000060000000000334092_0.smil/01.m3u8?fmt=ts2hls
-CETV-1,http://171.113.210.161:4022/rtp/239.69.1.110:10298
-CETV-1,http://112.66.100.35:4022/rtp/239.253.64.169:5140
+CETV-1,http://112.66.96.172:4022/rtp/239.253.64.169:5140
 CETV-1,http://120.55.49.231:3095/rtp/233.50.201.75:5140
-CETV-1,https://mgtv.ottiptv.cc/mg/923287154.m3u8?userid=5559462299&sign=9c31dbaeb123a3826a10f868ea798cdd35f5492cabb011b1f23bb4ad264679f692437f80fb36cf7147b60977a3471f24ad7c1aa7b5e535843761a2db2469bb9acee6301a8ca96ca1e2028ceaf05911de1f&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CETV-1,https://mgtv.ottiptv.cc/mg/923287154.m3u8?userid=5559462299&sign=271b82a0f9144024097589decfcd2de5a99f1f22d7c849206ec5b8959c563c10052f31d6aa40d8178b9e52116b12e902e6dab86d708afec3dc599d0c2ad7a4b341b722e2ab335b95eacb33658392d1b7a7&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8

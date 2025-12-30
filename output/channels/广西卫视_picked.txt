@@ -20,6 +20,7 @@
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-52.ctv
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-32.ctv
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-43.ctv
+广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=09
 广西卫视,http://www.hkyc.site:1991/udp/239.253.64.45:5140
 广西卫视,http://gfr.x3322.net:9901/tsfile/live/1043_1.m3u8
 广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv
@@ -50,4 +51,3 @@
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-12.ctv
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-82.ctv
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-51.ctv
-广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=09
