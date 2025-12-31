@@ -266,7 +266,6 @@
 哈哈炫动,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225560/01.m3u8?fmt=ts2hls
 哈哈炫动,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236296/index.m3u8
 哈哈炫动,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/01.m3u8
-哈哈炫动,http://222.82.200.70:8188/udp/238.125.5.106:5140
 哈哈炫动,http://tv.laokhome.cn:19000/rtp/232.0.0.103:1234
 哈哈炫动,http://oec.wzy80119.top:5080/kknews.php?id=hhxd
 哈哈炫动,http://ydn.wzy80119.top:5080/kknews.php?id=hhxd
@@ -276,10 +275,10 @@
 哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-21.ctv
 哈哈炫动,https://stream1.freetv.fun/eb5f5043576df8dd2010842c01a50be553e41c876df908dd14018ed306f35411.ctv
 哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1746307365&key=611cf4efea7a3dd2fe1b6a28541bed06
-哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1767122556&key=b02275f1876cc23fe7e05ddb0ffaa4ba
+哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1767208901&key=a1acd657413e1bbe6a2a0c4b00c3a444
+哈哈炫动,http://117.12.149.204:4022/rtp/225.1.1.62:5002
 哈哈炫动,http://220.176.218.76:9000/rtp/239.252.219.43:5140
 哈哈炫动,http://111.162.204.64:8686/rtp/225.1.1.62:5002
-哈哈炫动,http://117.12.149.204:4022/rtp/225.1.1.62:5002
 哈哈炫动,http://api.mytv666.top/api/qwt.php?t=少儿频道&id=哈哈炫动
 哈哈炫动,http://139.129.231.228:3529/rtp/239.21.1.51:5002
 哈哈炫动,http://shyd.695847.xyz/cms001/ch00000090990000001232/index.m3u8?IAS
@@ -288,4 +287,4 @@
 哈哈炫动,rtsp://118.212.169.134/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
 哈哈炫动,http://119.125.104.73:9901/tsfile/live/1040_1.m3u8
 哈哈炫动,http://cloud.diskcloud.cn:4022/rtp/239.45.1.55:5140
-哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1767050771&key=cf57512f625bd5a40b649f7c471de6a9
+哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1767137138&key=3867ed74bc81ac39f37ced9db441a151

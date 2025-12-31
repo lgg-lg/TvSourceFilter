@@ -78,3 +78,4 @@ CCTV-8,https://stream1.freetv.fun/cctv8-67.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-39.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-dian-shi-ju-9.ctv
 CCTV-8,http://gfr.x3322.net:9901/tsfile/live/1007_1.m3u8
+CCTV-8,https://stream1.freetv.fun/cctv8-16.ctv
