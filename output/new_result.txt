@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/01/03-17:14,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/01/04-05:13,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -55,6 +55,7 @@ CCTV-1,http://go.bkpcp.top/mg/CCTV-1
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1
 CCTV-1,http://t.061899.xyz/tl/tl.php?id=cctv1
 CCTV-1,http://t.061899.xyz/tl/dq.php?id=cctv1
+CCTV-1,http://222.135.142.75:3283/tsfile/live/0001_1.m3u8
 CCTV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1760585411&token=b62ec217c9ea32b3ba58ffee43c1e567
 CCTV-2,http://k.061899.xyz/m.php?id=cctv2&key=txiptv&playlive=1&authid=0
 CCTV-2,http://gfr.x3322.net:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -933,6 +934,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 湖北卫视,http://k.061899.xyz/m.php?id=hubws
 湖北卫视,http://t.061899.xyz/tl/dq.php?id=hubws
 湖北卫视,https://stream1.freetv.fun/d624845bae92dcd8ae15384141ea8ed6ceb2c96b8a3fe32564f7f295feff46f4.ctv
+湖北卫视,https://stream1.freetv.fun/37aa38a997eb8e568186fad85670c3a3a6684361c2b038c5cd0d0835216f299b.ctv
 黑龙江卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1760585411&token=2632b230666c41bb5b8af3046bd61e23
 黑龙江卫视,http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://61.156.228.12:8154/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1295,9 +1297,9 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 吉林卫视,http://113.15.109.216:59901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.ctv
 吉林卫视,http://113.15.109.216:59901/tsfile/live/0116_1.m3u8
+吉林卫视,http://k.061899.xyz/m.php?id=jlws
 吉林卫视,http://8.138.7.223/tv/hot.php?id=25
 吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
-吉林卫视,http://k.061899.xyz/m.php?id=jlws
 吉林卫视,http://t.061899.xyz/tl/dq.php?id=jlws
 江苏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1760585411&token=412e52dfa0d4a0ededcc0bfe869e3e17
 江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1657,8 +1659,8 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 三沙卫视,http://tpc.x3322.net:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-40.ctv
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-48.ctv
-三沙卫视,http://8.138.7.223/tv/hot.php?id=55
 三沙卫视,http://8.138.7.223/tv/hainan.php?id=ssws
+三沙卫视,http://8.138.7.223/tv/hot.php?id=55
 天津卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1760585411&token=aa43cbae48c98840bf5ba8f257bb9b96
 天津卫视,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://gfr.x3322.net:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0

@@ -34,3 +34,4 @@
 湖北卫视,http://k.061899.xyz/m.php?id=hubws
 湖北卫视,http://t.061899.xyz/tl/dq.php?id=hubws
 湖北卫视,https://stream1.freetv.fun/d624845bae92dcd8ae15384141ea8ed6ceb2c96b8a3fe32564f7f295feff46f4.ctv
+湖北卫视,https://stream1.freetv.fun/37aa38a997eb8e568186fad85670c3a3a6684361c2b038c5cd0d0835216f299b.ctv

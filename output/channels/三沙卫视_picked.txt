@@ -11,5 +11,5 @@
 三沙卫视,http://tpc.x3322.net:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-40.ctv
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-48.ctv
-三沙卫视,http://8.138.7.223/tv/hot.php?id=55
 三沙卫视,http://8.138.7.223/tv/hainan.php?id=ssws
+三沙卫视,http://8.138.7.223/tv/hot.php?id=55
