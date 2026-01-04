@@ -13,8 +13,8 @@
 海南卫视,https://stream1.freetv.fun/hai-nan-wei-shi-28.ctv
 海南卫视,http://go.bkpcp.top/mg/hinws
 海南卫视,https://stream1.freetv.fun/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.ctv
+海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws
 海南卫视,http://k.061899.xyz/m.php?id=hinws
 海南卫视,http://t.061899.xyz/tl/dq.php?id=hinws
 海南卫视,http://8.138.7.223/tv/hot.php?id=39
 海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
-海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws
