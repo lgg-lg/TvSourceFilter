@@ -167,8 +167,8 @@
 哈哈炫动,http://aklim.f3322.net:18885/rtp/239.45.3.187:5140
 哈哈炫动,http://ds3622.guangyuan.site:8188/rtp/239.77.1.139:5146
 哈哈炫动,https://live.kankanews.com/huikan?tag=哈哈炫动
-哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1767641187&key=99749187724808b5d33d52ca64aba3cb
+哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1767727363&key=c79f04535349bbd9c6f9cfc75c695b3a
 哈哈炫动,http://111.162.204.145:8686/rtp/225.1.1.62:5002
 哈哈炫动,http://139.196.151.191:2051/rtp/239.45.1.55:5140
-哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1767569210&key=f1635e6898f85506a79afe797e645500
+哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1767655621&key=59030963fd62ace44baf118b88ec6107
 哈哈炫动,http://8.138.7.223/api/ipv6.php?id=116&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
