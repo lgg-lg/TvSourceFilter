@@ -54,8 +54,8 @@
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-5.m3u8
 上海纪实,https://stream1.freetv.fun/shang-hai-ji-shi-ren-wen-1.m3u8
 上海纪实,http://ik.kimkimkk.top:2222/rtp/239.0.1.242:5111
-上海纪实,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1767727363&key=0560614b6262de9eb1d0be7ee2e221a2
-上海纪实,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1767655621&key=5afcaeece092cfcb333617dbd82c114d
+上海纪实,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1767813985&key=b218f9ebd216367041e9a7daaaa5b13a
+上海纪实,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1767742069&key=d1823d9d415a64f1dcba6a91b0e81c72
 上海纪实,http://kkk.888.3116598.xyz/api.php?n=tttt&id=lbKb6q&tk=FgM0vQMejxvG
 上海纪实,http://nas.201606.xyz:4022/udp/239.10.0.192:5140
 上海纪实,http://221.221.153.193:8888/rtp/239.3.1.212:8060
