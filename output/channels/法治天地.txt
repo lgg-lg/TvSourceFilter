@@ -119,11 +119,10 @@
 法治天地,http://nas.dous.cc:4023/rtp/233.50.201.191:5140
 法治天地,http://ntdd.rdswkj.cn:8888/rtp/239.49.0.96:8000
 法治天地,http://nas.uclive.site:8000/rtp/239.93.42.96:5140
-法治天地,rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch16051316234089749497.rsc/96400_Uni.sdp
-法治天地,rtsp://139.215.98.88/PLTV/88888888/224/3221225880/10000100000000060000000015948516_0.smil
-法治天地,http://218.78.179.62:7777/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 法治天地,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
 法治天地,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.75:8444
+法治天地,http://218.78.179.62:7777/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+法治天地,rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch16051316234089749497.rsc/96400_Uni.sdp
 法治天地,http://139.196.151.191:2051/rtp/239.45.1.46:5140
 法治天地,http://8.138.7.223/api/05tiyu.php?id=fztd&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 法治天地,http://8.138.7.223/api/29cq.php?id=97&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
