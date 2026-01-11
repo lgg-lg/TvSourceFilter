@@ -62,6 +62,3 @@
 山东体育,http://222.134.245.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,https://v.iqilu.com/live/typd/
 山东体育,https://stream1.freetv.fun/7662bf20ec19b22bc26a118f1918354e92b986fc3ad7e2a76884fac7791e0021.ctv
-山东体育,http://hailin0505.asia:6699/rtp/239.21.1.58:5002
-山东体育,http://hailin0505.asia:6699/rtp/239.21.1.141:5002
-山东体育,rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10111720502861127519.rsc/70066_Uni.sdp
