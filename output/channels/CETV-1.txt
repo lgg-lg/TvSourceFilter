@@ -136,9 +136,8 @@ CETV-1,http://nas.cdbackup.cn:8888/rtp/239.94.1.2:5140
 CETV-1,http://ikuai.huase.ltd:8888/rtp/239.77.1.222:5146
 CETV-1,http://guyue0227.eicp.net:35455/mgtv/923287154.m3u8
 CETV-1,http://nat.x3322.net:8181/rtp/239.49.8.115:8000
-CETV-1,http://39.152.103.17:8089/tsfile/live/1050_1.m3u8?down=1
 CETV-1,http://113.104.184.160:7088/udp/239.77.1.222:5146
-CETV-1,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=202601120402380a47460c5cc748e294f42d083f4fc818&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139×tamp=20260112040238&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20260112040238&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bcc1e65d74fc334580f52f6c0425d9c7&sv=10004&ct=android
+CETV-1,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=202601130402169f40d6f328e34c30a8a0b5526ad98d66&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139×tamp=20260113040216&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20260113040216&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0277b0fe114fd5d8620aa4d18b971f5d&sv=10004&ct=android
 CETV-1,http://120.76.248.139/live/bfgd/4200000135.m3u8
 CETV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 CETV-1,http://markk.top:35455/itv/5000000002000002652.m3u8?cdn=ystenlive
@@ -197,12 +196,13 @@ CETV-1,http://zb.pl10000.top/7297_1768013276584.m3u8
 CETV-1,http://zb.pl10000.top/7385_1768013276584.m3u8
 CETV-1,http://zb.pl10000.top/7468_1768013276584.m3u8
 CETV-1,http://zb.pl10000.top/7596_1768013276584.m3u8
-CETV-1,http://hailin0505.asia:6699/rtp/239.21.2.7:5002
-CETV-1,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=2026011104021556b0081d8a484786a0ec60b447344de6&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139×tamp=20260111040215&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20260111040215&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5b4b196944e05c3e2a8cf279ce1919f3&sv=10004&ct=android
+CETV-1,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=202601120402380a47460c5cc748e294f42d083f4fc818&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139×tamp=20260112040238&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20260112040238&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bcc1e65d74fc334580f52f6c0425d9c7&sv=10004&ct=android
 CETV-1,http://219.150.217.47:6610/PLTV1/400/index.m3u8?icpid=dxrm1
 CETV-1,https://diyp.store/GQ/cetv1
 CETV-1,http://39.152.103.17:8089/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&down=1
 CETV-1,http://120.87.4.14:80/PLTV/88888973/224/3221225701/10000100000000060000000000334092_0.smil/01.m3u8?fmt=ts2hls
+CETV-1,http://39.152.103.17:8089/tsfile/live/1050_1.m3u8?down=1
+CETV-1,http://112.66.97.242:4022/rtp/239.253.64.169:5140
 CETV-1,http://8.138.7.223/api/00migu.php?id=89&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 CETV-1,http://8.138.7.223/api/29cq.php?id=19&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 CETV-1,http://8.138.7.223/api/ipv6.php?id=16&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
