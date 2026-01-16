@@ -1,2 +1,3 @@
 欢笑剧场,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA&t=1760585411&token=90477e182f3bc05eb57542834d825a0a
 欢笑剧场,https://epg.pw/stream/c26de373680830b38e7b3f0da2f920353f298e3369addfe68b8e4a2e3811a12b.ctv
+欢笑剧场,http://106.53.99.30/tv/migu.php?id=hxjc
