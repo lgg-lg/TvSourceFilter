@@ -190,11 +190,9 @@ CETV-1,http://izihao.cn:9977/rtp/239.93.1.75:5140
 CETV-1,http://dsm.cyruslee.top:8888/rtp/239.77.0.200:5146
 CETV-1,http://aklim.f3322.net:18885/rtp/239.45.1.51:5140
 CETV-1,http://47.122.76.97:3000/923287154
-CETV-1,http://39.106.167.36/migu.php?id=923287154
-CETV-1,http://zb.pl10000.top/3280_1768272749575.m3u8
-CETV-1,http://zb.pl10000.top/5994_1768272749575.m3u8
-CETV-1,http://120.87.4.14:80/PLTV/88888973/224/3221225701/10000100000000060000000000334092_0.smil/01.m3u8?fmt=ts2hls
 CETV-1,http://113.104.184.181:7088/udp/239.77.1.222:5146
+CETV-1,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=202601180202335bbc8c328e874d38b44e617ddf09f998&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139×tamp=20260118020233&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20260118020233&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e3e3b4c47e6e53b1dd3d4ac446227777
+CETV-1,http://39.106.167.36/migu.php?id=923287154
 CETV-1,http://zb.pl10000.top/130_1768532102486.m3u8
 CETV-1,http://zb.pl10000.top/269_1768532102486.m3u8
 CETV-1,http://zb.pl10000.top/411_1768532102486.m3u8
@@ -243,6 +241,8 @@ CETV-1,http://zb.pl10000.top/7211_1768532102486.m3u8
 CETV-1,http://zb.pl10000.top/7340_1768532102486.m3u8
 CETV-1,http://zb.pl10000.top/7428_1768532102486.m3u8
 CETV-1,http://zb.pl10000.top/7511_1768532102486.m3u8
+CETV-1,http://120.87.4.14:80/PLTV/88888973/224/3221225701/10000100000000060000000000334092_0.smil/01.m3u8?fmt=ts2hls
+CETV-1,http://112.66.103.18:4022/rtp/239.253.64.169:5140
 CETV-1,http://8.138.7.223/api/00migu.php?id=89&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 CETV-1,http://8.138.7.223/api/29cq.php?id=19&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 CETV-1,http://8.138.7.223/api/ipv6.php?id=16&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
