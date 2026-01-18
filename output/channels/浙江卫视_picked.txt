@@ -51,3 +51,4 @@
 浙江卫视,http://106.53.99.30/tv/hot.php?id=zjws
 浙江卫视,http://8.138.7.223/tv/zjws4k.php
 浙江卫视,https://stream1.freetv.fun/7f280c90c0c7647b6816a25c4b4ec1732c7d84bd85d08cdd5f60489b14d7e33f.ctv
+浙江卫视,https://stream1.freetv.fun/684376a6194a203a589e0d3507e50306093a681047673968c2bce8ff573f366a.ctv
