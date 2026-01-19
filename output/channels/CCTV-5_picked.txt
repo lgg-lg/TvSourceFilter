@@ -45,3 +45,4 @@ CCTV-5,http://t.061899.xyz/tl/tl.php?id=cctv5
 CCTV-5,http://8.138.7.223/tv/hot.php?id=5
 CCTV-5,http://106.53.99.30/tv/migu.php?id=cctv5
 CCTV-5,http://106.53.99.30/tv/hot.php?id=cctv5
+CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1004_1.m3u8
