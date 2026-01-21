@@ -123,9 +123,9 @@
 五星体育,http://op.aklim.dpdns.org:18885/rtp/239.45.3.112:5140
 五星体育,https://other.chinacert.cftest5.cn/wxty.m3u8
 五星体育,http://k.061899.xyz/m.php?id=wxty
+五星体育,http://43.251.226.89:8080/play/1864.m3u8
+五星体育,http://43.251.226.89:8080/play/962.m3u8
 五星体育,http://cdn3.163189.xyz/163189/wxty
-五星体育,http://43.251.226.89:9003/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
-五星体育,https://tv1288.xyz/shanghai.php?id=wxty
 五星体育,http://8.138.7.223/api/05tiyu.php?id=wxty&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 五星体育,http://8.138.7.223/api/18sh.php?id=xwty&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 五星体育,http://8.138.7.223/api/18sh.php?id=1605&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
