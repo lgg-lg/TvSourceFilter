@@ -207,7 +207,8 @@ CETV-4,http://zb.pl10000.top/7837_1768272749575.m3u8
 CETV-4,http://tony.f3322.net:4023/rtp/233.50.201.172:5140
 CETV-4,http://www.otangtang.com:38848/rtp/239.3.1.56:4120
 CETV-4,http://1501.lijiuyu.baby:9999/rtp/239.253.224.116:8000
-CETV-4,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=2026012104021767510575699a4bab822e63909ed7fe52&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139×tamp=20260121040217&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260121040217&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c7f21bd566fac446e680c4bbf82b7aae
+CETV-4,http://112.66.97.249:4022/rtp/239.253.64.139:5140
+CETV-4,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=202601220402067cfc7bdfe27142ad9b480dfe9b3d741a&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139×tamp=20260122040206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260122040206&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d227270764b374347ca62639d89594a1
 CETV-4,http://43.251.226.89:8080/play/103.m3u8
 CETV-4,http://43.251.226.89:8080/play/231.m3u8
 CETV-4,http://43.251.226.89:8080/play/343.m3u8
@@ -249,10 +250,13 @@ CETV-4,http://zb.pl10000.top/6870_1768791721041.m3u8
 CETV-4,http://zb.pl10000.top/6999_1768791721041.m3u8
 CETV-4,http://zb.pl10000.top/7087_1768791721041.m3u8
 CETV-4,http://zb.pl10000.top/7170_1768791721041.m3u8
-CETV-4,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=202601200402167bf7a02fbb68454990aa43b043255519&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139×tamp=20260120040216&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260120040216&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=ZQ-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e3e7376c6cea9653edea099822743ee2
-CETV-4,http://113.104.184.181:7088/udp/239.253.43.40:5146
-CETV-4,http://112.66.97.249:4022/rtp/239.253.64.139:5140
-CETV-4,https://mgtv.ottiptv.cc/mg/923287339.m3u8?userid=5559462299&sign=8248c446ff59ed5d16058d0a153fee5f57267e6eba8353b470494e2c6c4d3bb4d158539d3812dcacb5707da037f732a2cdd376f2e1d10c009a2132a61422689c35769d568cbd6742a8879d78a1eb36a99e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CETV-4,https://mgtv.ottiptv.cc/mg/923287339.m3u8?userid=5559462299&sign=134a2fe736c18d7fae2af590ec737c47e93b2d1e834c73eceb384a38e95c95aad83b515fe374b241a058427c68a9d3b57ceba5a1d8d2cdcf6acc400498a28080dcd4ced1185d4207367b5cff62545d7b03&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CETV-4,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=2026012104021767510575699a4bab822e63909ed7fe52&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139×tamp=20260121040217&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260121040217&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c7f21bd566fac446e680c4bbf82b7aae
+CETV-4,http://116.76.20.122:3000/923287339
+CETV-4,http://58.23.113.44:3000/923287339
+CETV-4,http://101.43.65.98:5002/923287339
+CETV-4,http://121.29.141.237:4022/rtp/239.253.92.200:6137
+CETV-4,https://mgtv.ottiptv.cc/mg/923287339.m3u8?userid=5559462299&sign=2414ab4cfbdfa7100097fd94d37943e58f91817b129309d7e4a9ed3f6b2cf593c60c4a1e0796ff6a9338f6050115fe04a26b4b483ca1df0b0faa38f72e01b8fa7406a84dcf8935bbd4a28c48477c5e060c&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CETV-4,http://8.138.7.223/api/00migu.php?id=91&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 CETV-4,http://8.138.7.223/api/29cq.php?id=20&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 CETV-4,http://8.138.7.223/api/ipv6.php?id=17&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

@@ -119,7 +119,8 @@ CETV-2,http://otangtang.com:38848/rtp/239.3.1.54:4120
 CETV-2,http://guyue0227.eicp.net:35455/mgtv/923287211.m3u8
 CETV-2,http://www.otangtang.com:38848/rtp/239.3.1.54:4120
 CETV-2,http://ikuai.cyruslee.top:8888/rtp/239.77.0.28:5146
-CETV-2,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=20260121040216d3e124f5ad4b41c183d5c9a6fc95625d&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139×tamp=20260121040216&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=218.28.233.106&SecurityKey=20260121040216&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e014d67f4c3b71eec34cd7ccf6ac12f7
+CETV-2,http://112.66.97.249:4022/rtp/239.253.64.128:5140
+CETV-2,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=20260122040206301a559f8800497faa7386afc8fa93dd&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139×tamp=20260122040206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=218.28.233.106&SecurityKey=20260122040206&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4c4687323335b778eeb125b12c366706
 CETV-2,http://43.251.226.89:8080/play/102.m3u8
 CETV-2,http://43.251.226.89:8080/play/230.m3u8
 CETV-2,http://43.251.226.89:8080/play/342.m3u8
@@ -155,7 +156,10 @@ CETV-2,http://zb.pl10000.top/6869_1768791721041.m3u8
 CETV-2,http://zb.pl10000.top/6998_1768791721041.m3u8
 CETV-2,http://zb.pl10000.top/7086_1768791721041.m3u8
 CETV-2,http://zb.pl10000.top/7169_1768791721041.m3u8
-CETV-2,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=20260120040215c4474e4403a642cd8279a1a09eac6b1b&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139×tamp=20260120040215&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=218.28.233.106&SecurityKey=20260120040215&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=ZQ-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=24350df2765fbbbe08ffc1b73676b6a1
-CETV-2,http://112.66.97.249:4022/rtp/239.253.64.128:5140
-CETV-2,https://mgtv.ottiptv.cc/mg/923287211.m3u8?userid=5559462299&sign=4a640fb1f7bd0356522b39c123319cdea25697c0671b1d4583da63e1594b3afa1673be9522fa89dced644669d1380b138b8d16927eb293da6493e03380d10b4ccd4de48555ccbe1ba810c79be0fb8bf9f6&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CETV-2,https://mgtv.ottiptv.cc/mg/923287211.m3u8?userid=5559462299&sign=8758cd7a4dbd2e0325891b70244d54f45a74da131e17b3aad456c129e4391d2c449bcf075d1f281e9b82ebc9306fe62093bff0521283c99d15941c43f47fb5bc5027559b0a8ff5cd575118d51bd8134f03&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CETV-2,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=20260121040216d3e124f5ad4b41c183d5c9a6fc95625d&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139×tamp=20260121040216&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=218.28.233.106&SecurityKey=20260121040216&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e014d67f4c3b71eec34cd7ccf6ac12f7
+CETV-2,http://116.76.20.122:3000/923287211
+CETV-2,http://58.23.113.44:3000/923287211
+CETV-2,http://101.43.65.98:5002/923287211
+CETV-2,https://mgtv.ottiptv.cc/mg/923287211.m3u8?userid=5559462299&sign=afbfa8af98817fad97871047ccf340cedd85eb66e5fcfb0abc68268b9de84b633c708fa8788bfaf9604cfc9e0300659326e4f9102d50263b3ebd4aca2c80dc6a28fe33ea3c7de4c34b7bbd3a34ef391cf3&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CETV-2,http://8.138.7.223/api/00migu.php?id=90&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
