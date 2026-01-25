@@ -37,3 +37,4 @@
 北京卫视,http://t.061899.xyz/tl/dq.php?id=bjws
 北京卫视,http://106.53.99.30/tv/bj.php?id=bjws
 北京卫视,https://stream1.freetv.fun/81a83aae5e098095fc514c5ab802f00c5a651b3846694b4ad69e3fb649ed270a.ctv
+北京卫视,https://stream1.freetv.fun/217f4f75f9a74bf1809629bcbb3fa197c1ba1b4ba529514de80cde5171e972a0.ctv

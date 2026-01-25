@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/01/25-17:15,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/01/26-06:09,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -619,6 +619,7 @@ CCTV-13,https://stream1.freetv.fun/cctv13-xin-wen-1.ctv
 CCTV-13,http://8.138.7.223/tv/hot.php?id=13
 CCTV-13,http://go.bkpcp.top/mg/CCTV-13
 CCTV-13,http://106.53.99.30/tv/migu.php?id=cctv13
+CCTV-13,https://stream1.freetv.fun/51dbba5d6fb14a64d6d3fdb79397952ab84f6d88d43b7d0e607c7f3c7a13110d.ctv
 CCTV-14,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1760585411&token=80bd93b5d36b1ec98fcd22d9f926ee09
 CCTV-14,http://gfr.x3322.net:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://gfr.x3322.net:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -953,6 +954,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 北京卫视,http://t.061899.xyz/tl/dq.php?id=bjws
 北京卫视,http://106.53.99.30/tv/bj.php?id=bjws
 北京卫视,https://stream1.freetv.fun/81a83aae5e098095fc514c5ab802f00c5a651b3846694b4ad69e3fb649ed270a.ctv
+北京卫视,https://stream1.freetv.fun/217f4f75f9a74bf1809629bcbb3fa197c1ba1b4ba529514de80cde5171e972a0.ctv
 湖北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1760585411&token=76eddfe13eada736839871329aad9dac
 湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1054,6 +1056,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-8.ctv
 安徽卫视,http://8.138.7.223/tv/hot.php?id=30
 安徽卫视,https://stream1.freetv.fun/5b4822a5ec2db203657ad69a37c8ee684490003ec64dfd80eb0c8074110f60e2.ctv
+安徽卫视,https://stream1.freetv.fun/aa9b31c1dbeffb511830532e0b8f1413b48dd2c61e59e843d19ba9fc3a073241.ctv
 重庆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&t=1760585411&token=fc2696781f430077931fa3a39ae4710e
 重庆卫视,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://61.156.228.12:8154/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1088,6 +1091,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 重庆卫视,http://8.138.7.223/tv/hot.php?id=40
 重庆卫视,http://106.53.99.30/tv/migu.php?id=cqws
 重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
+重庆卫视,https://stream1.freetv.fun/db87bc979d1c5004a4b6403aa42c8cc09da751ecd2f1cf27806cf13032ea15e4.ctv
 东方卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&t=1760585411&token=f0b2febef0508ac20723821acaeb085c
 东方卫视,http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://gfr.x3322.net:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1222,6 +1226,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-32.ctv
 广西卫视,http://8.138.7.223/tv/hot.php?id=38
 广西卫视,http://106.53.99.30/tv/migu.php?id=gxws
+广西卫视,https://stream1.freetv.fun/5206e64f138db7c8f7dead5969aeb89c1a5d7ef0fa8d70add327de43d73b43e9.ctv
 贵州卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&t=1760585411&token=0655dcaaa41cfb56b94f990d998af551
 贵州卫视,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://k.061899.xyz/m.php?id=gzws&key=txiptv&playlive=1&authid=0
@@ -1635,6 +1640,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 山东卫视,https://stream1.freetv.fun/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e78fab5.ctv
 山东卫视,http://k.061899.xyz/m.php?id=sdws
 山东卫视,http://8.138.7.223/tv/hot.php?id=33
+山东卫视,https://stream1.freetv.fun/220190fbb76291005f7129d1553ddad9ecc1d70bceaeca80ca0caef936c06861.ctv
 山西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1760585411&token=90c270ada4720f2c2d561a1133b58a6a
 山西卫视,http://gfr.x3322.net:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://hbhyjq.ufyct.com:1088/hls/35/index.m3u8?key=txiptv&playlive=1&authid=0
