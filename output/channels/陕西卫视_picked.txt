@@ -28,3 +28,4 @@
 陕西卫视,https://stream1.freetv.fun/7517849cd4d20cc5a453b323e1c8bad351b562c44ec9a84313866e59c177ccf6.ctv
 陕西卫视,http://8.138.7.223/tv/hot.php?id=45
 陕西卫视,http://106.53.99.30/tv/migu.php?id=sxws
+陕西卫视,https://stream1.freetv.fun/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.ctv
