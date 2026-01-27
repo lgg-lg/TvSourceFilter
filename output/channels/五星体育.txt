@@ -125,6 +125,7 @@
 五星体育,https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=wxty
 五星体育,http://k.061899.xyz/m.php?id=wxty
 五星体育,http://43.251.226.89:8080/play/1344.m3u8
+五星体育,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=wxty
 五星体育,http://43.251.226.89:9003/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 五星体育,http://8.138.7.223/api/05tiyu.php?id=wxty&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 五星体育,http://8.138.7.223/api/18sh.php?id=xwty&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

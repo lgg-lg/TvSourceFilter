@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/01/27-17:26,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/01/28-05:13,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1643,8 +1643,8 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 山东卫视,http://106.53.99.30/tv/hot.php?id=sdws
 山东卫视,http://113.15.109.216:59901/tsfile/live/0131_1.m3u8
 山东卫视,http://106.53.99.30/tv/migu.php?id=sdws
-山东卫视,https://stream1.freetv.fun/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e78fab5.ctv
 山东卫视,http://k.061899.xyz/m.php?id=sdws
+山东卫视,https://stream1.freetv.fun/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e78fab5.ctv
 山东卫视,http://8.138.7.223/tv/hot.php?id=33
 山东卫视,https://stream1.freetv.fun/220190fbb76291005f7129d1553ddad9ecc1d70bceaeca80ca0caef936c06861.ctv
 山西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1760585411&token=90c270ada4720f2c2d561a1133b58a6a
