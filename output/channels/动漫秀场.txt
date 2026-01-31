@@ -164,8 +164,10 @@
 动漫秀场,http://xnnas.com:4023/rtp/233.50.200.12:5140
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-5.ctv
 动漫秀场,http://op.aklim.dpdns.org:18885/rtp/239.45.3.134:5140
-动漫秀场,http://118.78.196.26:55555/rtp/226.0.2.183:9376
+动漫秀场,http://118.78.196.27:55555/rtp/226.0.2.183:9376
+动漫秀场,http://58.46.71.91:8188/udp/239.76.254.70:9000
+动漫秀场,http://111.162.204.109:8686/rtp/225.1.1.134:5002
+动漫秀场,http://160.202.238.87:12395/live2.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8?E&U&A&K&P&S
 动漫秀场,mitv://generationnexxxt.com:19806/b04bd3e03b1747aab44579ca81c664c8
-动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8
 动漫秀场,http://8.138.7.223/api/29cq.php?id=72&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 动漫秀场,http://8.138.7.223/api/ipv6.php?id=115&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

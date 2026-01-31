@@ -21,13 +21,13 @@
 重庆卫视,http://218.17.33.178:53290/tsfile/live/0142_1.m3u8?key=txiptv
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-69.ctv
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-86.ctv
+重庆卫视,http://k.061899.xyz/m.php?id=cqws
 重庆卫视,http://153.0.171.163:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://113.15.109.216:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://106.53.99.30/tv/hot.php?id=cqws
 重庆卫视,http://t.061899.xyz/tl/dq.php?id=cqws
 重庆卫视,http://go.bkpcp.top/mg/cqws
 重庆卫视,https://stream1.freetv.fun/2af0c7392453c9de383e05a4ae3af9a959fb2ed1172733a27f7b5286bd6be067.ctv
-重庆卫视,http://k.061899.xyz/m.php?id=cqws
 重庆卫视,http://8.138.7.223/tv/hot.php?id=40
 重庆卫视,http://106.53.99.30/tv/migu.php?id=cqws
 重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
