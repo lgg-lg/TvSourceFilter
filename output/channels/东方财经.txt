@@ -89,5 +89,4 @@
 东方财经,http://eversouthhangzhou.7766.org:8188/rtp/233.50.200.177:5140
 东方财经,http://aklim.f3322.net:18885/rtp/239.45.0.17:5140
 东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-东方财经,http://160.202.238.87:12395/live2.rxip.sc96655.com/live/dfcj_4000.m3u8?E&U&A&K&P&S
 东方财经,http://8.138.7.223/api/ipv6.php?id=66&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
