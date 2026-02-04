@@ -475,11 +475,9 @@
 新疆卫视,http://m.061899.xyz/mg/xjws
 新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi.php
 新疆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3
-新疆卫视,http://220.176.218.180:9000/rtp/239.252.219.100:5140
-新疆卫视,http://106.59.3.233:55555/rtp/239.200.200.62:8316
 新疆卫视,http://114.100.195.104:4022/rtp/238.1.78.110:6752
 新疆卫视,http://222.83.161.177:9003/udp/239.81.0.46:4056
-新疆卫视,http://115.171.80.79:1688/rtp/225.1.8.161:8160
+新疆卫视,http://123.191.12.76:1111/rtp/232.0.0.18:1234
 新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-44.ctv
 新疆卫视,http://go.bkpcp.top/mg/xjws
 新疆卫视,http://t.061899.xyz/tl/dq.php?id=xjws
@@ -487,8 +485,11 @@
 新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
 新疆卫视,http://8.138.7.223/tv/hot.php?id=49
 新疆卫视,http://114.254.34.140:18888/rtp/239.3.1.48:8160
-新疆卫视,http://123.191.12.76:1111/rtp/232.0.0.18:1234
+新疆卫视,http://106.116.241.209:9999/rtp/239.254.200.89:8160
 新疆卫视,http://223.198.240.9:4000/rtp/239.253.64.146:5140
+新疆卫视,http://115.171.80.79:1688/rtp/225.1.8.161:8160
+新疆卫视,http://106.59.3.190:55555/rtp/239.200.200.62:8316
+新疆卫视,http://36.46.98.79:8025/rtp/239.112.205.56:5140
 新疆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0764&tk=e640d0a1bf70
 新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-2.php
 新疆卫视,http://119.91.7.169:2026/ysws.php?id=新疆卫视
@@ -499,9 +500,6 @@
 新疆卫视,http://101.224.32.157:9876/udp/239.45.1.116:5140
 新疆卫视,http://171.108.239.95:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://120.87.4.18:80/PLTV/88888973/224/3221225694/10000100000000060000000000334004_0.smil/01.m3u8?fmt=ts2hls
-新疆卫视,http://42.225.117.174:11199/tsfile/live/0110_1.m3u8
-新疆卫视,http://110.80.17.38:9999/tsfile/live/0018_1.m3u8
-新疆卫视,http://112.46.105.20:8009/hls/61/index.m3u8
 新疆卫视,https://stream1.freetv.fun/345c53fbea8456cd1cc4c91283ea05745ba501069d006845745d9bf453f1ab53.m3u8
 新疆卫视,http://8.138.7.223/api/011hk.php?id=50&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 新疆卫视,http://8.138.7.223/api/29cq.php?id=55&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
