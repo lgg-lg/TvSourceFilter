@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/02/07-17:24,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/02/08-05:19,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -986,9 +986,9 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-96.ctv
 黑龙江卫视,https://stream1.freetv.fun/cfa2ed9d4f96d20f3dd2eb920e17de8ecd8482cfff2328d8cfdcaba050a03a4b.ctv
 黑龙江卫视,http://153.0.171.163:9901/tsfile/live/0143_1.m3u8
+黑龙江卫视,http://k.061899.xyz/m.php?id=hljws
 黑龙江卫视,http://t.061899.xyz/tl/dq.php?id=hljws
 黑龙江卫视,http://t.061899.xyz/tl/tl.php?id=hljws
-黑龙江卫视,http://k.061899.xyz/m.php?id=hljws
 黑龙江卫视,http://go.bkpcp.top/mg/hljws
 黑龙江卫视,http://8.138.7.223/tv/hot.php?id=26
 黑龙江卫视,http://106.53.99.30/tv/hot.php?id=hljws
@@ -1623,6 +1623,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 山西卫视,http://go.bkpcp.top/mg/sxiws
 山西卫视,http://t.061899.xyz/tl/dq.php?id=sxiws
 山西卫视,http://106.53.99.30/tv/hot.php?id=sxiws
+山西卫视,https://stream1.freetv.fun/8b2e095ac5c86576931623b57a86a754478a617594d841aec69d40df7a3717b6.ctv
 陕西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1760585411&token=114b928d0b27972d144d67f794b64377
 陕西卫视,http://gfr.x3322.net:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://k.061899.xyz/m.php?id=sxws&key=txiptv&playlive=1&authid=0
@@ -1678,9 +1679,9 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 四川卫视,http://go.bkpcp.top/mg/scws
 四川卫视,https://stream1.freetv.fun/3c264c25b1f8debffea48cd474ef8b830ced737528778624f006949a84930657.ctv
 四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
+四川卫视,http://k.061899.xyz/m.php?id=scws
 四川卫视,http://gfr.x3322.net:9901/tsfile/live/1053_1.m3u8
 四川卫视,http://t.061899.xyz/tl/dq.php?id=scws
-四川卫视,http://k.061899.xyz/m.php?id=scws
 四川卫视,http://8.138.7.223/tv/hot.php?id=41
 四川卫视,http://106.53.99.30/tv/hot.php?id=scws
 深圳卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1760585411&token=538edadf5c4b4d5e6e837d981d0cb5e8
