@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/02/08-17:24,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/02/09-06:14,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -878,8 +878,8 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-105.ctv
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1027_1.m3u8
 湖南卫视,http://106.53.99.30/tv/api.php?id=hnws4k
-湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-62.ctv
 湖南卫视,http://k.061899.xyz/m.php?id=hunws
+湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-62.ctv
 湖南卫视,http://t.061899.xyz/tl/dq.php?id=hunws
 湖南卫视,http://go.bkpcp.top/mg/hunws
 湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
@@ -1580,9 +1580,9 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 山东卫视,http://113.15.109.216:59901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-62.ctv
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-63.ctv
+山东卫视,http://k.061899.xyz/m.php?id=sdws
 山东卫视,http://gfr.x3322.net:9901/tsfile/live/1036_1.m3u8
 山东卫视,http://go.bkpcp.top/mg/sdws
-山东卫视,http://k.061899.xyz/m.php?id=sdws
 山东卫视,http://t.061899.xyz/tl/dq.php?id=sdws
 山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
 山东卫视,http://106.53.99.30/tv/hot.php?id=sdws
