@@ -67,9 +67,9 @@
 欢笑剧场,http://www.negative.top:50000/rtp/233.50.200.229:5140
 欢笑剧场,http://www.negative.top:50000/rtp/233.50.201.189:5140
 欢笑剧场,http://aklim.f3322.net:18885/rtp/239.45.3.196:5140
-欢笑剧场,http://36.46.98.246:8025/rtp/239.112.205.236:5140
 欢笑剧场,http://106.53.99.30/tv/migu.php?id=hxjc
 欢笑剧场,http://t.061899.xyz/tl/dq.php?id=hxjc
+欢笑剧场,http://36.46.98.152:8025/rtp/239.112.205.236:5140
 欢笑剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/1.m3u8
 欢笑剧场,http://k.061899.xyz/k.php?id=hxjc
 欢笑剧场,http://8.138.7.223/api/29cq.php?id=57&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
