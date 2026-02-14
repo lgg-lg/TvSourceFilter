@@ -85,6 +85,6 @@
 东方影视,http://php.jdshipin.com/bestv.php?id=dfyshd8m/8000000
 东方影视,http://t.061899.xyz/tl/dq.php?id=dfys
 东方影视,http://106.53.99.30/tv/migu.php?id=dfys
-东方影视,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/600/index.m3u8?msisdn=20260213040209dec49e1b55924cd9ba6b39c9349e23f5&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139×tamp=20260213040209&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=218.28.233.106&SecurityKey=20260213040209&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fe577510d957dce32685e5db8ba019db
+东方影视,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/600/index.m3u8?msisdn=20260214040221207c9c5f56e34ba2978e9578b337c60f&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139×tamp=20260214040221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=218.28.233.106&SecurityKey=20260214040221&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=17415d1757717daf534a2e1149d90692
 东方影视,http://8.138.7.223/api/00migu.php?id=49&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 东方影视,http://8.138.7.223/api/ipv6.php?id=62&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

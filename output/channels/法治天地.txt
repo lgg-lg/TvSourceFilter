@@ -102,6 +102,8 @@
 法治天地,http://106.53.99.30/tv/migu.php?id=fztd
 法治天地,http://106.53.99.30/tv/hot.php?id=fztd
 法治天地,http://t.061899.xyz/tl/dq.php?id=fztd
+法治天地,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/1.m3u8
+法治天地,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8
 法治天地,http://8.138.7.223/api/05tiyu.php?id=fztd&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 法治天地,http://8.138.7.223/api/29cq.php?id=97&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 法治天地,http://8.138.7.223/api/ipv6.php?id=56&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
