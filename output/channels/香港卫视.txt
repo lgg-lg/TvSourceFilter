@@ -28,6 +28,7 @@
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-1.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-16.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU4qT4IFRVyFed-9sFWa2eHNNkzZb7QZkD2vw3tyNa3z0NA6t3MrL1FoqkGhRwfAYLqj3rgltIj__kpwIL9j9zBZR3rF6PnrIJTnoinlDDNUtxHZMTxfGXVbAlmxb-2lBSfY6e-DiQ_1mwTr4a5hCLh81B6d-yvfSs2kpLavmjdBH8rS7JNhLSaj5eIRCOIBHHmegQE0VLJVWmSpT84xXxcg.m3u8?u=1756878715
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 香港卫视,http://www.hkstv.tv/player/flash/SewisePlayer.swf?autoStart=true&programId=mutfysrq&type=m3u8&serverPath=http://lives.hkstv.tv:5080/api/player/&server=live&volume=1&url=live://lives.hkstv.tv:5080/mutfysrq/hls
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd%3A%2F%2Fcctv_p2p_hdxianggangweishi
