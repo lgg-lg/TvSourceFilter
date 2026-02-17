@@ -49,3 +49,4 @@
 东方卫视,https://stream1.freetv.fun/0f6f120d2808c7b4ee2e6b189c5cb00232d1694008d9f4438744bd32a3a1ead2.ctv
 东方卫视,http://8.138.7.223/tv/hot.php?id=27
 东方卫视,http://106.53.99.30/tv/migu.php?id=dfws
+东方卫视,https://stream1.freetv.fun/83c3a916916d31715425b6e333fa1bc61dd7401ec2e546e2e62e0dacdeac543a.ctv

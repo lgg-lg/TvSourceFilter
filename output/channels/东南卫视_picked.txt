@@ -29,3 +29,4 @@
 东南卫视,http://8.138.7.223/tv/hot.php?id=31
 东南卫视,http://106.53.99.30/tv/migu.php?id=dnws
 东南卫视,http://106.53.99.30/tv/hot.php?id=dnws
+东南卫视,https://stream1.freetv.fun/12cc275a53b0651fdf3fb0c2e9a8bdf5a3eb47d2470edf05da5d0e5d86681f23.ctv

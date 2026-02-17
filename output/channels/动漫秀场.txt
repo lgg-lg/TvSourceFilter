@@ -150,11 +150,9 @@
 动漫秀场,http://eversouthhangzhou.7766.org:8188/rtp/233.50.200.12:5140
 动漫秀场,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG65Z92UDWjXjUztx8_6jXB9paauw4zZI0JtsOY0HKF0lC8_JLi2pa2Ma0in_8jninRMK9S6ET_iXvB0tt02GhFMVjLlS7gQGcvNT4wy5TGJ-pnjzynVYXfleaV6B-PTVjzainvo1nrtsX0XQfIjD4Wu_342NdqjeGOY-wKDY51eFJJmRV1ksdNOtjFabg76ifiDVsRkidO7CjSocYw1pRIQ.m3u8?u=1757123819
 动漫秀场,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUeRrOrAqROj8MUaf4C4DPN6awyNO42J580yxNmVaitZCyAZx5FmnkBh6UUiw0j8-PfFf37OZwfUErN4zUCXPv7RZGHvS54ytPV2kgBd45NFihjWf9GafS5zYoXLWMEr3Tmp88t4zTfZlRo-gtv0c911TeW8mi2IPbMtsUslI0d0Emy2CFThSDu_BNoTznMMU70kpvoFmUolZjtBujzVwLcQ.m3u8?u=1756878715
-动漫秀场,http://www.qfly9236.cn:8888/rtp/239.253.93.225:6403
-动漫秀场,http://118.78.196.190:55555/rtp/226.0.2.183:9376
-动漫秀场,http://114.100.195.110:4022/rtp/238.1.78.154:7104
 动漫秀场,http://106.116.241.106:9999/rtp/239.254.201.165:6358
+动漫秀场,http://www.qfly9236.cn:8888/rtp/239.253.93.225:6403
+动漫秀场,http://114.100.195.110:4022/rtp/238.1.78.154:7104
 动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang.m3u8
-动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8
 动漫秀场,http://8.138.7.223/api/29cq.php?id=72&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 动漫秀场,http://8.138.7.223/api/ipv6.php?id=115&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
