@@ -36,3 +36,4 @@
 湖北卫视,http://8.138.7.223/tv/hot.php?id=35
 湖北卫视,http://106.53.99.30/tv/migu.php?id=hubws
 湖北卫视,https://stream1.freetv.fun/f159656e972aa17ba9ff4e974713a0f92b152108582d298455b0bed215d2427b.ctv
+湖北卫视,https://stream1.freetv.fun/3cb6855633c6ae0baf0c863165c9da533d7e5af1302086a525e29355ee31decb.ctv
