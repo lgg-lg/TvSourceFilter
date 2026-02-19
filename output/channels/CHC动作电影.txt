@@ -179,7 +179,6 @@ CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.php
 CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
 CHC动作电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 CHC动作电影,http://tonyk.56301232.xyz:3477/rtp/239.37.0.186:5540
-CHC动作电影,http://223.144.220.154:3000/udp/239.76.252.243:9000
 CHC动作电影,http://live.chinacert.cftest5.cn/huya/11602077
 CHC动作电影,http://106.53.99.30/tv/migu.php?id=chcdz
 CHC动作电影,http://t.061899.xyz/tl/dq.php?id=chcdzdy
@@ -190,10 +189,11 @@ CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?userid=5559462299&sign
 CHC动作电影,http://101.200.122.188:1234/644368714
 CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?userid=5559462299&sign=f541b6bfd7b31788e7736d6b31a461bd1723fa51c690e8758d9c17acef4e88619f0a92af3b1dbce68263479f755f9ae74693aff6ea7f19497804581b47d9095c2d82eb77ecdf98be93d6a60a9291ee75bd&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CHC动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
+CHC动作电影,http://223.144.220.154:3000/udp/239.76.252.243:9000
+CHC动作电影,http://223.144.223.164:3000/udp/239.76.252.243:9000
 CHC动作电影,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
 CHC动作电影,http://z.b.bkpcp.top/m.php
 CHC动作电影,http://8.129.103.180:1234/644368714
 CHC动作电影,http://101.91.126.133:1234/644368714
 CHC动作电影,http://ik.mengzx.cn:3300/644368714
 CHC动作电影,http://nas.z-home.top:1234/644368714
-CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8

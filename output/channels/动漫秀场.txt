@@ -152,6 +152,5 @@
 动漫秀场,http://www.qfly9236.cn:8888/rtp/239.253.93.225:6403
 动漫秀场,http://114.100.195.110:4022/rtp/238.1.78.154:7104
 动漫秀场,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG65Z92UDWjXjUztx8_6jXB9paauw4zZI0JtsOY0HKF0lC8_JLi2pa2Ma0in_8jninRMK9S6ET_iXvB0tt02GhFMVjLlS7gQGcvNT4wy5TGJ-pnjzynVYXfleaV6B-PTVjzainvo1nrtsX0XQfIjD4Wu_342NdqjeGOY-wKDY51eFJJmRV1ksdNOtjFabg76ifiDVsRkidO7CjSocYw1pRIQ.m3u8?u=1757123819
-动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang.m3u8
 动漫秀场,http://8.138.7.223/api/29cq.php?id=72&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 动漫秀场,http://8.138.7.223/api/ipv6.php?id=115&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

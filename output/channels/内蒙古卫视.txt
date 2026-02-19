@@ -382,7 +382,6 @@
 内蒙古卫视,http://106.116.241.106:9999/rtp/239.254.200.84:8176
 内蒙古卫视,http://114.100.195.110:4022/rtp/238.1.78.103:6696
 内蒙古卫视,http://114.254.33.207:18888/rtp/239.3.1.43:8176
-内蒙古卫视,http://115.171.216.58:4000/rtp/225.1.8.156:8176
 内蒙古卫视,http://go.bkpcp.top/mg/nmgws
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmgws
 内蒙古卫视,http://8.138.7.223/tv/hot.php?id=23
@@ -394,6 +393,7 @@
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=2
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=1
 内蒙古卫视,http://genglei.8866.org:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://115.171.216.58:4000/rtp/225.1.8.156:8176
 内蒙古卫视,http://183.237.71.182:40000/hls/43/index.m3u8
 内蒙古卫视,http://27.41.245.32:801/hls/47/index.m3u8
 内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi.php
