@@ -164,8 +164,9 @@
 哈哈炫动,http://net.manyee.net:18888/rtp/239.77.1.139:5146
 哈哈炫动,http://plex.cyruslee.top:8888/rtp/239.77.0.81:5146
 哈哈炫动,https://live.kankanews.com/huikan?tag=哈哈炫动
-哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1771616434&key=45aba188597059d93720256fe2943601
+哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1771702243&key=5c71ed0fc8f1e2d2827af2e863c30557
+哈哈炫动,http://42.92.117.151:8231/udp/239.255.29.37:8231
 哈哈炫动,http://139.196.151.191:2051/rtp/239.45.1.55:5140
 哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
-哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1771544237&key=f08a0e4a5569bbd3dab182fa487faf4b
+哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1771630520&key=3b8e463dbde5faf3c9f82a9a61c33c3a
 哈哈炫动,http://8.138.7.223/api/ipv6.php?id=116&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
