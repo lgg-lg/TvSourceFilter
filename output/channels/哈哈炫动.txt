@@ -165,10 +165,10 @@
 哈哈炫动,http://plex.cyruslee.top:8888/rtp/239.77.0.81:5146
 哈哈炫动,https://live.kankanews.com/huikan?tag=哈哈炫动
 哈哈炫动,http://220.176.218.92:9000/rtp/239.252.219.43:5140
-哈哈炫动,http://116.2.170.170:4010/rtp/232.0.0.103:1234
-哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1771960579&key=4d11f4c659738feeacf6dea7a5fe153f
 哈哈炫动,http://202.107.163.248:5555/udp/238.125.5.106:5140
+哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1772049076&key=f1e35b3a37f0f7c3cc6321185208fa4a
+哈哈炫动,http://116.2.170.170:4010/rtp/232.0.0.103:1234
 哈哈炫动,http://139.196.151.191:2051/rtp/239.45.1.55:5140
 哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
-哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1771889911&key=06d4125c47b304b430d341bb8b23e00e
+哈哈炫动,https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1771976331&key=1ce65e4c2be68420db397f202936b61b
 哈哈炫动,http://8.138.7.223/api/ipv6.php?id=116&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
