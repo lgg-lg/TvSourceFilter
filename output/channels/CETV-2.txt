@@ -86,7 +86,15 @@ CETV-2,http://izihao.cn:9977/rtp/239.94.1.19:5140
 CETV-2,http://router.870503.xyz:18885/rtp/239.45.1.52:5140
 CETV-2,http://www.otangtang.com:38848/rtp/239.3.1.54:4120
 CETV-2,http://www.hongzhijiaoyu.net:8188/rtp/239.77.0.28:5146
-CETV-2,https://live.chinacert.cftest5.cn/mg/?id=923287211
 CETV-2,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139×tamp=20260228040228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=218.28.233.106&SecurityKey=20260228040228&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2b1730e1f4dd03e392afa052085690fa&sv=10004&ct=android
 CETV-2,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139×tamp=20260227040215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=218.28.233.106&SecurityKey=20260227040215&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3e7eb358e8c5bb9d689b5b4309deaa00&sv=10004&ct=android
+CETV-2,https://live.chinacert.cftest5.cn/mg/?id=923287211
+CETV-2,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139×tamp=20260301040215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=218.28.233.106&SecurityKey=20260301040215&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4165235b0169502bcb30650477717a71&sv=10004&ct=android
+CETV-2,rtsp://125.88.56.12/PLTV/88888905/224/3221230017/10000100000000060000000010698698_0.smil?rrsip=125.88.104.40
+CETV-2,http://ott.mobaibox.com/PLTV/-/224/3221227607/index.m3u8
+CETV-2,http://ott.mobaibox.com/PLTV/-/224/3221225850/index.m3u8
+CETV-2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233746/482524877.smil/index.m3u8?fmt=ts2hls
+CETV-2,http://47.92.248.144:1251/923287211
+CETV-2,http://8.148.86.54:3300/923287211
+CETV-2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227194/1.m3u8
 CETV-2,http://8.138.7.223/api/00migu.php?id=90&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
