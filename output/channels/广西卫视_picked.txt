@@ -25,3 +25,4 @@
 广西卫视,http://8.138.7.223/tv/hot.php?id=38
 广西卫视,http://106.53.99.30/tv/migu.php?id=gxws
 广西卫视,http://go.bkpcp.top/mg/gxws
+广西卫视,https://stream1.freetv.fun/3221b03f53182c60f221a3ecf4bf696403c69d95cf038b71de64827ceeb6039a.ctv
