@@ -10,10 +10,10 @@
 海南卫视,https://stream1.freetv.fun/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.ctv
 海南卫视,https://stream1.freetv.fun/3aeb30bcb2f18f870ecf97beec9e21c8b8622f6e0a89b95f211ad33ca0c43261.ctv
 海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
+海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws
+海南卫视,http://k.061899.xyz/m.php?id=hinws
 海南卫视,http://go.bkpcp.top/mg/hinws
 海南卫视,http://t.061899.xyz/tl/dq.php?id=hinws
-海南卫视,http://k.061899.xyz/m.php?id=hinws
-海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws
 海南卫视,http://8.138.7.223/tv/hot.php?id=39
 海南卫视,http://106.53.99.30/tv/migu.php?id=hinws
 海南卫视,http://106.53.99.30/tv/hot.php?id=hinws

@@ -82,5 +82,7 @@
 东方影视,http://php.jdshipin.com/bestv.php?id=dfyshd8m/8000000
 东方影视,http://t.061899.xyz/tl/dq.php?id=dfys
 东方影视,http://106.53.99.30/tv/migu.php?id=dfys
+东方影视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
+东方影视,http://49.87.32.189:1234/617290047
 东方影视,http://8.138.7.223/api/00migu.php?id=49&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 东方影视,http://8.138.7.223/api/ipv6.php?id=62&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

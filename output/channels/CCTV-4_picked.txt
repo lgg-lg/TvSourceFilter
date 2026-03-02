@@ -47,3 +47,4 @@ CCTV-4,http://go.bkpcp.top/mg/CCTV-4
 CCTV-4,http://106.53.99.30/tv/migu.php?id=cctv4o
 CCTV-4,https://stream1.freetv.fun/eb5f5e896afb0fdb3fb1a2c3149f6f2e3d55db847cb79339f7388e363bcaa9de.ctv
 CCTV-4,https://stream1.freetv.fun/8a07250a04529fe52772a7995691f04a3153bf67960964ad6a63dd6cc7878659.ctv
+CCTV-4,https://60.191.56.186:8888/hls/4/index.m3u8
