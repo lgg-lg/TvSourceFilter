@@ -34,3 +34,4 @@
 深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
 深圳卫视,http://106.53.99.30/tv/hot.php?id=szws
 深圳卫视,http://8.138.7.223/tv/gd.php?id=0201
+深圳卫视,https://stream1.freetv.fun/e194e3ce356d2158d336b3f91c210a2b945dc64bca802cd640e20c9075554c29.ctv
