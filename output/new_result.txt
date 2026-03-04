@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/03/04-17:33,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/03/05-05:27,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -50,6 +50,7 @@ CCTV-1,http://180.76.145.203:656/zb.php?id=cctv1
 CCTV-1,http://8.138.7.223/tv/hot.php?id=1
 CCTV-1,http://go.bkpcp.top/mg/CCTV-1
 CCTV-1,http://106.53.99.30/tv/migu.php?id=cctv1
+CCTV-1,https://stream1.freetv.fun/5ea694dedf81eabc3a9363cac99632afadb3d416016b833315847e5d1ee5dd3e.ctv
 CCTV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1760585411&token=b62ec217c9ea32b3ba58ffee43c1e567
 CCTV-2,http://k.061899.xyz/m.php?id=cctv2&key=txiptv&playlive=1&authid=0
 CCTV-2,http://gfr.x3322.net:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -535,6 +536,7 @@ CCTV-11,http://go.bkpcp.top/mg/CCTV-11
 CCTV-11,http://106.53.99.30/tv/migu.php?id=cctv11
 CCTV-11,http://8.138.7.223/tv/hot.php?id=11
 CCTV-11,https://60.191.56.186:8888/hls/11/index.m3u8
+CCTV-11,https://stream1.freetv.fun/109c0a106961716bfd48cd6b02b7007b62aae3cf05dc0a5c9349291ec20bcc0a.ctv
 CCTV-13,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV13&t=1760585411&token=cde87db33a1a9c36c65a2f73e3a9ff07
 CCTV-13,http://gfr.x3322.net:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://gfr.x3322.net:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1086,6 +1088,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 东方卫视,http://106.53.99.30/tv/api.php?id=dfws4k
 东方卫视,http://8.138.7.223/tv/hot.php?id=27
 东方卫视,http://106.53.99.30/tv/migu.php?id=dfws
+东方卫视,https://stream1.freetv.fun/636d16f50c8d96b05c6c11994cc91e361e669419cee31b183d4568b76f288d08.ctv
 东南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=70d8fd2d048aee0b3436a8ed1a161785
 东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://k.061899.xyz/m.php?id=dnws&key=txiptv&playlive=1&authid=0

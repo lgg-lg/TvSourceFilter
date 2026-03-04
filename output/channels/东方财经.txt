@@ -85,6 +85,5 @@
 东方财经,http://aklim.f3322.net:18885/rtp/239.45.0.17:5140
 东方财经,http://dentist.dsmv.top:7777/rtp/239.49.0.95:8000
 东方财经,http://home.amucn.net:8800/rtp/239.49.0.95:8000
-东方财经,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 东方财经,http://218.74.248.175:8188/rtp/233.50.200.177:5140
 东方财经,http://8.138.7.223/api/ipv6.php?id=66&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

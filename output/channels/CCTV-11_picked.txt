@@ -36,3 +36,4 @@ CCTV-11,http://go.bkpcp.top/mg/CCTV-11
 CCTV-11,http://106.53.99.30/tv/migu.php?id=cctv11
 CCTV-11,http://8.138.7.223/tv/hot.php?id=11
 CCTV-11,https://60.191.56.186:8888/hls/11/index.m3u8
+CCTV-11,https://stream1.freetv.fun/109c0a106961716bfd48cd6b02b7007b62aae3cf05dc0a5c9349291ec20bcc0a.ctv
