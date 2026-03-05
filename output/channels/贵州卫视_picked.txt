@@ -36,3 +36,4 @@
 贵州卫视,https://epg.pw/stream/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.ctv
 贵州卫视,http://8.138.7.223/tv/hot.php?id=42
 贵州卫视,http://106.53.99.30/tv/migu.php?id=gzws
+贵州卫视,https://stream1.freetv.fun/363e4472ad7d6a9c376cb0631a6ebed43ee0af641dae020f8ecbf0acb8430b1b.ctv
