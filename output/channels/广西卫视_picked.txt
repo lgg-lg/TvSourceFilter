@@ -27,3 +27,4 @@
 广西卫视,http://go.bkpcp.top/mg/gxws
 广西卫视,https://stream1.freetv.fun/3221b03f53182c60f221a3ecf4bf696403c69d95cf038b71de64827ceeb6039a.ctv
 广西卫视,http://t.061899.xyz/tl/dq.php?id=gxws
+广西卫视,https://stream1.freetv.fun/d6f6905976a98ee81e1b152a3936b7e6b14d7d13a0eb3ba1d334615f4455f6d1.ctv
