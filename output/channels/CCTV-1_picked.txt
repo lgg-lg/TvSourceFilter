@@ -48,3 +48,4 @@ CCTV-1,http://8.138.7.223/tv/hot.php?id=1
 CCTV-1,http://go.bkpcp.top/mg/CCTV-1
 CCTV-1,http://106.53.99.30/tv/migu.php?id=cctv1
 CCTV-1,https://stream1.freetv.fun/5ea694dedf81eabc3a9363cac99632afadb3d416016b833315847e5d1ee5dd3e.ctv
+CCTV-1,https://stream1.freetv.fun/e2d614c15f9f44a66769286821f4e204843fbb1ea976d65e2e7380425aa5b412.ctv
