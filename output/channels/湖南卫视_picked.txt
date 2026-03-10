@@ -37,3 +37,4 @@
 湖南卫视,http://106.53.99.30/tv/hot.php?id=hunws
 湖南卫视,https://stream1.freetv.fun/e876e6dcce030ba1fed2b1eed597ccc0fc4a0a1caf19e9e18860fd84ac93a7ee.ctv
 湖南卫视,https://stream1.freetv.fun/68232f771e5e64ddcaf9a038ebb1aa747c384d46ab1f33fa5be113e6d0c6d298.ctv
+湖南卫视,http://8.138.7.223/tv/api.php?id=hnws4k

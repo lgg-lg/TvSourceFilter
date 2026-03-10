@@ -398,7 +398,6 @@
 西藏卫视,http://eversouthhangzhou.7766.org:8188/rtp/233.50.200.137:5140
 西藏卫视,http://www.lizhinas.top:10086/rtp/239.252.219.106:5140
 西藏卫视,http://223.198.243.223:4000/rtp/239.253.64.143:5140
-西藏卫视,http://106.116.240.220:9999/rtp/239.254.200.88:8164
 西藏卫视,http://go.bkpcp.top/mg/xzws
 西藏卫视,http://t.061899.xyz/tl/dq.php?id=xzws
 西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
@@ -408,15 +407,12 @@
 西藏卫视,http://k.061899.xyz/m.php?id=xzws
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 西藏卫视,http://219.156.87.51:4022/rtp/225.1.4.46:1075
-西藏卫视,http://115.171.216.58:4000/rtp/225.1.8.160:8164
 西藏卫视,http://116.2.164.201:4010/rtp/232.0.0.114:1234
 西藏卫视,http://116.9.34.226:4000/udp/239.81.0.55:4056
+西藏卫视,http://115.171.216.58:4000/rtp/225.1.8.160:8164
 西藏卫视,http://106.59.2.227:55555/rtp/239.200.200.61:8312
 西藏卫视,http://114.254.83.60:8888/rtp/239.3.1.47:8164
-西藏卫视,http://124.114.103.11:6789/rtp/239.112.205.54:5140
-西藏卫视,http://106.87.51.240:8888/rtp/235.254.198.46:1460
-西藏卫视,http://221.220.135.222:8012/rtp/239.3.1.47:8164
-西藏卫视,http://115.171.80.124:1688/rtp/225.1.8.160:8164
+西藏卫视,http://106.59.2.90:55555/rtp/239.200.200.61:8312
 西藏卫视,http://123.118.54.253:8686/rtp/239.3.1.47:8164
 西藏卫视,https://iptv.catvod.com/catvod.php?id=xzws
 西藏卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2986&tk=e503191f8e20
@@ -425,6 +421,7 @@
 西藏卫视,http://tv.sohu.blog/d/fjbst.php?id=216
 西藏卫视,http://120.76.248.139/live/bfgd/4200000489.m3u8
 西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-2.php
+西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-3.m3u8
 西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-6.php
 西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-7.php
 西藏卫视,http://120.87.19.109:80/PLTV/88888973/224/3221225693/10000100000000060000000000333969_0.smil/01.m3u8?fmt=ts2hls
@@ -461,9 +458,7 @@
 西藏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190403
 西藏卫视,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600190403
 西藏卫视,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=kLUVP1&tk=32VnOYRWppMK
-西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-3.m3u8
 西藏卫视,http://120.87.4.13:80/PLTV/88888973/224/3221225693/10000100000000060000000000333969_0.smil/01.m3u8?fmt=ts2hls
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=cc22a5e283768da0d3812253565d17db&time=69ae0f0e
 西藏卫视,rtsp://125.88.52.199/PLTV/88888905/224/3221230369/817309967.smil?rrsip=125.88.70.140
 西藏卫视,rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120116213780720306.rsc/69953_Uni.sdp
 西藏卫视,http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225668/10000100000000060000000000148281_0.smil/index.m3u8
