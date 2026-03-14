@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/03/14-17:26,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/03/15-05:20,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1608,6 +1608,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 山西卫视,http://go.bkpcp.top/mg/sxiws
 山西卫视,http://t.061899.xyz/tl/dq.php?id=sxiws
 山西卫视,http://106.53.99.30/tv/hot.php?id=sxiws
+山西卫视,https://stream1.freetv.fun/3120ee081313eeb7a8443e60a2663eeee00f04172681b4f150d2adb3dc07562c.ctv
 陕西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1760585411&token=114b928d0b27972d144d67f794b64377
 陕西卫视,http://gfr.x3322.net:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://k.061899.xyz/m.php?id=sxws&key=txiptv&playlive=1&authid=0
@@ -2010,6 +2011,7 @@ CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-6.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-5.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-3.ctv
 CHC影迷电影,http://106.53.99.30/tv/hot.php?id=ymdy
+CHC影迷电影,http://go.bkpcp.top/mg/ymd
 
 
 🏀体育频道,#genre#
