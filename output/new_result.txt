@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/03/15-17:27,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/03/16-06:17,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -363,6 +363,7 @@ CCTV-7,http://t.061899.xyz/tl/dq.php?id=cctv7
 CCTV-7,http://t.061899.xyz/tl/tl.php?id=cctv7
 CCTV-7,http://106.53.99.30/tv/migu.php?id=cctv7
 CCTV-7,http://106.53.99.30/tv/hot.php?id=cctv7
+CCTV-7,http://112.123.243.37:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-8,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1760585411&token=68364a3ee862acfdd15da4c8d59bac6e
 CCTV-8,http://gfr.x3322.net:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://gfr.x3322.net:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0

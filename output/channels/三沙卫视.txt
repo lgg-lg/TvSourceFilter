@@ -271,14 +271,14 @@
 三沙卫视,http://www.lizhinas.top:10086/rtp/239.252.219.76:5140
 三沙卫视,http://8.138.7.223/tv/hainan.php?id=ssws
 三沙卫视,http://8.138.7.223/tv/hot.php?id=55
-三沙卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=20260315040210641df4013117487ab6eecd2814e906b9&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139×tamp=20260315040210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260315040210&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=54917f4165a0bc4535584f0be09e97f2
+三沙卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=20260316040220044093e3f6324f74855de938f8efb031&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139×tamp=20260316040220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260316040220&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d6f8e6e6fe2501b3fedf5ce95acfd2c1
 三沙卫视,http://219.156.87.51:4022/rtp/225.1.4.234:1280
 三沙卫视,http://220.176.218.207:9000/rtp/239.252.219.76:5140
 三沙卫视,http://116.9.34.226:4000/udp/239.81.0.242:4056
 三沙卫视,http://106.59.2.11:55555/rtp/239.200.201.136:8140
 三沙卫视,http://106.59.2.37:55555/rtp/239.200.201.136:8140
-三沙卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=20260314080226758ff814d9e34529898d0dbcb996e108&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139×tamp=20260314080226&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260314080226&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=66c3593133e450816fca95e49e3649d7
-三沙卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=202603140402223a665d7c7a6c4b598a2c19176871d382&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139×tamp=20260314040222&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260314040222&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=14aa46cd73f94b15b3127d1fdf2380de
+三沙卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=202603150802099a0db8195dc641318522ac86456ac342&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139×tamp=20260315080209&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260315080209&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6279a1ada651997376cc4bec6fd92371
+三沙卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=20260315040210641df4013117487ab6eecd2814e906b9&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139×tamp=20260315040210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260315040210&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=54917f4165a0bc4535584f0be09e97f2
 三沙卫视,http://125.40.199.223:8092/hls/52/index.m3u8
 三沙卫视,http://120.87.19.109:80/PLTV/88888973/224/3221226649/10000100000000060000000002048494_0.smil/01.m3u8?fmt=ts2hls
 三沙卫视,http://120.87.4.29:80/PLTV/88888973/224/3221226641/10000100000000060000000002048493_0.smil/01.m3u8?fmt=ts2hls
@@ -288,9 +288,8 @@
 三沙卫视,http://111.48.34.138/000000001000PLTV/88888888/224/3221230410/1.m3u8
 三沙卫视,http://113.101.244.11:10000/rtp/239.253.43.113:5146
 三沙卫视,http://110.42.37.69:6688/live/live.php?token=2OFgNXEh&id=ssws
-三沙卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=20260313080209325d0b2b0e124a67b94ef57b50ed7704&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139×tamp=20260313080209&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260313080209&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e0d7a610b5903a62f884080016f45bde
+三沙卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=20260314080226758ff814d9e34529898d0dbcb996e108&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139×tamp=20260314080226&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260314080226&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=66c3593133e450816fca95e49e3649d7
 三沙卫视,http://192.168.0.220:4022/rtp/239.255.3.70:9516
-三沙卫视,http://raytitor.cn:8888/rtp/233.18.204.172:5140
 三沙卫视,https://mgcn.chinacert.cftest5.cn/961023778
 三沙卫视,http://49.87.32.189:1234/961023778
 三沙卫视,http://218.74.248.175:8188/rtp/233.50.200.175:5140
@@ -301,6 +300,5 @@
 三沙卫视,https://tv1288.xyz/hainantv.php?proxy=1&id=ssws
 三沙卫视,rtsp://125.88.52.199/PLTV/88888905/224/3221230306/571071008.smil?rrsip=125.88.70.140
 三沙卫视,rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch19120615372589393337.rsc/89705_Uni.sdp
-三沙卫视,https://stream1.freetv.fun/fc49c564c870b78b1a3655d913ca8a4fe4e31f58db2da34caedc0761a3e51256.m3u8
 三沙卫视,http://8.138.7.223/api/011hk.php?id=54&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 三沙卫视,http://8.138.7.223/api/29cq.php?id=52&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
