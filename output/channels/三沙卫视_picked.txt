@@ -13,3 +13,4 @@
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-38.ctv
 三沙卫视,http://8.138.7.223/tv/hainan.php?id=ssws
 三沙卫视,http://8.138.7.223/tv/hot.php?id=55
+三沙卫视,https://stream1.freetv.fun/5f41e68a950b6a693abb759616b9aa680709070a571468b367d703cb3f1d5dc9.ctv

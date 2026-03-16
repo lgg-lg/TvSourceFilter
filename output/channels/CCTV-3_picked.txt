@@ -39,3 +39,4 @@ CCTV-3,http://gfr.x3322.net:9901/tsfile/live/1068_1.m3u8
 CCTV-3,http://8.138.7.223/tv/hot.php?id=3
 CCTV-3,http://go.bkpcp.top/mg/CCTV-3
 CCTV-3,http://106.53.99.30/tv/migu.php?id=cctv3
+CCTV-3,https://stream1.freetv.fun/45ee335898121cf998c74e90c566ebbfd2420abd8bf3294d53796608b94fdbf4.ctv

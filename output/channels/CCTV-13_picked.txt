@@ -50,3 +50,4 @@ CCTV-13,http://8.138.7.223/tv/hot.php?id=13
 CCTV-13,http://go.bkpcp.top/mg/CCTV-13
 CCTV-13,http://106.53.99.30/tv/migu.php?id=cctv13
 CCTV-13,https://stream1.freetv.fun/f486f8831650e2d681322a4d73cff71dc1a0abb73cd3ae85a47841c0973b9cdd.ctv
+CCTV-13,https://stream1.freetv.fun/51dbba5d6fb14a64d6d3fdb79397952ab84f6d88d43b7d0e607c7f3c7a13110d.ctv
