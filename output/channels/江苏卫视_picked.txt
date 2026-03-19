@@ -38,3 +38,4 @@
 江苏卫视,http://106.53.99.30/tv/migu.php?id=jsws
 江苏卫视,http://106.53.99.30/tv/hot.php?id=jsws
 江苏卫视,http://go.bkpcp.top/mg/jsws4k
+江苏卫视,https://stream1.freetv.fun/53214d261ed41d49872c97bde06c1b2a6fe620fb91a7cb3aed41fa303b502eac.ctv
