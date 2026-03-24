@@ -173,12 +173,12 @@
 哈哈炫动,http://111.56.90.5/000000000000/5000000005000031641/index.m3u8
 哈哈炫动,http://ott.mobaibox.com/PLTV/-/224/3221227586/index.m3u8
 哈哈炫动,http://ott.mobaibox.com/PLTV/-/224/3221226388/index.m3u8
-哈哈炫动,https://live-cdn-v01.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1774292943&key=f7d9dce6c1b2a1f42d2a708570de5bd4
+哈哈炫动,http://123.179.61.243:4022/rtp/239.29.0.128:5000
+哈哈炫动,https://live-cdn-v01.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1774379607&key=0ae814240e0ac457f8f617836a026887
 哈哈炫动,http://150.138.8.143/00/SNM/CHANNEL00000050/index.m3u8
 哈哈炫动,http://139.196.151.191:2051/rtp/239.45.1.55:5140
 哈哈炫动,http://218.74.248.175:8188/rtp/233.50.200.167:5140
 哈哈炫动,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=9
-哈哈炫动,http://123.179.61.243:4022/rtp/239.29.0.128:5000
-哈哈炫动,https://live-cdn-v01.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1774222515&key=38113d586c4786d79d5373e56df8f05c
+哈哈炫动,https://live-cdn-v01.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1774309168&key=4a46d3fe6df92f4b0f389f0ee18b130d
 哈哈炫动,rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11122400404197907033.rsc/69973_Uni.sdp
 哈哈炫动,http://8.138.7.223/api/ipv6.php?id=116&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
