@@ -74,10 +74,10 @@
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-5.m3u8
 上海都市,http://aklim.f3322.net:18885/rtp/239.45.3.243:5140
 上海都市,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.53:5140
-上海都市,https://live-cdn-v01.lalifeier.eu.org/kankanews/shds.m3u8?t=1774638248&key=22fb9e6aee044732a4e3825d97f265cb
+上海都市,https://live-cdn-v01.lalifeier.eu.org/kankanews/shds.m3u8?t=1774726536&key=4021b39a6ac4c41c81f0e42ede791dbc
 上海都市,https://t.freetv.fun/live/shang-hai-du-shi.m3u8
 上海都市,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=4
-上海都市,https://live-cdn-v01.lalifeier.eu.org/kankanews/shds.m3u8?t=1774568355&key=4e04013a4619b7d933c20cc199d9ce8e
+上海都市,https://live-cdn-v01.lalifeier.eu.org/kankanews/shds.m3u8?t=1774654800&key=4de7c1603c5b9220bca03c2a19dd4353
 上海都市,https://stream1.freetv.fun/3548f5845f2e9ff8004985d0f7c7605b57e7faa1c59a7236b9520fa54d55210e.m3u8
 上海都市,http://8.138.7.223/api/18sh.php?id=ds&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 上海都市,http://8.138.7.223/api/18sh.php?id=18&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

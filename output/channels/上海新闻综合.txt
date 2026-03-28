@@ -119,10 +119,10 @@
 上海新闻综合,http://106.53.99.30/tv/migu.php?id=shxwzh
 上海新闻综合,http://t.061899.xyz/tl/dq.php?id=shxwzh
 上海新闻综合,http://t.061899.xyz/tl/tl.php?id=shxwzh
+上海新闻综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=2026032904022069f5e55796dd4741a0669869797e9061&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139×tamp=20260329040220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=218.28.233.106&SecurityKey=20260329040220&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-9.3.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=263304d8f6f2fea24608924047e3c981
+上海新闻综合,https://live-cdn-v01.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1774726536&key=d51f0e145627ad7371e96f12a2f64157
+上海新闻综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=202603280802088805a5a2a8ae4c4eb69f50fa803ec038&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139×tamp=20260328080208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=218.28.233.106&SecurityKey=20260328080208&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-9.3.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=18874f8325a54f31ba6e1fc22d0cc9ce
 上海新闻综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=202603280402089b6ad3f7d3bc4170a6525728352fce95&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139×tamp=20260328040208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=218.28.233.106&SecurityKey=20260328040208&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-9.3.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e8f2aa3bf83dc65e0ebc9bb01295b12a
-上海新闻综合,https://live-cdn-v01.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1774638248&key=c5dd8369f2fdf9e5d59a0921b534953b
-上海新闻综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=20260327080225153fe098d3f64c27a1e85bb22da7c5aa&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139×tamp=20260327080225&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=218.28.233.106&SecurityKey=20260327080225&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-9.3.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=924b1ebd970d1de5f54ceef847dc2107
-上海新闻综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=202603270402212d6acb986f9449a492e58c6e057805e5&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139×tamp=20260327040221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=218.28.233.106&SecurityKey=20260327040221&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-9.3.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=094e3d58f7c0755b016797abdc59e1b8
 上海新闻综合,https://t.freetv.fun/live/xin-wen-zong-he.m3u8
 上海新闻综合,http://139.196.151.191:2051/rtp/239.45.3.209:5140
 上海新闻综合,http://222.223.41.27:8888/hls/23/index.m3u8
@@ -136,5 +136,5 @@
 上海新闻综合,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=2
 上海新闻综合,http://156.238.248.80:8880/play/36.m3u8
 上海新闻综合,http://106.14.225.22:9999/651632657
-上海新闻综合,https://live-cdn-v01.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1774568355&key=67cec2775a3abd748d0f4fbec8bf0bcd
+上海新闻综合,https://live-cdn-v01.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1774654800&key=ed66378b0fbceaca6edc63d40cdc0d81
 上海新闻综合,http://8.138.7.223/api/00migu.php?id=48&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
