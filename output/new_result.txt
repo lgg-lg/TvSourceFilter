@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/03/29-17:30,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/03/30-06:20,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1240,8 +1240,8 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 海南卫视,https://stream1.freetv.fun/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.ctv
 海南卫视,https://stream1.freetv.fun/3aeb30bcb2f18f870ecf97beec9e21c8b8622f6e0a89b95f211ad33ca0c43261.ctv
 海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
-海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws
 海南卫视,http://k.061899.xyz/m.php?id=hinws
+海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws
 海南卫视,http://go.bkpcp.top/mg/hinws
 海南卫视,http://t.061899.xyz/tl/dq.php?id=hinws
 海南卫视,http://8.138.7.223/tv/hot.php?id=39
@@ -1874,8 +1874,8 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 海南卫视,https://stream1.freetv.fun/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.ctv
 海南卫视,https://stream1.freetv.fun/3aeb30bcb2f18f870ecf97beec9e21c8b8622f6e0a89b95f211ad33ca0c43261.ctv
 海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
-海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws
 海南卫视,http://k.061899.xyz/m.php?id=hinws
+海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws
 海南卫视,http://go.bkpcp.top/mg/hinws
 海南卫视,http://t.061899.xyz/tl/dq.php?id=hinws
 海南卫视,http://8.138.7.223/tv/hot.php?id=39
