@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/04/01-18:01,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/04/02-05:36,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1823,6 +1823,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 新疆卫视,http://106.53.99.30/tv/migu.php?id=xjws
 新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
 新疆卫视,http://106.53.99.30/tv/hot.php?id=xjws
+新疆卫视,https://stream1.freetv.fun/f54baeec1aef69aba7e263b1c5082b778f1cf19475559c2117ed9ab9fe317249.ctv
 云南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=24326c58bc66011ebeee29505f981204
 云南卫视,http://gfr.x3322.net:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2124,6 +2125,7 @@ CCTV-5+,http://106.53.99.30/tv/migu.php?id=cctv5p
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-13.ctv
 五星体育,http://k.061899.xyz/m.php?id=wxty
 五星体育,http://go.bkpcp.top/mg/wxty
+五星体育,https://stream1.freetv.fun/f7fd467306b7f42162d8640b27ee41e8f42134349c10a75bb08ed3a9f2690d40.ctv
 山东体育,http://61.156.228.12:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://123.129.70.178:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://221.2.148.205:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0

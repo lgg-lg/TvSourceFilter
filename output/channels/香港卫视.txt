@@ -28,3 +28,4 @@
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU4qT4IFRVyFed-9sFWa2eHNNkzZb7QZkD2vw3tyNa3z0NA6t3MrL1FoqkGhRwfAYLqj3rgltIj__kpwIL9j9zBZR3rF6PnrIJTnoinlDDNUtxHZMTxfGXVbAlmxb-2lBSfY6e-DiQ_1mwTr4a5hCLh81B6d-yvfSs2kpLavmjdBH8rS7JNhLSaj5eIRCOIBHHmegQE0VLJVWmSpT84xXxcg.m3u8?u=1756878715
+香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
