@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/04/02-17:54,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/04/03-05:30,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1824,6 +1824,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
 新疆卫视,http://106.53.99.30/tv/hot.php?id=xjws
 新疆卫视,https://stream1.freetv.fun/f54baeec1aef69aba7e263b1c5082b778f1cf19475559c2117ed9ab9fe317249.ctv
+新疆卫视,https://stream1.freetv.fun/12ab046a626eff1a03e3c30283be191f8ebd3ca670dd281c9c0f56616ed95c0a.ctv
 云南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=24326c58bc66011ebeee29505f981204
 云南卫视,http://gfr.x3322.net:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1987,6 +1988,7 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-3.ctv
 CHC家庭影院,http://t.061899.xyz/tl/dq.php?id=chcjtdy
 CHC家庭影院,http://106.53.99.30/tv/migu.php?id=chcjt
 CHC家庭影院,http://t.061899.xyz/tl/tl.php?id=chcjtdy
+CHC家庭影院,https://stream1.freetv.fun/8f57a76554358d852a26e45e2f6a80379108b8864f76cc435e3fb49e3cdb44f7.ctv
 CHC动作电影,https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&t=1760585411&token=6c7bcb41bc9422f0abecdc368ef1958d
 CHC动作电影,http://go.bkpcp.top/mg/dzdy
 CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
