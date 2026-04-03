@@ -26,3 +26,4 @@
 新疆卫视,http://106.53.99.30/tv/hot.php?id=xjws
 新疆卫视,https://stream1.freetv.fun/f54baeec1aef69aba7e263b1c5082b778f1cf19475559c2117ed9ab9fe317249.ctv
 新疆卫视,https://stream1.freetv.fun/12ab046a626eff1a03e3c30283be191f8ebd3ca670dd281c9c0f56616ed95c0a.ctv
+新疆卫视,https://stream1.freetv.fun/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.ctv
