@@ -180,13 +180,13 @@ CHC家庭影院,http://www.lizhinas.top:10086/rtp/239.252.220.86:5140
 CHC家庭影院,http://zczb.aylzline.top:8899/rtp/225.1.2.214:11422
 CHC家庭影院,http://223.167.230.46:4022/rtp/233.18.204.173:5140
 CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373
-CHC家庭影院,http://39.77.162.87:4002/rtp/239.253.254.152:8000
 CHC家庭影院,http://39.77.22.181:4002/rtp/239.253.254.152:8000
-CHC家庭影院,http://39.77.26.138:4002/rtp/239.253.254.152:8000
+CHC家庭影院,http://39.77.162.87:4002/rtp/239.253.254.152:8000
 CHC家庭影院,http://39.77.21.232:4002/rtp/239.253.254.152:8000
-CHC家庭影院,http://171.119.206.23:6000/rtp/226.0.2.240:9820
+CHC家庭影院,http://39.77.26.138:4002/rtp/239.253.254.152:8000
 CHC家庭影院,http://raytitor.cn:8888/rtp/233.18.204.173:5140
 CHC家庭影院,http://39.77.22.1:4002/rtp/239.253.254.152:8000
+CHC家庭影院,http://171.119.206.23:6000/rtp/226.0.2.240:9820
 CHC家庭影院,http://msen.site:8000/rtp/235.254.199.246:7980
 CHC家庭影院,http://msen.site:8000/rtp/235.254.198.246:7980
 CHC家庭影院,https://mgcn.chinacert.cftest5.cn/644368373
@@ -202,7 +202,6 @@ CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-3.m3u8
 CHC家庭影院,http://220.176.218.27:9000/udp/239.252.219.84:5140
 CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-2.m3u8
-CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.m3u8
 CHC家庭影院,http://192.168.1.7:51602/scdx.php?id=239.94.1.173:5140
 CHC家庭影院,https://lanmeio.com/guanfang/migu/migu.php?id=chcjt
 CHC家庭影院,https://t.freetv.fun/live/jia-ting-ying-yuan-1.m3u8
@@ -214,7 +213,7 @@ CHC家庭影院,http://106.14.225.22:9999/644368373
 CHC家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=793fab686a474d798d627cd73c70d613&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CHC家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CHC家庭影院,http://home.scanflove.com:7788/rtp/235.254.198.246:7980
-CHC家庭影院,http://223.144.220.52:3000/udp/239.76.252.241:9000
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.m3u8
 CHC家庭影院,http://49.87.32.189:1234/644368373
 CHC家庭影院,http://124.220.151.87:11555/miguVIP.php?id=644368373
 CHC家庭影院,http://39.107.69.13/644368373
