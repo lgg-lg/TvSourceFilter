@@ -84,9 +84,9 @@
 东方影视,http://106.53.99.30/tv/migu.php?id=dfys
 东方影视,http://t.061899.xyz/tl/tl.php?id=dfys
 东方影视,https://stream1.freetv.fun/9d3c9f7982bce6a6d8c61dee6b3533032537b84c1312b8bf2613be972edfc0df.ctv
-东方影视,https://t.freetv.fun/live/dong-fang-ying-shi-2.m3u8
-东方影视,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/600/index.m3u8?msisdn=202604090402229ecb003a714f4d218a37752039472541&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139×tamp=20260409040222&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=171.8.79.254&SecurityKey=20260409040222&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2b24543b48a399d474fb7c460f861020
+东方影视,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/600/index.m3u8?msisdn=2026041004021045998ef279c444c7aad1b19742544faf&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139×tamp=20260410040210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=171.8.79.254&SecurityKey=20260410040210&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8984859232e0062f0b09337dc5671ddf
 东方影视,https://t.freetv.fun/live/dong-fang-ying-shi-4.m3u8
+东方影视,https://t.freetv.fun/live/dong-fang-ying-shi-2.m3u8
 东方影视,https://t.freetv.fun/live/dong-fang-ying-shi-1.m3u8
 东方影视,http://49.87.32.189:1234/617290047
 东方影视,http://8.138.7.223/api/00migu.php?id=49&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

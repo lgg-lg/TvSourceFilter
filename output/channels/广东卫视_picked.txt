@@ -41,3 +41,4 @@
 广东卫视,http://8.138.7.223/tv/hot.php?id=37
 广东卫视,http://go.bkpcp.top/mg/gdws4k
 广东卫视,https://stream1.freetv.fun/aff16c21768db1d338b768ad24bd76dd3faaa45a34844f5928b0de29d7d5ace2.ctv
+广东卫视,https://stream1.freetv.fun/6787e35b48df7529fb25c86cd92936335e75d68881015ff99c3e969f57177987.ctv
