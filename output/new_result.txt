@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/04/13-18:28,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/04/14-05:41,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1466,6 +1466,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 辽宁卫视,http://k.061899.xyz/m.php?id=lnws
 辽宁卫视,http://go.bkpcp.top/mg/lnws
 辽宁卫视,http://t.061899.xyz/tl/dq.php?id=lnws
+辽宁卫视,https://stream1.freetv.fun/a5ff048bd936923b9b9b492e580c720357a6a83a146d4e6a9c85c299aedc7da1.ctv
 内蒙古卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&t=1760585411&token=96a66fd5a163abfaffb0d89093c877b7
 内蒙古卫视,http://gfr.x3322.net:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://k.061899.xyz/m.php?id=nmgws&key=txiptv&playlive=1&authid=0
