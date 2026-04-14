@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/04/14-18:09,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/04/15-05:44,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -238,6 +238,7 @@ CCTV-5,http://t.061899.xyz/tl/dq.php?id=cctv5
 CCTV-5,http://8.138.7.223/tv/hot.php?id=5
 CCTV-5,http://106.53.99.30/tv/migu.php?id=cctv5
 CCTV-5,http://106.53.99.30/tv/hot.php?id=cctv5
+CCTV-5,https://stream1.freetv.fun/860e0a5f39c5b6f419d019b18627cd322fc5fc5bdcc86e4564abb9cee8190b48.ctv
 CCTV-5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1760585411&token=4555e6dbb64f42fbc0175bc8069bd14d
 CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://k.061899.xyz/m.php?id=cctv5p&key=txiptv&playlive=1&authid=0
@@ -2098,6 +2099,7 @@ CCTV-5,http://t.061899.xyz/tl/dq.php?id=cctv5
 CCTV-5,http://8.138.7.223/tv/hot.php?id=5
 CCTV-5,http://106.53.99.30/tv/migu.php?id=cctv5
 CCTV-5,http://106.53.99.30/tv/hot.php?id=cctv5
+CCTV-5,https://stream1.freetv.fun/860e0a5f39c5b6f419d019b18627cd322fc5fc5bdcc86e4564abb9cee8190b48.ctv
 CCTV-5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1760585411&token=4555e6dbb64f42fbc0175bc8069bd14d
 CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://k.061899.xyz/m.php?id=cctv5p&key=txiptv&playlive=1&authid=0
