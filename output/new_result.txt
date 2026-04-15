@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/04/15-18:10,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/04/16-05:44,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1257,6 +1257,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 海南卫视,http://8.138.7.223/tv/hot.php?id=39
 海南卫视,http://106.53.99.30/tv/migu.php?id=hinws
 海南卫视,http://106.53.99.30/tv/hot.php?id=hinws
+海南卫视,https://stream1.freetv.fun/b49eb8c449c75b34dae48f7cba8d8e63de58ca8e034c3095819a17688dd68e10.ctv
 河北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&t=1760585411&token=62c47972c3ca16000e0258de08c5a971
 河北卫视,http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://gfr.x3322.net:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1900,6 +1901,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 海南卫视,http://8.138.7.223/tv/hot.php?id=39
 海南卫视,http://106.53.99.30/tv/migu.php?id=hinws
 海南卫视,http://106.53.99.30/tv/hot.php?id=hinws
+海南卫视,https://stream1.freetv.fun/b49eb8c449c75b34dae48f7cba8d8e63de58ca8e034c3095819a17688dd68e10.ctv
 海峡卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1760585411&token=7d661ff92492e988eb8b6cef1e8ccbdb
 海峡卫视,http://k.061899.xyz/m.php?id=hxws&key=txiptv&playlive=1&authid=0
 海峡卫视,http://218.104.239.114:9901/tsfile/live/0150_1.m3u8
@@ -2003,6 +2005,7 @@ CHC家庭影院,http://t.061899.xyz/tl/dq.php?id=chcjtdy
 CHC家庭影院,http://106.53.99.30/tv/migu.php?id=chcjt
 CHC家庭影院,http://t.061899.xyz/tl/tl.php?id=chcjtdy
 CHC家庭影院,https://stream1.freetv.fun/8f57a76554358d852a26e45e2f6a80379108b8864f76cc435e3fb49e3cdb44f7.ctv
+CHC家庭影院,http://t.061899.xyz/tl/dq.php?id=jtyy
 CHC动作电影,https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&t=1760585411&token=6c7bcb41bc9422f0abecdc368ef1958d
 CHC动作电影,http://go.bkpcp.top/mg/dzdy
 CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
@@ -2033,6 +2036,7 @@ CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-29.ctv
 CHC动作电影,http://106.53.99.30/tv/migu.php?id=chcdz
 CHC动作电影,http://t.061899.xyz/tl/dq.php?id=chcdzdy
 CHC动作电影,http://t.061899.xyz/tl/tl.php?id=chcdzdy
+CHC动作电影,http://t.061899.xyz/tl/dq.php?id=dzdy
 CHC影迷电影,https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&t=1760585411&token=cb0f6a1116a6d073cd0484b647e3bebc
 CHC影迷电影,http://go.bkpcp.top/mg/ymdy
 CHC影迷电影,http://k.061899.xyz/m.php?id=ymdy
@@ -2049,6 +2053,7 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-5.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-3.ctv
 CHC影迷电影,http://106.53.99.30/tv/hot.php?id=ymdy
 CHC影迷电影,http://go.bkpcp.top/mg/ymd
+CHC影迷电影,http://t.061899.xyz/tl/dq.php?id=ymdy
 
 
 🏀体育频道,#genre#

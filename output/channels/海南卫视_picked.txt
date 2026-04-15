@@ -17,3 +17,4 @@
 海南卫视,http://8.138.7.223/tv/hot.php?id=39
 海南卫视,http://106.53.99.30/tv/migu.php?id=hinws
 海南卫视,http://106.53.99.30/tv/hot.php?id=hinws
+海南卫视,https://stream1.freetv.fun/b49eb8c449c75b34dae48f7cba8d8e63de58ca8e034c3095819a17688dd68e10.ctv
