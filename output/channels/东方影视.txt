@@ -84,11 +84,11 @@
 东方影视,http://106.53.99.30/tv/migu.php?id=dfys
 东方影视,http://t.061899.xyz/tl/tl.php?id=dfys
 东方影视,https://stream1.freetv.fun/9d3c9f7982bce6a6d8c61dee6b3533032537b84c1312b8bf2613be972edfc0df.ctv
+东方影视,https://stream1.freetv.fun/9493fa74ebe3fd1dabccb3098f4d4a4b4ff560c2358a3a2601ad75d664144498.ctv
 东方影视,https://t.freetv.fun/live/dong-fang-ying-shi-4.m3u8
 东方影视,https://t.freetv.fun/live/dong-fang-ying-shi-2.m3u8
 东方影视,https://t.freetv.fun/live/dong-fang-ying-shi-1.m3u8
 东方影视,http://49.87.32.189:1234/617290047
 东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=6b0126f9b7bc4f48ba696eec5680e906&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-东方影视,https://stream1.freetv.fun/9493fa74ebe3fd1dabccb3098f4d4a4b4ff560c2358a3a2601ad75d664144498.ctv
 东方影视,http://8.138.7.223/api/00migu.php?id=49&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 东方影视,http://8.138.7.223/api/ipv6.php?id=62&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
