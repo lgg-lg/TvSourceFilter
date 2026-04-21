@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/04/21-18:13,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/04/22-05:39,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1811,6 +1811,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 西藏卫视,http://106.53.99.30/tv/migu.php?id=xzws
 西藏卫视,http://106.53.99.30/tv/hot.php?id=xzws
 西藏卫视,http://k.061899.xyz/m.php?id=xzws
+西藏卫视,https://stream1.freetv.fun/b6fd525230d5e936f16a8f7e029daee6271d0c67f492af57f4de23e14f9daa1a.ctv
 新疆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1760585411&token=4ae1862d33270f5117c7d71431b29c38
 新疆卫视,http://gfr.x3322.net:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://k.061899.xyz/m.php?id=xjws&key=txiptv&playlive=1&authid=0
