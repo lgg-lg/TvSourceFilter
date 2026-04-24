@@ -124,12 +124,12 @@
 第一财经,http://106.53.99.30/tv/hot.php?id=dycj
 第一财经,http://t.061899.xyz/tl/tl.php?id=dycj
 第一财经,https://stream1.freetv.fun/7e264d7a1edc78a3ceace64e8392d218a5eb329fb06ec61422223b3722f04e80.ctv
-第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=202604240402110eaed41f36514ff99cccf7845b5af404&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139×tamp=20260424040211&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20260424040211&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=ZQ-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=951086da69a3dd68e499b590b2c2a0df
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1776972125&key=f6dbbb5eed011e364e5b4ebd1ead28e7
-第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2026042304022028243f65fb9748259d77f2f1e8a65d45&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139×tamp=20260423040220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20260423040220&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3e22578fd79a60e9f311bb155cd99abd
-第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2026042308022688c4ca0e9a624ca2b4119af7286b9106&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139×tamp=20260423080226&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20260423080226&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ddb0d92b0fa182acec967f20c4382bb1
-第一财经,https://t.freetv.fun/live/di-yi-cai-jing-2.m3u8
+第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=20260425040219815359b6e1314f51bafe2046d7ba0260&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139×tamp=20260425040219&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20260425040219&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4d11ee56ce57605ad13638ef485118df
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1777057416&key=376e878c92258109d356959607185d54
 第一财经,https://t.freetv.fun/live/di-yi-cai-jing-5.m3u8
+第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=20260424080212dca23609a0764aee96fa0f5b4e112155&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139×tamp=20260424080212&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20260424080212&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=ZQ-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9b337691ff5ea558a761bb76ea6dfb45
+第一财经,https://t.freetv.fun/live/di-yi-cai-jing-2.m3u8
+第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=202604240402110eaed41f36514ff99cccf7845b5af404&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139×tamp=20260424040211&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20260424040211&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=ZQ-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=951086da69a3dd68e499b590b2c2a0df
 第一财经,https://live-cdn-v01.lalifeier.eu.org/kankanews/dycj.m3u8?t=1772574002&key=1c94c7b63a35336778efd2a23f1dbfc4
 第一财经,https://live-cdn-v01.lalifeier.eu.org/kankanews/dycj.m3u8?t=1772617854&key=8d6815507ac6112f48ea23fa4a63bfa1
 第一财经,https://live-cdn-v01.lalifeier.eu.org/kankanews/dycj.m3u8?t=1772660450&key=c1773e7c0d7368b8fc961c3796076597
@@ -145,7 +145,7 @@
 第一财经,http://117.86.48.47:7777/rtp/239.49.8.37:8000
 第一财经,http://139.196.214.238/rtp/239.45.3.211:5140
 第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=50d4da670b986b3815f3797d1ffe0c6e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1776901986&key=07f785ea056577212e3692f4dfecddeb
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1776988473&key=7241f6c60ab43a30f80de0082b299750
 第一财经,http://8.138.7.223/api/18sh.php?id=dycj&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 第一财经,http://8.138.7.223/api/18sh.php?id=21&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 第一财经,http://8.138.7.223/api/ipv6.php?id=65&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

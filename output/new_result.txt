@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/04/24-18:18,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/04/25-05:41,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1463,10 +1463,10 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 辽宁卫视,https://stream1.freetv.fun/c386d9c7cbbd54acd5c62d1e68d3b89f76f9f7a926691e4ad69397091fe9692c.ctv
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-2.ctv
 辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
+辽宁卫视,http://k.061899.xyz/m.php?id=lnws
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-6.ctv
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-39.ctv
 辽宁卫视,http://106.53.99.30/tv/migu.php?id=lnws
-辽宁卫视,http://k.061899.xyz/m.php?id=lnws
 辽宁卫视,http://go.bkpcp.top/mg/lnws
 辽宁卫视,http://t.061899.xyz/tl/dq.php?id=lnws
 辽宁卫视,https://stream1.freetv.fun/a5ff048bd936923b9b9b492e580c720357a6a83a146d4e6a9c85c299aedc7da1.ctv
@@ -1885,6 +1885,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 兵团卫视,http://8.138.7.223/tv/hot.php?id=59
 兵团卫视,http://k.061899.xyz/m.php?id=btws
 兵团卫视,http://t.061899.xyz/tl/dq.php?id=btws
+兵团卫视,https://stream1.freetv.fun/7690729e43cd485b88bcedccb7455292214b740fb52ed0895fe85a03066b9631.ctv
 海南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=fc9c26bbc37e5af7793a65134e169477
 海南卫视,http://gfr.x3322.net:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://221.2.148.205:8154/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1956,6 +1957,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 哈哈炫动,http://gfr.x3322.net:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8
 哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-18.ctv
+哈哈炫动,https://stream1.freetv.fun/b435063b71b5f3ed95ab500118314f5e9f3289f3afcbb7c0dba3b0e9e5dff943.ctv
 欢笑剧场,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA&t=1760585411&token=90477e182f3bc05eb57542834d825a0a
 欢笑剧场,https://epg.pw/stream/c26de373680830b38e7b3f0da2f920353f298e3369addfe68b8e4a2e3811a12b.ctv
 欢笑剧场,http://106.53.99.30/tv/migu.php?id=hxjc

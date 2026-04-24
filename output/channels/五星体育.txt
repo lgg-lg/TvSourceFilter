@@ -115,7 +115,6 @@
 五星体育,http://wsc2007123.myds.me:30100/rtp/233.18.204.58:5140
 五星体育,http://223.167.230.46:4022/rtp/233.18.204.58:5140
 五星体育,http://raytitor.cn:8888/rtp/233.18.204.58:5140
-五星体育,http://youngx.top:4022/rtp/233.18.204.58:5140
 五星体育,https://other.chinacert.cftest5.cn/wxty.m3u8
 五星体育,http://k.061899.xyz/m.php?id=wxty
 五星体育,http://go.bkpcp.top/mg/wxty
