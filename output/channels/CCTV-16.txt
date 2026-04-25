@@ -380,8 +380,8 @@ CCTV-16,http://ott.mobaibox.com/PLTV/-/224/3221228112/index.m3u8
 CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
 CCTV-16,http://220.176.218.206:9000/udp/239.252.220.237:5140
 CCTV-16,http://rustdesk.szsun.xyz:8088/udp/239.77.0.165:5146
-CCTV-16,http://223.198.240.143:4000/rtp/239.253.64.126:5140
-CCTV-16,http://223.198.240.143:4000/rtp/239.253.64.251:5140
+CCTV-16,http://221.220.129.163:8012/rtp/239.3.1.184:8001
+CCTV-16,http://tv.laokhome.cn:19000/rtp/232.0.0.182:1234
 CCTV-16,http://go.bkpcp.top/mg/cctv16
 CCTV-16,http://k.061899.xyz/m.php?id=cctv16
 CCTV-16,http://t.061899.xyz/tl/tl.php?id=cctv16
@@ -389,8 +389,13 @@ CCTV-16,http://t.061899.xyz/tl/dq.php?id=cctv16
 CCTV-16,http://8.138.7.223/tv/hot.php?id=16
 CCTV-16,http://go.bkpcp.top/mg/CCTV-16
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV-16,http://221.220.129.163:8012/rtp/239.3.1.184:8001
-CCTV-16,http://114.254.87.121:8888/rtp/239.3.1.184:8001
+CCTV-16,http://223.198.240.52:4000/rtp/239.253.64.251:5140
+CCTV-16,http://124.114.100.193:6789/rtp/239.111.205.134:5140
+CCTV-16,http://106.59.2.232:55555/rtp/239.200.200.193:8776
+CCTV-16,http://116.2.163.59:4010/rtp/232.0.0.182:1234
+CCTV-16,http://223.198.240.52:4000/rtp/239.253.64.126:5140
+CCTV-16,http://106.59.2.232:55555/rtp/239.200.200.194:8780
+CCTV-16,http://113.119.24.211:58888/udp/239.77.0.165:5146
 CCTV-16,http://123.118.56.249:8686/rtp/239.3.1.184:8001
 CCTV-16,http://173.208.223.226:82/live/cctv16md.m3u8?jsbt=1772069348&jsbk=71ccb68cbde431d790236c8c40a056e3
 CCTV-16,http://171.116.254.184:9003/hls/17/index.m3u8
@@ -404,10 +409,10 @@ CCTV-16,https://t.freetv.fun/live/cctv-16-1.m3u8
 CCTV-16,https://t.freetv.fun/live/cctv-16.m3u8
 CCTV-16,https://t.freetv.fun/live/cctv16-1-1.m3u8
 CCTV-16,https://t.freetv.fun/live/cctv16-1.m3u8
-CCTV-16,https://t.freetv.fun/live/cctv16-4k.m3u8
 CCTV-16,https://t.freetv.fun/live/cctv16-6.m3u8
 CCTV-16,https://t.freetv.fun/live/cctv-16hd-1.m3u8
 CCTV-16,https://t.freetv.fun/live/cctv-16hd-2.m3u8
+CCTV-16,https://t.freetv.fun/live/cctv16-4k.m3u8
 CCTV-16,https://t.freetv.fun/live/cctv-16hd.m3u8
 CCTV-16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CCTV-16,http://69.30.245.50/live/cctv16.m3u8
@@ -439,6 +444,7 @@ CCTV-16,https://tttttt.zpyxxs.com/livetv/hlcc/McNJgw7Hg/McNJgw7Hg_live.m3u8
 CCTV-16,http://j.s.bkpcp.top/jj/cctv16
 CCTV-16,https://live.264788.xyz/channel/cctv16?streamid=d1ef1cb15a9781aecd1fa91d03ab41ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-16,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
+CCTV-16,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
 CCTV-16,http://8.138.7.223/api/29cq.php?id=22&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 CCTV-16,http://8.138.7.223/api/ipv6.php?id=15&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 CCTV-16,http://8.138.7.223/api/webview.php?id=16&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
