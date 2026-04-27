@@ -117,10 +117,9 @@
 都市剧场,http://izihao.cn:9977/rtp/239.93.42.30:5140
 都市剧场,http://aklim.f3322.net:18885/rtp/239.45.3.136:5140
 都市剧场,http://116.2.163.59:4010/rtp/232.0.0.149:1234
-都市剧场,http://106.116.243.248:9999/rtp/239.254.201.167:6360
+都市剧场,http://124.112.188.208:4022/rtp/238.1.78.74:6464
 都市剧场,http://124.112.240.142:4022/rtp/238.1.78.74:6464
 都市剧场,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001203/index.m3u8?streamid=fd36352c039198fe0978687774e97e59&streamkey=0WsC3jqv5pZMcRRCygo4VTlOTvi9bTCwlnIuuJUBjnBWTwcjoCuCI96qfPqPDVNZ0aqEUXrCtmdYiA55XouMxl7kXeqYtnnZLSPxmTgKz4J1lElEFPNAHdBzm&token=1775754833-0c24e6f296307991-0-4b1ed6441088c73ad4569aca7aa649a5
-都市剧场,http://1.197.204.20:85/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://218.74.248.175:8188/rtp/233.50.201.190:5140
 都市剧场,http://218.74.248.175:8188/rtp/233.50.200.11:5140
 都市剧场,https://live.264788.xyz/channel/dushijuchang?streamid=087bbd865ae84d7fe5c566127ffad8ee&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
