@@ -119,11 +119,11 @@
 五星体育,http://k.061899.xyz/m.php?id=wxty
 五星体育,http://go.bkpcp.top/mg/wxty
 五星体育,https://stream1.freetv.fun/f7fd467306b7f42162d8640b27ee41e8f42134349c10a75bb08ed3a9f2690d40.ctv
-五星体育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
 五星体育,http://abc.sohu.blog/df4k.php?id=1605
-五星体育,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001018/index.m3u8?streamid=5d17da390f8e4805aae4a71868d4ef6c&streamkey=01vY5fRxC8VyKg0PICr0SVkCGXpCWCmlVyXqG8bUF7IEud8pEwewFuJf6bh0h8a6SGm05RZ7OONZ3PbgJIxHCHprQKAhhj01bBukHFRvFGMefpNSbyD2pFn&token=1775755189-d5b13aa9f290011f-0-5ad7b909aad65e335d8f5ca0ef8fad49
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-1.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-6.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-1.m3u8
+五星体育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+五星体育,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001018/index.m3u8?streamid=5d17da390f8e4805aae4a71868d4ef6c&streamkey=01vY5fRxC8VyKg0PICr0SVkCGXpCWCmlVyXqG8bUF7IEud8pEwewFuJf6bh0h8a6SGm05RZ7OONZ3PbgJIxHCHprQKAhhj01bBukHFRvFGMefpNSbyD2pFn&token=1775755189-d5b13aa9f290011f-0-5ad7b909aad65e335d8f5ca0ef8fad49
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-4.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
@@ -135,6 +135,7 @@
 五星体育,http://38.14.195.5:8080/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 五星体育,http://8.218.84.3:8885/streams/BHXnwiHKQ3iZaWXleICXtsqPt5tbLLKiDPSoxkX2pMVQjqWvf5uIfauSnT4wZTC5_1zQKjoWF5T92IOASIX8Od79FHF9JAW1dVDor2Y62FOxFtK_rmeJwCxI0yZitI9cZPf7x6E33d7KcdVLS9qv2Qp7VL6_dljVwTfWUY1oaFE9C7DC4n9eJO5266VstRcLysW-4hPNG9UymxKiSPRPwTwSX1Ajp5ck90bDGq-SPMBiPmBHLNbHouscTPrLWjzs.m3u8?ips=&u=1777118490
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+五星体育,https://stream1.freetv.fun/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
 五星体育,http://8.138.7.223/api/05tiyu.php?id=wxty&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 五星体育,http://8.138.7.223/api/18sh.php?id=xwty&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 五星体育,http://8.138.7.223/api/18sh.php?id=1605&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

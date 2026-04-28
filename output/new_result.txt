@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/04/28-18:56,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/04/29-05:52,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1980,6 +1980,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 第一财经,http://106.53.99.30/tv/hot.php?id=dycj
 第一财经,http://t.061899.xyz/tl/tl.php?id=dycj
 第一财经,https://stream1.freetv.fun/7e264d7a1edc78a3ceace64e8392d218a5eb329fb06ec61422223b3722f04e80.ctv
+第一财经,https://stream1.freetv.fun/33c55026d09cf745fdf96ee95d74f6daef63ad381f3d29a889b9ae03787ed59a.ctv
 七彩戏剧,http://t.061899.xyz/tl/dq.php?id=qcxj
 七彩戏剧,http://106.53.99.30/tv/migu.php?id=qcxj
 七彩戏剧,http://t.061899.xyz/tl/tl.php?id=qcxj
@@ -2157,6 +2158,7 @@ CCTV-5+,http://106.53.99.30/tv/migu.php?id=cctv5p
 五星体育,http://k.061899.xyz/m.php?id=wxty
 五星体育,http://go.bkpcp.top/mg/wxty
 五星体育,https://stream1.freetv.fun/f7fd467306b7f42162d8640b27ee41e8f42134349c10a75bb08ed3a9f2690d40.ctv
+五星体育,https://stream1.freetv.fun/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
 山东体育,http://61.156.228.12:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://123.129.70.178:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://221.2.148.205:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
