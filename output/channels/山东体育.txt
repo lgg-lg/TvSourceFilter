@@ -65,3 +65,4 @@
 山东体育,http://1501.lijiuyu.baby:9999/rtp/239.253.224.158:8000
 山东体育,http://1501.lijiuyu.baby:9999/rtp/239.253.224.22:8000
 山东体育,https://v.iqilu.com/live/typd/
+山东体育,http://119.91.7.169:2026/difangtai/shandong.php?id=txyx

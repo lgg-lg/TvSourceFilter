@@ -88,4 +88,14 @@
 东方财经,http://218.74.248.175:8188/rtp/233.50.200.177:5140
 东方财经,http://117.86.48.47:7777/rtp/239.49.0.95:8000
 东方财经,https://live.264788.xyz/channel/dongfangcaijing?streamid=82d4a4e6dd7add9e6d65efc2d7658b04&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+东方财经,https://live.264788.xyz/channel/dongfangcaijing?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+东方财经,http://171.213.170.130:8123/rtp/239.94.1.59:5140
+东方财经,http://171.213.221.117:8096/rtp/239.94.1.59:5140
+东方财经,http://171.213.233.99:5555/rtp/239.94.1.59:5140
+东方财经,http://183.142.105.56:8889/rtp/233.50.200.177:5140
+东方财经,http://125.108.143.233:7778/rtp/233.50.200.177:5140
+东方财经,http://175.0.69.213:9999/rtp/239.76.254.69:9000
+东方财经,http://61.187.148.168:4022/rtp/239.76.254.69:9000
+东方财经,http://1.62.83.171:8886/rtp/229.58.190.90:5000
+东方财经,http://1.62.83.171:8886/rtp/229.58.190.105:5000
 东方财经,http://8.138.7.223/api/ipv6.php?id=66&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
