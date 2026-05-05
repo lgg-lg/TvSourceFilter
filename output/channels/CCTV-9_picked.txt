@@ -43,3 +43,4 @@ CCTV-9,http://go.bkpcp.top/mg/CCTV-9
 CCTV-9,http://106.53.99.30/tv/migu.php?id=cctv9
 CCTV-9,http://106.53.99.30/tv/hot.php?id=cctv9
 CCTV-9,https://stream1.freetv.fun/1e6dd60cbcf0dd3c3f70bcf80636a150c35cfc33e03c39a05e09622a62392c4c.ctv
+CCTV-9,http://112.132.10.54:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
