@@ -29,3 +29,4 @@
 内蒙古卫视,http://106.53.99.30/tv/migu.php?id=nmws
 内蒙古卫视,http://106.53.99.30/tv/hot.php?id=nmgws
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmws
+内蒙古卫视,https://stream1.freetv.fun/10e7c8de939511f739ccdbe25abd341d174b62daf414cd2dc718c2e0b9774524.ctv

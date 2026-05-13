@@ -31,3 +31,4 @@
 陕西卫视,http://t.061899.xyz/tl/tl.php?id=sxws
 陕西卫视,https://stream1.freetv.fun/cb516ac465877e0fecc26654d22360f652319eb709bdc2d85bc423e124c03255.ctv
 陕西卫视,http://112.132.10.54:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,https://stream1.freetv.fun/e18da45121d2a09f6609be4d547924ee48565a3cc8eb5a0e2ff6715c25523aae.ctv
