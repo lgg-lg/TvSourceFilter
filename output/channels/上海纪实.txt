@@ -53,11 +53,11 @@
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-3.m3u8
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-5.m3u8
 上海纪实,https://stream1.freetv.fun/shang-hai-ji-shi-ren-wen-1.m3u8
-上海纪实,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1779045472&key=6529df469e7a390115953cff846dbdc0
+上海纪实,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1779133921&key=ddb347c61e34ac3405c096c88d349ece
 上海纪实,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 上海纪实,rtsp://183.59.56.116:554/PLTV/88888905/224/3221229872/10000100000000060000000009575047_0.smil?0&accountinfo=%7E%7EV2.0%7EK7Z3v0csIIQiA8ZhV0ySEA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
-上海纪实,http://144.255.44.115:7788/rtp/239.21.1.171:5002
-上海纪实,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1778976046&key=d9f3d026b404ba38f327dd7d99fad07f
+上海纪实,http://122.5.99.220:8818/rtp/239.21.1.171:5002
+上海纪实,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1779062653&key=4528329bbd963e6299206f2b7c6fd348
 上海纪实,http://kkk.888.3116598.xyz/api.php?n=tttt&id=lbKb6q&tk=FgM0vQMejxvG
 上海纪实,https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-12.m3u8
 上海纪实,http://nas.201606.xyz:4022/udp/239.10.0.192:5140
@@ -82,7 +82,8 @@
 上海纪实,http://111.127.156.64:51234/rtp/239.29.0.101:5000
 上海纪实,http://218.1.208.13:7777/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 上海纪实,http://106.37.149.226:8899/rtp/225.1.8.53:8060
-上海纪实,http://144.255.44.115:7788/rtp/239.21.1.195:5002
+上海纪实,http://122.5.99.220:8818/rtp/239.21.1.195:5002
 上海纪实,http://121.29.91.239:7077/rtp/239.253.92.99:6013
+上海纪实,http://60.219.228.219:4000/rtp/229.58.190.94:5000
 上海纪实,http://8.138.7.223/api/18sh.php?id=xjs&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 上海纪实,http://8.138.7.223/api/18sh.php?id=1600&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
