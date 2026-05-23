@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/05/23-18:26,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/05/24-05:48,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -278,6 +278,7 @@ CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8
 CCTV-5+,http://106.53.99.30/tv/hot.php?id=cctv5p
 CCTV-5+,http://go.bkpcp.top/mg/CCTV-5p
 CCTV-5+,http://106.53.99.30/tv/migu.php?id=cctv5p
+CCTV-5+,http://1.94.31.214/php/ysp.php?id=cctv5p
 CCTV-6,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV6&t=1760585411&token=944b6327597e5ab6e14998beedd01e06
 CCTV-6,http://gfr.x3322.net:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://gfr.x3322.net:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2198,6 +2199,7 @@ CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8
 CCTV-5+,http://106.53.99.30/tv/hot.php?id=cctv5p
 CCTV-5+,http://go.bkpcp.top/mg/CCTV-5p
 CCTV-5+,http://106.53.99.30/tv/migu.php?id=cctv5p
+CCTV-5+,http://1.94.31.214/php/ysp.php?id=cctv5p
 五星体育,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&t=1760585411&token=a10694e2379a09cfd53df66fd7c2e99c
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
