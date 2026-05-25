@@ -37,3 +37,4 @@
 贵州卫视,http://8.138.7.223/tv/hot.php?id=42
 贵州卫视,http://106.53.99.30/tv/migu.php?id=gzws
 贵州卫视,https://stream1.freetv.fun/363e4472ad7d6a9c376cb0631a6ebed43ee0af641dae020f8ecbf0acb8430b1b.ctv
+贵州卫视,https://stream1.freetv.fun/8805dcd95b2aa6f3d523c5d9f0e486aa485226f8b1497c2ecf9b843a60e0a41e.ctv

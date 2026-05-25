@@ -53,11 +53,11 @@
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-3.m3u8
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-5.m3u8
 上海纪实,https://stream1.freetv.fun/shang-hai-ji-shi-ren-wen-1.m3u8
-上海纪实,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1779653490&key=5f01f8c126cb6fe7a18aa9b52fb1d3c1
+上海纪实,http://182.32.59.99:4022/rtp/239.21.1.171:5002
+上海纪实,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1779740720&key=3bb24515c60340b85f36e12f7c5462bf
 上海纪实,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 上海纪实,rtsp://183.59.56.116:554/PLTV/88888905/224/3221229872/10000100000000060000000009575047_0.smil?0&accountinfo=%7E%7EV2.0%7EK7Z3v0csIIQiA8ZhV0ySEA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
-上海纪实,http://182.32.59.99:4022/rtp/239.21.1.171:5002
-上海纪实,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1779580975&key=c2ea49477300c62057fc5066f5689d1b
+上海纪实,https://live.lalifeier.eu.org/kankanews/jsrw.m3u8?t=1779664186&key=9dfd0cd32bb28bb0da886dd77e5f35e6
 上海纪实,http://kkk.888.3116598.xyz/api.php?n=tttt&id=lbKb6q&tk=FgM0vQMejxvG
 上海纪实,https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-12.m3u8
 上海纪实,http://nas.201606.xyz:4022/udp/239.10.0.192:5140
@@ -81,10 +81,9 @@
 上海纪实,http://60.4.30.55:8077/rtp/239.253.92.99:6013
 上海纪实,http://111.127.156.64:51234/rtp/239.29.0.101:5000
 上海纪实,http://218.1.208.13:7777/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+上海纪实,http://117.8.142.39:8833/rtp/225.1.2.25:5002
 上海纪实,http://221.198.101.57:4022/rtp/225.1.2.25:5002
-上海纪实,http://182.32.59.99:4022/rtp/239.21.1.195:5002
-上海纪实,http://106.112.254.66:8989/rtp/239.254.200.58:8060
-上海纪实,http://110.249.126.24:9999/rtp/239.253.92.99:6013
 上海纪实,http://119.250.99.117:4000/rtp/239.253.92.99:6013
+上海纪实,http://110.249.126.24:9999/rtp/239.253.92.99:6013
 上海纪实,http://8.138.7.223/api/18sh.php?id=xjs&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 上海纪实,http://8.138.7.223/api/18sh.php?id=1600&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
