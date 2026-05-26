@@ -24,3 +24,4 @@
 西藏卫视,http://112.132.10.54:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,https://stream1.freetv.fun/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.ctv
 西藏卫视,https://stream1.freetv.fun/d07bb52e80e2df1c23107396b255603f965c5d9ee1f85745259d2e9dafa7e34e.ctv
+西藏卫视,https://stream1.freetv.fun/dd47ba03fe77064ea4e0978637231bce94e7554c9f8f6a020195311829752aed.ctv
