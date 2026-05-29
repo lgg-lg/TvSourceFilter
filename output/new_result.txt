@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/05/29-20:13,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/05/30-06:28,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1531,6 +1531,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 内蒙古卫视,http://106.53.99.30/tv/hot.php?id=nmgws
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmws
 内蒙古卫视,https://stream1.freetv.fun/10e7c8de939511f739ccdbe25abd341d174b62daf414cd2dc718c2e0b9774524.ctv
+内蒙古卫视,https://stream1.freetv.fun/5449f2d57a27706d5b13071efab41c175da68c2cc31af7c2734df6d796390d65.ctv
 宁夏卫视,http://gfr.x3322.net:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://221.2.148.205:8154/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1736,6 +1737,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 四川卫视,http://8.138.7.223/tv/hot.php?id=41
 四川卫视,http://106.53.99.30/tv/hot.php?id=scws
 四川卫视,http://go.bkpcp.top/mg/scws4k
+四川卫视,https://stream1.freetv.fun/b6824b72fbee9e42fac87484354cec553eb769a71a6536f94eacb50743dcfd1b.ctv
 深圳卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1760585411&token=538edadf5c4b4d5e6e837d981d0cb5e8
 深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
