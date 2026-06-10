@@ -88,13 +88,10 @@
 东方财经,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229471/139134633.smil
 东方财经,http://admin:admin@clnas0001.top:9981/stream/channelid/1267487368?profile=pass
 东方财经,http://clnas0001.top:9981/stream/channelid/1267487368?profile=pass
-东方财经,http://125.104.17.223:4022/rtp/233.50.200.177:5140
-东方财经,http://221.3.26.12:22222/rtp/239.253.254.94:8000
-东方财经,http://120.0.44.212:9999/rtp/239.253.93.239:6417
-东方财经,http://182.143.18.18:8888/rtp/239.94.1.59:5140
 东方财经,http://223.10.163.135:8459/rtp/239.1.1.85:8085
-东方财经,https://live.264788.xyz/channel/dongfangcaijing?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+东方财经,http://182.143.18.18:8888/rtp/239.94.1.59:5140
 东方财经,https://live.264788.xyz/channel/dongfangcaijing?streamid=82d4a4e6dd7add9e6d65efc2d7658b04&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+东方财经,https://live.264788.xyz/channel/dongfangcaijing?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方财经,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8
 东方财经,http://117.86.48.47:7777/rtp/239.49.0.95:8000
 东方财经,http://8.138.7.223/api/ipv6.php?id=66&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
