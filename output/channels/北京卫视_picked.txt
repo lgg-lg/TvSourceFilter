@@ -36,3 +36,4 @@
 北京卫视,http://106.53.99.30/tv/bj.php?id=bjws4k
 北京卫视,http://go.bkpcp.top/mg/bjws4k
 北京卫视,http://8.138.7.223/tv/btime.php?id=bjws4k
+北京卫视,https://stream1.freetv.fun/0a920e1e3bcd96a5d5a45d7094b38ad2bd1caae452c364e0f780b976f450a1f6.ctv
