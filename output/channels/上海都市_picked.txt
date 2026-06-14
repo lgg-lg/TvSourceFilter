@@ -4,3 +4,4 @@
 上海都市,https://stream1.freetv.fun/ee9a60e0bab704cafe1987a634befac4b8dc3c3323ee5a78c21d2c3455adf2cc.ctv
 上海都市,https://stream1.freetv.fun/739243957c92ecc3c5cc8e2d33bbc6ef1fd8529992bbf7ab1a9dcef5e17429d4.ctv
 上海都市,https://stream1.freetv.fun/3548f5845f2e9ff8004985d0f7c7605b57e7faa1c59a7236b9520fa54d55210e.ctv
+上海都市,https://stream1.freetv.fun/c51379ba4852f1be15b1a0bc4332b09049cb4df778fff224c8966217566ac38a.ctv
