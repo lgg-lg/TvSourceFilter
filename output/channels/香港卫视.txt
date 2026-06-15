@@ -30,4 +30,4 @@
 香港卫视,https://epg.pw/stream/492e9c1ee871dfd72e301ac5f40de1a895ebed0c45c488b72b91d8874ba370a6.ctv
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,https://tv123.cc.cd/live.php?ch=20b61bc32313
+香港卫视,https://tv123.cc.cd/live.php?ch=146638432313
