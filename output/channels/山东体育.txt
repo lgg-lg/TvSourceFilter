@@ -68,3 +68,4 @@
 山东体育,http://112.235.200.120:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
 山东体育,http://119.91.7.169:2026/difangtai/shandong.php?id=txyx
+山东体育,http://112.226.130.90:4001/rtp/239.253.254.22:8000
