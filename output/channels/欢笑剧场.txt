@@ -99,8 +99,6 @@
 欢笑剧场,http://t.061899.xyz/tl/dq.php?id=hxjc
 欢笑剧场,http://t.061899.xyz/tl/tl.php?id=hxjc
 欢笑剧场,http://1.192.245.143:8188/rtp/239.16.20.39:10390
-欢笑剧场,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227145/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-欢笑剧场,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227145/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 欢笑剧场,http://k.061899.xyz/k.php?id=hxjc
 欢笑剧场,http://zj-zb-lt.sohu.blog:7912/rtp/233.50.201.189:5140
 欢笑剧场,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227970/index.m3u8
@@ -142,5 +140,7 @@
 欢笑剧场,http://yyf1991.top:9999/rtp/233.18.204.205:5140
 欢笑剧场,http://42.233.233.0:4022/rtp/225.1.5.8:1319
 欢笑剧场,http://219.155.100.203:4022/rtp/225.1.5.8:1319
+欢笑剧场,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227145/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+欢笑剧场,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227145/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 欢笑剧场,http://8.138.7.223/api/29cq.php?id=57&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 欢笑剧场,http://8.138.7.223/api/ipv6.php?id=64&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
