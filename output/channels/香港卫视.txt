@@ -32,4 +32,4 @@
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.ctv
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,https://tv123.cc.cd/live.php?ch=e7c0252e1972
+香港卫视,https://tv123.cc.cd/live.php?ch=5c8dacd22107
