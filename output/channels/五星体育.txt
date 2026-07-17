@@ -116,6 +116,7 @@
 五星体育,http://wsc2007123.myds.me:30100/rtp/233.18.204.58:5140
 五星体育,https://other.chinacert.cftest5.cn/wxty.m3u8
 五星体育,http://nas.jqcykj.com:88/shanghai/?id=wxty
+五星体育,http://45.192.97.170:8880/play/266.m3u8
 五星体育,http://k.061899.xyz/m.php?id=wxty
 五星体育,http://go.bkpcp.top/mg/wxty
 五星体育,https://stream1.freetv.fun/f7fd467306b7f42162d8640b27ee41e8f42134349c10a75bb08ed3a9f2690d40.ctv
@@ -123,13 +124,12 @@
 五星体育,https://stream1.freetv.fun/d99d90dcb204a091467cada6295ceb8dfb0cf5c3890378e1d0f57ec8ef9922f0.ctv
 五星体育,https://stream1.freetv.fun/34873bf6f3f46649af7272bc5b7af063008069a67b644c7cb16fdbfdbf2751b8.ctv
 五星体育,https://stream1.freetv.fun/85cd5cc9fdaaf0956e7136e920dcd8149eb6f843aac49ebbeaeb6415d8e8a316.ctv
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-1.m3u8
-五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-4.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-2.m3u8
+五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-1.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-6.m3u8
-五星体育,http://45.192.97.170:8880/play/266.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-2.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
 五星体育,http://139.196.151.191:3970/rtp/239.45.3.210:5140
 五星体育,https://cdn.qd.je/163189/wxty
 五星体育,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=10
@@ -142,7 +142,7 @@
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3-1.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5-1.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5.php
-五星体育,http://tv123.cc.cd/live.php?ch=1769&sid=d45869f2a640ca7328f63c0123e38487&exp=1784271068&sig=8aca8fdbe7a477437fc7592cba6a159a5f0fadf52e339e2be359a6f115d539e2
+五星体育,http://tv123.cc.cd/live.php?ch=1672&sid=ac4d06d643a5fafe45d0f3d15950d814&exp=1784357258&sig=bcf62d9dc82184f6439c1d8d87a119b09bf485e2db88aee186c7261a6a664804
 五星体育,http://156.238.248.80/live/2.index.m3u8
 五星体育,http://38.14.195.5:8080/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
