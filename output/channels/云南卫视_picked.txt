@@ -26,3 +26,4 @@
 云南卫视,http://8.138.7.223/tv/hot.php?id=43
 云南卫视,http://106.53.99.30/tv/migu.php?id=ynws
 云南卫视,http://t.061899.xyz/tl/tl.php?id=ynws
+云南卫视,http://112.123.243.37:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0

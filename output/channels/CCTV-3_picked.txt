@@ -41,3 +41,4 @@ CCTV-3,http://go.bkpcp.top/mg/CCTV-3
 CCTV-3,http://106.53.99.30/tv/migu.php?id=cctv3
 CCTV-3,https://stream1.freetv.fun/45ee335898121cf998c74e90c566ebbfd2420abd8bf3294d53796608b94fdbf4.ctv
 CCTV-3,https://stream1.freetv.fun/5b141df736ae8b072ab2fe30d4b59603754557cec5ad2b694ce6e1b1d97cd059.ctv
+CCTV-3,http://112.123.243.37:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
