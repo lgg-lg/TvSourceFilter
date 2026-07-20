@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/07/20-19:42,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/07/21-06:02,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -869,13 +869,13 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-61.ctv
 浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
 浙江卫视,http://t.061899.xyz/tl/dq.php?id=zjws
+浙江卫视,http://112.123.243.37:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://tpc.x3322.net:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://8.138.7.223/tv/hot.php?id=29
 浙江卫视,https://stream1.freetv.fun/5f2d3db823bd9266adb6b94cb50965bafd24c4a29eec10e1cc3d7f3ab9d0b716.ctv
 浙江卫视,https://stream1.freetv.fun/cfe6c386aeda1787f606df629248faf407b2351852e3ea6994357836a1643f5c.ctv
 浙江卫视,http://112.132.10.54:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,https://stream1.freetv.fun/ebf8fe00492c947bb06eef2ea0e87a25e3a63a9bda662d0fe21ae1e4365b6420.ctv
-浙江卫视,http://112.123.243.37:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=63c0683563bf5cdb47b73722260627a5
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://222.169.85.8:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
