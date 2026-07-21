@@ -123,12 +123,12 @@
 五星体育,https://stream1.freetv.fun/d99d90dcb204a091467cada6295ceb8dfb0cf5c3890378e1d0f57ec8ef9922f0.ctv
 五星体育,https://stream1.freetv.fun/34873bf6f3f46649af7272bc5b7af063008069a67b644c7cb16fdbfdbf2751b8.ctv
 五星体育,https://stream1.freetv.fun/85cd5cc9fdaaf0956e7136e920dcd8149eb6f843aac49ebbeaeb6415d8e8a316.ctv
-五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-4.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5.m3u8
+五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-1.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-6.m3u8
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-2.m3u8
 五星体育,http://139.196.151.191:3970/rtp/239.45.3.210:5140
 五星体育,https://cdn.qd.je/163189/wxty
@@ -141,9 +141,10 @@
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3-1.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5-1.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5.php
-五星体育,http://tv123.cc.cd/live.php?ch=1795&sid=e3c1ec38cf2a4659162f775bd2791fd2&exp=1784618363&sig=7204c18c0a451a8bd16289b02ce6dc360c6a441e91f2754f01123f4379148815
+五星体育,http://tv123.cc.cd/live.php?ch=1751&sid=69c48bd3456fc97c710d46f5e5cb01f7&exp=1784703562&sig=9fb6177451832cd3d8a7b719f4a181b4171bb05c7279bd49c97472d3493a1104
 五星体育,http://156.238.248.80/live/2.index.m3u8
 五星体育,http://38.14.195.5:8080/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
+五星体育,http://223.167.230.155:4022/rtp/239.45.3.210:5140
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=bacdc88caa25b71b955f471072f07349&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
