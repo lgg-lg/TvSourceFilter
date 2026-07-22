@@ -87,6 +87,7 @@
 上海都市,https://t.freetv.fun/live/shang-hai-du-shi-1.m3u8
 上海都市,https://t.freetv.fun/live/shang-hai-du-shi-2.m3u8
 上海都市,https://t.freetv.fun/live/shang-hai-du-shi.m3u8
+上海都市,https://t.freetv.fun/live/shang-hai-du-shi-4.m3u8
 上海都市,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1318BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKOQsN8ofCczbUX1AjxZYMpKdI1PJQPlp0I5RTtUrbQtTuwS%2FH1VLbdWY%2FeIxpxvfA%3D%3D
 上海都市,https://pi.0472.org/tv/sh.php?id=ds
 上海都市,http://iptv.catvod.com/4?t=1783313991&token=c6340e17819d3e7a83caeef67d4476493c452c82ff20c08b2bcb6fe7d6d0e946
