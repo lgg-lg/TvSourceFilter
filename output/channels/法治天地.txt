@@ -115,10 +115,6 @@
 法治天地,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000162
 法治天地,http://137.175.111.185/bfgd/?id=162
 法治天地,http://cfss.cc/ds/bfgd.php?id=162&Cf.m3u8
-法治天地,http://45.192.97.170:8880/play/2905.m3u8
-法治天地,http://45.192.97.170:8880/play/2999.m3u8
-法治天地,http://45.192.97.170:8880/play/3460.m3u8
-法治天地,http://45.192.97.170:8880/play/3564.m3u8
 法治天地,http://www.liangcl.top:8686/rtp/233.50.201.191:5140
 法治天地,http://live2.rxip.sc96655.com/live/fztx_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
 法治天地,http://live2.rxip.sc96655.com/live/fztx_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=

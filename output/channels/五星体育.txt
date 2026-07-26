@@ -116,7 +116,6 @@
 五星体育,http://wsc2007123.myds.me:30100/rtp/233.18.204.58:5140
 五星体育,https://other.chinacert.cftest5.cn/wxty.m3u8
 五星体育,http://nas.jqcykj.com:88/shanghai/?id=wxty
-五星体育,http://45.192.97.170:8880/play/480.m3u8
 五星体育,http://k.061899.xyz/m.php?id=wxty
 五星体育,http://go.bkpcp.top/mg/wxty
 五星体育,https://stream1.freetv.fun/f7fd467306b7f42162d8640b27ee41e8f42134349c10a75bb08ed3a9f2690d40.ctv
@@ -124,9 +123,9 @@
 五星体育,https://stream1.freetv.fun/d99d90dcb204a091467cada6295ceb8dfb0cf5c3890378e1d0f57ec8ef9922f0.ctv
 五星体育,https://stream1.freetv.fun/34873bf6f3f46649af7272bc5b7af063008069a67b644c7cb16fdbfdbf2751b8.ctv
 五星体育,https://stream1.freetv.fun/85cd5cc9fdaaf0956e7136e920dcd8149eb6f843aac49ebbeaeb6415d8e8a316.ctv
+五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-4.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
 五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-4.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-6.m3u8
 五星体育,https://cdn.qd.je/163189/wxty
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-2.m3u8
@@ -141,7 +140,7 @@
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-4-1.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3-1.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5-1.m3u8
-五星体育,http://tv123.cc.cd/live.php?ch=1893&sid=ae6498d2b16729400c98ab9da9cff045&exp=1785048268&sig=1da925e3317d3c8c33b97b2f4f855be7f17c6a2bc0e7c0bb6fe0c6fd905cec01
+五星体育,http://tv123.cc.cd/live.php?ch=1895&sid=dcfe70b3b3163b569e58338b8c7b5904&exp=1785134979&sig=76b2c7195280ea8b22586701caff60f51ec0575900784611f26c6a649044795f
 五星体育,http://156.238.248.80/live/2.index.m3u8
 五星体育,http://38.14.195.5:8080/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 五星体育,http://223.167.230.155:4022/rtp/239.45.3.210:5140
