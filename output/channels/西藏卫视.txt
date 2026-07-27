@@ -396,11 +396,11 @@
 西藏卫视,http://unraid.cyruslee.top:8888/rtp/239.77.1.26:5146
 西藏卫视,http://tony.f3322.net:4023/rtp/233.50.201.70:5140
 西藏卫视,http://eversouthhangzhou.7766.org:8188/rtp/233.50.200.137:5140
+西藏卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_XIZANG/G_XIZANG.m3u8?p=GITV&area=JS_CMCC_CP
+西藏卫视,http://123.118.55.165:45237/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://221.7.175.154:8445/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://121.19.134.22:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://36.137.183.45:1100/difang/xizang/xizang.php?id=xzws
-西藏卫视,http://zj-zb-lt.sohu.blog:7912/rtp/233.50.202.43:5140
-西藏卫视,http://hook.msen.site:8000/rtp/235.254.197.184:7980
-西藏卫视,http://home.wscxy.fun:30100/udp/233.18.204.222:5140
 西藏卫视,http://go.bkpcp.top/mg/xzws
 西藏卫视,http://t.061899.xyz/tl/dq.php?id=xzws
 西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
@@ -419,7 +419,8 @@
 西藏卫视,http://198.204.228.26/live/xzws.m3u8
 西藏卫视,http://207.56.13.146:81/cdnlive/xzws.m3u8
 西藏卫视,http://219.156.93.69:4022/rtp/225.1.4.46:1075
-西藏卫视,http://183.164.237.86:8888/rtp/238.1.78.101:6680
+西藏卫视,http://106.59.3.171:55555/rtp/239.200.200.61:8312
+西藏卫视,http://114.254.36.246:8888/rtp/239.3.1.47:8164
 西藏卫视,http://123.118.49.62:8686/rtp/239.3.1.47:8164
 西藏卫视,https://iptv.catvod.com/catvod.php?id=xzws
 西藏卫视,http://204.12.221.218:8181/3m1080p/xzws.m3u8
@@ -429,8 +430,6 @@
 西藏卫视,http://fuxin.yunjifei.top:999/tsfile/live/0111_1.m3u8?key=txiptv
 西藏卫视,http://122.228.104.230:9901/tsfile/live/0111_1.m3u8?key=txiptv
 西藏卫视,http://kkk.888.3116598.xyz/api.php?n=Bpjt&id=BOFK1K&tk=GMIohWv7E7NV
-西藏卫视,http://123.118.55.165:45237/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_XIZANG/G_XIZANG.m3u8?p=GITV&area=JS_CMCC_CP
 西藏卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2986&tk=e503191f8e20
 西藏卫视,http://k.061899.xyz/k.php?id=xzws
 西藏卫视,http://www.frankgb.cn:4022/udp/239.49.1.56:8000
@@ -474,7 +473,6 @@
 西藏卫视,http://live.aishang.ctlcdn.com/00000110240076_1/playlist.m3u8?CONTENTID=00000110240076_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 西藏卫视,http://154.219.105.170:82/iptvYS5098.php?id=20027
 西藏卫视,http://123.118.63.55:8686/rtp/239.3.1.47:8164
-西藏卫视,http://121.19.134.22:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://192.168.0.220:4022/udp/239.255.2.137:8810
 西藏卫视,http://124.90.44.40:6060/010/2/00000009000000060000000000002055?virtualDomain=010.live_hls.zte.com
 西藏卫视,http://183.220.107.138:4022/rtp/239.11.0.53:5140
@@ -482,6 +480,7 @@
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 西藏卫视,http://www.liangcl.top:8686/rtp/233.50.201.70:5140
 西藏卫视,http://www.nlmxy.top:4000/rtp/233.50.201.70:5140
+西藏卫视,http://zj-zb-lt.sohu.blog:7912/rtp/233.50.202.43:5140
 西藏卫视,http://zj-zb-lt.sohu.blog:7912/rtp/233.50.201.70:5140
 西藏卫视,http://111.193.162.68:8012/rtp/239.3.1.166:8188
 西藏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190403
@@ -489,8 +488,6 @@
 西藏卫视,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=kLUVP1&tk=32VnOYRWppMK
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=7a77481141b24cb08d7569ffb1aa3f10&time=6a34fbb4
 西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-12.m3u8
-西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-11.m3u8
-西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-3.m3u8
 西藏卫视,http://182.140.125.47:808/hls/54/index.m3u8
 西藏卫视,http://fuxin.yunjifei.top:999/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://120.87.4.13:80/PLTV/88888973/224/3221225693/10000100000000060000000000333969_0.smil/01.m3u8?fmt=ts2hls
@@ -536,10 +533,11 @@
 西藏卫视,http://hs.imyjy.cn:7088/rtp/233.50.202.43:5140
 西藏卫视,http://aylzsu.cn:9999/rtp/225.1.2.42:10246
 西藏卫视,http://tv.yzzdxc.cn:16666/rtp/239.37.0.054:5540
-西藏卫视,http://114.254.190.44:8099/rtp/239.3.1.166:8188
 西藏卫视,http://114.254.72.97:4022/rtp/239.3.1.166:8188
 西藏卫视,http://111.196.130.39:8686/rtp/239.3.1.166:8188
 西藏卫视,http://114.252.228.26:4022/rtp/239.3.1.166:8188
+西藏卫视,http://114.254.190.44:8099/rtp/239.3.1.166:8188
+西藏卫视,http://171.213.239.128:4040/rtp/239.94.0.97:5140
 西藏卫视,http://125.37.56.24:8788/rtp/225.1.1.51:5002
 西藏卫视,http://pplee.vicp.net:4022/udp/233.18.204.222:5140
 西藏卫视,http://nas.jqcykj.com:88/ysp?id=xzws
