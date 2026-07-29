@@ -138,8 +138,7 @@
 五星体育,http://139.227.21.22:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-4-1.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3-1.m3u8
-五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-5-1.m3u8
-五星体育,http://tv123.cc.cd/live.php?ch=2054&sid=312a12bff20fc990f188048dd6b91d9c&exp=1785308438&sig=9db903ed9babbc4109b1369adaeb58184e0e02dcbb70a8ee0d8f27ef608477fa
+五星体育,http://tv123.cc.cd/live.php?ch=2230&sid=e048341cf3af227035bfd83ae11d9bec&exp=1785394011&sig=86a8388d8b8865da693af634c4f720e6c694190a36e364dac2119467773687eb
 五星体育,http://156.238.248.80/live/2.index.m3u8
 五星体育,http://38.14.195.5:8080/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 五星体育,http://223.167.230.155:4022/rtp/239.45.3.210:5140

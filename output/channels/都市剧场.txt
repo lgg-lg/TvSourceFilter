@@ -128,14 +128,15 @@
 都市剧场,http://www.huijie5421.cn:8800/rtp/239.49.1.170:6000
 都市剧场,http://www.lvyjay.win:4022/rtp/233.50.201.190:5140
 都市剧场,http://39.77.163.221:4002/rtp/239.253.254.98:8000
+都市剧场,http://1.192.246.155:8188/rtp/239.16.20.38:10380
 都市剧场,http://nas.yzzdxc.cn:16666/rtp/239.37.0.241:5540
 都市剧场,http://kms.yzzdxc.cn:16666/rtp/239.37.0.241:5540
-都市剧场,http://171.8.169.42:8800/rtp/239.16.20.38:10380
 都市剧场,http://hs.imyjy.cn:7088/rtp/233.50.201.190:5140
 都市剧场,http://tv.yzzdxc.cn:16666/rtp/239.37.0.241:5540
 都市剧场,http://www.frankgb.cn:4022/udp/239.49.0.99:8000
-都市剧场,http://39.77.158.228:4002/rtp/239.253.254.98:8000
-都市剧场,http://1.192.246.155:8188/rtp/239.16.20.38:10380
+都市剧场,http://36.62.242.90:7000/rtp/238.1.78.74:6464
+都市剧场,http://171.8.168.73:8800/rtp/239.16.20.38:10380
+都市剧场,http://116.2.162.83:4010/rtp/232.0.0.149:1234
 都市剧场,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
 都市剧场,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 都市剧场,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -146,6 +147,7 @@
 都市剧场,http://www.liangcl.top:8686/rtp/233.50.201.190:5140
 都市剧场,http://www.nlmxy.top:4000/rtp/233.50.201.190:5140
 都市剧场,http://zj-zb-lt.sohu.blog:7912/rtp/233.50.201.190:5140
+都市剧场,http://111.8.177.188:9909/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://live2.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
 都市剧场,http://live2.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
 都市剧场,http://www.yzddy.top:8800/rtp/239.49.1.170:6000
@@ -185,7 +187,6 @@
 都市剧场,http://223.167.230.46:4022/rtp/233.18.204.48:5140
 都市剧场,http://116.237.61.115:4022/rtp/233.18.204.48:5140
 都市剧场,http://125.37.56.24:8788/rtp/225.1.1.146:5002
-都市剧场,http://36.62.242.90:7000/rtp/238.1.78.74:6464
 都市剧场,http://223.167.230.155:4022/rtp/239.45.3.136:5140
 都市剧场,https://live.264788.xyz/channel/dushijuchang?streamid=087bbd865ae84d7fe5c566127ffad8ee&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 都市剧场,https://live.264788.xyz/channel/dushijuchang?streamid=fd36352c039198fe0978687774e97e59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
