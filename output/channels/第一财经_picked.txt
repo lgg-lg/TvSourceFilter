@@ -3,11 +3,9 @@
 第一财经,https://stream1.freetv.fun/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.ctv
 第一财经,https://stream1.freetv.fun/di-yi-cai-jing-6.ctv
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-1.ctv
-第一财经,http://t.061899.xyz/tl/dq.php?id=dycj
-第一财经,http://106.53.99.30/tv/migu.php?id=dycj
-第一财经,http://106.53.99.30/tv/hot.php?id=dycj
-第一财经,http://t.061899.xyz/tl/tl.php?id=dycj
-第一财经,https://stream1.freetv.fun/7e264d7a1edc78a3ceace64e8392d218a5eb329fb06ec61422223b3722f04e80.ctv
 第一财经,https://stream1.freetv.fun/33c55026d09cf745fdf96ee95d74f6daef63ad381f3d29a889b9ae03787ed59a.ctv
+第一财经,https://stream1.freetv.fun/7e264d7a1edc78a3ceace64e8392d218a5eb329fb06ec61422223b3722f04e80.ctv
 第一财经,https://stream1.freetv.fun/533f951c259e0a0db9189aab022c535bca241b30dbf0d18aca82012de4e8c080.ctv
 第一财经,https://stream1.freetv.fun/2f27b601604d0daf4f134d21b1f06cd8853f0f6eecdfe11994621aff0564d791.ctv
+第一财经,http://t.061899.xyz/tl/dq.php?id=dycj
+第一财经,http://t.061899.xyz/tl/tl.php?id=dycj
