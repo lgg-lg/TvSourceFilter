@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/08/01-18:33,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/08/02-05:50,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1724,6 +1724,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-18.ctv
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-24.ctv
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-8.ctv
+动漫秀场,https://stream1.freetv.fun/3db4e163a68d0e426d82c41072c03763ff9708ec882448590e3096d87f073067.ctv
 哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫动,http://gfr.x3322.net:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8
