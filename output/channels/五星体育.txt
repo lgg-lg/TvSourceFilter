@@ -131,7 +131,7 @@
 五星体育,http://liuwenxiaokevin.top:14044/rtp/239.45.3.210:5140
 五星体育,http://139.196.151.191:3970/rtp/239.45.3.210:5140
 五星体育,http://139.196.214.238/rtp/239.45.3.210:5140
-五星体育,http://tv123.cc.cd/live.php?ch=1863&sid=9460a84bad539ebd2a466ac29c0e0cb8&exp=1785653212&sig=7c6c07205f75e6186dc1ba426f514d5ac589834bb99d2d2f8385634f75559152
+五星体育,http://tv123.cc.cd/live.php?ch=1956&sid=63a067f8e42c10edffe26fc1162a338a&exp=1785739645&sig=001a479a9a921ab65a2e628e1a025eee1ff9226ad4b32d0f902c9284479883e3
 五星体育,http://8.138.7.223/api/05tiyu.php?id=wxty&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 五星体育,http://8.138.7.223/api/18sh.php?id=xwty&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 五星体育,http://8.138.7.223/api/18sh.php?id=1605&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

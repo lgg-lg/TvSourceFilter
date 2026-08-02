@@ -143,7 +143,6 @@
 都市剧场,http://esxi.juzhijian.com:8822/rtp/239.16.20.38:10380
 都市剧场,http://220.190.14.99:10000/rtp/233.50.201.190:5140
 都市剧场,http://server.juzhijian.com:8822/rtp/239.16.20.38:10380
-都市剧场,http://116.2.165.188:4010/rtp/232.0.0.149:1234
 都市剧场,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001203/index.m3u8?streamid=fd36352c039198fe0978687774e97e59&streamkey=0WsC3jqv5pZMcRRCygo4VTlOTvi9bTCwlnIuuJUBjnBWTwcjoCuCI96qfPqPDVNZ0aqEUXrCtmdYiA55XouMxl7kXeqYtnnZLSPxmTgKz4J1lElEFPNAHdBzm&token=1775754833-0c24e6f296307991-0-4b1ed6441088c73ad4569aca7aa649a5
 都市剧场,http://60.177.201.148:9999/%E4%BB%98%E8%B4%B9/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA
 都市剧场,http://8.138.7.223/api/29cq.php?id=71&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
