@@ -27,3 +27,4 @@ CCTV-5+,http://t.061899.xyz/tl/dq.php?id=cctv5p
 CCTV-5+,http://t.061899.xyz/tl/tl.php?id=cctv5p
 CCTV-5+,http://go.bkpcp.top/mg/cctv5p?
 CCTV-5+,http://go.bkpcp.top/mg/CCTV-5p
+CCTV-5+,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8

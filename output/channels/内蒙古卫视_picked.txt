@@ -25,3 +25,4 @@
 内蒙古卫视,http://go.bkpcp.top/mg/nmws
 内蒙古卫视,http://t.061899.xyz/tl/dq.php?id=nmgws
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmws
+内蒙古卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8

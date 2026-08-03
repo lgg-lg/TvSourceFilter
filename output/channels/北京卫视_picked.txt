@@ -31,3 +31,4 @@
 北京卫视,http://t.061899.xyz/tl/dq.php?id=bjws
 北京卫视,http://go.bkpcp.top/mg/bjws4k
 北京卫视,https://stream1.freetv.fun/81a83aae5e098095fc514c5ab802f00c5a651b3846694b4ad69e3fb649ed270a.ctv
+北京卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8

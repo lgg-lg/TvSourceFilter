@@ -38,3 +38,4 @@ CCTV-9,https://stream1.freetv.fun/7e366663b17c33e6ab46b912d952744993934c933baf3b
 CCTV-9,http://k.061899.xyz/m.php?id=cctv9
 CCTV-9,http://8.138.7.223/tv/hot.php?id=9
 CCTV-9,http://go.bkpcp.top/mg/CCTV-9
+CCTV-9,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8

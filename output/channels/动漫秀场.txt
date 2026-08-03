@@ -165,7 +165,13 @@
 动漫秀场,http://tony.f3322.net:4023/rtp/233.50.201.184:5140
 动漫秀场,http://eversouthhangzhou.7766.org:8188/rtp/233.50.200.12:5140
 动漫秀场,https://stream1.freetv.fun/3db4e163a68d0e426d82c41072c03763ff9708ec882448590e3096d87f073067.ctv
+动漫秀场,http://171.8.170.93:8800/rtp/239.16.20.40:10400
+动漫秀场,http://116.2.172.210:4010/rtp/232.0.0.128:1234
 动漫秀场,http://60.177.201.148:9999/%E4%BB%98%E8%B4%B9/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA
 动漫秀场,http://qwrt.ansun.de5.net:7088/%E4%B8%93%E4%B8%9A/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA
+动漫秀场,http://175.150.146.220:9009/rtp/232.0.0.128:1234
+动漫秀场,http://route.079915.xyz:4022/rtp/239.3.1.202:8001
+动漫秀场,http://60.255.240.247:8090/live/yybb-dmxc-H265_4000.m3u8
+动漫秀场,http://111.22.153.159:35455/itv/5000000011000031113.m3u8
 动漫秀场,http://8.138.7.223/api/29cq.php?id=72&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 动漫秀场,http://8.138.7.223/api/ipv6.php?id=115&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

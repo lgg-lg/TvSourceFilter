@@ -32,3 +32,4 @@ CCTV-7,http://t.061899.xyz/tl/dq.php?id=cctv7
 CCTV-7,https://stream1.freetv.fun/cctv7-51.ctv
 CCTV-7,http://go.bkpcp.top/mg/cctv7
 CCTV-7,http://t.061899.xyz/tl/tl.php?id=cctv7
+CCTV-7,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8

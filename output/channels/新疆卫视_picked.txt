@@ -20,3 +20,5 @@
 新疆卫视,http://gfr.x3322.net:9901/tsfile/live/1052_1.m3u8
 新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-44.ctv
 新疆卫视,http://8.138.7.223/tv/hot.php?id=49
+新疆卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+新疆卫视,http://112.123.243.37:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0

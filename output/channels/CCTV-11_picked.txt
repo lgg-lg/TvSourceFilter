@@ -33,3 +33,4 @@ CCTV-11,http://go.bkpcp.top/mg/cctv11
 CCTV-11,http://go.bkpcp.top/mg/CCTV-11
 CCTV-11,http://8.138.7.223/tv/hot.php?id=11
 CCTV-11,https://stream1.freetv.fun/7b62386d4505844a96ac56371f057a596e1d7b529488e541d0d9f896cd1bb346.ctv
+CCTV-11,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8

@@ -21,3 +21,4 @@
 吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
 吉林卫视,https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.ctv
 吉林卫视,http://t.061899.xyz/tl/dq.php?id=jlws
+吉林卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
