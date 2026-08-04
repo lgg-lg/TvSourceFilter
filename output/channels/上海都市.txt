@@ -87,6 +87,7 @@
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-5.m3u8
 上海都市,https://stream1.freetv.fun/c51379ba4852f1be15b1a0bc4332b09049cb4df778fff224c8966217566ac38a.ctv
 上海都市,https://stream1.freetv.fun/3548f5845f2e9ff8004985d0f7c7605b57e7faa1c59a7236b9520fa54d55210e.ctv
+上海都市,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E4%B8%8A%E6%B5%B7%E9%83%BD%E5%B8%82
 上海都市,http://8.138.7.223/api/18sh.php?id=ds&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 上海都市,http://8.138.7.223/api/18sh.php?id=18&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 上海都市,http://8.138.7.223/api/ipv6.php?id=55&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

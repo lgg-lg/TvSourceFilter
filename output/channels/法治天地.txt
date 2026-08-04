@@ -104,7 +104,8 @@
 法治天地,http://cloud.sunrisecom.cn:8888/rtp/239.45.1.46:5140
 法治天地,http://eversouthhangzhou.7766.org:8188/rtp/233.50.201.191:5140
 法治天地,http://tony.f3322.net:4023/rtp/233.50.200.120:5140
-法治天地,http://175.150.146.220:9009/rtp/232.0.0.134:1234
+法治天地,http://po.sdmdpx.com:5140/%E5%85%B6%E4%BB%96%E9%A2%91%E9%81%93/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0
+法治天地,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0
 法治天地,http://8.138.7.223/api/05tiyu.php?id=fztd&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 法治天地,http://8.138.7.223/api/29cq.php?id=97&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 法治天地,http://8.138.7.223/api/ipv6.php?id=56&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
