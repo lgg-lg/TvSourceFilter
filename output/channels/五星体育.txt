@@ -129,11 +129,12 @@
 五星体育,http://www.negative.top:50000/rtp/233.50.200.31:5140
 五星体育,https://stream1.freetv.fun/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.ctv
 五星体育,http://liuwenxiaokevin.top:14044/rtp/239.45.3.210:5140
+五星体育,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 五星体育,http://rd.gavinping.top:8188/rtp/238.200.200.131:5540
 五星体育,http://139.196.151.191:3970/rtp/239.45.3.210:5140
 五星体育,http://139.196.214.238/rtp/239.45.3.210:5140
-五星体育,http://tv123.cc.cd/live.php?ch=1963&sid=4e6c785e1c1ac3362cfe62f11c343e7e&exp=1785914050&sig=2d6d0c61182ea762d5d648ac6dd3fef0e8b626b33af73f92784da8aa4e081645
-五星体育,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
+五星体育,http://tv123.cc.cd/live.php?ch=1963&sid=9cfc03e9d8fbaf6b1a9d58afe54be2b9&exp=1786000067&sig=7dc66d42ce3d57cfe7d8aae2da3f881e675efe330018736d432a7e03c9fbdc3d
+五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://8.138.7.223/api/05tiyu.php?id=wxty&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 五星体育,http://8.138.7.223/api/18sh.php?id=xwty&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 五星体育,http://8.138.7.223/api/18sh.php?id=1605&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
