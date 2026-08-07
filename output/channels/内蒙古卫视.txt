@@ -439,11 +439,9 @@
 内蒙古卫视,http://j.s.bkpcp.top/jj/nmgws
 内蒙古卫视,https://stream1.freetv.fun/3613799027c7d64d6ab4ee57247de6a82c45b329e31c67de09593a344e208f9a.ctv
 内蒙古卫视,http://cloud.sunrisecom.cn:8888/rtp/239.45.3.225:5140
-内蒙古卫视,http://plzysm.cn:5140/%E5%8D%AB%E8%A7%86/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
-内蒙古卫视,http://121.19.134.101:808/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://49.234.31.101:7033/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://121.19.134.22:808/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=nmgws&zy.m3u8
+内蒙古卫视,http://121.230.179.192:8802/rtp/239.49.0.180:8000
+内蒙古卫视,http://106.111.244.12:58099/rtp/239.49.0.180:8000
 内蒙古卫视,http://153.0.171.163:9901/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmgws
 内蒙古卫视,http://8.138.7.223/tv/hot.php?id=23
@@ -451,10 +449,13 @@
 内蒙古卫视,http://t.061899.xyz/tl/dq.php?id=nmgws
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmws
 内蒙古卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+内蒙古卫视,http://124.112.188.49:4022/rtp/238.1.78.103:6696
+内蒙古卫视,http://221.220.131.201:8012/rtp/239.3.1.43:8176
+内蒙古卫视,http://115.171.216.40:4000/rtp/225.1.8.156:8176
 内蒙古卫视,http://124.112.240.194:4022/rtp/238.1.78.103:6696
-内蒙古卫视,http://116.2.172.210:4010/rtp/232.0.0.111:1234
-内蒙古卫视,http://114.254.36.246:8888/rtp/239.3.1.43:8176
 内蒙古卫视,http://123.118.58.227:8686/rtp/239.3.1.43:8176
+内蒙古卫视,http://115.171.216.32:4000/rtp/225.1.8.156:8176
+内蒙古卫视,http://111.196.134.175:20000/rtp/239.3.1.43:8176
 内蒙古卫视,http://k.061899.xyz/k.php?id=nmgws
 内蒙古卫视,http://m.061899.xyz/mg/nmgws
 内蒙古卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000040/index.m3u8
@@ -470,8 +471,6 @@
 内蒙古卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsneimenggu
 内蒙古卫视,http://222.128.26.62:4001/rtp/239.3.1.43:8176
 内蒙古卫视,http://221.219.104.6:1193/rtp/239.3.1.43:8176
-内蒙古卫视,http://121.230.179.192:8802/rtp/239.49.0.180:8000
-内蒙古卫视,http://106.111.244.12:58099/rtp/239.49.0.180:8000
 内蒙古卫视,http://47.242.63.189:2203/1234.php?id=47&s=8
 内蒙古卫视,http://39.150.102.131:19901/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://123.118.55.165:45237/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -484,6 +483,9 @@
 内蒙古卫视,http://222.173.9.81/00/SNM/CHANNEL00000040/index.m3u8
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225786/index.m3u8
+内蒙古卫视,http://121.19.134.22:808/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://121.19.134.101:808/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://49.234.31.101:7033/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://59.39.89.130:60901/tsfile/live/0125_21.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu|User-Agent=VLC
 内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-7.m3u8
@@ -491,6 +493,7 @@
 内蒙古卫视,http://123.114.30.36:4000/rtp/239.3.1.43:8176
 内蒙古卫视,http://114.243.99.254:8888/rtp/239.3.1.43:8176
 内蒙古卫视,http://111.167.222.200:8086/rtp/225.1.1.32:5002
+内蒙古卫视,http://182.121.12.4:8090/rtp/225.1.4.45:1074
 内蒙古卫视,http://nas.jqcykj.com:88/bst?id=213
 内蒙古卫视,http://nas.jqcykj.com:88/bst/2?id=213
 内蒙古卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
