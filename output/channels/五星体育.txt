@@ -133,7 +133,8 @@
 五星体育,http://rd.gavinping.top:8188/rtp/238.200.200.131:5540
 五星体育,http://139.196.151.191:3970/rtp/239.45.3.210:5140
 五星体育,http://139.196.214.238/rtp/239.45.3.210:5140
-五星体育,http://tv123.cc.cd/live.php?ch=1956&sid=16e1575f4cd2bb2d82c818095891cc59&exp=1786170898&sig=53c7d3f66f058aa4d2884b96f991af38c7deb213a357dc8eb37c84471959bc58
+五星体育,http://45.192.97.170:10002/proxy?url=https%3A//cdn15.163189.xyz/163189/wxty
+五星体育,http://tv123.cc.cd/live.php?ch=1952&sid=045bdc6ce266bedbc27aafbb7d595738&exp=1786256278&sig=6c5effdde8924f5c19dd6c1e6da5aaeca8fccaf47b71ebbfe358d3530617efd9
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://8.138.7.223/api/05tiyu.php?id=wxty&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 五星体育,http://8.138.7.223/api/18sh.php?id=xwty&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
