@@ -40,3 +40,4 @@ CCTV-15,http://8.138.7.223/tv/hot.php?id=15
 CCTV-15,http://go.bkpcp.top/mg/CCTV-15
 CCTV-15,https://stream1.freetv.fun/4ff2aa344b71cc6bb0ec541e9c3f4b51f71dfa9c283f7c1a73d6de05dd7b8db9.ctv
 CCTV-15,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-15,http://221.226.51.220:50081/newlive/live/hls/16/live.m3u8

@@ -31,3 +31,4 @@
 香港卫视,http://47.242.63.189:2203/1234.php?id=8&s=2
 香港卫视,http://gat.xyys.site/cdnlive-fusion.php?mode=play&id=1df191b6de196f5d7b043cb03ac4bdec&token=MO9fE3b9swtXd8K26mW1CeKqfWEf4gkDmachineid=55a0c8a197d776deuserip=140.250.232.154useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29source=dl_app
 香港卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play&id=1df191b6de196f5d7b043cb03ac4bdec&token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Qmachineid=6ba2c381f12d1a0fuserip=140.250.226.243useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29source=dl_app
+香港卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play&id=1df191b6de196f5d7b043cb03ac4bdec&token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Qmachineid=9bd3f4b65ec578ecuserip=140.250.226.243useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29source=dl_app
