@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/08/11-17:56,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/08/12-05:40,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -245,6 +245,7 @@ CCTV-5+,http://t.061899.xyz/tl/tl.php?id=cctv5p
 CCTV-5+,http://go.bkpcp.top/mg/cctv5p?
 CCTV-5+,http://go.bkpcp.top/mg/CCTV-5p
 CCTV-5+,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-5+,http://153.0.171.163:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV6&t=1760585411&token=944b6327597e5ab6e14998beedd01e06
 CCTV-6,http://gfr.x3322.net:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://gfr.x3322.net:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1032,11 +1033,11 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-90.ctv
 东南卫视,https://stream1.freetv.fun/cdc72352d92fb2510f846a8cfa5a86d49b15e6471b33fab6c7b499161ae8a8fc.ctv
 东南卫视,https://stream1.freetv.fun/76b34b7e62f664442ba5f34d199912ddff3f54156c34eb935762163b4cf98f44.ctv
+东南卫视,http://221.226.51.220:50081/newlive/live/hls/20/live.m3u8
 东南卫视,http://k.061899.xyz/m.php?id=dnws
 东南卫视,http://t.061899.xyz/tl/dq.php?id=dnws
 东南卫视,http://8.138.7.223/tv/hot.php?id=31
 东南卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-东南卫视,http://221.226.51.220:50081/newlive/live/hls/20/live.m3u8
 甘肃卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&t=1760585411&token=ca23a984380ccb5a5338cb57fec640f5
 甘肃卫视,http://gfr.x3322.net:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://k.061899.xyz/m.php?id=dfws&key=txiptv&playlive=1&authid=0
@@ -1963,6 +1964,7 @@ CCTV-5+,http://t.061899.xyz/tl/tl.php?id=cctv5p
 CCTV-5+,http://go.bkpcp.top/mg/cctv5p?
 CCTV-5+,http://go.bkpcp.top/mg/CCTV-5p
 CCTV-5+,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-5+,http://153.0.171.163:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&t=1760585411&token=a10694e2379a09cfd53df66fd7c2e99c
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
