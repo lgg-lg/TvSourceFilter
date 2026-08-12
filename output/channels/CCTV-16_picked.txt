@@ -13,3 +13,4 @@ CCTV-16,http://8.138.7.223/tv/hot.php?id=16
 CCTV-16,http://go.bkpcp.top/mg/CCTV-16
 CCTV-16,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-16,http://221.226.51.220:50081/newlive/live/hls/17/live.m3u8
+CCTV-16,http://218.104.239.114:9901/tsfile/live/0019_1.m3u8

@@ -44,3 +44,4 @@ CCTV-4,http://go.bkpcp.top/mg/CCTV-4
 CCTV-4,https://stream1.freetv.fun/8a07250a04529fe52772a7995691f04a3153bf67960964ad6a63dd6cc7878659.ctv
 CCTV-4,http://t.061899.xyz/tl/tl.php?id=cctv4o
 CCTV-4,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
+CCTV-4,http://218.104.239.114:9901/tsfile/live/0004_1.m3u8

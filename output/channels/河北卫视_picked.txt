@@ -33,3 +33,4 @@
 河北卫视,http://8.138.7.223/tv/hot.php?id=21
 河北卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河北卫视,http://112.123.243.37:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://218.104.239.114:9901/tsfile/live/0117_1.m3u8
