@@ -35,9 +35,9 @@ CCTV-3,http://t.061899.xyz/tl/dq.php?id=cctv3
 CCTV-3,http://k.061899.xyz/m.php?id=cctv3
 CCTV-3,http://go.bkpcp.top/mg/cctv3
 CCTV-3,http://t.061899.xyz/tl/tl.php?id=cctv3
+CCTV-3,http://218.104.239.114:9901/tsfile/live/0003_1.m3u8
 CCTV-3,https://stream1.freetv.fun/cctv-3-6.ctv
 CCTV-3,http://8.138.7.223/tv/hot.php?id=3
 CCTV-3,http://go.bkpcp.top/mg/CCTV-3
 CCTV-3,https://stream1.freetv.fun/45ee335898121cf998c74e90c566ebbfd2420abd8bf3294d53796608b94fdbf4.ctv
 CCTV-3,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-3,http://218.104.239.114:9901/tsfile/live/0003_1.m3u8

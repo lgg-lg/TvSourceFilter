@@ -34,9 +34,9 @@ CCTV-9,http://t.061899.xyz/tl/tl.php?id=cctv9
 CCTV-9,http://gfr.x3322.net:9901/tsfile/live/1008_1.m3u8
 CCTV-9,http://gfr.x3322.net:9901/tsfile/live/1074_1.m3u8
 CCTV-9,https://stream1.freetv.fun/1e6dd60cbcf0dd3c3f70bcf80636a150c35cfc33e03c39a05e09622a62392c4c.ctv
+CCTV-9,http://218.104.239.114:9901/tsfile/live/0009_1.m3u8
 CCTV-9,https://stream1.freetv.fun/7e366663b17c33e6ab46b912d952744993934c933baf3b6aeffb027465c28dde.ctv
 CCTV-9,http://k.061899.xyz/m.php?id=cctv9
 CCTV-9,http://8.138.7.223/tv/hot.php?id=9
 CCTV-9,http://go.bkpcp.top/mg/CCTV-9
 CCTV-9,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-9,http://218.104.239.114:9901/tsfile/live/0009_1.m3u8

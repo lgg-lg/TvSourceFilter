@@ -42,8 +42,9 @@ CCTV-13,http://k.061899.xyz/m.php?id=cctv13
 CCTV-13,http://t.061899.xyz/tl/tl.php?id=cctv13
 CCTV-13,http://go.bkpcp.top/mg/cctv13
 CCTV-13,https://stream1.freetv.fun/51dbba5d6fb14a64d6d3fdb79397952ab84f6d88d43b7d0e607c7f3c7a13110d.ctv
+CCTV-13,http://218.104.239.114:9901/tsfile/live/0013_1.m3u8
 CCTV-13,http://t.061899.xyz/tl/dq.php?id=cctv13
 CCTV-13,http://8.138.7.223/tv/hot.php?id=13
 CCTV-13,http://go.bkpcp.top/mg/CCTV-13
 CCTV-13,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV-13,http://218.104.239.114:9901/tsfile/live/0013_1.m3u8
+CCTV-13,https://stream1.freetv.fun/6195d39251bd0d9ca71c2d3026e5841dab9140f75ec660ac1f716029f6d1729b.ctv
