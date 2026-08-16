@@ -79,6 +79,5 @@
 东方财经,http://tony.f3322.net:4023/rtp/233.50.200.177:5140
 东方财经,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.78:1025
 东方财经,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F
-东方财经,http://115.29.208.41:23001/live/1941.m3u8
 东方财经,http://115.29.208.41:23002/live/1941.m3u8
 东方财经,http://8.138.7.223/api/ipv6.php?id=66&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
