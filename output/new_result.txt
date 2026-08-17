@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/08/17-17:35,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/08/18-05:22,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -942,8 +942,8 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-21.ctv
 安徽卫视,https://stream1.freetv.fun/aa9b31c1dbeffb511830532e0b8f1413b48dd2c61e59e843d19ba9fc3a073241.ctv
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-7.ctv
-安徽卫视,http://218.104.239.114:9901/tsfile/live/0130_1.m3u8
 安徽卫视,http://k.061899.xyz/m.php?id=ahws
+安徽卫视,http://218.104.239.114:9901/tsfile/live/0130_1.m3u8
 安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
 安徽卫视,http://8.138.7.223/tv/hot.php?id=30
 安徽卫视,http://t.061899.xyz/tl/dq.php?id=ahws
