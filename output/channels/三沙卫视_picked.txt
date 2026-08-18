@@ -12,3 +12,4 @@
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-48.ctv
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-38.ctv
 三沙卫视,http://8.138.7.223/tv/hot.php?id=55
+三沙卫视,https://stream1.freetv.fun/fd1abacd02d10bf9e60b98fdc292704eefa30cff9e4eb0816eec3156e687c991.ctv
