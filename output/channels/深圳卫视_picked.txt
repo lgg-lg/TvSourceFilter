@@ -27,9 +27,9 @@
 深圳卫视,https://stream1.freetv.fun/e194e3ce356d2158d336b3f91c210a2b945dc64bca802cd640e20c9075554c29.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-54.ctv
 深圳卫视,https://stream1.freetv.fun/812cad00d672662e36b8a4a3d967ab826c0d8f4a3fd02ee64389b0bdc116bd43.ctv
+深圳卫视,http://k.061899.xyz/m.php?id=szws
 深圳卫视,http://218.104.239.114:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://go.bkpcp.top/mg/szws
-深圳卫视,http://k.061899.xyz/m.php?id=szws
 深圳卫视,http://t.061899.xyz/tl/dq.php?id=szws
 深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
 深圳卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
