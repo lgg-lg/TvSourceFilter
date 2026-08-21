@@ -132,4 +132,6 @@
 都市剧场,http://esxi.juzhijian.com:8822/rtp/239.16.20.38:10380
 都市剧场,http://8.138.7.223/api/29cq.php?id=71&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 都市剧场,http://8.138.7.223/api/ipv6.php?id=63&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
+都市剧场,http://124.112.189.237:4022/rtp/238.1.78.74:6464
+都市剧场,http://1.192.246.152:8188/rtp/239.16.20.38:10380
 都市剧场,http://server.juzhijian.com:8822/rtp/239.16.20.38:10380

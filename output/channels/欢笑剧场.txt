@@ -101,3 +101,4 @@
 欢笑剧场,http://cloud.sunrisecom.cn:8888/rtp/239.45.3.196:5140
 欢笑剧场,http://8.138.7.223/api/29cq.php?id=57&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 欢笑剧场,http://8.138.7.223/api/ipv6.php?id=64&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
+欢笑剧场,http://1.192.246.152:8188/rtp/239.16.20.39:10390
