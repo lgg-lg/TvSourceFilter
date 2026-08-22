@@ -101,4 +101,5 @@
 法治天地,http://tony.f3322.net:4023/rtp/233.50.201.191:5140
 法治天地,http://8.138.7.223/api/29cq.php?id=97&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 法治天地,http://8.138.7.223/api/ipv6.php?id=56&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
+法治天地,http://113.223.25.72:9000/rtp/239.76.254.67:9000
 法治天地,http://8.138.7.223/api/05tiyu.php?id=fztd&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
