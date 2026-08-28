@@ -33,3 +33,4 @@
 河北卫视,http://k.061899.xyz/m.php?id=hbws
 河北卫视,http://8.138.7.223/tv/hot.php?id=21
 河北卫视,http://112.123.243.37:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,https://stream1.freetv.fun/50a5410e1d04d5d14187b7b663c633977b51e860cf4e7046b19159d791a1a0a1.ctv
