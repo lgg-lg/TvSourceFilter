@@ -46,3 +46,4 @@ CCTV-13,http://t.061899.xyz/tl/tl.php?id=cctv13
 CCTV-13,http://t.061899.xyz/tl/dq.php?id=cctv13
 CCTV-13,http://8.138.7.223/tv/hot.php?id=13
 CCTV-13,http://go.bkpcp.top/mg/CCTV-13
+CCTV-13,https://stream1.freetv.fun/195285b7d2b47320784c2a5362d7abdcb8f5c90640b5652b0d333fd5b6bb46b5.ctv
