@@ -163,12 +163,12 @@
 动漫秀场,http://nas.dous.cc:4023/rtp/233.50.200.12:5140
 动漫秀场,http://8.138.7.223/api/29cq.php?id=72&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 动漫秀场,http://8.138.7.223/api/ipv6.php?id=115&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
-动漫秀场,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/yybb-dmxc-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+动漫秀场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227071/index.m3u8
 动漫秀场,http://124.112.241.196:4022/rtp/238.1.78.154:7104
-动漫秀场,http://1.192.242.239:8188/rtp/239.16.20.40:10400
 动漫秀场,http://39.77.26.75:4002/rtp/239.253.254.115:8000
-动漫秀场,http://124.112.189.1:4022/rtp/238.1.78.154:7104
+动漫秀场,http://1.192.242.239:8188/rtp/239.16.20.40:10400
 动漫秀场,http://117.12.151.124:4022/rtp/225.1.1.134:5002
+动漫秀场,http://116.2.170.241:4010/rtp/232.0.0.128:1234
 动漫秀场,http://www.rogerxlj.top:9998/rtp/233.18.204.46:5140
 动漫秀场,http://yun.lei119911.xyz:5488/rtp/233.18.204.46:5140
-动漫秀场,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227071/index.m3u8
+动漫秀场,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/yybb-dmxc-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
