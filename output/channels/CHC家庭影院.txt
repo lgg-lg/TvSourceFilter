@@ -227,6 +227,7 @@ CHC家庭影院,http://fn.gcl.de5.net:5908/gsh950428/644368373
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-23.ctv
 CHC家庭影院,http://t.061899.xyz/tl/dq.php?id=chcjtdy
 CHC家庭影院,http://t.061899.xyz/tl/tl.php?id=chcjtdy
+CHC家庭影院,http://106.59.3.228:55555/rtp/239.200.201.30:8140
 CHC家庭影院,http://106.59.2.152:55555/rtp/239.200.201.30:8140
 CHC家庭影院,http://223.247.25.219:1234/644368373
 CHC家庭影院,http://117.63.79.182:1234/644368373
@@ -239,14 +240,8 @@ CHC家庭影院,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/li
 CHC家庭影院,http://61.138.128.226:29901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8
 CHC家庭影院,http://111.48.34.138/PLTV/88888888/224/3221226676/1.m3u8
-CHC家庭影院,http://tv123.cc.cd/live.php?ch=2033&sid=29a9928b2af83277062ca0c2de03e7e0&exp=1788680204&sig=ab821c27cbc218bb4fe7a437de630992e8124ed904a4bff5526b1497967dd803
+CHC家庭影院,http://tv123.cc.cd/live.php?ch=1978&sid=32f7ef0d2ce943ed85bac10d49f90914&exp=1788766765&sig=f8a93b47f04a8f6956403966076ba2b6d8806ff027b11348f299655a13a238cb
 CHC家庭影院,http://118.251.18.140:8188/udp/239.76.252.241:9000
 CHC家庭影院,http://118.251.18.140:8188/udp/239.76.245.241:1234
-CHC家庭影院,http://58.46.29.48:8188/udp/239.76.252.241:9000
-CHC家庭影院,http://58.46.29.48:8188/udp/239.76.245.241:1234
-CHC家庭影院,http://106.59.3.228:55555/rtp/239.200.201.30:8140
 CHC家庭影院,http://112.192.73.29:8484/rtp/239.0.0.23:5140
 CHC家庭影院,http://112.192.73.80:8484/rtp/239.0.0.23:5140
-CHC家庭影院,http://60.168.105.200:5008/644368373
-CHC家庭影院,http://117.63.79.167:1234/644368373
-CHC家庭影院,http://27.12.12.92:1234/644368373

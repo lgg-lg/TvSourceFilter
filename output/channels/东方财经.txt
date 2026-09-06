@@ -81,5 +81,5 @@
 东方财经,http://tony.f3322.net:4023/rtp/233.50.200.177:5140
 东方财经,http://8.138.7.223/api/ipv6.php?id=66&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 东方财经,http://itv.smaccs.site:38090/%E5%85%B6%E4%BB%96/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F
-东方财经,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227087/index.m3u8
 东方财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
+东方财经,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227087/index.m3u8
