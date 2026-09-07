@@ -351,11 +351,12 @@
 兵团卫视,http://8.138.7.223/tv/hot.php?id=59
 兵团卫视,http://k.061899.xyz/m.php?id=btws
 兵团卫视,https://stream1.freetv.fun/ff1244bd47177dec5e03efc52dc1f063b378e95f21ad98855a1b511a9a452e03.ctv
-兵团卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/50/20250804/index.m3u8?msisdn=20260907020303047fe6ab947349b0892d8b10cbcaff69&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139×tamp=20260907020303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=171.8.79.254&SecurityKey=20260907020303&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d1f0330dc0f78c1d1dc465cca4181c70
+兵团卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/50/20250804/index.m3u8?msisdn=20260906220303b8ed1312ba2345ad964202c74ae4c7a2&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139×tamp=20260906220303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=171.8.79.254&SecurityKey=20260906220303&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c94194ab2ca15104648f462941bad3fd
+兵团卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/50/20250804/index.m3u8?msisdn=202609080603012452934ff2484e2ca4ef870d7f7a1f47&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139×tamp=20260908060301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=171.8.79.254&SecurityKey=20260908060301&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=74f9ae9d6574046d56caabbd87276b28
 兵团卫视,http://60.4.28.19:8077/rtp/239.253.93.176:6344
-兵团卫视,http://123.118.63.65:8686/rtp/239.3.1.144:4120
-兵团卫视,http://116.2.170.241:4010/rtp/232.0.0.67:1234
-兵团卫视,http://115.171.216.14:4000/rtp/225.1.8.167:4120
+兵团卫视,http://114.254.38.234:8888/rtp/239.3.1.144:4120
+兵团卫视,http://111.196.130.52:20000/rtp/239.3.1.144:4120
+兵团卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/50/20250804/index.m3u8?msisdn=2026090706030192e0e2212a78494d8312968ea9045ce3&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139×tamp=20260907060301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=171.8.79.254&SecurityKey=20260907060301&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1303bbd9d1ed9c00dfcc7a2abfbeedcf
 兵团卫视,http://223.247.25.219:1234/956923145
 兵团卫视,http://116.52.173.236:1234/956923145
 兵团卫视,http://117.63.79.182:1234/956923145
@@ -366,11 +367,6 @@
 兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://m.061899.xyz/mg/btws
 兵团卫视,http://k.061899.xyz/k.php?id=btws
-兵团卫视,http://60.168.105.200:5008/956923145
-兵团卫视,http://117.63.79.167:1234/956923145
-兵团卫视,http://27.12.12.92:1234/956923145
-兵团卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/50/20250804/index.m3u8?msisdn=202609050603022a60a6c6160642839929d93a1239c35a&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139×tamp=20260905060302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=171.8.79.254&SecurityKey=20260905060302&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=272f95ae093124446cca902d32fec4da
-兵团卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/50/20250804/index.m3u8?msisdn=2026090604030266b504759fd9428dbe018a1dc78da31c&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139×tamp=20260906040302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=171.8.79.254&SecurityKey=20260906040302&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c7c597e272dc2559a5fcb6adc14dc769
 兵团卫视,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/btws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 兵团卫视,https://live.chinacert.cftest5.cn/zgst/live/bingtuan|User-Agent=VLC
 兵团卫视,http://itv.smaccs.site:38090/%E5%8D%AB%E8%A7%86/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
@@ -382,7 +378,7 @@
 兵团卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227168/index.m3u8
 兵团卫视,rtsp://183.59.156.166/PLTV/88888905/224/3221230282/817309843.smil?rrsip=125.88.104.40
 兵团卫视,http://120.87.4.13:80/PLTV/88888973/224/3221225696/10000100000000060000000000334045_0.smil/01.m3u8?fmt=ts2hls
-兵团卫视,http://tv123.cc.cd/live.php?ch=1927&sid=32f7ef0d2ce943ed85bac10d49f90914&exp=1788766765&sig=a3561cd88dbbacacb63819fe7223b516fafb4fff5dae4c00adc29774e618321e
+兵团卫视,http://tv123.cc.cd/live.php?ch=2011&sid=5f6aa3cd6a830082cff3ca0c84547107&exp=1788850428&sig=b312c2609f9480821c5a936b4fc24fe86107f703fd012cbbe3d6b5774d6fe62e
 兵团卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.168:8196
 兵团卫视,http://tiger81.i234.me:8888/rtp/239.111.205.60:5140
 兵团卫视,http://222.134.19.49:8090/956923145
