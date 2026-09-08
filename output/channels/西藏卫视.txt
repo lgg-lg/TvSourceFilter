@@ -428,10 +428,11 @@
 西藏卫视,http://8.138.7.223/api/29cq.php?id=56&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 西藏卫视,http://8.138.7.223/api/ipv6.php?id=46&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 西藏卫视,http://8.138.7.223/api/webview.php?id=50&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
-西藏卫视,http://pplee.vicp.net:4022/udp/233.18.204.222:5140
 西藏卫视,http://8.138.7.223/tv/hot.php?id=44
+西藏卫视,http://117.12.151.30:4022/rtp/225.1.1.51:5002
+西藏卫视,http://106.59.2.152:55555/rtp/239.200.200.61:8312
+西藏卫视,http://115.171.216.14:4000/rtp/225.1.8.160:8164
 西藏卫视,http://114.254.38.234:8888/rtp/239.3.1.47:8164
-西藏卫视,http://111.196.130.52:20000/rtp/239.3.1.47:8164
 西藏卫视,https://itv.1920.qzz.io/api/ysp.php?id=xzws
 西藏卫视,http://120.76.248.139/live/bfgd/4200000489.m3u8
 西藏卫视,http://112.99.195.122:65000/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -453,6 +454,7 @@
 西藏卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.166:8188
 西藏卫视,http://218.206.193.218:8888/hls/65/index.m3u8
 西藏卫视,http://k.061899.xyz/k.php?id=xzws
+西藏卫视,http://pplee.vicp.net:4022/udp/233.18.204.222:5140
 西藏卫视,http://nas.jqcykj.com:88/bst?id=216
 西藏卫视,http://nas.jqcykj.com:88/bst/2?id=216
 西藏卫视,http://8.138.7.223/api/00cctv.php?id=xzws&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
