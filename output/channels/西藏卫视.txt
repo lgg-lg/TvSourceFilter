@@ -429,10 +429,11 @@
 西藏卫视,http://8.138.7.223/api/ipv6.php?id=46&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 西藏卫视,http://8.138.7.223/api/webview.php?id=50&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 西藏卫视,http://8.138.7.223/tv/hot.php?id=44
-西藏卫视,http://117.12.151.30:4022/rtp/225.1.1.51:5002
+西藏卫视,http://219.156.94.32:4022/rtp/225.1.4.46:1075
 西藏卫视,http://106.59.2.152:55555/rtp/239.200.200.61:8312
-西藏卫视,http://115.171.216.14:4000/rtp/225.1.8.160:8164
 西藏卫视,http://114.254.38.234:8888/rtp/239.3.1.47:8164
+西藏卫视,http://221.220.131.57:8012/rtp/239.3.1.47:8164
+西藏卫视,http://106.59.3.228:55555/rtp/239.200.200.61:8312
 西藏卫视,https://itv.1920.qzz.io/api/ysp.php?id=xzws
 西藏卫视,http://120.76.248.139/live/bfgd/4200000489.m3u8
 西藏卫视,http://112.99.195.122:65000/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -441,7 +442,6 @@
 西藏卫视,http://61.178.227.57:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/xzwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 西藏卫视,https://live.chinacert.cftest5.cn/zgst/live/xizang|User-Agent=VLC
-西藏卫视,http://itv.smaccs.site:38090/%E5%8D%AB%E8%A7%86/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
 西藏卫视,http://work.ruibang.ltd:5140/%E8%A5%BF%E8%97%8F/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86HD
 西藏卫视,http://61.138.128.226:29901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://110.241.191.230:808/hls/42/index.m3u8
