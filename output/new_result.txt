@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/09/12-20:36,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/09/13-06:47,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1022,6 +1022,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-26.ctv
 广西卫视,http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 广西卫视,http://8.138.7.223/tv/hot.php?id=38
+广西卫视,https://stream1.freetv.fun/769f22146852e78af58e6a25a46ca80a48e35ccb700ac75e8ab42a72473ba60c.ctv
 贵州卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&t=1760585411&token=0655dcaaa41cfb56b94f990d998af551
 贵州卫视,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://k.061899.xyz/m.php?id=gzws&key=txiptv&playlive=1&authid=0

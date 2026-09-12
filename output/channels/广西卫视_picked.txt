@@ -26,3 +26,4 @@
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-26.ctv
 广西卫视,http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 广西卫视,http://8.138.7.223/tv/hot.php?id=38
+广西卫视,https://stream1.freetv.fun/769f22146852e78af58e6a25a46ca80a48e35ccb700ac75e8ab42a72473ba60c.ctv
