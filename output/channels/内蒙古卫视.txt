@@ -441,7 +441,6 @@
 内蒙古卫视,http://8.138.7.223/api/webview.php?id=46&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 内蒙古卫视,http://8.138.7.223/api/webview.php?id=57&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-内蒙古卫视,http://183.164.237.178:8888/rtp/238.1.78.103:6696
 内蒙古卫视,http://124.112.188.96:4022/rtp/238.1.78.103:6696
 内蒙古卫视,http://112.123.243.37:50085/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 内蒙古卫视,http://gfr.x3322.net:9901/tsfile/live/1051_1.m3u8
@@ -449,15 +448,15 @@
 内蒙古卫视,http://8.138.7.223/tv/hot.php?id=23
 内蒙古卫视,http://go.bkpcp.top/mg/nmws
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmws
-内蒙古卫视,http://219.156.94.32:4022/rtp/225.1.4.45:1074
-内蒙古卫视,http://116.2.167.148:4010/rtp/232.0.0.111:1234
 内蒙古卫视,http://114.254.38.234:8888/rtp/239.3.1.43:8176
-内蒙古卫视,http://115.171.216.14:4000/rtp/225.1.8.156:8176
 内蒙古卫视,http://221.220.131.57:8012/rtp/239.3.1.43:8176
+内蒙古卫视,http://183.164.237.178:8888/rtp/238.1.78.103:6696
 内蒙古卫视,https://itv.1920.qzz.io/api/ysp.php?id=nmgws
 内蒙古卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.70:5146
 内蒙古卫视,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/nmgws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu|User-Agent=VLC
+内蒙古卫视,http://122.246.144.16:8188/rtp/233.50.201.148:5140
+内蒙古卫视,http://125.125.134.120:8888/rtp/233.50.201.148:5140
 内蒙古卫视,http://61.138.128.226:29901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://110.241.191.230:808/hls/39/index.m3u8
 内蒙古卫视,http://182.140.125.47:808/hls/51/index.m3u8
