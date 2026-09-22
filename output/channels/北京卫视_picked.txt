@@ -26,3 +26,4 @@
 北京卫视,http://8.138.7.223/tv/bj.php?id=0001
 北京卫视,http://8.138.7.223/tv/hot.php?id=19
 北京卫视,http://go.bkpcp.top/mg/bjws4k
+北京卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/北京卫视.php?id=301

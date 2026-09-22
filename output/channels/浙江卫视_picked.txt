@@ -43,3 +43,4 @@
 浙江卫视,http://k.061899.xyz/m.php?id=zjws
 浙江卫视,http://8.138.7.223/tv/hot.php?id=29
 浙江卫视,https://stream1.freetv.fun/7f280c90c0c7647b6816a25c4b4ec1732c7d84bd85d08cdd5f60489b14d7e33f.ctv
+浙江卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/浙江卫视.php?id=301

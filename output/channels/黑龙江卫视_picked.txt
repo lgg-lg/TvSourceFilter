@@ -23,3 +23,4 @@
 黑龙江卫视,https://stream1.freetv.fun/cfa2ed9d4f96d20f3dd2eb920e17de8ecd8482cfff2328d8cfdcaba050a03a4b.ctv
 黑龙江卫视,https://stream1.freetv.fun/a6c1e9c7ed878b4710fd0cd7a8a16f51e48e3eee1c5764bce984c56c0808035b.ctv
 黑龙江卫视,http://8.138.7.223/tv/hot.php?id=26
+黑龙江卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/黑龙江卫视.php?id=301

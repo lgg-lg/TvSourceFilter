@@ -26,3 +26,4 @@
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-10.ctv
 江西卫视,https://stream1.freetv.fun/2ed85dd9aeacf49efc6c00644457e810fb8fa62de4b164739e262d96dc5aa519.ctv
 江西卫视,http://8.138.7.223/tv/hot.php?id=32
+江西卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/江西卫视.php?id=301

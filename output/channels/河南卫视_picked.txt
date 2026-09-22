@@ -25,3 +25,4 @@
 河南卫视,http://112.123.243.37:50085/tsfile/live/0121_1.m3u8
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-29.ctv
 河南卫视,http://8.138.7.223/tv/hot.php?id=34
+河南卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/河南卫视.php?id=301

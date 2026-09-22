@@ -13,3 +13,4 @@
 三沙卫视,https://stream1.freetv.fun/fd1abacd02d10bf9e60b98fdc292704eefa30cff9e4eb0816eec3156e687c991.ctv
 三沙卫视,http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8
 三沙卫视,http://8.138.7.223/tv/hot.php?id=55
+三沙卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/三沙卫视.php?id=301
