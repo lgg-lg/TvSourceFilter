@@ -449,12 +449,13 @@
 内蒙古卫视,http://8.138.7.223/tv/hot.php?id=23
 内蒙古卫视,http://go.bkpcp.top/mg/nmws
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmws
-内蒙古卫视,http://219.156.32.34:4022/rtp/225.1.4.45:1074
+内蒙古卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/内蒙古卫视.php?id=301
 内蒙古卫视,http://115.171.216.23:4000/rtp/225.1.8.156:8176
-内蒙古卫视,http://116.2.169.166:4010/rtp/232.0.0.111:1234
 内蒙古卫视,http://114.254.38.234:8888/rtp/239.3.1.43:8176
+内蒙古卫视,http://221.220.135.44:8012/rtp/239.3.1.43:8176
 内蒙古卫视,https://itv.1920.qzz.io/api/ysp.php?id=nmgws
 内蒙古卫视,rtp://239.3.1.204:8224
+内蒙古卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=playid=03295de404257fa9653b89bf2d0e47actoken=f4kPsax7emDRqLZEFmeH8DhxSZKJvxEDtype=mobile2026Acc3iL
 内蒙古卫视,http://1.24.39.180:808/hls/27/index.m3u8
 内蒙古卫视,http://43.138.100.110:1258/edge-cache02.live3.omd.sc96655.com/live/nmgws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu|User-Agent=VLC
@@ -470,7 +471,5 @@
 内蒙古卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227244/index.m3u8
 内蒙古卫视,rtsp://183.59.156.166/PLTV/88888905/224/3221227133/10000100000000060000000000937736_0.smil?rrsip=125.88.104.40
 内蒙古卫视,http://183.237.95.108:9901/tsfile/live/1039_1.m3u8
-内蒙古卫视,http://45.192.97.170:8880/play/125.m3u8
+内蒙古卫视,http://45.192.97.170:8880/play/143.m3u8
 内蒙古卫视,http://218.206.193.218:8888/hls/42/index.m3u8
-内蒙古卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=playid=03295de404257fa9653b89bf2d0e47actoken=f4kPsax7emDRqLZEFmeH8DhxSZKJvxEDtype=mobile2026Acc3iL
-内蒙古卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/内蒙古卫视.php?id=301
