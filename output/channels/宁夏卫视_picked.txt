@@ -22,3 +22,4 @@
 宁夏卫视,http://8.138.7.223/tv/hot.php?id=48
 宁夏卫视,https://stream1.freetv.fun/e25dbed0c6005c456fc3e743f39d88d0beb94c6a3258cf83069da0477295047a.ctv
 宁夏卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/宁夏卫视.php?id=301
+宁夏卫视,https://stream1.freetv.fun/244b0a1be65b3496338cc817aa38ffe13b07a8906c2d6dae57414268c274320c.ctv

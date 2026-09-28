@@ -450,7 +450,6 @@
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmws
 内蒙古卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/内蒙古卫视.php?id=301
 内蒙古卫视,http://219.156.95.67:4022/rtp/225.1.4.45:1074
-内蒙古卫视,http://124.112.241.231:4022/rtp/238.1.78.103:6696
 内蒙古卫视,http://115.171.216.23:4000/rtp/225.1.8.156:8176
 内蒙古卫视,https://itv.1920.qzz.io/api/ysp.php?id=nmgws
 内蒙古卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=playid=03295de404257fa9653b89bf2d0e47actoken=f4kPsax7emDRqLZEFmeH8DhxSZKJvxEDtype=mobile2026Acc3iL
@@ -460,8 +459,6 @@
 内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu|User-Agent=VLC
 内蒙古卫视,http://124.129.78.63:9901/tsfile/live/0002_43.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://125.125.134.120:8888/rtp/233.50.201.148:5140
-内蒙古卫视,http://61.138.128.226:29901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://110.241.191.230:808/hls/39/index.m3u8
 内蒙古卫视,http://j.s.bkpcp.top/jj/nmgws
 内蒙古卫视,http://fuxin.yunjifei.top:999/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182272/main.m3u8
@@ -471,12 +468,4 @@
 内蒙古卫视,rtsp://183.59.156.166/PLTV/88888905/224/3221227133/10000100000000060000000000937736_0.smil?rrsip=125.88.104.40
 内蒙古卫视,http://182.140.125.47:808/hls/51/index.m3u8
 内蒙古卫视,http://45.192.97.170:8880/play/153.m3u8
-内蒙古卫视,http://45.192.97.170:8880/play/233.m3u8
-内蒙古卫视,http://45.192.97.170:8880/play/345.m3u8
-内蒙古卫视,http://45.192.97.170:8880/play/531.m3u8
-内蒙古卫视,http://45.192.97.170:8880/play/566.m3u8
-内蒙古卫视,http://45.192.97.170:8880/play/803.m3u8
-内蒙古卫视,http://45.192.97.170:8880/play/3751.m3u8
-内蒙古卫视,http://45.192.97.170:8880/play/4713.m3u8
-内蒙古卫视,http://45.192.97.170:8880/play/4851.m3u8
 内蒙古卫视,http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=8b785dcbb44476f1990253a53541c9
