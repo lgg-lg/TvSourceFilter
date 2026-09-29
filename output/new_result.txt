@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/09/29-01:15,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/09/29-08:48,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -1132,6 +1132,7 @@ CETV-4,http://8.138.7.223/tv/cetv4
 河北卫视,https://stream1.freetv.fun/50a5410e1d04d5d14187b7b663c633977b51e860cf4e7046b19159d791a1a0a1.ctv
 河北卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/河北卫视.php?id=301
 河北卫视,https://stream1.freetv.fun/e8ce72af0be8d31919c9bbcf99a5aa8ce037ffbefb5d47a2811e2011204b2b28.ctv
+河北卫视,https://stream1.freetv.fun/72a6d2b63d9c0dd03c83c4ede890ba0a0977dffc36c51584c8cd5a24c95e861c.ctv
 河南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=8689d35c534f76f661a723ce793da719
 河南卫视,http://gfr.x3322.net:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://k.061899.xyz/m.php?id=hnws&key=txiptv&playlive=1&authid=0
@@ -1657,6 +1658,7 @@ CETV-4,http://8.138.7.223/tv/cetv4
 兵团卫视,http://8.138.7.223/tv/hot.php?id=59
 兵团卫视,http://k.061899.xyz/m.php?id=btws
 兵团卫视,https://stream1.freetv.fun/ff1244bd47177dec5e03efc52dc1f063b378e95f21ad98855a1b511a9a452e03.ctv
+兵团卫视,https://stream1.freetv.fun/7690729e43cd485b88bcedccb7455292214b740fb52ed0895fe85a03066b9631.ctv
 海南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=fc9c26bbc37e5af7793a65134e169477
 海南卫视,http://gfr.x3322.net:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://221.2.148.205:8154/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
