@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026/10/06-01:40,http://8.138.7.223/tv/shtv.php?id=xwzh
+2026/10/06-09:42,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -205,6 +205,7 @@ CCTV-5,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0
 CCTV-5,https://stream1.freetv.fun/cctv5-91.ctv
 CCTV-5,http://8.138.7.223/tv/hot.php?id=5
 CCTV-5,https://stream1.freetv.fun/860e0a5f39c5b6f419d019b18627cd322fc5fc5bdcc86e4564abb9cee8190b48.ctv
+CCTV-5,https://stream1.freetv.fun/3f6e79cd5be5e0d908f9ff62967e7b7dd8d2466d75ae3691404613eb3000bb85.ctv
 CCTV-5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1760585411&token=4555e6dbb64f42fbc0175bc8069bd14d
 CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://k.061899.xyz/m.php?id=cctv5p&key=txiptv&playlive=1&authid=0
@@ -804,6 +805,7 @@ CETV-4,http://8.138.7.223/tv/cetv4
 北京卫视,http://8.138.7.223/tv/hot.php?id=19
 北京卫视,http://go.bkpcp.top/mg/bjws4k
 北京卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/北京卫视.php?id=301
+北京卫视,https://stream1.freetv.fun/217f4f75f9a74bf1809629bcbb3fa197c1ba1b4ba529514de80cde5171e972a0.ctv
 湖北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1760585411&token=76eddfe13eada736839871329aad9dac
 湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1184,6 +1186,7 @@ CETV-4,http://8.138.7.223/tv/cetv4
 吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
 吉林卫视,http://t.061899.xyz/tl/dq.php?id=jlws
 吉林卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/吉林卫视.php?id=301
+吉林卫视,https://stream1.freetv.fun/20ec706dec67b36d8bd933921ddc77d953bdbb5db85ceb51b4235469b7fa23b2.ctv
 江苏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1760585411&token=412e52dfa0d4a0ededcc0bfe869e3e17
 江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1872,6 +1875,7 @@ CCTV-5,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0
 CCTV-5,https://stream1.freetv.fun/cctv5-91.ctv
 CCTV-5,http://8.138.7.223/tv/hot.php?id=5
 CCTV-5,https://stream1.freetv.fun/860e0a5f39c5b6f419d019b18627cd322fc5fc5bdcc86e4564abb9cee8190b48.ctv
+CCTV-5,https://stream1.freetv.fun/3f6e79cd5be5e0d908f9ff62967e7b7dd8d2466d75ae3691404613eb3000bb85.ctv
 CCTV-5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1760585411&token=4555e6dbb64f42fbc0175bc8069bd14d
 CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://k.061899.xyz/m.php?id=cctv5p&key=txiptv&playlive=1&authid=0

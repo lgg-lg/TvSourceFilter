@@ -41,3 +41,4 @@ CCTV-5,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0
 CCTV-5,https://stream1.freetv.fun/cctv5-91.ctv
 CCTV-5,http://8.138.7.223/tv/hot.php?id=5
 CCTV-5,https://stream1.freetv.fun/860e0a5f39c5b6f419d019b18627cd322fc5fc5bdcc86e4564abb9cee8190b48.ctv
+CCTV-5,https://stream1.freetv.fun/3f6e79cd5be5e0d908f9ff62967e7b7dd8d2466d75ae3691404613eb3000bb85.ctv
