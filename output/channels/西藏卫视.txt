@@ -434,9 +434,6 @@
 西藏卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/西藏卫视.php?id=301
 西藏卫视,http://124.112.241.143:4022/rtp/238.1.78.101:6680
 西藏卫视,http://106.59.2.196:55555/rtp/239.200.200.61:8312
-西藏卫视,http://115.171.216.23:4000/rtp/225.1.8.160:8164
-西藏卫视,http://114.254.38.234:8888/rtp/239.3.1.47:8164
-西藏卫视,http://221.220.131.145:8012/rtp/239.3.1.47:8164
 西藏卫视,http://111.196.130.121:20000/rtp/239.3.1.47:8164
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=c41c62a0386ae0ef05a0533824df4af4&time=6ab36c47
 西藏卫视,http://120.76.248.139/live/bfgd/4200000489.m3u8
@@ -451,6 +448,7 @@
 西藏卫视,http://125.125.134.120:8888/rtp/233.50.202.43:5140
 西藏卫视,http://47.100.209.208:8767/xizangws.m3u8
 西藏卫视,http://45.192.97.170:8767/xizangws.m3u8
+西藏卫视,http://100.95.248.64:8767/xizangws.m3u8
 西藏卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182274/main.m3u8
 西藏卫视,http://111.48.34.138/PLTV/88888888/224/3221226169/1.m3u8
 西藏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EmHuqUIe0F51C4h6xZanhig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND
@@ -459,9 +457,16 @@
 西藏卫视,http://120.87.4.13:80/PLTV/88888973/224/3221225693/10000100000000060000000000333969_0.smil/01.m3u8?fmt=ts2hls
 西藏卫视,http://45.192.97.170:8880/play/132.m3u8
 西藏卫视,http://45.192.97.170:8880/play/195.m3u8
-西藏卫视,http://45.192.97.170:8880/play/335.m3u8
+西藏卫视,http://45.192.97.170:8880/play/398.m3u8
+西藏卫视,http://45.192.97.170:8880/play/925.m3u8
+西藏卫视,http://45.192.97.170:8880/play/3911.m3u8
+西藏卫视,http://45.192.97.170:8880/play/4063.m3u8
+西藏卫视,http://45.192.97.170:8880/play/4835.m3u8
+西藏卫视,http://45.192.97.170:8880/play/4975.m3u8
+西藏卫视,https://tv123.cc.cd/live.php?ch=1704&sid=dc502b59769d78042dd94a379af9174c&exp=1791366949&sig=1cc5b2b3db4019d35aac4b17f15b546c4e6094b15be66552f170da34c7652a60
 西藏卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.166:8188
 西藏卫视,http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=a9316b2aec869ede0ebed0775f04fd
 西藏卫视,http://k.061899.xyz/k.php?id=xzws
+西藏卫视,https://live.chinacert.cftest5.cn/zgst/live/xizang
 西藏卫视,http://192.151.150.154/live/xzws.m3u8
 西藏卫视,http://8.138.7.223/api/00cctv.php?id=xzws&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2

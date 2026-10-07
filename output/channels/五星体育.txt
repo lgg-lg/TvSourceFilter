@@ -124,8 +124,9 @@
 五星体育,http://nas.jqcykj.com:88/shanghai/?id=wxty
 五星体育,http://8.138.7.223/api/ipv6.php?id=67&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 五星体育,http://139.196.214.238/rtp/239.45.3.210:5140
-五星体育,https://tv123.cc.cd/live.php?ch=272&sid=6176452213c3ac31c7313db6a8694fbb&exp=1791236407&sig=9c900fcb3d75ebd5cbdad39a0121bc675dea3a47a8d0942464bdfc1a042ddbe1
-五星体育,https://tv123.cc.cd/live.php?ch=1917&sid=6176452213c3ac31c7313db6a8694fbb&exp=1791236407&sig=a0bfaa8109f64ce059e34771ff52cba1a1aa79cd3c9c4b47136abc4e03e4aab6
+五星体育,http://45.192.97.170:8880/play/1124.m3u8
+五星体育,https://tv123.cc.cd/live.php?ch=272&sid=dc502b59769d78042dd94a379af9174c&exp=1791366949&sig=bf591f26ff328ed881dda89750ff309a0e12248b4535d097a71e062f8245738f
+五星体育,https://tv123.cc.cd/live.php?ch=1949&sid=dc502b59769d78042dd94a379af9174c&exp=1791366949&sig=ed1e03102323ce4ceda5e7f16d4788217741abe443d68785c873638b5ca83baf
 五星体育,http://198.204.228.26/live/wxtyhd.m3u8
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 五星体育,http://8.138.7.223/api/05tiyu.php?id=wxty&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
