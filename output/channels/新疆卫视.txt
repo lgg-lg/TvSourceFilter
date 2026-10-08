@@ -489,8 +489,8 @@
 新疆卫视,http://go.bkpcp.top/mg/xjws
 新疆卫视,http://t.061899.xyz/tl/dq.php?id=xjws
 新疆卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/新疆卫视.php?id=301
-新疆卫视,http://124.112.241.143:4022/rtp/238.1.78.110:6752
 新疆卫视,http://106.59.2.196:55555/rtp/239.200.200.62:8316
+新疆卫视,http://124.112.241.143:4022/rtp/238.1.78.110:6752
 新疆卫视,http://111.196.130.121:20000/rtp/239.3.1.48:8160
 新疆卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=playid=ad291a233f1fd3f24332e41461798a25token=f4kPsax7emDRqLZEFmeH8DhxSZKJvxEDtype=mobile2026Acc3iL
 新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1738062804-6-6-6a443bd0c61ce2627a633079690e8ec0
@@ -500,7 +500,7 @@
 新疆卫视,http://125.125.134.120:8888/rtp/233.50.202.46:5140
 新疆卫视,http://47.100.209.208:8767/xjws.m3u8
 新疆卫视,http://45.192.97.170:8767/xjws.m3u8
-新疆卫视,http://100.95.248.64:8767/xjws.m3u8
+新疆卫视,https://xymm.de5.net/xjws.m3u8
 新疆卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182275/main.m3u8
 新疆卫视,http://111.48.34.138/PLTV/88888888/224/3221226168/1.m3u8
 新疆卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETtoZKRqwsL9SQjr1A0iH5g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMREPnBLSH3b8pR7cnmo9am%2CEND
@@ -510,13 +510,8 @@
 新疆卫视,http://111.29.9.33:6610/000000001000/1000000002000029441/index.m3u8?channel-id=bestzb&Contentid=1000000002000029441&livemode=1&stbId=3
 新疆卫视,http://45.192.97.170:8880/play/133.m3u8
 新疆卫视,http://45.192.97.170:8880/play/196.m3u8
-新疆卫视,http://45.192.97.170:8880/play/394.m3u8
-新疆卫视,http://45.192.97.170:8880/play/430.m3u8
-新疆卫视,http://45.192.97.170:8880/play/923.m3u8
-新疆卫视,http://45.192.97.170:8880/play/3912.m3u8
-新疆卫视,http://45.192.97.170:8880/play/4064.m3u8
-新疆卫视,http://45.192.97.170:8880/play/4833.m3u8
-新疆卫视,http://45.192.97.170:8880/play/4977.m3u8
-新疆卫视,https://tv123.cc.cd/live.php?ch=1705&sid=dc502b59769d78042dd94a379af9174c&exp=1791366949&sig=0f452c13119bece35fab5c206caaa3021b6c8b3aa7a99ae4dd44b17e7bc6ea22
+新疆卫视,http://45.192.97.170:8880/play/450.m3u8
+新疆卫视,http://45.192.97.170:8880/play/486.m3u8
+新疆卫视,https://tv123.cc.cd/live.php?ch=1705&sid=403fd8d8f2c16f1bb2ce87b745c34669&exp=1791439264&sig=cfb637dcfe79487dd9ee9b7adef8ffa654ba0660facce9801e447fe5fcbfcf1e
 新疆卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.167:8192
 新疆卫视,http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=e26723c80fb928b4cdaba7a2778d1c
