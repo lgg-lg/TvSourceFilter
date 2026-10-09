@@ -36,4 +36,4 @@
 香港卫视,https://cdn.qd.je/163189/fhhk
 香港卫视,https://cdn6.cc.cd/163189/fhhk
 香港卫视,http://45.192.97.170:8101/u/fpRRmjO43Np-IKYyCvm8FJBl/relay/hkstv-live.m3u8
-香港卫视,http://45.192.97.170:8880/play/69.m3u8
+香港卫视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/hkstv-live.m3u8
